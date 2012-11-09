@@ -18,7 +18,7 @@ h1. Background
 Social platforms can reach an unprecedented international audience. In the Middle East and elsewhere during last few years several significant stories appeared on Twitter, Facebook and YouTube before they reach television outlet such as Al Jazeera, CNN or the BBC. The combination of a viral story online and television coverage can quickly make an issue a leading news story and force a response from the institutions involved. 
 
 h2. This is a video (click on it)
-!sample.jpg!:https://guardianproject.info/downloads/storymaker/template/sample.mp4
+!sample.jpg!:sample.mp4
 
 Top news organizations cull social media for coverage. They are looking for *compelling stories* that are *well-presented* and that they can *verify*. Citizen journalists who understand what large news organizations are looking for - and what their concerns are -- can build long-standing relationships and an unparalleled chance to get their story viewed by those who influence policy both nationally and internationally.
 

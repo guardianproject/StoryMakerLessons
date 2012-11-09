@@ -1,0 +1,101 @@
+
+h1. Problem Statement
+
+You are dependent almost exclusively on mobile devices, Internet contacts and social networks such as Twitter, Facebook and YouTube for communication of information. How do you best leverage your unique tools and skills to reach the broadest possible audience with information about important issues?
+
+How to make a PB&J:
+
+# Gather bread, peanut butter, and jelly
+# Slice the bread if necessary
+# Assemble the sandwich
+## Spread peanut butter on *one slice* of bread
+## Put jelly on another slice
+## Put the two slices together
+# *Enjoy*
+
+h1. Background
+
+Social platforms can reach an unprecedented international audience. In the Middle East and elsewhere during last few years several significant stories appeared on Twitter, Facebook and YouTube before they reach television outlet such as Al Jazeera, CNN or the BBC. The combination of a viral story online and television coverage can quickly make an issue a leading news story and force a response from the institutions involved. 
+
+h2. This is a video (click on it)
+!sample.jpg!:https://guardianproject.info/downloads/storymaker/template/sample.mp4
+
+Top news organizations cull social media for coverage. They are looking for *compelling stories* that are *well-presented* and that they can *verify*. Citizen journalists who understand what large news organizations are looking for - and what their concerns are -- can build long-standing relationships and an unparalleled chance to get their story viewed by those who influence policy both nationally and internationally.
+
+|{background:#ddd}. Cell with background|{background:#ddd}. Normal|
+|\2. Cell spanning 2 columns|
+|/2. Cell spanning 2 rows|one|
+|two|
+|>. Right-aligned cell|<. Left-aligned cell|
+
+h1. Solution
+
+For most large networks credibility and high standards for the presentation of information are key concerns in deciding to use material produced by citizen journalists. Below are some basic tips for addressing this. We will discuss these and many others in more detail in the following sections in this module and in the other modules:
+ 
+* Begin to build an online track record for yourself as a journalist through a profile on social networking sites. NOTE: Safety can be an issue. Remember: Pseudonymity is not the same thing as anonymity. _(+See the security module+ for more on this.)_ 
+* Be informed on the issues you cover. Become an expert. This will help you provide better content and stay ahead of the pack. 
+* Be as neutral as possible in the tone in your coverage no matter how dramatic the event or how passionately you feel about it. 
+* In discussions with editors be transparent about your coverage techniques and any potential conflicts of interest you may have.
+* Attribute information in your report to specific sources and provide contact information for sources when possible so reporting can be verified. (More on this in the reporting section of this module.)
+* Smart text in the form of captions, keywords, tags, titles and stories is essential even for video, photo and audio stories. Search engines and the editors who use them will not be able to find your story without good search terms associated with your story. Furthermore, once editors find your story, the text will help them to understand and verify your reporting. (more on this in the text section).  
+* No matter the tool, the presentation should be technically professional. For example, shaky and out-of-focus video with lots of zooms and pans is not technically professional. (More on this in the video module.)
+* Try to understand what sort of story you are doing and how it fits into broader coverage of the issue. Different kinds of stories are structured in unique ways. For example, a breaking story about a bombing will take a different form -- require a different style of presentation and even different information -- than a character profile about an injured rebel fighter and his feelings about an upcoming election. In addition, large news organizations often combine several stories of different types to create a “package.” Understand how your story will fit into this broader coverage. (More on this in the section on story types.)
+* Don’t present what you don’t know or can’t verify. A more limited but completely accurate story is more valuable than one that is far-reaching but based on conjecture.
+* It is important to link in as well as link out with social. Become part of groups, boards and other discussion related to your issues or regions of coverage.
+
+h1. Things to Remember
+
+It is important to have a seamless web of content through what ever social platforms you use. This will help you build a single, consistent presence that will advance your profile and build credibility. However, safety as it relates to your identity can be a huge issue when using social media (see the safety module). 
+
+42.7% of all statistics are made up on the spot.[1]
+
+fn1. "Dr. Katz":http://en.wikiquote.org/wiki/Steven_Wright
+
+h1. Quiz
+
+h2. Question 1
+
+h3. Which of the following are important for a citizen journalist to do (it can be more than one)?
+<form action="form_action" method="get">
+ <fieldset data-role="controlgroup">
+	   <input type="checkbox" name="checkbox-1" id="checkbox-1" class="custom" />
+	   <label for="checkbox-1">Build an online presence for yourself through social sites</label>
+	   <input type="checkbox" name="checkbox-2" id="checkbox-2" class="custom" />
+	   <label for="checkbox-2">No matter your tools, your work should always look technically professional</label>
+	   <input type="checkbox" name="checkbox-3" id="checkbox-3" class="custom" />
+	   <label for="checkbox-3">Your projects should be based on things that are interesting only to you and your presentation should be based on your own opinion and second-hand information</label>
+	   <input type="checkbox" name="checkbox-4" id="checkbox-4" class="custom" />
+	   <label for="checkbox-4">All of the above</label>
+	   </label>
+    </fieldset>
+ <input type="hidden" name="answer" value="1,2"/>
+<input type="submit" value="Answer" />
+</form>
+
+h2. Question 2
+
+h3. TRUE or FALSE: Two key elements that define the best citizen journalism are that it often takes the form of a dialogue with the audience, and the journalist is transparent about reporting methods, sources and influences
+<form action="form_action" method="get">
+<fieldset data-role="controlgroup">
+     	<input type="radio" name="response" id="radio-choice-1" value="choice-1"/>
+     	<label for="radio-choice-1">True</label>
+     	<input type="radio" name="response" id="radio-choice-2" value="choice-2"  />
+     	<label for="radio-choice-2">False</label>
+</fieldset>
+<input type="hidden" name="answer" value="true"/>
+<input type="submit" value="Answer" />
+</form>
+
+Correct Answer: True
+
+h2. Question 3
+
+h3. What are some of the biggest challenge for citizen journalists in their coverage?
+
+# Little or no research prior to an event
+# Access to key figures or locations in the story
+# An inability to reach an audience through large national and international outlets
+# All of the above
+
+Correct Answer: All of the above
+

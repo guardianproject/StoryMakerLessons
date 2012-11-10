@@ -20,7 +20,7 @@ $.ajax({
 
 	var pageData = convertTextile(data);
 	
-	var headers = $(pageData).filter('h1');
+	var headers = $(pageData).filter('h1,h2,h3,hr');
 	var headerCount = headers.length;
 	
 	headers.each(function(i) {
@@ -63,13 +63,16 @@ $.ajax({
 	       		if (nextNode[0] === undefined)
 	       			break;
 	       		else
-	       			notH1 = (nextNode[0].tagName == "H1");
+	       			notH1 = (nextNode[0].tagName == "H1"
+	       			 || nextNode[0].tagName == "H2" || nextNode[0].tagName == "H3"
+	       			 || nextNode[0].tagName == "HR");
 	       		
 	       }
 	       
 			$("body").append('<div id="page' + i + '" data-role="page" data-theme="c"><div id="page' + i + '" data-role="content">' + newPageData + '</div></div>');
 		
 		 	$('#page' + i + ' a').attr("rel", "external");
+		 	$('#page' + i + ' hr').remove();
 			$('#page' + i).trigger("create");
 			
 			//$("#mainMenuList").listview("refresh");

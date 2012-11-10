@@ -82,6 +82,8 @@ function convertTextile(t) {
 			html += "<p>"+prep(lines[i]);inpr=1;
 		}
 		else {html += prep(lines[i]);}
+		
+		html+="\n";
 	}
 	stp();
 	return html;

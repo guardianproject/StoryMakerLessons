@@ -28,9 +28,6 @@ $.ajax({
 	    var current = $(this);
 	    current.attr("id", "title" + i);
 	 
-	    //$("#mainMenuList").append("<li><a id='link" + i + "' href='#page" +
-	      //  i + "' title='" + current.attr("tagName") + "'>" + 
-	      //  current.html() + "</a></li>");
 	       
 	       var newPageData = '';
 	     
@@ -55,7 +52,11 @@ $.ajax({
 	       while (!notH1)
 	       {
 	       		newPageData += "<" + nextNode[0].tagName + ">";
-	       		newPageData += nextNode.html();
+	       		
+	       		var nextNodeHtml = parseQuizText(nextNode.html());
+	       		
+	       		newPageData += nextNodeHtml.join('');
+	       		
 	       		newPageData += "</" + nextNode[0].tagName + ">";
 	       		
 	       		nextNode = nextNode.next();
@@ -72,13 +73,15 @@ $.ajax({
 			$("body").append('<div id="page' + i + '" data-role="page" data-theme="c"><div id="page' + i + '" data-role="content">' + newPageData + '</div></div>');
 		
 		 	$('#page' + i + ' a').attr("rel", "external");
+		 	
 		 	$('#page' + i + ' hr').remove();
 			$('#page' + i).trigger("create");
 			
-			//$("#mainMenuList").listview("refresh");
-		
 		});
 		
+		//make the lists look prettier
+		$('ul').attr("data-role", "listview").attr("data-inset","true").attr("data-theme","d");
+				 	
 		
 		 $.mobile.changePage("#page0", "slide", false, true);
 		   //get an Array of all of the pages and count
@@ -153,3 +156,77 @@ $(document).ready(function() {
     {
     	  $.mobile.changePage("#page"+pageIdx, "slide", false, true);
     }
+    
+
+function parseQuizText(text) {
+
+	var parts = text.split(/\n/);
+	var question = /^Question\:.+$/;
+	var answer = /^Answer\s.+\:.+$/;
+	var correct = /^Correct Answer\:.+$/;
+	
+	var matches = [], i, len = parts.length;
+	
+	
+	var qIdx = 0;
+	
+	for(i = 0; i < len; i += 1) {
+	
+		var part = parts[i];
+		
+		if(question.test(part)) {
+		
+			var questionText = part.split(":")[1].trim();
+			matches.push("<b>" + questionText + "</b>");
+			
+			matches.push('<form>');
+			matches.push('<fieldset data-role="controlgroup">');
+		
+		}
+		else if(answer.test(part)) {
+		
+			var answerText = part.split(":")[1].trim();
+			
+			if (answerText === "True" || answerText == "False")
+			{
+     			matches.push('<input type="radio" name="response" value="' + answerText + '" id="radio-' + qIdx + '"/>');
+	   			matches.push('<label for="radio-' + qIdx + '">' + answerText + '</label>');
+		
+			}
+			else
+			{
+	   			matches.push('<input type="checkbox" name="answer-' + qIdx + '" id="checkbox-' + qIdx + '" class="custom" />');
+	   			matches.push('<label for="checkbox-' + qIdx + '">' + answerText + '</label>');
+			}
+	
+			qIdx++;
+		
+		}
+		else if(correct.test(part)) {
+		
+			matches.push('</fieldset>');
+			
+			var correctText = part.split(":")[1].trim();
+			
+			matches.push('<input type="hidden" name="correct" value="' + correctText + '" />');
+			
+			matches.push('<input type="submit" value="Answer" />');
+			matches.push('</form>');
+	
+		
+		}
+		else
+		{
+			matches.push(part);
+		}
+	
+	
+	
+	}
+	
+	
+	return matches;
+
+
+
+}

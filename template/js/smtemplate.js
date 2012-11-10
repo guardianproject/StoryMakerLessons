@@ -36,14 +36,14 @@ $.ajax({
 	     
 	       var notH1 = false;
 	       
-	       newPageData += '<div style="height:63px;">';
+	       newPageData += '<div style="height:31px;">';
 	       
 	       for (n = 0; n < headerCount; n++)
 	       {
 	       		if (i == n)
-	       			newPageData += '<img src="img/circle-on.png" style="width:43px;height:63px;" onClick="page(' + n + ')"/>';
+	       			newPageData += '<img src="img/circle-on.png" style="width:21px;height:31px;" onClick="page(' + n + ')"/>';
 	       		else
-	       			newPageData += '<img src="img/circle-off.png" style="width:43px;height:63px;" onClick="page(' + n + ')"/>';
+	       			newPageData += '<img src="img/circle-off.png" style="width:21px;height:31px;" onClick="page(' + n + ')"/>';
 	       		
 	       }
 	       

@@ -3,6 +3,88 @@ function displayTextile(textileSrc,elementId) {
 		document.getElementById(elementId).innerHTML=html;
 	}
 
+
+$(document).bind('pagechange', function() {
+  $('.ui-page-active .ui-listview').listview('refresh');
+  $('.ui-page-active :jqmData(role=content)').trigger('create');
+});
+
+$(document).ready(function() {
+
+
+$.ajax({
+  url: 'sample.txt',
+  beforeSend: function ( xhr ) {
+  }
+}).done(function ( data ) {
+
+	var pageData = convertTextile(data);
+	
+	var headers = $(pageData).filter('h1');
+	var headerCount = headers.length;
+	
+	headers.each(function(i) {
+	
+	    var current = $(this);
+	    current.attr("id", "title" + i);
+	 
+	    //$("#mainMenuList").append("<li><a id='link" + i + "' href='#page" +
+	      //  i + "' title='" + current.attr("tagName") + "'>" + 
+	      //  current.html() + "</a></li>");
+	       
+	       var newPageData = '';
+	     
+	       var nextNode = $(this);
+	     
+	       var notH1 = false;
+	       
+	       newPageData += '<div style="height:63px;">';
+	       
+	       for (n = 0; n < headerCount; n++)
+	       {
+	       		if (i == n)
+	       			newPageData += '<img src="img/circle-on.png" style="width:43px;height:63px;" onClick="page(' + n + ')"/>';
+	       		else
+	       			newPageData += '<img src="img/circle-off.png" style="width:43px;height:63px;" onClick="page(' + n + ')"/>';
+	       		
+	       }
+	       
+	       newPageData += '</div>';
+	       
+	       		
+	       while (!notH1)
+	       {
+	       		newPageData += "<" + nextNode[0].tagName + ">";
+	       		newPageData += nextNode.html();
+	       		newPageData += "</" + nextNode[0].tagName + ">";
+	       		
+	       		nextNode = nextNode.next();
+	       		
+	       		if (nextNode[0] === undefined)
+	       			break;
+	       		else
+	       			notH1 = (nextNode[0].tagName == "H1");
+	       		
+	       }
+	       
+			$("body").append('<div id="page' + i + '" data-role="page" data-theme="c"><div id="page' + i + '" data-role="content">' + newPageData + '</div></div>');
+		
+		 	$('#page' + i + ' a').attr("rel", "external");
+			$('#page' + i).trigger("create");
+			
+			//$("#mainMenuList").listview("refresh");
+		
+		});
+		
+		
+		 $.mobile.changePage("#page0", "slide", false, true);
+		   //get an Array of all of the pages and count
+    	windowMax = $('div[data-role="page"]').length; 
+		 
+	});
+
+	
+});
 	
 $(document).ready(function() {
 
@@ -62,4 +144,9 @@ $(document).ready(function() {
             window.now--;
             $.mobile.changePage("#page"+window.now, "slide", true, true);
         }
+    }
+    
+    function page (pageIdx)
+    {
+    	  $.mobile.changePage("#page"+pageIdx, "slide", false, true);
     }

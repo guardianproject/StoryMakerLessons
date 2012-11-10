@@ -12,6 +12,7 @@ $(document).bind('pagechange', function() {
 $(document).ready(function() {
 
 
+
 $.ajax({
   url: 'sample.txt',
   beforeSend: function ( xhr ) {
@@ -86,6 +87,35 @@ $.ajax({
 		 $.mobile.changePage("#page0", "slide", false, true);
 		   //get an Array of all of the pages and count
     	windowMax = $('div[data-role="page"]').length; 
+    	
+    	
+		$('form').submit(function() {
+ 		 	
+ 		 	var solution = '';
+ 		 	
+ 		 	$(this).find(':checked').each (function(){
+ 		 	
+ 		 		solution = $(this).attr('value');
+ 		 	});
+ 		 	
+ 		 	var answer = $(this).children('.correct').attr('value');
+
+ 		 	var msg = '';
+ 		 	
+ 		 	if (answer === solution)
+ 		 	{
+ 		 		msg = 'Correct!';
+ 		 		turnPage();	
+ 		 	}
+ 		 	else
+ 		 	 	msg = 'Wroooong!';
+ 		 	 	
+ 		 	alert(msg);
+ 		 	
+  			return false;
+  		
+		});
+    	
 		 
 	});
 
@@ -154,6 +184,7 @@ $(document).ready(function() {
     
     function page (pageIdx)
     {
+    window.now = pageIdx;
     	  $.mobile.changePage("#page"+pageIdx, "slide", false, true);
     }
     
@@ -168,7 +199,7 @@ function parseQuizText(text) {
 	var matches = [], i, len = parts.length;
 	
 	
-	var qIdx = 0;
+	var qIdx = 1;
 	
 	for(i = 0; i < len; i += 1) {
 	
@@ -185,7 +216,9 @@ function parseQuizText(text) {
 		}
 		else if(answer.test(part)) {
 		
-			var answerText = part.split(":")[1].trim();
+			var answerParts = part.split(":");
+			var answerVal = answerParts[0].split(" ")[1];
+			var answerText = answerParts[1].trim();
 			
 			if (answerText === "True" || answerText == "False")
 			{
@@ -195,7 +228,8 @@ function parseQuizText(text) {
 			}
 			else
 			{
-	   			matches.push('<input type="checkbox" name="answer-' + qIdx + '" id="checkbox-' + qIdx + '" class="custom" />');
+				
+	   			matches.push('<input type="checkbox" name="answer-' + qIdx + '" value="' + qIdx + '" id="checkbox-' + qIdx + '" class="custom" />');
 	   			matches.push('<label for="checkbox-' + qIdx + '">' + answerText + '</label>');
 			}
 	
@@ -208,11 +242,12 @@ function parseQuizText(text) {
 			
 			var correctText = part.split(":")[1].trim();
 			
-			matches.push('<input type="hidden" name="correct" value="' + correctText + '" />');
+			matches.push('<input class="correct" type="hidden" name="correct" value="' + correctText + '" />');
 			
 			matches.push('<input type="submit" value="Answer" />');
 			matches.push('</form>');
 	
+
 		
 		}
 		else

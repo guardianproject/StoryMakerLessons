@@ -79,48 +79,6 @@ h2. Things to Remember:
 * The rule of thirds is there to help you arrange the elements in your frame so that they're successful. Use the four point system from it to ensure your goals are clear.
 * Often times, when you're first recording shots with single goals they will feel "obvious" or "simple". When you watch them with the rest of your shots though, you'll see how each shot having a specific purpose builds to tell a complete story.
 
-h2. Multimedia Details
-
-Multimedia 1
-
-Type: 5 video clips
-Location in the text: (VIDEO CLIPS A)
-Script (if necessary): T B D
-Detailed Description: 10 second example clips of wide shot
-
-Multimedia 2
-
-Type: 5 video clips
-Location in the text: (VIDEO CLIPS B)
-Script (if necessary): T B D
-Detailed Description: 10 second example clips of long shot
-
-Multimedia 3
-
-Type: 5 video clips
-Location in the text: (VIDEO CLIPS C)
-Script (if necessary): T B D
-Detailed Description: 10 second example clips of medium shot
-
-Multimedia 4
-
-Type: 5 video clips
-Location in the text: (VIDEO CLIPS D)
-Script (if necessary): T B D
-Detailed Description: 10 second example clips of close up shot
-
-Multimedia 5
-
-Type: 5 video clips
-Location in the text: (VIDEO CLIPS E)
-Script (if necessary): T B D
-Detailed Description: 10 second example clips of detail shot
-
-h2. Quiz
-
-Put some text here about the quiz.
-You need to get 3 answers correct!
-
 h3. Question 1
 
 Question: How do I help ensure my shots are successful?

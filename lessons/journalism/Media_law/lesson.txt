@@ -1,0 +1,91 @@
+h1. Media law
+
+
+h1. Problem Statement
+
+The Arab region is today experiencing a profound change in its media. You are at the core of a transition that has resulted in more democratic governments and greater media freedom in several countries and various stages of transition in others. Yet media law in the region remains weak at best and at worst has been used as a tool to silence journalists. How should you navigate the ongoing change in media law?
+
+h1. Background
+
+PLEASE SHORTEN THIS
+
+-In most developed, democratic countries laws that recognize the importance of a free and vigorous media are written into the nation's constitution. Still, journalists in these countries do not operate without restrictions. Journalists must be careful about publishing -- -untrue information that damages the reputation of the person it’s about. You need to be careful about issues of national security, information deemed to be obscene and language that might incite violence or put people in danger.- 
+
+-Criticism of government and advocacy for unpopular ideas are almost always permitted. Laws that mandate public access to many government documents, laws that protect journalists from persecution, are positive developments for journalists in these countries. The exact meaning and application of these laws, are constantly challenged in court. A vigorous, public discussion about what media freedom means is a big part of media freedom.-
+	 		 		 	 	 		
+-More liberal draft press codes and media laws are now under review in several countries such as Tunisia, Libya, Algeria, Qatar and Saudi Arabia.  But, the Committee to Protect Journalists (CPJ), an international organization that aims to guarantee the safety and freedom the media, reported recently that the ambiguity in the language of many of these drafts may result in the continued exposure of journalists and bloggers to unnecessary restrictions.-
+
+Journalists everywhere work under -at least some small degree of- legal restrictions over what they produce. Most commonly these are issues of national security, information deemed to be obscene and language that might incite violence or put people in danger.
+ 
+In countries with well-developed media laws criticism of government and presentation of unpopular ideas is permitted. Some degree of public access to government records is also guaranteed.
+ 
+Several countries in the Middle East are now drafting new media laws as they overhaul their constitutions. Advocacy organizations such as the Committee to Protect Journalists are concerned vague language in emerging laws may be used against journalists.
+
+h1. Solution
+
+What should you do to protect themselves from overly restrictive application of media laws?
+
+*Know the law* - Understand the law in the country or region you work. Just because laws to protect journalists exist doesn’t mean that government, local leadership and security forces will obey the law, but understanding the law can be a first step toward improving it.
+
+*Adhere to professional codes of conduct* - +In section Eight+ there is a professional code of conduct for journalists. Even in countries where media laws are very restrictive, observing the principles outlined may help you avoid accusations of libel or treason.
+
+*Advocate for change* - One of the key characteristics of the shift in media throughout the Arab region is the blending of media with media advocacy. Citizen journalists are breaking through barriers in how journalism is defined at the same time they are covering stories. Pool resources with others to create a knowledge base. Seek support from legal organizations within your country. Seek support and information from international organizations like the Committee to Project Journalists
+
+*Protect yourself (and your sources) * - This issue will be addressed more fully in the +digital security module+. In short, understanding the law, how authorities may ignore or abuse the law or identify you online and being proactive is essential to any journalist working under unsafe conditions. If you are arrested, prosecuted or harassed, contact national and international organizations that provide support for journalists (see resources).
+
+
+h1.Things to Remember
+
+Inevitably the development of media law in the Arab region and in individual countries will reflect their unique cultures and national interests. Nonetheless, you have to be willing to push boundaries. Even in many countries with fairly liberal laws self-censorship is an issue among journalists. Some journalists are uncomfortable covering highly controversial cultural issues such as the rights of women or tribal disputes. Some journalists are reluctant to cover issues that tarnish national image such as widespread alcohol abuse or corruption within popular institutions. Sunshine is the best disinfectant. If these issues have relevance to the public interest, people need to know and it’s your job to tell them.
+
+h1. Multimedia Details
+
+Multimedia 1
+
+Type:*VIDEO*: Interview with an expert in media law in the Arab World.
+Location in the text:
+Script (if necessary):
+Detailed Description:
+
+Multimedia 2
+
+Type: *RESOURCES/EXERCISE*: CPJ or other orgs may have some sort of country-by-country outline of media law development. Each participant would be ask to find out about media law development/key issues in his or her country.
+Location in the text:
+Script (if necessary):
+Detailed Description:
+
+
+Multimedia 3
+
+Type:
+Location in the text:
+Script (if necessary):
+Detailed Description:
+
+
+Multimedia 4
+
+Type:
+Location in the text:
+Script (if necessary):
+Detailed Description:
+
+h1. Test
+
+Question 1
+
+Question: Even if the media laws are unclear and the authorities apply them unfairly in the country or region where you work which of the following can help citizen journalists protect themselves?
+Answer 1: Be familiar with the laws that are on the books
+Answer 2: Advocate for better media law
+Answer 3: Adhere to a professional code of ethics
+Answer 4: All of the above
+Correct Answer: All of the above
+
+Question 2
+
+Question: TRUE or FALSE: Self-censorship can be an issue for many journalists even if government censorship is not. Good journalists need to be willing to give fair coverage to ideas with which they do not agree, unpopular topics that are relevant to public interest and subject matter that is culturally uncomfortable but important
+Answer 1: TRUE
+Answer 2: FALSE
+Correct Answer: TRUE
+
+Number of Questions to pass the Quiz: ?

@@ -1,0 +1,98 @@
+h1. Reporting
+
+h1. Problem Statement
+
+What makes good reporting? It must to be fact-based rather than based on opinion, rumor or personal interest. 
+
+h1. Background
+
+Reporting begins with answering six basic questions about an issue: who, what, where, when, why and how. Good journalists do some background research when they first start working on a story. Different types of story require different types of reporting and emphasize different elements of the story.
+ 
+Accurate information can be hard to collect, but a few solid facts can go a long way toward informing people about an issue. It is often hard to know whom to trust for information. Good journalist, exercise judgment and common sense in reporting They also consider sources carefully and are transparent in attribution of where their information came from.
+ 
+Another challenge is separating fact from opinion. You need to keep your own feelings about an issue in check and respect the audience’s ability to form an opinion based on the accurate information you present. 
+ 
+
+h1. Solution
+
+*REWRITE* When reporting a story ask yourself if you have collected the information common citizens unfamiliar with the issue will need to understand it. This begins with answering five essential questions. In English they are called the Five Ws: 
+* Who is the story about?
+* What happened?
+* When did it take place?
+* Where did it take place?
+* Why did it happen?
+
+Properly asked and answered the 5Ws will help journalists to collect the basic facts required to build a solid story. Be as specific as possible. The more detail the better. It’s one thing to write that there were security forces at the demonstration. It may be more informative to make it clear they were interior ministry troops as opposed to regular army.
+For short dispatches it is often helpful to think in terms of collecting “factoids.” Factoids are the backbone of good reporting. Factoids are tidbits of factual information that you can use to make sure you are answering who, what, where, when and why to best of your ability.
+
+* Numbers and stats are factoids: How many? What time did it start?
+* Details about the issue are factoids. Describe briefly of how it – whatever it may be – works. Where did it start? When will it take effect? Who is involved? Who opposes it? Who supports it?
+* Observations are factoids. Physical descriptions are an often- overlooked but powerful type of factoid. What does the room look like? What is he wearing? What is the scene?
+* Quotes are factoids: Quotes dramatize and personalize your point. Quotes should typically be statements of opinion – how the source feels -- rather than fact (it’s the FACT that it was said that’s valuable to the journalist).
+More involved or longer stories may require more reporting with a wider variety of sources before and after an event.
+
+When reporting a story ask yourself if you have collected the information common citizens unfamiliar with the issue will need to understand it. This begins with who, what, where, when, why and how. Be as specific as possible. The more detail the better. It’s one thing to write that there were security forces at the demonstration. It may be more informative to make it clear they were interior ministry troops as opposed to regular army.
+ 
+For short dispatches it is often helpful to think in terms of “factoids.” Factoids are the backbone of good reporting. Factoids are tidbits of factual information that you can use to make sure you are answering who, what, where, when, why and how to best of your ability.
+
+* Numbers and stats are factoids: How many? What time did it start?
+* Details about the issue are factoids. Describe briefly of how it – whatever it may be – works. Where did it start? When will it take effect? Who is involved? Who opposes it? Who supports it?
+* Observations are factoids. Physical descriptions are an often- overlooked but powerful type of factoid. What does the room look like? What is he wearing? What is the scene?
+* Quotes are factoids: Quotes dramatize and personalize your point. Quotes should typically be statements of opinion – how the source feels -- rather than fact (it’s the FACT that it was said that’s valuable to the journalist).
+
+More involved or longer stories may require more reporting with a wider variety of sources before and after an event. *END REWRITE*
+
+[I'M NOT SURE WHETHER INTRODUCING THE TERM 'FACTOID' HELPS HERE. IT MIGHT CREATE MORE CONFUSION. PERHAPS ADDING EXAMPLES OF 5W'S + H HELPS MORE:
+
+FROM WIKIPEDIA: http://en.wikipedia.org/wiki/Five_Ws
+
+It is a formula for getting the complete story on a subject.[2] The maxim of the Five Ws is that for a report to be considered complete it must answer a checklist of five questions, each of which comprises an interrogative word:[3]
+Who is it about?
+What happened?
+When did it take place?
+Where did it take place?
+Why did it happen?
+
+The principle underlying the maxim is that each question should elicit a factual answer — facts necessary to include for a report to be considered complete.[4] Importantly, none of these questions can be answered with a simple "yes" or "no". ]
+
+
+h1. When to Use / When not to Use
+
+Access and time are the biggest challenges to good reporting. Personal bias is another. All can often be minimized by talking to other journalists and looking at coverage of the story from a variety of sources. It’s important to form a network of colleagues you can trust. But, be careful: you don’t want to pass along bad information to your readers.
+
+h1. Multimedia Details
+
+* VIDEO: recorded material (or written script?) from which participants will outline a short news piece that covers basic reporting -- who, what, where, when, why and how
+* Exercise: Distinguish factoids from opinion
+* Illustration: Some sort of graphic of checklist for the basic 5Ws and H
+
+h1. Quiz
+
+Question 1
+
+Question: Which of the choices below are examples of “factoids “It can be more than one).
+Answer 1: Numbers
+Answer 2: Quotes
+Answer 3: Personal opinion
+Answer 4: None of the above
+Correct Answer: 1, 2
+
+
+Question 2
+
+Question: TRUE of FALSE: Who, what, where, when, how, and why are the six basic questions you should try and answer when reporting
+Answer 1: TRUE
+Answer 2: FALSE
+Correct Answer: TRUE
+
+Question 3
+
+Question: Which are obstacles to better reporting
+Answer 1: Access
+Answer 2: Time
+Answer 3: Personal bias
+Answer 4: All of the above
+Correct Answer: All of the above
+
+
+Number of Questions to pass the Quiz: ?

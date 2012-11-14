@@ -1,0 +1,95 @@
+h1. Problem Statement
+
+h2. How do I create shot lists?
+
+!5.9.1.a.png!
+
+<hr>
+
+h1. Background
+
+Only rarely is video edited together in the same order in which it was recorded. To more effectively use time and keep yourself organized, it’s best to have a clear plan before you begin recording your story. A list of all the shots you need in order to assemble your story is a great way to organize this plan.
+
+<hr>
+
+h1. Solution
+
+!5.9.3.a.png!
+
+Think of the shot list functioning the same as a grocery list when you go to the market.
+
+It’s quite helpful to write out your story in plain text. Imagine all of the the different subjects, what actions will occur, and any other elements you think are important to record to completely show your story. It’s important to be as specific as possible.
+
+<hr>
+
+h2. Write it out
+
+Once you have all your story elements, you can then start imagining what different shots you need to record. This is a good time to review the five basic shots. Consider what each of them do well, and how you can use them to frame the different story elements.
+
+<hr>
+
+h2. Shot list
+
+!5.9.5.a.png!
+
+With a piece of paper, create a three column list. The first column should be “Shot Type”, the second should be “Description”, and the third should be “Story Elements”.
+
+<hr>
+
+h2. Fill In the details
+
+!5.9.6.a.png!
+
+Fill in all the shots you think you need. Be specific, but do not hesitate to write down a lot of shots. This is a guideline to help you focus when you are recording. Sometimes what you write down will not be possible, that’s quite alright.
+
+Now, for every shot, list out the specific shot type you think will work best. Fill in as much description you can think of, and decide what story elements you need in that frame.
+
+Be as specific as possible with all of this information. When you are recording you will be distracted by other activity. Plan as much as possible before you start to obtain the surest path to success.
+
+Write all of this information as if you are not the person filming it. If someone besides you can understand the shots you want, you know you have a good shot list.
+
+<hr>
+
+h1. Things to Remember
+
+* Shot lists are like an artists notebook, you keep your ideas in them, but when you're shooting they often change.
+* Don't get stuck making your descriptions perfect.
+* More ideas are often better for a shot list.
+* As you have more and more practice shooting stories, shot lists will become easier to develop.
+
+<hr>
+
+Question 1
+
+Question: What makes up a shot list?
+
+Answer 1: Weather
+Answer 2: Shot Type
+Answer 3: Description
+Answer 4: Story Elements
+
+Correct Answer: 2,3,4
+
+<hr>
+
+Question 2
+
+Question: When writing a shot list I should be?
+
+Answer 1: As specific as possible
+Answer 2: as vague as possible.
+Answer 3: confused.
+Answer 4: unclear.
+
+Correct Answer: 1
+
+<hr>
+
+Question 3
+
+Question: True or False, it’s helpful to write your story out in plain text?
+
+Answer 1: True
+Answer 2: False
+
+Correct Answer: 1

@@ -2,6 +2,8 @@ h1. Problem Statement
 
 h2. I've never used a camera before, what are the basics I should know?
 
+!5.1.1.a.png!
+
 <hr>
 
 h1. Background

@@ -1,0 +1,157 @@
+[main]
+host = https://www.transifex.com
+
+[storymaker.main-app-strings]
+file_filter = translations/storymaker.main-app-strings/<lang>.xml
+source_lang = en
+
+[storymaker.20]
+file_filter = <lang>/2/2.0/Lesson.txt
+source_file = En/2/2.0/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.21]
+file_filter = <lang>/2/2.1/Lesson.txt
+source_file = En/2/2.1/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.22]
+file_filter = <lang>/2/2.2/Lesson.txt
+source_file = En/2/2.2/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.23]
+file_filter = <lang>/2/2.3/Lesson.txt
+source_file = En/2/2.3/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.24]
+file_filter = <lang>/2/2.4/Lesson.txt
+source_file = En/2/2.4/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.25]
+file_filter = <lang>/2/2.5/Lesson.txt
+source_file = En/2/2.5/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.26]
+file_filter = <lang>/2/2.6/Lesson.txt
+source_file = En/2/2.6/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.27]
+file_filter = <lang>/2/2.7/Lesson.txt
+source_file = En/2/2.7/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.28]
+file_filter = <lang>/2/2.8/Lesson.txt
+source_file = En/2/2.8/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.29]
+file_filter = <lang>/2/2.9/Lesson.txt
+source_file = En/2/2.9/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.210]
+file_filter = <lang>/2/2.10/Lesson.txt
+source_file = En/2/2.10/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.211]
+file_filter = <lang>/2/2.11/Lesson.txt
+source_file = En/2/2.11/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.50]
+file_filter = <lang>/5/5.0/Lesson.txt
+source_file = En/5/5.0/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.51]
+file_filter = <lang>/5/5.1/Lesson.txt
+source_file = En/5/5.1/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.52]
+file_filter = <lang>/5/5.2/Lesson.txt
+source_file = En/5/5.2/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.53]
+file_filter = <lang>/5/5.3/Lesson.txt
+source_file = En/5/5.3/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.54]
+file_filter = <lang>/5/5.4/Lesson.txt
+source_file = En/5/5.4/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.55]
+file_filter = <lang>/5/5.5/Lesson.txt
+source_file = En/5/5.5/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.56]
+file_filter = <lang>/5/5.6/Lesson.txt
+source_file = En/5/5.6/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.57]
+file_filter = <lang>/5/5.7/Lesson.txt
+source_file = En/5/5.7/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.58]
+file_filter = <lang>/5/5.8/Lesson.txt
+source_file = En/5/5.8/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.59]
+file_filter = <lang>/5/5.9/Lesson.txt
+source_file = En/5/5.9/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.510]
+file_filter = <lang>/5/5.10/Lesson.txt
+source_file = En/5/5.10/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.511]
+file_filter = <lang>/5/5.11/Lesson.txt
+source_file = En/5/5.11/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.512]
+file_filter = <lang>/5/5.12/Lesson.txt
+source_file = En/5/5.12/Lesson.txt
+source_lang = en
+type = WIKI
+

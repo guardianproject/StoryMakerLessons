@@ -1,0 +1,262 @@
+h1. Problem Statement
+
+h2. Some stories are best told through multiple photographs as a photo essay.. What are some basic principles for shooting photographs that will work well together as a set?
+
+!4.6.1.a.png!
+
+<hr/>
+
+h1. Background
+
+!4.6.2.a.png(Example of a single photo telling a story)!
+
+Most stories are accompanied by a single photograph. That photograph needs to summarize the event in a single frame.
+
+(
+!4.6.2.b.png(Example of how a slideshow can tell a story)!
+!4.6.2.c.png(Example of how a slideshow can tell a story)!
+!4.6.2.d.png(Example of how a slideshow can tell a story)!
+!4.6.2.e.png(Example of how a slideshow can tell a story)!
+!4.6.2.f.png(Example of how a slideshow can tell a story)!
+!4.6.2.g.png(Example of how a slideshow can tell a story)!
+!4.6.2.h.png(Example of how a slideshow can tell a story)!
+!4.6.2.i.png(Example of how a slideshow can tell a story)!
+)
+
+A photo essay that include several images can be a very powerful visual storytelling tool, on its own or with other story element in a package. Photo essays are among the most popular online content and engage large numbers of viewers.
+
+<hr/>
+
+There are some key difference between photo essays and video. Viewers typically have a different relationship with photos -- our brains are designed to remember still rather than moving images. Photo essays require less bandwidth and storage space than video. An essay can also be easier to produce than a well-sequenced video story.
+
+<hr/>
+
+(
+!4.6.4.a.png(Example of a good photo essay)!
+!4.6.4.b.png(Example of a bad photo essay)!
+)
+
+A good photo essay can be a remarkably strong tool to document and dramatize a news event. However, a bad photo essay can be very bad. The most common problem is sameness from image to image. If there is no variety in the images the essay will be very boring, especially in combination with the second most common problem: essays that have no narrative structure. They don’t tell a story or make a point. They are little more than an assortment of random snapshots.
+
+<hr/>
+
+h1. Solution
+
+Every photo essay needs structure and a clear point. An essay can be structured one of two ways: a narrative story or a series. Aim for 8 to 20 images in your final edit. You may need to shoot a lot more to get that many useable pictures.
+
+<hr/>
+
+h2. Narrative Story
+
+(
+!4.6.6.a.png(Example of a narrative essay)!
+!4.6.6.b.png(Example of a narrative essay)!
+!4.6.6.c.png(Example of a narrative essay)!
+!4.6.6.d.png(Example of a narrative essay)!
+!4.6.6.e.png(Example of a narrative essay)!
+!4.6.6.f.png(Example of a narrative essay)!
+!4.6.6.g.png(Example of a narrative essay)!
+!4.6.6.h.png(Example of a narrative essay)!
+)
+
+When planning a narrative story you should create a narrative arc -- beginning, middle and end. Think issue and resolution. Think cause and effect. Your slideshow should Tell the story visually as thoroughly as a written story tells it in words.
+
+<hr/>
+
+Photography’s greatest strength is in its ability to dramatically illustrate the universality of the human experience. Good narrative stories are built around a character or characters with whom viewers can identify. Remember, a place can be a character. Even an idea can be used as a character. The denominator is this: viewers need someone or something that they can identify with or that captures their imagination to get them into a story. Identify what that is and it will help ensure your story has a tight, engaging focus.
+
+<hr/>
+
+There are several conventional ways to structure the narrative of a story. Have a clear idea what your essay is about and shoot the images you need to illustrate that. Every new image should contain new information that advances your story. The story types outlined below will help you do that. Sometimes photographers will use a combination of the options presented below to do that:
+
+
+<hr/>
+
+h2. Highlights
+
+(
+!4.6.9.a.png(Example of a highlight narrative essay)!
+!4.6.9.b.png(Example of a highlight narrative essay)!
+!4.6.9.c.png(Example of a highlight narrative essay)!
+!4.6.9.d.png(Example of a highlight narrative essay)!
+!4.6.9.e.png(Example of a highlight narrative essay)!
+!4.6.9.f.png(Example of a highlight narrative essay)!
+!4.6.9.g.png(Example of a highlight narrative essay)!
+!4.6.9.h.png(Example of a highlight narrative essay)!
+)
+
+All photo stories are highlights stories, the photographer should always seek to relay the most important visual elements of a story. But some stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic.
+
+<hr/>
+
+h2. Process
+
+(
+!4.6.10.a.png(Example of a process narrative essay)!
+!4.6.10.b.png(Example of a process narrative essay)!
+!4.6.10.c.png(Example of a process narrative essay)!
+!4.6.10.d.png(Example of a process narrative essay)!
+!4.6.10.e.png(Example of a process narrative essay)!
+!4.6.10.f.png(Example of a process narrative essay)!
+!4.6.10.g.png(Example of a process narrative essay)!
+!4.6.10.h.png(Example of a process narrative essay)!
+)
+
+Essentially the photographer is showing how something is done from beginning to end. How a sculpture is made. An election. Even an arrest and court case.
+
+<hr/>
+
+h2. Chronology
+
+(
+!4.6.11.a.png(Example of a chronological narrative essay)!
+!4.6.11.b.png(Example of a chronological narrative essay)!
+!4.6.11.c.png(Example of a chronological narrative essay)!
+!4.6.11.d.png(Example of a chronological narrative essay)!
+!4.6.11.e.png(Example of a chronological narrative essay)!
+!4.6.11.f.png(Example of a chronological narrative essay)!
+!4.6.11.g.png(Example of a chronological narrative essay)!
+!4.6.11.h.png(Example of a chronological narrative essay)!
+)
+
+Real or implied, you can let time structure your story. A typical way to structure a story through time is as a ‘day in the life’ piece.
+
+<hr/>
+
+h2. The Slideshow
+
+(
+!4.6.12.a.png(Example of a slideshow)!
+!4.6.12.b.png(Example of a slideshow)!
+!4.6.12.c.png(Example of a slideshow)!
+!4.6.12.d.png(Example of a slideshow)!
+!4.6.12.e.png(Example of a slideshow)!
+!4.6.12.f.png(Example of a slideshow)!
+!4.6.12.g.png(Example of a slideshow)!
+!4.6.12.h.png(Example of a slideshow)!
+)
+
+News organizations have developed a complex formula for the kinds of shots required for a good photo essay or slideshow. The formula is designed to help photographers avoid sameness and guarantee structure. A good slideshow moves “in” and “out.” As the viewer moves through story the images move from tight to wide and a back, over and over. This kind of rhythm keeps viewers interested and clicking on the next image.
+
+<hr/>
+
+Here is the formula for the different types of images that make a good slideshow. Make sure to shoot images in each of the categories to give your slideshow a clear structure, a variety of image tell a compelling story (NOTE: this formula is not always applied to a highlights story, which is often a compilation of the best photographs of an issue):
+
+<hr/>
+
+h2. Signature photo
+
+!4.6.14.a.png(Example of a signature photo)!
+
+A photo that summarizes the entire issue and illustrates essential elements of the story. If only one photo were to run, this would be the photo.
+
+<hr/>
+
+h2. Establishing shot
+
+!4.6.15.a.png(Example of an Establishing photo)!
+
+a wide-angle shot to establish the scene. When you do a photo story you are taking viewers on a journey. Use this shot to give them a sense of where they are going, an image that allows them to understand the rest of the story in a geographic context.
+
+<hr/>
+
+h2. Close-up
+
+!4.6.16.a.png(Example of a close-up photo)!
+
+A detail shot to highlight a specific element of the story. Close-up, sometimes called detail shots don’t do a lot to inform the viewer but they do a great deal to dramatize a story. ALWAYS shoot lots of close-ups.
+
+
+<hr/>
+
+h2. Portrait
+
+!4.6.17.a.png(Example of a portrait photo)!
+
+This can be either a tight head shot or an environmental portrait in a context relevant to the story. Photo essays are build around characters. You need to have good portrait that introduces viewers to the character. Always shoot a variety of portraits, some candids, meaning people behaving naturally, and some posed. 
+
+<hr/>
+
+h2. Interaction
+
+!4.6.18.a.png(Example of an interaction photo)!
+
+Focuses on the subject in a group during an activity. Images of your character interacting with others helps give a human dimension to your character..
+
+<hr/>
+
+h2. The Clincher
+
+!4.6.19.a.png(Example of a clincher photo)!
+
+A photo that can be used to close the story, one that says “the end.” This might be an image of shopkeeper closing his store, the setting sun as election observers go home or a child in a hospital sleeping after surgery.
+
+<hr/>
+
+The first few images are especially important and often include a combination of the following:
+
+* An establishing shot: Often a wide-angle image to give a sense of place, a sense of environment to give the viewer a sense of place.
+* A portrait: An online slideshow must be humanized quickly. You need to introduce your character as a travelling companion on your journey.
+* A close-up: A telling detail shot early on is graphically appealing and an opportunity to focus the viewer on the story's topic."
+
+<hr/>
+
+h2. Audio Slideshow
+
+!4.6.21.a.mp4!
+
+Many slideshows are accompanied by audio (more on audio in the audio module). Audio slideshows often require more photographs to "cover" the audio. Images for an audio slideshow typically display for between 3 and 8 seconds depending on their content and the desired pace for the project. Audio and photos in a slideshow should complement each other but not mirror each other. This means they should work together to tell a story in a way that is multidimensional rather than just showing viewers and telling viewer the exact same thing at the exact same time in two different ways.
+
+<hr/>
+
+h2. The Series
+
+!4.6.22.a.png(Example of a series of photos)!
+
+The series is a set of similar images designed to illustrate a comparative point: for example a series of portraits or of destroyed buildings or a particularly fashionable type of sunglasses. Images in a series should be stylistically similar to further illustrate the comparison. A series can be a great way to illustrate an idea on its own or as a sidebar element to a video, audio or print story.
+
+<hr/>
+
+You don't need to make every image in series EXACTLY like the others. Sometimes it’s just not possible. But here are a few things to keep in mind:
+
+* Angle of View - When possible, try and keep the angle of view consistent in a series. Example: if one picture is taken from eye-level, take them all from eye-level.
+
+* Focal Length - Try and be consistent in the distance from your lens. This will ensure a consistent perspective.
+
+* Framing - All images should be framed about the same way. If focal length stays the same, you may need to step farther away for larger objects (or people with bigger heads) and closer for smaller object.
+
+* Color and Image Quality - If possible, avoid using a flash with some images and not others. be consistent with ISO, white balance and depth-of-field."
+
+<hr/>
+
+h1. Things to Remember
+
+The biggest thing to remember for full-time photojournalists and citizen journalists telling a multimedia story is shooting enough images. As pointed out at the top of this section, variety is key. Shooting enough images to have variety AND quality takes time. Good photographers plan their coverage to allow them to get the images they will need. They also plan a tentative shot list based on the shot categories outlined above.
+
+<hr/>
+
+Question 1
+Question:Good photo essays are more than a random assortment of images. They need a story structure. Which of the options below might provide structure to a story (it can be more than one)?
+Answer 1:The story could be structured chronologically
+Answer 2:The story could be structured as process piece to show how something is done.
+Answer 3:The story could be structured as a highlights piece that illustrates the most important elements of the subject
+Answer 4:All of the above
+Correct Answer:4
+
+<hr/>
+
+Question 2
+Question:TRUE or FALSE: A narrative story needs variety. A series on the other hand works better if the composition is consistent from image to image
+Answer 1:TRUE
+Answer 2:FALSE
+Correct Answer:2
+
+<hr/>
+
+Question 3
+Question:Good stories typically have the following characteristic (it can be more than one)
+Answer 1:The final project will be between 8 and 20 images
+Answer 2:If it’s a narrative story, there will be visual variety
+Answer 3:Stories about broad issues are always better then highly focused stories
+Answer 4:All of the above
+Correct Answer: 1,2

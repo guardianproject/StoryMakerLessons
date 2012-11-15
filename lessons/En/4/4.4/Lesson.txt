@@ -1,0 +1,101 @@
+h1. Problem Statement
+
+h2. At events ranging from press conferences to demonstrations to elections, how do I know what kinds of images I should be looking for?
+
+!4.7.1.a.png!
+
+<hr/>
+
+h1. Background
+
+Photojournalism can be very formulaic. Editors and viewers expect to see particular kinds of images from specific events. Good photojournalists know the formula and can produce it. Great photojournalists know the formula and can expand on it. The formula can be very helpful for journalists new to photography or for multitasking at an event with limited time to devote to photography.
+
+<hr/>
+
+h1. Solution
+
+h2. Breaking News
+
+(
+!4.7.3.a.png(Example of a breaking news photos)!
+!4.7.3.b.png(Example of a breaking news photos)!
+(
+
+Breaking news events are unplanned events of social importance or interest. This is often reflected in the images we see. A breaking news event can be a bombing or a natural disaster or the unplanned announcement of a political candidate's run for office. The photographer should try to illustrate the key dramatic and narrative elements of the event. Think foreground (subject) and background (context). Often coverage is after the event has happened. Reaction shots --how people are responding to the event or its aftermath -- can make for very powerful images. People sweeping after an earthquake. Celebrating a victory following a battle.
+
+<hr/>
+
+h2. Events
+
+(
+!4.7.4.a.png(Example of an event photo)!
+!4.7.4.b.png(Example of an event photo)!
+!4.7.4.c.png(Example of an event photo)!
+)
+
+From elections to trials to political rallies, news events are the bulk of what photographers do. Good photo coverage does more than document a news event, it captures its energy and importance. Ask yourself what visual element of the event best symbolizes the overall story, that is likely your photograph.
+
+* An image of a citizen casting a ballot for the first time.
+* An image of a passionate demonstrator with others in the background.
+* An image of a presidential candidate shaking hands with a military chief.
+
+<hr/>
+
+h2. Features
+
+(
+!4.7.5.a.png(Example of a feature photo)!
+!4.7.5.b.png(Example of a feature photo)!
+)
+
+Feature stories and photographs are stories that are not tied to a specific news event. A feature can be about a trend -- growing numbers of women learning to drive -- or about something lighthearted and unusual -- a dance theater for children. Features are where news photographers are expected to be creative in their approach to what they shoot. Ask yourself what will best illustrate the event on an emotional level. Think context in your images and think human emotion. What elements -- and what moment -- tell the story in an interesting way?
+
+<hr/>
+
+h2. Portraits
+
+(
+!4.7.6.a.png(Example of a portrait photo)!
+!4.7.6.b.png(Example of a portrait photo)!
+)
+
+Photographers frequently shoot portraits to illustrate a profile story about the person pictured or because the person figures heavily in a broader story. Portraits fall into two categories: posed and candids. Posed portraits are set up with the subject looking into the camera or just off camera. Good posed portraits take advantage of nice lighting and capture the subject’s expression in a way that is revealing related to the story. Candid portraits typically show the subject in action doing that thing for which he or she is in the news. Many photographers will shoot both when assigned to do a portrait. It is a good idea to include some contextual elements in the image that provide a hint in the picture as to who the subject is.
+
+<hr/>
+
+h1. Things to Remember
+
+(
+!4.7.7.a.png(Example of an arranged photo)!
+!4.7.7.b.png(Example of an arranged photo)!
+)
+
+These guidelines are designed to make shooting easier. They should not inhibit you. It is important to note that in some cases photographers are allowed to arrange a shot. This is NEVER permitted with breaking news or general news. Occasionally with feature assignments and more frequently with portraits a photographer can arrange the photograph -- ask the subject to move to better light, introduce contextual elements, or reenact something.
+
+<hr/>
+
+Question 1
+Question:When photographing a press conference you might try and shoot which of the following?
+Answer 1:tight, animated headshots of each of the participants rather than one, overall shot
+Answer 2:Full frontal shots rather than profiles from left or right
+Answer 3:A group shot during the ‘photo op’
+Answer 4:All of the above
+Correct Answer:4
+
+<hr/>
+
+Question 2
+Question:TRUE or FALSE: It is OK to set up shots at general news events
+Answer 1:TRUE
+Answer 2:FALSE
+Correct Answer:2 (NOTE: It may be OK to set up a portrait or some element of a feature photo. Check with your editor).
+
+<hr/>
+
+Question 3
+Question:Which of the following are characteristics of a good news portrait (it can be more than one)
+Answer 1:The subject is statue-like and looking at the camera.
+Answer 2:There are no props or cues in the image to contextualize it or explain why the subject is in the news
+Answer 3:The subject is partially obscured so it is hard to see his or her face clearlly
+Answer 4:None of the above
+Correct Answer:4

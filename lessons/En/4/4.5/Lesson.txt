@@ -1,0 +1,110 @@
+h1. Problem Statement
+
+h2. Why are my images overexposed (too light) or underexposed (too dark) and how do I fix it?
+
+!4.8.1.a.png!
+
+<hr/>
+
+h1. Background
+
+Inside every digital camera there is a light meter. This meter takes a light reading in the instant before you take a picture and tells the camera how to set the ISO, Aperture and Shutter (see section one).- With point-and-shoots and dSLRs this meter is more sophisticated and it is up to the photographer to set the exposure in whole or part based on the reading.
+
+<hr/>
+
+!4.8.3.a.png(Example of common problems with light metering)!
+
+These meters are easily confused. They take an overall reading of light coming into the lens and averaging to set the exposure. The camera will have difficulty estimating exposure if there is a lot of variation in the available light.
+
+<hr/>
+
+Insufficient light is the most common problem photographers confront. A camera, is a poor light-gathering device compared to the human eye. One of the biggest challenges photographers have when shooting in low light is recognizing the problem and methodically solving it rather than taking a bunch of images and hoping that one will work out.
+
+<hr/>
+
+(
+!4.8.5.a.png(Example of a photo taken with a camera phone)!
+!4.8.5.b.png(Example of a photo taken with a point and shoot camera)!
+!4.8.5.c.png(Example of a photo taken with a DSLR camera)!
+)
+
+In low light situations there is not enough light striking the sensor to properly expose it. Smartphones have smaller lenses and much smaller maximum apertures as a result (see the camera basics section) than professional cameras. Because the aperture is so small, they simply can’t let as much light in as larger cameras with larger lenses operating at the same shutter speed.
+
+<hr/>
+
+(
+!4.8.6.a.png(Example of a backlit photo)!
+!4.8.6.b.png(Example of light bouncing off a highly reflective surface)!
+)
+
+Another common issue is backlighting. You are shooting a subject in relative shadow with bright lights or sunshine behind the subject. The camera is meter based in part on the bright light and the subject will appear too dark. Another common problem is light bouncing off a highly reflective surface such as white tent canvas or snow or sand. Other exposure problems may arise when shooting in low light conditions because the camera tries to make the scene appear lighter than it actually is.
+
+
+<hr/>
+
+h1. Solution
+
+!4.8.7.a.mp4(Example of how to properly expose a dark arear with a smartphone)!
+
+Many touch-screen smartphone cameras allow the photographer to touch a place on-screen to tell the camera where to draw its exposure value from. You can also point the camera at a shadowy area in the frame, touch the screen and reframe the shot. The camera will retain the lower exposure value. This is true of most cameras. Point the camera at spot that has exposure values closer to what you need and push the shutter halfway down. You MUST CONTINUE TO HOLD THE SHUTTER DOWN as you reframe the shot.
+
+<hr/>
+
+(
+!4.8.8.a.png(Example of how to properly adjust a photo)!
+!4.8.8.b.png(Example of how to properly adjust a photo)!
+!4.8.8.c.png(Example of how to properly adjust a photo)!
+!4.8.8.d.png(Example of how to properly adjust a photo)!
+)
+
+Images that are slightly overexposed or underexposed can sometime be fixed with built-in photo software apps or apps like Adobe Photoshop Express. Adobe Photoshop Express is an app that allows you to manage exposure in your picture. You could touch the face of a person strongly backlight and the camera will reset exposure for his face.
+
+<hr/>
+
+h1. Things to Remember
+
+* It is essential that your images be properly exposed
+* Smartphone cameras simply aren’t capable taking well exposed images under tough lighting conditions
+* Managing the exposure within the range that the camera is capable can help a lot
+* Always take a few practice pictures to check the exposure and make adjustments if necessary
+
+<hr/>
+
+Question 1
+Question:What three things control exposure?
+Answer 1:ISO
+Answer 2:Aperture
+Answer 3:Zoom setting
+Answer 4:Shutter
+Correct Answer:1,2,4
+
+<hr/>
+
+Question 2
+Question:True or False: The shutter controls the amount of time the shutter is exposed to light
+Answer 1:TRUE
+Answer 2:FALSE
+Correct Answer:1
+
+<hr/>
+
+Question 3
+Question:When shooting with a smartphone you can do which of the following if the image is overexposed
+Answer 1:Nothing. Smartphones offer no manual control of exposure
+Answer 2:Many smartphone cameras now let you select the area of the frame that will be properly exposed by touching it. The camera will recalibrate exposure based on the spot you select
+Answer 3:Set the smartphone to manual camera mode
+Answer 4:None of the above
+Correct Answer:2
+
+<hr/>
+
+Question 4
+Question:How might you correct the exposure in this example image?
+
+!4.8.13.a.png!
+
+Answer 1:increase the ISO
+Answer 2:Adjust the exposure slightly in post-production
+Answer 3:Open the aperture (if possible)
+Answer 4:Slow shutter speed being careful not to slow it so much that the image becomes blurry
+Correct Answer:???????

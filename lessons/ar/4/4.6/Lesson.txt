@@ -1,0 +1,107 @@
+h1. بيان بالمشكلة
+
+h2. How do I photograph fast-moving objects?
+
+!4.9.1.a.png!
+
+<hr/>
+
+h1. خلفية
+
+!4.9.2.a.png(How a shutter works on a camera)!
+
+From football players to moving vehicles and marching protesters, journalists frequently have to take pictures of moving objects. A camera’s ability to freeze action is controlled by the shutter. If the shutter speed is too slow, it cannot adequately freeze action. The image appears blurry because the sensor is recording the movement. Shutter speeds are typically measured in fractions of a second. The faster the action, the faster the shutter speed needs to be.
+
+<hr/>
+
+!4.9.3.a.png(Shutter Priority Icon)!
+
+Some smartphones have settings that tells the camera to favor a faster shutter speed in its exposure equation. The icon for this is a profile of a man running. For smart phones without this feature there are several things you can do to help freeze action. This begins with knowing the limitations of the camera and being realistic about your choices.
+
+<hr/>
+
+h1. الحل
+
+h2. Light
+
+(
+!4.9.4.a.png(Example of using daylight to light a subject)!
+!4.9.4.b.png(Example of using a window to light a subject)!
+!4.9.4.c.png(Example of using an external source to light a subject)!
+)
+
+The most common challenge when trying to photograph motion is inadequate light. There is not enough light to allow the camera to properly expose your picture AND have a high enough shutter speed to freeze action. You can’t make the camera do the impossible. If you know you need to freeze action, plan your assignment so there will be enough light. This can mean choosing a time of day when there is sunlight. It might also mean choosing a location where there will be the most light possible – near a street light, stage light or in the headlights of a car.
+
+<hr/>
+
+h2. Stabilize the Camera
+
+!4.9.5.a.png(Proper holding stances for a camera)!
+
+Camera shake – the movement of your own hands while holding the camera -- can cause or contribute to blurry images and not only when shooting fast moving objects.- Always hold a camera close to your body. This is will make it easier to stabilize than if your arm is fully extended. It may help to rest the elbow of your camera hand on your knee or another object to stabilize your camera.
+
+<hr/>
+
+h2. Flash
+
+(
+!4.9.6.a.png(Example of a photo taken with a camera phone flash)!
+!4.9.6.b.png(Example of a photo taken with a camera phone flash)!
+!4.9.6.c.png(Example of a photo taken with a camera phone flash)!
+)
+
+Many smartphones come with a built-in flash. The burst of light can help you freeze motion. Most phone flashes are only effective for about three meters.
+
+<hr/>
+
+h2. Pick your Moment
+
+(
+!4.9.7.a.png(Example of capturing a moment)!
+!4.9.7.b.png(Example of capturing a moment)!
+)
+
+In many cases your subject will move at varying speeds. Footballers move more slowly as a play is being set up. Cars slow at corners or in traffic. Demonstrators are stationary for speeches. Choose a moment when things movie more slowly. If you combine this with a good location for light, you can often get sharp pictures of difficult subjects even at night -- demonstrators chanting under a streetlight, for example.
+
+<hr/>
+
+h2. Angle to Movement
+
+!4.9.8.a.mp4(How to pan with a camera to catch movement)!
+
+The most difficult movement for the camera is when the subject is moving across the frame from right to left or left to right. A common technique for handling this situation is called panning. Point your camera and follow the subject as it goes by, twisting your body if you have to. This reduces the relative speed of the movement to the camera. You may change your angle so the subject comes at the camera on an angle. This will allow the camera to track the object better and freeze the action.
+
+<hr/>
+
+At least the main subject of your photo should always be sharp. Remember and manage the limitations of your equipment and the lighting conditions. Football players, vehicles and other moving objects may vary their speed. They may move into and out of greater light sources. position yourself for the most advantageous moment to get your photo when the subject is well illuminated and moving comparatively slowly.
+
+<hr/>
+
+Question 1
+Question:What causes blurry images when photographing fast-moving objects?
+Answer 1:Too large and aperture
+Answer 2:A slow shutter speed
+Answer 3:Accidentally switching the camera to video mode
+Answer 4:Too high an ISO
+Correct Answer:2
+
+<hr/>
+
+Question 2
+Question:TRUE or FALSE: Blurriness can be caused by handshake. It is important to stabilize the camera when trying to freeze action
+Answer 1:TRUE
+Answer 2:FALSE
+Correct Answer:2
+
+<hr/>
+
+Question 3
+Question: How might you improve the sharpness of this image? 
+
+!4.9.13.a.png!
+
+Answer 1:Wait for a moment when the subject is moving more slowly
+Answer 2:Zoom to a more telephoto setting
+Answer 3:Wait for a moment when the subject is in more light
+Answer 4:Ask the fast-moving subject to take a photo of himself
+Correct Answer:1,3

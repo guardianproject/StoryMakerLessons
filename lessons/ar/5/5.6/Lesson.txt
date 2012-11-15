@@ -1,0 +1,196 @@
+h1. Problem Statement
+
+h2. How do you shoot interviews well?
+
+!5.6.1.a.png!
+
+<hr>
+
+h1. Background
+
+Interviews are important opportunities for adding context to your story. They humanize and provide multiple sources to increase the reliability of your story.
+
+When you’re making your story, include diverse participants in your story. Provide the audience a broader understanding of the events by including different perspectives. Interviews should add a variety of elements to the story. See Interviewing lesson for more details.
+
+<hr>
+
+h1. Solution
+
+!5.6.3.a.png!
+
+Interviews are difficult because you must handle two things at once. You need to make sure your shot looks good. But you also need to make the interview itself interesting. Failing to perform either one will greatly reduce the quality of your interview.
+
+Lets look at what technical challenges you need to keep in mind first.
+
+<hr>
+
+h2. Shooting your interview
+
+!5.6.4.a.mp4(Example of an interview using a Medium Shot)!
+caption: Example of an interview using a Medium Shot
+
+!5.6.4.b.mp4(Example of an interview using a Close Up Shot)!
+caption: Example of an interview using a Close Up Shot
+
+Framing
+
+* Use Medium shots or Close Up shots. Anything wider or closer will make it difficult to follow the interview, or for the audience to relate to the subject.
+
+<hr>
+
+!5.6.5.a.mp4(Example of changing composition after a question)!
+caption: Example of changing composition after a question
+
+Choose a Frame and hold it. Once you’ve decided which side of the frame the subject will be on, hold it there. Hold it until the subject has finished answering a question. Only change the composition of the frame in between questions.
+
+<hr>
+
+!5.6.6.a.mp4(How to setup good head room in your shot)!
+caption: How to setup good head room in your shot
+
+Keep good head space, if you’re unsure please take the the head space lesson.
+
+<hr>
+
+!5.6.7.a.mp4(Example of how panning is distracting. Do not pan)!
+caption: Example of how panning is distracting. Do not pan
+
+Don’t pan or move the camera if the subject points at something or is discussing something outside of the frame. After they finish answering the question on camera, record a shot of the action they were pointing at.
+
+<hr>
+
+!5.6.8.a.mp4(How to keep camera at eye level)!
+caption: How to keep camera at eye level
+
+Keep the camera’s lens at eye level with the interview subject. If they’re standing, you should be standing. If they’re sitting, you should be as well.
+
+<hr>
+
+h2. Location
+
+!5.6.9.a.mp4(Example of a bad interview location vs a good location)!
+caption: Example of a bad interview location vs a good location
+
+* Your location should improve, not degrade, the impact of your interview.
+* Think about what the location says about the subject.
+
+
+<hr>
+
+h2. Sound Quality
+
+!5.6.10.a.mp4(Example of an interview with bad audio vs good audio)!
+caption: Example of an interview with bad audio vs good audio
+
+* Sound is critical to your interview. If your audience can’t hear the interview, it’s not an interview.
+* Hold your shot. It’s essential to keep he camera pointed at the subject for the entire interview in order to get good sound.
+
+<hr>
+
+With these technical tips in mind let's look at what you can do to perform an interview well.
+
+<hr>
+
+h2. Performing your interview
+
+!5.6.12.a.mp4(Example of a longer interview)!
+caption: Example of a longer interview
+
+Open Questions
+
+*Ask open-ended questions.
+** “What else should I have asked you about?”
+** “Is there anything else you would like to say?”
+** Avoid yes-or-no questions.
+
+Changing your approach
+* If your questions don’t provide a satisfactory answer, change your approach.
+
+Following up
+* Pursue intriguing answers with follow-up.
+* Use follow-up questions if you need more information.
+
+<hr>
+
+h1. Things to Remember
+
+* Whenever possible include Interviews in your story.
+* People tell stories, images just illustrate stories.
+* Be as objective as possible.
+* Press your subject to be accurate and factual.
+* Allow your audience to listen to the subject and make up their own mind based on what is said in the interview.
+
+<hr>
+
+Question 1
+
+Question: Including different perspectives provides the audience with what?
+
+Answer 1: the fastest understanding of the events.
+Answer 2: the worst understanding of the events.
+Answer 3: the strangest understanding of the events.
+Answer 4: a broader understanding of the events.
+
+Correct Answer: 4
+
+<hr>
+
+Question 2
+
+Question: The three technical elements to keep in mind are:
+
+Answer 1: Framing
+Answer 2: Elevation
+Answer 3: Location
+Answer 4: Sound
+
+Correct Answer: 1,3,4
+
+<hr>
+
+Question 3
+
+Question: the three performing elements to keep in mind are:
+
+Answer 1: Ignoring the subject
+Answer 2: Changing your approach
+Answer 3: Open Questions
+Answer 4: Following up
+
+Correct Answer: 2,3,4
+
+<hr>
+
+Question 4
+
+Question: Sound is critical to a good interview?
+
+Answer 1: True
+Answer 2: False
+
+Correct Answer: True
+
+<hr>
+
+Question 5
+
+Question: Which of these videos demonstrates good framing for an interview?
+
+Answer 1: !5.6.18.a.mp4!
+Answer 2: !5.6.18.b.mp4!
+Answer 3: !5.6.18.c.mp4!
+
+Correct Answer: 1
+
+<hr>
+
+Question 6
+
+Question: How can I improve this shot?
+
+Answer 1: Use a wide shot
+Answer 2: Move to a quiet location
+Answer 3: Have the subject face the other way
+Answer 4: Pan away while the subject is talking
+
+Correct Answer: 2

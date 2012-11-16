@@ -181,7 +181,7 @@ h2. Interaction
 
 !4.6.18.a.png(Example of an interaction photo)!
 
-Focuses on the subject in a group during an activity. Images of your character interacting with others helps give a human dimension to your character..
+Focuses on the subject in a group during an activity. Images of your character interacting with others helps give a human dimension to your character.
 
 <hr/>
 
@@ -197,7 +197,7 @@ The first few images are especially important and often include a combination of
 
 * An establishing shot: Often a wide-angle image to give a sense of place, a sense of environment to give the viewer a sense of place.
 * A portrait: An online slideshow must be humanized quickly. You need to introduce your character as a travelling companion on your journey.
-* A close-up: A telling detail shot early on is graphically appealing and an opportunity to focus the viewer on the story's topic."
+* A close-up: A telling detail shot early on is graphically appealing and an opportunity to focus the viewer on the story's topic.
 
 <hr/>
 
@@ -225,7 +225,7 @@ You don't need to make every image in series EXACTLY like the others. Sometimes 
 
 * Framing - All images should be framed about the same way. If focal length stays the same, you may need to step farther away for larger objects (or people with bigger heads) and closer for smaller object.
 
-* Color and Image Quality - If possible, avoid using a flash with some images and not others. be consistent with ISO, white balance and depth-of-field."
+* Color and Image Quality - If possible, avoid using a flash with some images and not others. be consistent with ISO, white balance and depth-of-field.
 
 <hr/>
 
@@ -235,18 +235,20 @@ The biggest thing to remember for full-time photojournalists and citizen journal
 
 <hr/>
 
+h1. Quiz
+
 Question 1
 Question:Good photo essays are more than a random assortment of images. They need a story structure. Which of the options below might provide structure to a story (it can be more than one)?
-Answer 1:The story could be structured chronologically
+Answer 1:The story could be structured chronologically.
 Answer 2:The story could be structured as process piece to show how something is done.
-Answer 3:The story could be structured as a highlights piece that illustrates the most important elements of the subject
-Answer 4:All of the above
+Answer 3:The story could be structured as a highlights piece that illustrates the most important elements of the subject.
+Answer 4:All of the above.
 Correct Answer:4
 
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: A narrative story needs variety. A series on the other hand works better if the composition is consistent from image to image
+Question:TRUE or FALSE: A narrative story needs variety. A series on the other hand works better if the composition is consistent from image to image.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2
@@ -254,9 +256,9 @@ Correct Answer:2
 <hr/>
 
 Question 3
-Question:Good stories typically have the following characteristic (it can be more than one)
-Answer 1:The final project will be between 8 and 20 images
-Answer 2:If it’s a narrative story, there will be visual variety
-Answer 3:Stories about broad issues are always better then highly focused stories
-Answer 4:All of the above
-Correct Answer: 1,2
+Question:Good stories typically have the following characteristic (it can be more than one).
+Answer 1:The final project will be between 8 and 20 images.
+Answer 2:If it’s a narrative story, there will be visual variety.
+Answer 3:Stories about broad issues are always better then highly focused stories.
+Answer 4:All of the above.
+Correct Answer:1,2

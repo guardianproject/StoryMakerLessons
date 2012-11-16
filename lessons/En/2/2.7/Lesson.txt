@@ -4,22 +4,23 @@ h2. How can I send SMS Safely?
 
 !2.7.1.a.png!
 
-<hr>
+<hr/>
 
 h1. Background
 
 !2.7.2.a.png(How an SMS can be intercepted)!
-caption: How an SMS can be intercepted
 
 SMS is a highly convenient method of sending a message, but is not “secure.” SMS messages are saved by the service provider and may be intercepted by those with access to the cell tower transmitting the message. Your SMS messages may be accessed from your phone, or by anyone with access to the provider's records or records stored at the cell tower used for transmission.
 
-<hr>
+<hr/>
 
 h1. Solution
 
 SMS is searchable and indexable. Unencrypted SMS is easy to monitor. If you or your source may be threatened you should send only encrypted SMS, send them minimally and only between anonymous phones. [1]
 
-<hr>
+fn1. Small World News Safety Guides http://smallworldnews.tv/guide/
+
+<hr/>
 
 !2.7.4.a.png!
 
@@ -27,7 +28,7 @@ To send encrypted SMS you must use a specific app for this purpose. Both you and
 
 *REMEMBER:* You must use the encrypted text app in order to send encrypted texts. Your standard messaging app will not send encrypted texts.
 
-<hr>
+<hr/>
 
 !2.7.5.a.png!
 
@@ -35,7 +36,7 @@ Before you communicate with a source by SMS, determine whether they have access 
 
 Do not transmit sensitive information via SMS unless you are willing to have it read by the authorities. All SMS messages may be recorded by the service provider, and may be read by the authorities.
 
-<hr>
+<hr/>
 
 !2.7.6.a.png!
 
@@ -43,7 +44,7 @@ A simple system to avoid security breaches is to create a coded communication sy
 
 For example, “X” could mean you’re in danger, and “Z” could mean you’re safe. “Tree” could mean you want to meet up. “Banner” could be a cafe you can meet at."
 
-<hr>
+<hr/>
 
 It’s up to you to figure out a system that is easy for you and your sources to remember.
 
@@ -51,13 +52,13 @@ There are third party software solutions for secure texting, but they’re not a
 
 See this list of tools for maintaining privacy and anonymity when engaged in SMS.
 
-<hr>
+<hr/>
 
 !2.7.8.a.png!
 
 You should always delete SMS from your phone’s sent folder. There is nothing worse than creating an indexed archive of information that is waiting for the authorities to review in the event you are detained.
 
-<hr>
+<hr/>
 
 h1. Things to Remember
 
@@ -67,43 +68,34 @@ h1. Things to Remember
 * Be sure to use a system of codes if you or your source do not have access to an encrypted SMS application and SMS is your only form of communication with your source.
 * Never keep a record of your SMS messages on your phone. Your SMS messages may still be read if the authorities review your service provider’s logs.
 
-<hr>
+<hr/>
+
+h1. Quiz
 
 Question 1
+Question:How can I prevent my SMS messages from being read?
+Answer 1:Delete all SMS messages from my phone
+Answer 2:Ensure the receiver deletes the SMS message after reading
+Answer 3:Use an encrypted SMS application
+Answer 4:Use an anonymous phone
+Correct Answer:3
 
-Question: How can I prevent my SMS messages from being read?
-
-Answer 1: Delete all SMS messages from my phone
-Answer 2: Ensure the receiver deletes the SMS message after reading
-Answer 3: Use an encrypted SMS application
-Answer 4: Use an anonymous phone
-
-Correct Answer: Answer 3
-
-<hr>
+<hr/>
 
 Question 2
+Question:How can I communicate by SMS anonymously?
+Answer 1:Use an encrypted SMS application
+Answer 2:Use an anonymous phone
+Answer 3:Delete all SMS messages from my phone
+Answer 4:Ensure the receiver deletes the SMS message after reading
+Correct Answer:2
 
-Question: How can I communicate by SMS anonymously?
-
-Answer 1: Use an encrypted SMS application
-Answer 2: Use an anonymous phone
-Answer 3: Delete all SMS messages from my phone
-Answer 4: Ensure the receiver deletes the SMS message after reading
-
-Correct Answer: Answer 2
-
-<hr>
+<hr/>
 
 Question 3
-
-Question: How can I protect the information I send over SMS message if I cannot encrypt the message?
-
-Answer 1: Use an anonymous phone
-Answer 2: Delete all SMS messages from my phone
-Answer 3: Ensure the receiver deletes the SMS message after reading
-Answer 4: Use a code previously arranged in person with the recipient of your message
-
-Correct Answer: Answer 4
-
-fn1. Small World News Safety Guides http://smallworldnews.tv/guide/
+Question:How can I protect the information I send over SMS message if I cannot encrypt the message?
+Answer 1:Use an anonymous phone
+Answer 2:Delete all SMS messages from my phone
+Answer 3:Ensure the receiver deletes the SMS message after reading
+Answer 4:Use a code previously arranged in person with the recipient of your message
+Correct Answer:4

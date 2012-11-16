@@ -10,7 +10,7 @@ h1. Background
 
 Your eye in combination with your brain does an excellent job of calibrating how you perceive color. You will recognize a color as red even if the light source illuminating it is very yellow, making the apparent color orange. You will recognize fleshtones even if the light illuminating the subject is a very greenish-blue fluorescent.
 
-A digital camera can’t do that. It has to be calibrated to adjust for different light source’s color temperature. This calibration is measured against absolute white. That’s why it is called white balance."
+A digital camera can’t do that. It has to be calibrated to adjust for different light source’s color temperature. This calibration is measured against absolute white. That’s why it is called white balance.
 
 <hr/>
 
@@ -91,35 +91,37 @@ For shooting indoors, with the long tube fluorescent lights. When shooting outdo
 
 <hr/>
 
+h1. Quiz
+
 Question 1
-Question: Which best describes what white balance means?
-Answer 1: The amount of light that strikes the sensor
-Answer 2: The color temperature of the light striking the sensor, ranging from very warm (yellow) to cool (blue).
-Answer 3: The text color of the caption
-Answer 4: None of the above
+Question:Which best describes what white balance means?
+Answer 1:The amount of light that strikes the sensor.
+Answer 2:The color temperature of the light striking the sensor, ranging from very warm (yellow) to cool (blue).
+Answer 3:The text color of the caption.
+Answer 4:None of the above.
 Correct Answer: 2
 
 <hr/>
 
 Question 2
-Question: TRUE or FALSE: Whenever possible you should always adjust the white balance in the camera or in post production
-Answer 1: TRUE
-Answer 2: FALSE
+Question:TRUE or FALSE: Whenever possible you should always adjust the white balance in the camera or in post production.
+Answer 1:TRUE
+Answer 2:FALSE
 Correct Answer:2
 
 <hr/>
 
 Question 3
-Question: How can you control the white balance with your android smartphone or point and shoot camera? (t can be more than one):
-Answer 1: Manually set the white balance to the icon that best represents the light color conditions under which you are shooting
-Answer 2: It is a good idea to calibrate with a white piece of paper as video journalists do. 
-Answer 3: Adjust the white balance in post production
-Answer 4: All of the above
+Question:How can you control the white balance with your android smartphone or point and shoot camera? (t can be more than one):
+Answer 1 Manually set the white balance to the icon that best represents the light color conditions under which you are shooting.
+Answer 2:It is a good idea to calibrate with a white piece of paper as video journalists do. 
+Answer 3:Adjust the white balance in post production.
+Answer 4:All of the above.
 Correct Answer:1,3
 
 <hr/>
 
 Question 4
-Question: How might you correct the white balance in the image shown here?
+Question:How might you correct the white balance in the image shown here?
 
 NEED MULTIPLE CHOICE ANSWERS

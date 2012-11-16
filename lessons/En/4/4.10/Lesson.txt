@@ -63,17 +63,19 @@ Editing apps like Photoshop Express will allow you to increase or decrease expos
 
 h2. Captions/Keywords
 
-!4.5.8.a.png!
-
 h3. Good Caption & Keywords
 
-New York, NY --  Bubble artist Fan Yang entered the Guinness Book of World Records today for the 13th time with 'The Most Bubble Chamber.' Yang attempted the record as part of his Off-Broadway spectacle, 'The Gazillion Bubble Show.'  Photo credit: John Smock/SIPA Press Key Words: Fan Yang, Guinness Book of World Records, Off-Broadway, New York City Tags: bubbles, performance, children’s show,)!
+!4.5.8.a.png!
+
+"New York, NY --  Bubble artist Fan Yang entered the Guinness Book of World Records today for the 13th time with 'The Most Bubble Chamber.' Yang attempted the record as part of his Off-Broadway spectacle, 'The Gazillion Bubble Show.'  Photo credit: John Smock/SIPA Press Key Words: Fan Yang, Guinness Book of World Records, Off-Broadway, New York City Tags: bubbles, performance, children’s show"
 
 h3. Bad Caption & No Keywords
 
-Men smoking shisha. Doctors say smoking is bad for you.
+!4.5.8.b.png!
 
-For specific caption and keyword guidelines, see the caption & key word section. It is essential that you caption images correctly. Be sure and include relevant copyright info and a photo credit – your full name or pseudonym. Caption: June, 2011 -- 
+"Men smoking shisha. Doctors say smoking is bad for you."
+
+For specific caption and keyword guidelines, see the caption & key word section. It is essential that you caption images correctly. Be sure and include relevant copyright info and a photo credit – your full name or pseudonym. 
 
 <hr/>
 
@@ -103,18 +105,20 @@ The Associated Press ethical guidelines for post-production of photographs.
 
 <hr/>
 
+h1. Quiz
+
 Question 1
-Question:When shooting which of the following will make post production more effective
-Answer 1:Make sure your camera is set to the largest file size
-Answer 2:Make sure the image is properly exposed
-Answer 3:Make sure the image is properly focused
-Answer 4:All of the above
+Question:When shooting which of the following will make post production more effective?
+Answer 1:Make sure your camera is set to the largest file size.
+Answer 2:Make sure the image is properly exposed.
+Answer 3:Make sure the image is properly focused.
+Answer 4:All of the above.
 Correct Answer:4
 
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: 300 dpi (dots per inch) means you should file your images at 300 dots (or pixels) along the longest edge
+Question:TRUE or FALSE: 300 dpi (dots per inch) means you should file your images at 300 dots (or pixels) along the longest edge.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2
@@ -122,11 +126,11 @@ Correct Answer:2
 <hr/>
 
 Question 3
-Question:Which of the following are ethical
-Answer 1:Distracting people can be removed from a frame with an airbrush or cloning tool
-Answer 2:Color and saturation can be made more intense in the interest of making the image emotionally stronger
-Answer 3:The image can be captioned with information that changes the meaning of a photograph
-Answer 4:None of the above
+Question:Which of the following are ethical?
+Answer 1:Distracting people can be removed from a frame with an airbrush or cloning tool.
+Answer 2:Color and saturation can be made more intense in the interest of making the image emotionally stronger.
+Answer 3:The image can be captioned with information that changes the meaning of a photograph.
+Answer 4:None of the above.
 Correct Answer:4
 
 <hr/>

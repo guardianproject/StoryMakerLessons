@@ -1,0 +1,104 @@
+h1. Problem Statement
+
+h2. How do I adapt my coverage as the story changes?
+
+!1.6.1.a.png!
+
+<hr/>
+
+h1. Background
+
+Some stories are like bright flares. They burn intensely but shortly. Other stories build slowly, growing in intensity as they go. Still other stories are short-lived but illustrate ongoing social issues that warrant continued coverage.
+
+<hr/>
+
+!1.6.3.a.png!
+
+News organizations think in terms of distinct categories for coverage. These categories help journalists take advantage of the availability of more information as time goes on. They help journalists maintain the attention of readers and viewers by providing variety in their coverage. Understanding this progression and what’s expected of you will make you a better journalist.
+
+<hr/>
+
+Much online news coverage is short, no longer than Tweets, Facebook or microblog posts. The text is often accompanied by photos, audio or video. Still, what you post and when should be influenced by these principles. 
+
+<hr/>
+
+h1. Solution
+
+h2. The breaking news story
+
+!1.6.5.a.mp4(Example of a breaking news story)!
+
+From fires to demonstrations to plane crashes, breaking news events are unplanned and require a fast response. Breaking news stories are often succinct dispatches that provide little more than basic information: who, what, where, when, why and how. Think in terms of reporting the basic facts and interviewing sources in your coverage that get to the key information immediately. Breaking news stories are sometimes referred to as first-day stories if there will be follow up coverage as the event unfolds.
+
+<hr/>
+
+h2. The event story
+
+!1.6.6.a.mp4(Example of a general assignment story)!
+
+This may be a press conference, planned demonstration, opening of a new hospital, or an election. Some follow a breaking news event. One key difference from breaking stories is that journalists have the opportunity to do pre-reporting. This allows you to present more background information in your story or as links. It might also allow you time to talk to more people, perhaps including an expert voice or someone with an opposing viewpoint. Ask yourself what information and sources will help the reader better understand the relevance of the issue.
+
+<hr/>
+
+h2. The feature story
+
+!1.6.7.a.mp4(Example of a feature story)!
+
+Feature stories broader trends rather than specific events. They can be about important issues such as water shortages or more light-hearted events such as holiday festivals or a story about an unusual artist. Features favor a more artful presentation than news stories. Feature stories include some description, presentations of detailed information about how the event looked or sounded or how people react.
+
+<hr/>
+
+h2. The profile story
+
+!1.6.8.a.mp4(Example of a profile story)!
+
+A profile is a story about a person. He or she could be a politician or an athlete or a celebrity. Profile stories give us a window into the world of that person. Like features, profiles often contain description as well as quotes from the subject him or herself and perhaps from friends, family members and associates.
+
+<hr/>
+
+h1. Things to Remember
+
+It should be clear from the different story types presented in this section how journalists and news organizations can present a compelling variety of coverage over time that encourages public understanding and dialogue about an issue. It should also be clear how the different types of stories can apply to longer stories, microblogging or be used with photo, video and audio journalism.
+
+<hr/>
+
+!1.6.10.a.mp4(Interview with a journalis who has experience creating a news "package")!
+
+Together these stories and other accompanying media elements make up what is called a “package.” Understanding what elements to include in a package and when to present them is an important part of good journalism and news management.
+
+<hr/>
+
+!1.6.11.a.mp4(Example of a breaking news story)!
+!1.6.11.b.mp4(Example of a following story)!
+
+The most important thing to remember is to present you information in a logical order for the reader -- analysis about the causes of a power outage in the capitol should not precede breaking news coverage of its immediate impact on the public. But, as the storyline evolves, it is important to continue to make basic, background or contextual information available.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:Which of the following are characteristics of a good news analysis story (it can be more than one)?
+Answer 1:The journalist’s opinion is clear
+Answer 2:The presentation of information shows only one point of view, one side of the story
+Answer 3:While the presentation may present a point of view, it makes a fact-based argument for that point of view
+Answer 4:The reader does not realize that it is an analysis/opinion piece rather than hard news
+Correct Answer:1,3
+
+<hr/>
+
+Question 2
+Question:TRUE of FALSE: As a story from first-day coverage to deeper, more investigative coverage, it is important to provide contextual information in your presentation that reminds readers of the basic facts of the issue.
+Answer 1:TRUE
+Answer 2:FALSE
+Correct Answer:1
+
+<hr/>
+
+Question 3
+Question:The categories of stories presented here are important because.
+Answer 1:They are a roadmap for how journalists can present more information as a story evolves over time
+Answer 2:The provide variety of presentation that helps keep a reader interested in topic over time
+Answer 3:Clear categories give reporters and news organization a way to talk about stories and plan long-term coverage
+Answer 4:All of the above
+Correct Answer:4

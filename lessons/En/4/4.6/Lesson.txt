@@ -77,18 +77,20 @@ At least the main subject of your photo should always be sharp. Remember and man
 
 <hr/>
 
+h1. Quiz
+
 Question 1
 Question:What causes blurry images when photographing fast-moving objects?
-Answer 1:Too large and aperture
-Answer 2:A slow shutter speed
-Answer 3:Accidentally switching the camera to video mode
-Answer 4:Too high an ISO
+Answer 1:Too large and aperture.
+Answer 2:A slow shutter speed.
+Answer 3:Accidentally switching the camera to video mode.
+Answer 4:Too high an ISO.
 Correct Answer:2
 
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: Blurriness can be caused by handshake. It is important to stabilize the camera when trying to freeze action
+Question:TRUE or FALSE: Blurriness can be caused by handshake. It is important to stabilize the camera when trying to freeze action.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2
@@ -100,8 +102,8 @@ Question: How might you improve the sharpness of this image?
 
 !4.9.13.a.png!
 
-Answer 1:Wait for a moment when the subject is moving more slowly
-Answer 2:Zoom to a more telephoto setting
-Answer 3:Wait for a moment when the subject is in more light
-Answer 4:Ask the fast-moving subject to take a photo of himself
+Answer 1:Wait for a moment when the subject is moving more slowly.
+Answer 2:Zoom to a more telephoto setting.
+Answer 3:Wait for a moment when the subject is in more light.
+Answer 4:Ask the fast-moving subject to take a photo of himself.
 Correct Answer:1,3

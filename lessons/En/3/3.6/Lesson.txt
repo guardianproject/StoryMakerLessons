@@ -82,11 +82,13 @@ h1. Things to Remember
 
 <hr/>
 
+h1. Quiz
+
 Question 1
 Question:What is handling noise?
-Answer 1:The music of a famous composer
-Answer 2:The interrupting background sound of an air conditioner
-Answer 3:Disruptive sounds caused by your own hand changing its grip or moving while holding a recorder
+Answer 1:The music of a famous composer.
+Answer 2:The interrupting background sound of an air conditioner.
+Answer 3:Disruptive sounds caused by your own hand changing its grip or moving while holding a recorder.
 Answer 4:Handling noise, ie turning off noisy machines.
 Correct Answer:3
 
@@ -97,7 +99,7 @@ Question:Which of the following can be used to prevent handling noise and keep y
 Answer 1:Table
 Answer 2:Mic Stand
 Answer 3:A Wall
-Answer 4:All of the Above
+Answer 4:All of the Above.
 Correct Answer:4
 
 <hr/>
@@ -106,7 +108,7 @@ Question 3
 Question:When should you address the problem of air conditioning sounds or other machines?
 Answer 1:When you arrive at a location, before you start recording.
 Answer 2:In the middle of the interview.
-Answer 3:During the editing process
+Answer 3:During the editing process.
 Answer 4:Turn off all machines 24 hours before your interview.
 Correct Answer:1
 

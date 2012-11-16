@@ -63,12 +63,14 @@ Images that are slightly overexposed or underexposed can sometime be fixed with 
 
 h1. Things to Remember
 
-* It is essential that your images be properly exposed
-* Smartphone cameras simply aren’t capable taking well exposed images under tough lighting conditions
-* Managing the exposure within the range that the camera is capable can help a lot
-* Always take a few practice pictures to check the exposure and make adjustments if necessary
+* It is essential that your images be properly exposed.
+* Smartphone cameras simply aren’t capable taking well exposed images under tough lighting conditions.
+* Managing the exposure within the range that the camera is capable can help a lot.
+* Always take a few practice pictures to check the exposure and make adjustments if necessary.
 
 <hr/>
+
+h1. Quiz
 
 Question 1
 Question:What three things control exposure?
@@ -81,7 +83,7 @@ Correct Answer:1,2,4
 <hr/>
 
 Question 2
-Question:True or False: The shutter controls the amount of time the shutter is exposed to light
+Question:True or False: The shutter controls the amount of time the shutter is exposed to light.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:1
@@ -89,22 +91,22 @@ Correct Answer:1
 <hr/>
 
 Question 3
-Question:When shooting with a smartphone you can do which of the following if the image is overexposed
-Answer 1:Nothing. Smartphones offer no manual control of exposure
-Answer 2:Many smartphone cameras now let you select the area of the frame that will be properly exposed by touching it. The camera will recalibrate exposure based on the spot you select
-Answer 3:Set the smartphone to manual camera mode
-Answer 4:None of the above
+Question:When shooting with a smartphone you can do which of the following if the image is overexposed.
+Answer 1:Nothing. Smartphones offer no manual control of exposure.
+Answer 2:Many smartphone cameras now let you select the area of the frame that will be properly exposed by touching it. The camera will recalibrate exposure based on the spot you select.
+Answer 3:Set the smartphone to manual camera mode.
+Answer 4:None of the above.
 Correct Answer:2
 
 <hr/>
 
 Question 4
-Question:How might you correct the exposure in this example image?
+Question:How might you correct the exposure in this example image? 
 
 !4.8.13.a.png!
 
-Answer 1:increase the ISO
-Answer 2:Adjust the exposure slightly in post-production
-Answer 3:Open the aperture (if possible)
-Answer 4:Slow shutter speed being careful not to slow it so much that the image becomes blurry
+Answer 1:Increase the ISO.
+Answer 2:Adjust the exposure slightly in post-production.
+Answer 3:Open the aperture (if possible).
+Answer 4:Slow shutter speed being careful not to slow it so much that the image becomes blurry.
 Correct Answer:???????

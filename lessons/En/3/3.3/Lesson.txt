@@ -56,22 +56,24 @@ h1. Things to Remember
 
 <hr/>
 
+h1. Quiz
+
 Question 1 
 Question:The main purpose of a breaking news story is
-Answer 1:To make a long detailed audio report including extensive research and many interviews
-Answer 2:To present an honored guest who is speaking at a special conference
-Answer 3:To summarize what information is available regarding something that is happening now and who's outcome is still not completely known and will require followup reports
-Answer 4:None of the above
+Answer 1:To make a long detailed audio report including extensive research and many interviews.
+Answer 2:To present an honored guest who is speaking at a special conference.
+Answer 3:To summarize what information is available regarding something that is happening now and who's outcome is still not completely known and will require followup reports.
+Answer 4:None of the above.
 Correct Answer:3
 
 <hr/>
 
 Question 2 
-Question:The advantage of producing an audio report about an event is
-Answer 1:You can prepare in advance, doing research and scheduling interviews related to the event
-Answer 2:You have no time to do research, just say what you know
-Answer 3:It is not possible to do interviews at an event
-Answer 4:All of the above
+Question:The advantage of producing an audio report about an event is.
+Answer 1:You can prepare in advance, doing research and scheduling interviews related to the event.
+Answer 2:You have no time to do research, just say what you know.
+Answer 3:It is not possible to do interviews at an event.
+Answer 4:All of the above.
 Correct Answer:1
 
 <hr/>

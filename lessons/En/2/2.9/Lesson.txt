@@ -4,48 +4,45 @@ h2. How can I use a browser safely?
 
 !2.9.1.a.png!
 
-<hr>
+<hr/>
 
 h1. Background
 
 When you wish to eavesdrop on someone’s phone call, you need physical access to the telephone line or a contact at the phone exchange who provides access to their telephone line. On the Internet it is possible to either intercept the line that connects you to the Internet or persuade the ISP to do the same. All Internet activity originating from your computer can be recorded or even controlled by the surveillance mechanism. [1]
 
-<hr>
+<hr/>
 
 h1. Solution
 
 h2. How you are monitored
 
 !2.9.3.a.png(How an ISP works)!
-caption: How an ISP works
 
 Intercepting a phone or an Internet line may require specific skills and clandestine actions, influencing the ISP is simpler. Many countries have only one ISP and it is usually under the control of their governments.
 
 All countries have access to an Internet gateway. This gateway can open or close to control the Internet access to and from the given country. All Internet traffic passes through the national gateway, and one can assume that to have control over the country’s gateway means access to all country-related Internet traffic.
 
-<hr>
+<hr/>
 
 !2.9.4.a.png(How cookies are stored on a computer)!
-caption: How cookies are stored on a computer
 
 Records of your Internet activity are stored on websites you visit and your personal computers. Many websites require installation of a “cookie” on our computer. A cookie is a file that stores specific information about the user. For instance, it could record our country of residence, to present a relevant country page when visiting a particular website. Other information could include the links we followed to arrive at the website, or personal data about us from our own computers.
 
 After browsing the internet for a month, you may have hundreds of different cookies on your computer. Accessing them can reveal information about your interests and affiliations. A cookie on your computer may be proof of your visiting a particular website.
 
-<hr>
+<hr/>
 
 h2. Browsing History
 
 Your browser will store your history by default. If you are browsing sensitive issues, turn off history caching, and delete your history.
 
-Consider also using the Chrome browser, and only browsing via the ""incognito tab"" feature."
+Consider also using the Chrome browser, and only browsing via the "incognito tab" feature.
 
-<hr>
+<hr/>
 
 h2. HTTPS
 
 !2.9.6.a.png(How HTTP and HTTPS work)!
-caption: How HTTP and HTTPS work
 
 Removing your history is only the first step to browsing more safely. Most sites on the web are accessed using the unencrypted HTTP protocol. HTTP is susceptible to eavesdropping, and even to intermediaries that might set out to modify the pages a browser is fetching.
 
@@ -55,7 +52,7 @@ Unfortunately, a web server must be configured to support HTTPS properly before 
 
 [2]
 
-<hr>
+<hr/>
 
 !2.9.7.a.png!
 
@@ -63,9 +60,9 @@ h2. Some Notes on Using HTTPS
 
 Check three indicators to ensure that you're at an HTTPS page: (1) the URL begins with https://; (2) there is a lock icon in the corner of the browser; and (3) the URL/location bar is colored.
 
-If you receive a warning about certificates, or a see broken lock icon, you should assume that any of the security properties of the page could be broken. Contact the site's webmaster and have them fix the problem before sending any sensitive information to the site."
+If you receive a warning about certificates, or a see broken lock icon, you should assume that any of the security properties of the page could be broken. Contact the site's webmaster and have them fix the problem before sending any sensitive information to the site.
 
-<hr>
+<hr/>
 
 h2. Anonymity Networks
 
@@ -79,70 +76,60 @@ The TOR network is a similar system. It will anonymize your online presence and 
 
 TOR can now be implemented via mobile on Android-based devices. Orbot and Orweb are two apps that work together to provide an anonymous browsing experience.
 
-<hr>
+<hr/>
 
 h2. Cookies
 
 It is possible to delete cookies from your computer. This can be done from your Internet browser or by finding and deleting them manually. It is also possible to tell your browser not to accept cookies. This may result in many websites refusing to open on your computer, but will provide you with maximum protection from cookie infiltration.
 
-<hr>
+<hr/>
 
 h1. Things to Remember:
 
 * Use HTTPS whenever possible.
 * If you are concerned your browsing is being monitored, use an anonymity network, such as TOR.
-* Turn off cookies
+* Turn off cookies.
 * Turn off your browsing history.
 * Your browsing is never 100% secure, if information is life threatening, do not transmit via browser.
 
-<hr>
+<hr/>
+
+h1. Quiz
 
 Question 1
+Question:How does browsing put me at risk?
+Answer 1:By default my ISP may have a record of all my browsing
+Answer 2:The internet is a scary place
+Answer 3:Browsers keep a history by default
+Answer 4:My browsing history may be accessible to the government
+Correct Answer:1,3,4
 
-Question: How does browsing put me at risk?
-
-Answer 1: By default my ISP may have a record of all my browsing
-Answer 2: The internet is a scary place
-Answer 3: Browsers keep a history by default
-Answer 4: My browsing history may be accessible to the government
-
-Correct Answer: 1, 3, 4
-
-<hr>
+<hr/>
 
 Question 2
+Question:What steps can I take to browse more safely?
+Answer 1:Turn off ""history"" caching
+Answer 2:Clear your ""history"" 
+Answer 3:Use the ""incognito tab"" feature on the Chrome browser
+Answer 4:Turn off the computer I'm finished browsing
+Correct Answer:1,3
 
-Question: What steps can I take to browse more safely?
-
-Answer 1: Turn off ""history"" caching
-Answer 2: Clear your ""history"" 
-Answer 3: Use the ""incognito tab"" feature on the Chrome browser
-Answer 4: Turn off the computer I'm finished browsing
-
-Correct Answer: 1, 3
-
-<hr>
+<hr/>
 
 Question 3
+Question:What is the purpose of an Anonymity Network?
+Answer 1:To protect my traffic from being monitored
+Answer 2:To look at blocked websites
+Answer 3:To prevent websites from tracking my browsing habits
+Answer 4:To engage in criminal activity
+Correct Answer:1,2,3
 
-Question: What is the purpose of an Anonymity Network?
-
-Answer 1: To protect my traffic from being monitored
-Answer 2: To look at blocked websites
-Answer 3: To prevent websites from tracking my browsing habits
-Answer 4: To engage in criminal activity
-
-Correct Answer: 1, 2, 3
-
-<hr>
+<hr/>
 
 Question 4
-
-Question: How do you know your browser is connecting via HTTPS?
-
-Answer 1: I type HTTPS before any website url
-Answer 2: A lock appears in the address bar next to the website url
-Answer 3: It always connects via HTTPS
-Answer 4: All of the above
-
-Correct Answer: 2
+Question:How do you know your browser is connecting via HTTPS?
+Answer 1:I type HTTPS before any website url
+Answer 2:A lock appears in the address bar next to the website url
+Answer 3:It always connects via HTTPS
+Answer 4:All of the above
+Correct Answer:2

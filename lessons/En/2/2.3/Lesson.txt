@@ -4,7 +4,7 @@ h2. How do my communications put me at risk?
 
 !2.3.1.a.png!
 
-<hr>
+<hr/>
 
 h1. Background
 
@@ -12,7 +12,7 @@ Being an effective journalist involves using a variety of communication methods.
 
 Understanding your communications trail is the first step to ensure those who threaten you cannot take advantage of you or your sources.
 
-<hr>
+<hr/>
 
 h1. Solution
 
@@ -27,39 +27,37 @@ All standard methods of electronic communication leave trails. Electronic commun
 * Web browsing
 * Social network activity
 
-<hr>
+<hr/>
 
 !2.3.4.a.png(Communication System)!
-caption: Communication System
 
 All electronic communications rely on a similar framework. Communication is initiated by one individual, routes through a network, and is received by a second individual.
 
 The nature of the threat posed by the communication depends on the system being used.
 
-<hr>
+<hr/>
 
 !2.3.5.a.png(Monitoring email at the ISP and national gateway)!
-caption: Monitoring email at the ISP and national gateway
 
 Mobile phone network communication relies on a passive system, where the user’s device is, by default, connected to the network.
 
-<hr>
+<hr/>
 
 Web browsing, email, VoIP, and social network communication have traditionally relied on the user to actively connect to the network before communication may occur.
 
-<hr>
+<hr/>
 
 !2.3.6.a.png!
 
 As more users rely on their mobile for all data and communication services, all of these communications begin to rely on passive communication. Although you must take an action to communicate with a social network or receive email on a computer, your phone will receive these communications by default, once initiated.
 
-<hr>
+<hr/>
 
 h1. Things to Remember
 
 If you believe you are under threat, surveillance of your communications may happen at any time. To limit passive network surveillance, log out of any communications tool when it is not in use.
 
-<hr>
+<hr/>
 
 !2.3.7.a.png!
 
@@ -76,28 +74,24 @@ Suggested Tools:
 * Notes: NoteCipher
 * Passwords: KeePassDroid"
 
-<hr>
+<hr/>
+
+h1. Quiz
 
 Question 1
+Question:What communications leave trails?
+Answer 1:Email + SMS
+Answer 2:Phone calls
+Answer 3:Handwritten notes
+Answer 4:Web browsing
+Correct Answer:1, 2, 4
 
-Question: What communications leave trails?
-
-Answer 1: Email + SMS
-Answer 2: phone calls
-Answer 3: handwritten notes
-Answer 4: web browsing
-
-Correct Answer: 1, 2, 4
-
-<hr>
+<hr/>
 
 Question 2
-
-Question: How do mobile phones connect to the network by default?
-
-Answer 1: By dialing phone numbers.
-Answer 2: Only when making a phone call.
-Answer 3: Mobile phones engage in passive communication constantly.
-Answer 4: Only when making a phone call or sending an SMS.
-
-Correct Answer: Answer 3
+Question:How do mobile phones connect to the network by default?
+Answer 1:By dialing phone numbers.
+Answer 2:Only when making a phone call.
+Answer 3:Mobile phones engage in passive communication constantly.
+Answer 4:Only when making a phone call or sending an SMS.
+Correct Answer:Answer 3

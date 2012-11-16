@@ -57,9 +57,9 @@ Don't be afraid to interrupt when you don't understand or when the interviewee i
 
 You can interrupt by:
 
-* Using eye contact to ‘ask’ for the interviewee to pause, or opening your mouth as though you are about to speak
-* A light touch on the arm
-* Wait till the interviewee takes a breath and then jump in firmly
+* Using eye contact to ‘ask’ for the interviewee to pause, or opening your mouth as though you are about to speak.
+* A light touch on the arm.
+* Wait till the interviewee takes a breath and then jump in firmly.
 
 Always be polite even in hostile situations. (Being polite doesn't mean you can't ask tough questions – it means doing so politely.)
 
@@ -78,36 +78,38 @@ Some journalists stay in touch with the person they have interviewed throughout 
 h1. Things to Remember
 
 * Planned interviews offer the distinct advantage of allowing you to fully prepare questions and research before you speak with someone. 
-* Unplanned interviews are challenging
+* Unplanned interviews are challenging.
 * Small courtesies and actions can help establish trust and therefore improve interviews. 
 * If it is possible, do some follow-up with the people you interview and send them the final item.
 
 <hr/>
 
+h1. Quiz
+
 Question 1
-Question: What is the advantage of a planned interview?
-Answer 1: You can make time to research who they are and prepare the best questions possible
-Answer 2: You get to walk the streets searching for someone to speak with on-the-spot
-Answer 3: You don't need to prepare until right before the scheduled interview
-Answer 4: None of the Above
+Question:What is the advantage of a planned interview?
+Answer 1:You can make time to research who they are and prepare the best questions possible.
+Answer 2:You get to walk the streets searching for someone to speak with on-the-spot.
+Answer 3:You don't need to prepare until right before the scheduled interview.
+Answer 4:None of the Above.
 Correct Answer:1
 
 <hr/>
 
 Question 2
 Question:Why should you try to establish trust with someone you are interviewing?
-Answer 1:So they will give you money
-Answer 2:So they don't steal from you
-Answer 3:To increase the chance they will speak honestly and openly knowing that you have integrity
-Answer 4:All of the Above
+Answer 1:So they will give you money.
+Answer 2:So they don't steal from you.
+Answer 3:To increase the chance they will speak honestly and openly knowing that you have integrity.
+Answer 4:All of the Above.
 Correct Answer:3
 
 <hr/>
 
 Question 3
 Question:Which is good example of following up with someone you interviewed?
-Answer 1:Avoid communicating with that person for as long as possible
-Answer 2:Email or call them to thank them for their participation and informing them of when the work will be published/aired
-Answer 3:Follow them around town and watch where they go
-Answer 4:Tell their friends you thought they made a great interview
+Answer 1:Avoid communicating with that person for as long as possible.
+Answer 2:Email or call them to thank them for their participation and informing them of when the work will be published/aired.
+Answer 3:Follow them around town and watch where they go.
+Answer 4:Tell their friends you thought they made a great interview.
 Correct Answer:2

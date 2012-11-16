@@ -4,15 +4,15 @@ h2. How do I get a good shot?
 
 !5.5.1.a.png!
 
-<hr>
+<hr/>
 
 h1. Background
 
-"When you are in the middle of shooting your video it may be difficult to know exactly what you should record. This is particularly true when you are starting out. It’s easy to get frustrated, confused, and be unsure of yourself.
+When you are in the middle of shooting your video it may be difficult to know exactly what you should record. This is particularly true when you are starting out. It’s easy to get frustrated, confused, and be unsure of yourself.
 
 Every videographer has gone through this. You will get better with practice. Do your best to remain calm, focus on the task at hand, and you will find success.
 
-<hr>
+<hr/>
 
 h1. Solution
 
@@ -24,44 +24,40 @@ h2. Have Control
 
 h2. Have Confidence
 
-<hr>
+<hr/>
 
 h2. Have Purpose
 
 !5.5.4.a.mp4(Example of a subject framed in a scene)!
-caption: Example of a subject framed in a scene
 
 Know what you want to record
 * Pay close attention to what action or subject you intend to record, and make sure you can see it clearly in the frame.
 
-<hr>
+<hr/>
 
 !5.5.5.a.mp4(Example of capturing motion in a frame)!
-caption: Example of capturing motion in a frame
 
 Hold your position while recording
 * Allow the action within your frame to be the source of motion. This will make it easier for the viewer to focus. Make a decision on the best place to record from and hold your frame.
 
-<hr>
+<hr/>
 
 h2. Have Control
 
 !5.5.6.a.mp4(The proper way to hold a camera steady)!
-caption: The proper way to hold a camera steady
 
 Hold your camera steady (diagram)
 * Use your body to brace the camera, the individual above uses the side of their body to brace the camera, while centering it in front of them.
 * Remember to breathe. You may be tempted to hold your breath to keep the camera from moving, but its best to set your shot, breathe, and when you have a steady shot, begin recording.
 
-<hr>
+<hr/>
 
 !5.5.7.a.mp4(Example of how to properly show motion in a frame without panning)!
-caption: Example of how to properly show motion in a frame without panning
 
 Do not pan
-* Moving the camera creates a lot of motion in the frame. This is often more distracting than helpful. If you want another angle, stop recording, change your frame, and start recording your new shot
+* Moving the camera creates a lot of motion in the frame. This is often more distracting than helpful. If you want another angle, stop recording, change your frame, and start recording your new shot.
 
-<hr>
+<hr/>
 
 h2. Have Confidence
 
@@ -70,76 +66,63 @@ h2. Have Confidence
 Have a goal for your shot
 * Knowing what you’re trying to record before you begin will allow you to know when you’ve completed the shot.
 
-<hr>
+<hr/>
 
 !5.5.9.a.mp4(Example of a single shot telling a story)!
-caption: Example of a single shot telling a story
 
 Don’t stop recording until actions have completed
-* Recording a complete action can tell a story with a single shot.
 
-<hr>
+<hr/>
 
 !5.5.10.a.png!
 
 Stand in front of what you want to film, not off to the side
-* Looking directly at each other is how we interact with one another. Doing so with your camera will make the shot more natural."
 
-<hr>
+<hr/>
 
 h1. Things to Remember
 
 * The more you keep these in mind, the more effective your footage will be.
 * The only time to not follow these guidelines is when they will put you or your subject at risk.
 
-<hr>
+<hr/>
+
+h1. Quiz
 
 Question 1
+Question:What are the three primary guidelines?
+Answer 1:Have Purpose.
+Answer 2:Have Control.
+Answer 3:Have Confidence.
+Answer 4:Take Risk.
+Correct Answer:1,2,3
 
-Question: What are the three primary guidelines?
-
-Answer 1: Have Purpose
-Answer 2: Have Control
-Answer 3: Have Confidence
-Answer 4: Take Risk
-
-Correct Answer: 1,2,3
-
-<hr>
+<hr/>
 
 Question 2
+Question:What should I do to record another action?
+Answer 1:Pan over to it from the shot you’re recording.
+Answer 2:Stop recording, change your frame, and start recording the action in new shot.
+Answer 3:Keep recording while moving to it as fast as possible.
+Answer 4:Pass the camera to someone closer.
+Correct Answer:2
 
-Question: What should I do to record another action?
-
-Answer 1: Pan over to it from the shot you’re recording
-Answer 2: Stop recording, change your frame, and start recording the action in new shot
-Answer 3: Keep recording while moving to it as fast as possible
-Answer 4: Pass the camera to someone closer
-
-Correct Answer: 2
-
-<hr>
+<hr/>
 
 Question 3
+Question:Why is it important to hold your position when recording?
+Answer 1:There is only one right angle to film from.
+Answer 2:Motion confuses people.
+Answer 3:The camera doesn’t record when moving.
+Answer 4:Allowing the action within your frame to be the source of motion will make it easier to see.
+Correct Answer:4
 
-Question: Why is it important to hold your position when recording?
-
-Answer 1: There is only one right angle to film from
-Answer 2: Motion confuses people
-Answer 3: The camera doesn’t record when moving
-Answer 4: Allowing the action within your frame to be the source of motion will make it easier to see
-
-Correct Answer: 4
-
-<hr>
+<hr/>
 
 Question 4
-
-Question: Why does standing in front of what you want to record help your shot feel more natural?
-
-Answer 1: It simulates the way in which we interact with one another
-Answer 2: It is the only way the record button works
-Answer 3: It will intimidate the subject
-Answer 4: It is the easiest way to record
-
-Correct Answer: 1
+Question:Why does standing in front of what you want to record help your shot feel more natural?
+Answer 1:It simulates the way in which we interact with one another.
+Answer 2:It is the only way the record button works.
+Answer 3:It will intimidate the subject.
+Answer 4:It is the easiest way to record.
+Correct Answer:1

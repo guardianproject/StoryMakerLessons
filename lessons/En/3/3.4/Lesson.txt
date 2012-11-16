@@ -70,12 +70,14 @@ h1. Things to Remember
 
 <hr/>
 
+h1. Quiz
+
 Question 1
 Question:A good introduction should include:
-Answer 1:Introduction of the narrator
-Answer 2:A preview of what the topic is and who will be featured
-Answer 3:An explanation of everything that will be learned in this program
-Answer 4:A shout-out to your fans
+Answer 1:Introduction of the narrator.
+Answer 2:A preview of what the topic is and who will be featured.
+Answer 3:An explanation of everything that will be learned in this program.
+Answer 4:A shout-out to your fans.
 Correct Answer:1,2
 
 <hr/>
@@ -85,7 +87,7 @@ Question:Can you share your questions with an interviewee before the interview?
 Answer 1:Always.
 Answer 2:Never.
 Answer 3:It is your choice.
-Answer 4:All of the Above
+Answer 4:All of the Above.
 Correct Answer:3
 
 <hr/>

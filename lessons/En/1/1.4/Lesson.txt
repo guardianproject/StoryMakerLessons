@@ -1,0 +1,134 @@
+h1. Problem Statement
+
+h2. What are some basic techniques for getting the most out of an interview?
+
+!1.4.1.png!
+
+<hr/>
+
+h1. Background
+
+Interviewing well is a learned skill. In the last section you learned about identifying sources and the different kind of information they are best qualified to provide. In this section we will discuss how to approach your subject or source to get the information you need on the record.
+
+<hr/>
+
+Some interviews can be pre-arranged. Some are quick, unplanned and done at the scene. Good reporters often have established contacts -- Experts such as informational sources or an authoritative voices -- they can call for an interview on short notice in the event of breaking news or a tight deadline.
+
+<hr/>
+
+The type of story you are doing and the circumstances of the interview will impact your techniques and ability to apply the principles introduced here. It is important to note that recording interviews, has special requirements; you need to be sure you have useable recorded material. This will be covered in the audio and video modules.
+
+<hr/>
+
+h1. Solution
+
+!1.4.5.png!
+
+Remember: the type of sources you are interviewing and the role they will play in your coverage will impact the kinds of questions you ask. The amount of time you have will also affect how you conduct your interview.
+
+<hr/>
+
+!1.4.6.png(Example of well prepared notes for an interview)!
+
+h2. Be prepared
+
+Do some research before the interview when possible. You will ask better, more relevant questions. It helps to know a bit about the person you are interviewing.
+
+h2. Identify yourself as a journalist
+
+In many situations this will be obvious, but not in all situations. This is especially true online. It is ethically and professionally very important to do this, though there are some exceptions (more on this see section 8 on professional standards and ethics).
+
+Let the subject know if you or another journalist will be using a camera to record photos or video - The subject should not be caught surprised or unprepared.
+
+h2. Prepare some introductory questions
+
+It is always a good idea to have some basic questions prepared. It saves time and keeps the interview focused.
+
+<hr/>
+
+h2. Record the interview
+
+When possible, record your interview. It often will be more accurate than your notes. It also gives you proof of what was said. Take notes too, because equipment can fail.
+
+h2. Interview in person
+
+While this is not always possible in the online world, it is a good idea to meet someone in person when doing an interview. It is harder for people to be unresponsive or avoid answering questions.
+
+<hr/>
+
+!1.4.8.mp4(Example of a beginning of an interview)!
+
+h2. Have a one-sentence explanation of your story for your sources
+
+You need to make it clear to your subject what your story is about. This will help them stay focused and give you relevant answers.
+
+h2. Start with basic questions
+
+Depending on the amount of time you have, it is important to start with basic, safe questions. Help people get comfortable before you begin asking more emotionally difficult or challenging questions. It may help to give people some information about yourself.
+
+<hr/>
+
+!1.4.9.mp4(Example of how to control an interview, probe and clarify)!
+
+h2. Control the interview
+
+Sometimes people have expectations for your interview that are different than your own. Politicians frequently try to turn an interview to subjects important to them. Private citizens unfamiliar with the interview process often talk about things irrelevant to the topic. You need to be polite but firm in controlling the interview. Monologues are never as informative as interviews consisting of questions and short, relevant answers.
+
+h2. Don’t rush the answer
+
+While it is important to control the pace of the interview, it’s important to let people complete a thought. People will sometimes try and fill an awkward silence by saying more -- sometimes more than they should!
+
+h2. Probe and clarify
+
+Sometimes subjects are not good at answering questions clearly. Other times they are intentionally trying to avoid answering a question. In either case you can ask your question a different way. Sometimes it helps to restate the answer to the subject: “so, you are saying that...” as a way to confirm an answer. With politicians it may help to ask a more general version of a question if they refuse to answer it specifically.
+
+<hr/>
+
+!1.4.10.mp4(Example of asking a sensitive question and ending an interview)!
+
+Save sensitive questions for the end - As a reporter you need to be tough. You have to ask the difficult questions and get answers. A good strategy for this is to save the most challenging questions for last. This way you still have material if the subject is angered by your question.
+
+Ending the interview - It is always a good idea to end the interview with two questions: 1) “Is there anything else you would like to say?” This gives the subject the opportunity to give you information important to them or answer questions you did not think to ask. And, 2) “Can I contact you if I have any more questions?” This will allow you to follow-up in the event you or an editor need to clarify something or there is a development in the story to which you need a response.
+
+<hr/>
+
+h1. Things to Remember
+
+The most common challenge to a good interview is time and a reluctant or difficult subject.
+
+* Prioritize your questions and identify the single, most essential bit of information you need from a subject.
+* Get to the most important question quickly in the interview.
+* If the subject is difficult because they are uncomfortable or difficult because there is something they don’t want to tell you, an interview can sometimes become a negotiation.
+* As a reporter you have to be tough but fair.
+* Sometimes sources recognize that a “no comment” response or vague response to question will make them look worse in the press than a straight answer. You may choose to point this out. 
+* Your story will be more interesting if your interviews for it include people with opposing points of view.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:What are some things you might do if you are interviewing someone reluctant to talk
+Answer 1:Move to your most essential questions more quickly
+Answer 2:Ask why the subject is reluctant and see if a solution can be negotiated
+Answer 3:With a public figure you might point out that a “no comment” will make him look bad
+Answer 4:All of the above
+Correct Answer:4
+
+<hr/>
+
+Question 2
+Question:TRUE or FALSE if a subject is reluctant to answer an important question, rather than restate the question differently or try and push the issue by probing, you should drop it.
+Answer 1:TRUE
+Answer 2:FALSE
+Correct Answer:1
+
+<hr/>
+
+Question 3
+Question:Here are some things to NEVER do in an interview
+Answer 1:Let things fall silent for an awkward period of time
+Answer 2:Explain what the story is about
+Answer 3:At the end of the interview ask the subject if he or she has anything to add
+Answer 4:None of the above
+Correct Answer:4

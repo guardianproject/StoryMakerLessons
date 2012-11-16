@@ -4,19 +4,19 @@ h2. How does video tell a story?
 
 !5.3.1.a.png!
 
-<hr>
+<hr/>
 
 h1. Background
 
 The human eye can focus and refocus in real time, effectively framing and reframing the object of interest. In video, different-sized shots are used to create these frames.
 
-<hr>
+<hr/>
 
 !5.3.3.a.png!
 
 A visual story is a series of shots, when presented together over time it’s called a montage. Montage is the primary method for telling a story with video.
 
-<hr>
+<hr/>
 
 h1. Solution
 
@@ -24,9 +24,9 @@ Every story, consists of a beginning, middle and end, and is driven by six quest
 
 These six questions will give you the essential information you need to tell any story. Each question may have multiple answers, but you should answer each to form your story.
 
-Whether you are creating a news report, dramatic story, advocacy video, or promotion, you must be sure some or all of these questions are answered in each shot to tell an entire visual story."
+Whether you are creating a news report, dramatic story, advocacy video, or promotion, you must be sure some or all of these questions are answered in each shot to tell an entire visual story.
 
-<hr>
+<hr/>
 
 !5.3.5.a.png!
 
@@ -34,7 +34,7 @@ A visual story is prepared with a number of *scenes*. Each scene is a combinatio
 
 *TIP* Depending on the format of your story, you may need only one scene. For longer and more complex stories, you will likely assemble many scenes.
 
-<hr>
+<hr/>
 
 !5.3.6.a.png!
 
@@ -42,114 +42,99 @@ Each scene consists of a sequence of different Shot Types. Shots must be assembl
 
 Video tells a story well when it combines a sequence of shots of different types and sizes. By combining shots of different sizes or types, you create a complementary sequence.
 
-<hr>
+<hr/>
 
 We recommend using five basic shots to tell your story. Using these five shots in different orders is one of the easiest ways to tell an interesting visual story.
 
 Next is a simple overview of each shot type. In later lessons you will learn about each shot in detail.
 
-<hr>
+<hr/>
 
 h2. Wide Shot
 
-!5.3.1.8.mp4(Example of an Wide Shot)!
-caption: Example of an Wide Shot
+!5.3.8.a.mp4(Example of an Wide Shot)!
 
 Shows the location / scene of a story. Gives a sense of place.
 
-<hr>
+<hr/>
 
 h2. Long Shot
 
-!5.3.1.9.mp4(Example of a Long Shot)!
-caption: Example of a Long Shot
+!5.3.9.a.mp4(Example of a Long Shot)!
 
 Showcases the characters and how they interact with the location.
 
-<hr>
+<hr/>
 
 h2. Medium Shot
 
-!5.3.1.10.mp4(Example of a Medium Shot)!
-caption: Example of a Medium Shot
+!5.3.10.a.mp4(Example of a Medium Shot)!
 
 Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
 
-<hr>
+<hr/>
 
 h2. Close Up Shot
 
-!5.3.1.11.mp4(Example of a Close Up Shot)!
-caption: Example of a Close Up Shot
+!5.3.11.a.mp4(Example of a Close Up Shot)!
 
 Forces the audience to focus entirely on a single character, encourages the emotion of the character.
 
-<hr>
+<hr/>
 
 h2. Detail Shot
 
-!5.3.1.12.mp4(Example of a Detail Shot)!
-caption: Example of a Detail Shot
+!5.3.12.a.mp4(Example of a Detail Shot)!
 
 Showcases an interesting detail, often focusing directly on an important action.
 
-<hr>
+<hr/>
 
-h1. Things to Remember:
+h1. Things to Remember
 
 * Every visual medium borrows and steals from others for different effects.
 * Sometimes you will see a big budget movie that has shaky camera work, and sometimes you will see a documentary with intricate and complex camera work.
 * The rules of visual storytelling apply to every medium, regardless of where it is screened, or how many people it took to produce it.
 * These rules are important. Keep them all in mind any time you are telling a visual story.
 
-<hr>
+<hr/>
+
+h1. Quiz
 
 Question 1
+Question:The six questions, Who, What, Where, When, Why and How, do what exactly?
+Answer 1:Give you useless information.
+Answer 2:Give you confusing details.
+Answer 3:Take away from the story.
+Answer 4:Give you the essential information you need to tell any story.
+Correct Answer:4
 
-Question: The six questions, Who, What, Where, When, Why and How, do what exactly?
-
-Answer 1: Give you useless information.
-Answer 2: Give you confusing details.
-Answer 3: Take away from the story.
-Answer 4: Give you the essential information you need to tell any story.
-
-Correct Answer: 4
-
-<hr>
+<hr/>
 
 Question 2
+Question:What does an effective story have?
+Answer 1:One good shot.
+Answer 2:A beginning, a middle, and an end.
+Answer 3:A good beginning, but no ending.
+Answer 4:All of the above
+Correct Answer:2
 
-Question: What does an effective story have?
-
-Answer 1: One good shot.
-Answer 2: A beginning, a middle, and an end.
-Answer 3: A good beginning, but no ending.
-Answer 4: All of the above
-
-Correct Answer: 2
-
-<hr>
+<hr/>
 
 Question 3
+Question:By combining shots of different sizes or types, what do you create?
+Answer 1:a complementary sequence.
+Answer 2:a bad video.
+Answer 3:a confusing sequence.
+Answer 4:None of the above
+Correct Answer:1
 
-Question: By combining shots of different sizes or types, what do you create?
-
-Answer 1: a complementary sequence.
-Answer 2: a bad video.
-Answer 3: a confusing sequence.
-Answer 4: None of the above
-
-Correct Answer: 1
-
-<hr>
+<hr/>
 
 Question 4
-
-Question: How many shots is a good basis to tell a story?
-
-Answer 1: 1
-Answer 2: 3
-Answer 3: 5
-Answer 4: 12
-
-Correct Answer: 2
+Question:How many shots is a good basis to tell a story?
+Answer 1:1
+Answer 2:3
+Answer 3:5
+Answer 4:12
+Correct Answer:2

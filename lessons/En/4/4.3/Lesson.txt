@@ -4,7 +4,7 @@ h2. How do I write a basic caption to accompany a photograph?
 
 !4.3.1.a.png!
 
-<hr><hr/>
+<hr/>
 
 h1. Background
 
@@ -16,7 +16,7 @@ h3. Tags: Sports, celebration, flags, World Cup, fans
 
 Every photograph needs a caption and keywords/tags. A good caption provides the reader basic information and context to understand a photograph and its relevance to the news: where the photo was taken, when it was taken, and a very brief description of what's in the photo. Search engines and search fields on sites like YouTube can't recognize images. They can only recognize text associated with the image. Keywords and tags, along with the caption, help viewers find the images through search engines.
 
-<hr><hr/>
+<hr/>
 
 h2. Bad Photo and Caption
 
@@ -28,7 +28,7 @@ h2. Good Photo and Caption
 
 Captions should be clear, accurate and complete in the information they provide about the photograph.
 
-<hr><hr/>
+<hr/>
 
 (
 !4.3.4.a.png(27 April, 2006 – Birqash, Egypt --  A camel merchant chases a camel at the camel market in Birqash, an hour northwest of the Cairo. Sale of camel meet is on the rise in Egypt and surrounding countries in response to the bird flu epidemic, which makes chicken unsafe to eat. (John Smock/SIPA Press) )!
@@ -38,7 +38,7 @@ Captions should be clear, accurate and complete in the information they provide 
 
 The captions for a photo essay should not repeat the same information over and over. Write captions as short, progressive explanations of the individual image in the context of the entire slideshow. In some cases you may present them as title cards that present short “factoids,” additional information or stats that help provide context.
 
-<hr><hr/>
+<hr/>
 
 h1. Solution
 
@@ -48,7 +48,7 @@ h2. Writing Captions
 
 A caption should be one or two sentences. In most photo captions the first sentence identifies the people and location of the photograph and date where it was taken. The second should provide contextual information to help readers understand what they are looking at.
 
-<hr><hr/>
+<hr/>
 
 (
 !4.3.8.a.png(3 November, 2011 – Rustavi, Republic of Georgia – Extensive repairs begin on the Baku-Tbilisi-Ceyhan (TBC) pipeline conducted by British Petroleum (BP). When operational the pipeline transports as much as a million gallons a day, providing an alternative to fuel from Russia to countries in the Caucasus. (John Smock/SIPA Press))!
@@ -62,7 +62,7 @@ The exact format for captions vary, but a basic photo captions should:
 * Include the date the photograph was taken. If an archive photograph or photograph taken prior to the event is used, the caption should make it clear that it is a “file photo.”
 * Provide some context or background to the reader so he or she can understand the news value of the photograph.
 
-<hr><hr/>
+<hr/>
 
 h2. Keywords and Tags
 
@@ -70,49 +70,51 @@ h2. Keywords and Tags
 
 Keywords and tags help search engines find images and work identify photos in the archive. Typically there will be a field for keywords or tags along with the caption field.
 
-<hr><hr/>
+<hr/>
 
 *TIPS*
 
-* Include specific geographic information
-* Avoid abbreviations
-* Keyword with the kind of photo(s) it is (portrait, demonstration, economy)
+* Include specific geographic information.
+* Avoid abbreviations.
+* Keyword with the kind of photo(s) it is (portrait, demonstration, economy).
 * Consider word choice: Would someone use another word more naturally to do a search?
-* Think about related words to your topic that might help direct people to your photo
-* Use common words that reflect specific subjects: Computer security: hacking, hackers, security, firewall, attack, network, flaw
-* Order of the keywords/tags is important-with the first couple of words weighed more heavily
+* Think about related words to your topic that might help direct people to your photo.
+* Use common words that reflect specific subjects: Computer security: hacking, hackers, security, firewall, attack, network, flaw.
+* Order of the keywords/tags is important-with the first couple of words weighed more heavily.
 
-<hr><hr/>
+<hr/>
 
 Creative Element On-Screen Captions:
 !4.3.10.a.png(education, Afghanistan, girls, school, English language)!
 !4.3.10.b.png(flag, children, Libya, revolution, Arab spring)!
 !4.3.10.c.png(election, Arab, Arab-American, United States, politics, women, girls, vote, voting)!
 
-<hr><hr/>
+<hr/>
 
 h1. Things to Remember
 
 Basic caption and keywords should always be included. Here are some things to watch out for:
 
-* Make sure names of people and places are correctly identified and spelled
-* Be accurate
-* Photojournalism is journalism
-* If a photo is manipulated digitally beyond simple sizing and color control, it should be labeled as a “photo illustration” in the caption or in the photo credit. If unusual photo techniques are used, such as high dynamic range (HDR) effects, it should be noted in the caption
-* Do not editorialize or make assumptions about what someone in a picture is thinking: “an unhappy voter...” or “A fortunate survivor...” The reader should be given the facts and allowed to decide for herself or himself what the feelings or emotions are
-* Do not characterize the content of a picture as beautiful, dramatic, horrifying or in any other such descriptive terms that should be evident in the photograph. If it's not evident in the photograph, you telling the reader won't make it happen
+* Make sure names of people and places are correctly identified and spelled.
+* Be accurate.
+* Photojournalism is journalism.
+* If a photo is manipulated digitally beyond simple sizing and color control, it should be labeled as a “photo illustration” in the caption or in the photo credit. If unusual photo techniques are used, such as high dynamic range (HDR) effects, it should be noted in the caption.
+* Do not editorialize or make assumptions about what someone in a picture is thinking: “an unhappy voter...” or “A fortunate survivor...” The reader should be given the facts and allowed to decide for herself or himself what the feelings or emotions are.
+* Do not characterize the content of a picture as beautiful, dramatic, horrifying or in any other such descriptive terms that should be evident in the photograph. If it's not evident in the photograph, you telling the reader won't make it happen.
 
-<hr><hr/>
+<hr/>
+
+h1. Quiz
 
 Question 1
 Question:The first sentence of a photo caption should include
 Answer 1:A brief description of the scene in the image, the date, the locations, and the names of any important people or landmarks.
-Answer 2:A history of the event photographed
-Answer 3:The photographer’s interpretation of what people in the image are feeling
-Answer 4:All of the above
+Answer 2:A history of the event photographed.
+Answer 3:The photographer’s interpretation of what people in the image are feeling.
+Answer 4:All of the above.
 Correct Answer:1
 
-<hr><hr/>
+<hr/>
 
 Question 2
 Question:TRUE of FALSE: Keywords and tags not only helps people find your images online, they help you and news organizations find images more easily in your photo archive.
@@ -120,21 +122,24 @@ Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:1
 
-<hr><hr/>
+<hr/>
 
 Question 3
-Question:A good caption has which of the following characteristics (it can be more than one)
-Answer 1:The location and date the image was shot is clear
-Answer 2:Significant people portrayed are identified by full name and title
-Answer 3:There are no misspelling or grammatical errors
-Answer 4:All of the above
+Question:A good caption has which of the following characteristics (it can be more than one).
+Answer 1:The location and date the image was shot is clear.
+Answer 2:Significant people portrayed are identified by full name and title.
+Answer 3:There are no misspelling or grammatical errors.
+Answer 4:All of the above.
 Correct Answer:4
 
-<hr><hr/>
+<hr/>
 
 Question 4
-Question:What is the best caption for this image? !4.3.15.a.png!
-Answer 1:12 September, 2012 – Rustavi, Republic of Georgia -- Interior Ministry troops search cars for suspected terrorists on election day along the main road leading to Tbilisi, the capital of this small Caucasian country
-Answer 2:Soldiers by the road on election day in the Republic of Georgia
-Answer 3:Angry soldiers loyal to the president in Georgia hunt for opposition party members
+Question:What is the best caption for this image? 
+
+!4.3.15.a.png!
+
+Answer 1:12 September, 2012 – Rustavi, Republic of Georgia -- Interior Ministry troops search cars for suspected terrorists on election day along the main road leading to Tbilisi, the capital of this small Caucasian country.
+Answer 2:Soldiers by the road on election day in the Republic of Georgia.
+Answer 3:Angry soldiers loyal to the president in Georgia hunt for opposition party members.
 Correct Answer:1

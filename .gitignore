@@ -17,3 +17,4 @@ local.properties
 .classpath
 src
 .project
+.DS_Store

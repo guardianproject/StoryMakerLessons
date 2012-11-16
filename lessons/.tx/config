@@ -155,3 +155,117 @@ source_file = En/5/5.12/Lesson.txt
 source_lang = en
 type = WIKI
 
+[storymaker.30]
+file_filter = <lang>/3/3.0/Lesson.txt
+source_file = En/3/3.0/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.31]
+file_filter = <lang>/3/3.1/Lesson.txt
+source_file = En/3/3.1/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.32]
+file_filter = <lang>/3/3.2/Lesson.txt
+source_file = En/3/3.2/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.33]
+file_filter = <lang>/3/3.3/Lesson.txt
+source_file = En/3/3.3/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.34]
+file_filter = <lang>/3/3.4/Lesson.txt
+source_file = En/3/3.4/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.35]
+file_filter = <lang>/3/3.5/Lesson.txt
+source_file = En/3/3.5/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.36]
+file_filter = <lang>/3/3.6/Lesson.txt
+source_file = En/3/3.6/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.37]
+file_filter = <lang>/3/3.7/Lesson.txt
+source_file = En/3/3.7/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.38]
+file_filter = <lang>/3/3.8/Lesson.txt
+source_file = En/3/3.8/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.40]
+file_filter = <lang>/4/4.0/Lesson.txt
+source_file = En/4/4.0/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.41]
+file_filter = <lang>/4/4.1/Lesson.txt
+source_file = En/4/4.1/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.42]
+file_filter = <lang>/4/4.2/Lesson.txt
+source_file = En/4/4.2/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.43]
+file_filter = <lang>/4/4.3/Lesson.txt
+source_file = En/4/4.3/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.44]
+file_filter = <lang>/4/4.4/Lesson.txt
+source_file = En/4/4.4/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.45]
+file_filter = <lang>/4/4.5/Lesson.txt
+source_file = En/4/4.5/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.46]
+file_filter = <lang>/4/4.6/Lesson.txt
+source_file = En/4/4.6/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.47]
+file_filter = <lang>/4/4.7/Lesson.txt
+source_file = En/4/4.7/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.48]
+file_filter = <lang>/4/4.8/Lesson.txt
+source_file = En/4/4.8/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.49]
+file_filter = <lang>/4/4.9/Lesson.txt
+source_file = En/4/4.9/Lesson.txt
+source_lang = en
+type = WIKI
+

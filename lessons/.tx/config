@@ -1,9 +1,59 @@
 [main]
 host = https://www.transifex.com
 
-[storymaker.main-app-strings]
-file_filter = translations/storymaker.main-app-strings/<lang>.xml
+[storymaker.10]
+file_filter = <lang>/1/1.0/Lesson.txt
+source_file = En/1/1.0/Lesson.txt
 source_lang = en
+type = WIKI
+
+[storymaker.11]
+file_filter = <lang>/1/1.1/Lesson.txt
+source_file = En/1/1.1/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.12]
+file_filter = <lang>/1/1.2/Lesson.txt
+source_file = En/1/1.2/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.13]
+file_filter = <lang>/1/1.3/Lesson.txt
+source_file = En/1/1.3/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.14]
+file_filter = <lang>/1/1.4/Lesson.txt
+source_file = En/1/1.4/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.15]
+file_filter = <lang>/1/1.5/Lesson.txt
+source_file = En/1/1.5/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.16]
+file_filter = <lang>/1/1.6/Lesson.txt
+source_file = En/1/1.6/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.17]
+file_filter = <lang>/1/1.7/Lesson.txt
+source_file = En/1/1.7/Lesson.txt
+source_lang = en
+type = WIKI
+
+[storymaker.18]
+file_filter = <lang>/1/1.8/Lesson.txt
+source_file = En/1/1.8/Lesson.txt
+source_lang = en
+type = WIKI
 
 [storymaker.20]
 file_filter = <lang>/2/2.0/Lesson.txt
@@ -62,18 +112,6 @@ type = WIKI
 [storymaker.29]
 file_filter = <lang>/2/2.9/Lesson.txt
 source_file = En/2/2.9/Lesson.txt
-source_lang = en
-type = WIKI
-
-[storymaker.210]
-file_filter = <lang>/2/2.10/Lesson.txt
-source_file = En/2/2.10/Lesson.txt
-source_lang = en
-type = WIKI
-
-[storymaker.211]
-file_filter = <lang>/2/2.11/Lesson.txt
-source_file = En/2/2.11/Lesson.txt
 source_lang = en
 type = WIKI
 

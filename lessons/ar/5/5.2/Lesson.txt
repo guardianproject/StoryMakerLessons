@@ -1,0 +1,169 @@
+h1. بيان بالمشكلة
+
+h2. Why are sound and light so important to video?
+
+!5.2.1.a.png!
+
+<hr/>
+
+h1. خلفية
+
+Your video can be perfectly framed, but with bad sound and light your video will not be effective. Good sound and light make your videos professional, and make it more likely to be shared by others. They are necessary components to enable information in your video to be understood.
+
+<hr/>
+
+h1. الحل
+
+!5.2.3.a.png!
+
+Know the capabilities of your mobile, each mobile device has its own advantages and problems, experiment with it to understand how to get the best results.
+
+h2. Sound
+
+Without good sound your images are only telling half the story and improving the quality of the sound in your video is one of the fastest ways to improve the quality of your video.
+
+<hr/>
+
+h2. Natural Sound
+
+!5.2.4.a.mp4(How to use your hand to improve audio in a windy situation)!
+
+If it’s windy, your sound will not be audible. Point your camera away from the wind, or protect your mic. Shield the mic with your hand or with a card blocking the windy side. Using a natural windbreak such as a wall is effective in some situations.
+
+<hr/>
+
+h2. People / Crowds
+
+!5.2.5.a.mp4(Example of how to properly record a subject in a crowd)!
+
+Crowds and busy streets make a lot of noise. That may make your desired sound inaudible. Don’t film interviews with large crowds in the background. If you can’t go to a better location, point your camera away from the crowd and have your subject face the crowd.
+
+<hr/>
+
+h2. Machines
+
+!5.2.6.a.mp4(Example of machinery noise in a video recording)!
+
+Generators, air conditioners, refrigerators, and fluorescent lights are all machines that create harsh audio distractions. Turn off the machines if possible, or change your location if you can- noise from fluorescent lighting is usually unavoidable.
+
+<hr/>
+
+h2. Acoustics
+
+!5.2.7.a.mp4(Example of bad audio echo caused by a hallway)!
+
+Be aware of the acoustics of the room or how the sound bounces from the walls. Places like tiled bathrooms or hallways tend to reflect sound and will echo very badly. Rooms with sound absorbent materials in them such as carpets, curtains, or soft furniture are far better.
+
+<hr/>
+
+h2. Headset as Microphones
+
+!5.2.8.a.mp4(How to use a headset as a microphone)!
+
+If your mobile device works with a headset with a microphone for phone calls you may be in luck. The microphone for your calls may function as a plug-in microphone while shooting video. Test this before you want to use it, but it can be an effective way to capture better audio for interviews.
+
+<hr/>
+
+h2. Have Enough Light
+
+Recording Outdoors
+
+!5.2.9.a.mp4(How to use natural light to properly light a subject)!
+
+* Shooting outdoors during daylight hours is the easiest way to ensure success. Even on overcast days it’s a great place to get good light.
+
+* Film your subject with the light source directly on the subject. When the light source is directly behind your subject, the subject will be too dark and difficult to see. This technique may be used to hide a subject’s identity by preventing the camera from recording their face.
+
+!5.2.9.b.mp4(How to use natural light to hide a subjects face in the dark)!
+
+<hr/>
+
+Recording Inside
+
+!5.2.10.a.mp4(How to setup a shot using natural light)!
+
+If you’re shooting indoors try to find a room with plenty of sunlight in it to produce good results. Sit with your back facing the window and sit your interviewee facing the light source so that the sunshine will light their face. If you sit them with their back to the window shooting into the light source, the camera will take its reading from the brightest image in the frame and close down its iris so as not to over-expose the shot. This will result in your interviewee becoming silhouetted in the picture, a good technique if you want your interviewees identity to remain a secret but not if you want them to be seen!
+
+!5.2.10.b.mp4(How to setup a shot to obscure a subject's face)!
+
+<hr/>
+
+Bouncing Light
+
+!5.2.11.a.mp4(How to use a reflector outside)!
+
+* Using anything white, paper, cardboard, or anything that reflects the light can be used to bounce light back onto your subject.
+
+<hr/>
+
+Bouncing Light
+* Low light can produce poor shots. Shooting outside or in a sunny room can give you great light.
+
+<hr/>
+
+Bouncing Light
+
+!5.2.13.a.png(How to light a subject indoors)!
+
+* Lights approximately 3 feet away are most flattering.
+
+<hr/>
+
+h1. أشياء يجب أن تتذكرها
+
+h2. Sound
+
+* Sound should always be a consideration when shooting.
+* If your sound is unusable, it’s possible to remove the sound and replace it with different sound or no sound at all.
+* Sound is half of the information in a video, consider it for every shot.
+
+<hr/>
+
+h2. Light
+
+* Shooting outside or in a sunny room can give you great light.
+* Low light can produce poor pictures.
+* Have light shine on subjects – backlit subjects appear silhouetted.
+* Lights approximately 3 feet away are most flattering.
+* Don’t burn yourself – wear gloves to handle lights!
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:Without good sound your images
+Answer 1:are better.
+Answer 2:are only telling half the story.
+Answer 3:are confusing.
+Correct Answer:2
+
+<hr/>
+
+Question 2
+Question: Where are you most likely to have the best light?
+Answer 1:Indoors, during daylight.
+Answer 2:Outdoors, during daylight.
+Answer 3:Indoors, at night.
+Answer 4:Outdoors, at night.
+Correct Answer:2
+
+<hr/>
+
+Question 3
+Question:What can you use to shield your microphone?
+Answer 1:Your hand.
+Answer 2:A card.
+Answer 3:A natural windbreak, like a wall.
+Answer 4:All of the above.
+Correct Answer:4
+
+<hr/>
+
+Question 4
+Question: Where should the light source be when filming?
+Answer 1:Directly on the subject.
+Answer 2:Next to the subject.
+Answer 3:Nowhere near the subject.
+Answer 4:Directly behind the subject.
+Correct Answer:1

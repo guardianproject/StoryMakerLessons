@@ -1,0 +1,111 @@
+h1. بيان بالمشكلة
+
+h2. What are some basic principles of good photo composition?
+
+!4.2.1.a.png!
+
+<hr/>
+
+h1. خلفية
+
+Photography, borrows a lot from painting. The best photos are composed so the subject of the image is framed well and the purpose of the photo is clear. Good color and the relationship between the dominant shapes in a frame -- the elements of the picture your eye looks at first -- are important to good composition. How light is used is extremely important.
+
+<hr/>
+
+!4.2.3.a.png(Example of a photo that provides context and action)!
+!4.2.3.b.png(Example of a photo that provides context and action)!
+
+When taking photographs of a news event it’s important to remember that the viewer of photos can’t see the totality of the scene as you can. They can’t know what you don’t show them. The world can look very different in a photograph. Strong photojournalists capture not just the drama and action of an event in their images, but include visual elements that provide context as to location and the causes of the event being photographed. This requires you to ‘think visually,’ which can be a challenge for even the best journalists.
+
+<hr/>
+
+h1. الحل
+
+Rule of Thirds
+
+!4.2.4.a.png!
+caption:Rule of Thirds
+
+The foundation of good composition is the rule of thirds (see illustration). The rule of thirds breaks down the frame into nine equal rectangles. Many smartphones will allow you to display the rule of thirds grid over the camera display.
+
+<hr/>
+
+!4.2.5.a.png!
+!4.2.5.b.png!
+!4.2.5.c.png!
+
+Good photographers compose along the intersections of lines in the frame and work to use each of the nine rectangles to tell their story. Amateurs tend to place the subject in the middle of the frame and ignore the remaining space rather than use it to make a more compelling image.
+
+<hr/>
+
+Layering 
+
+!4.2.6.a.png(Example of a photo with a clear foreground, middleground and background)!
+
+Another important principle for good composition is called layering. Creating distinct layers in your frame: foreground, middleground and background helps you tell clearer, more complex visual stories with your photography. You might chose to place your subject, a farmer whose fields are barren because of drought, frame left in the foreground and his dried up empty field in the background. This will give the image a clear subject layer (foreground) and context (background layer).
+
+<hr/>
+
+!4.2.7.a.png(Example of a photo using edges)!
+
+In a well-composed photograph important shapes or information complete themselves in the frame. The cook’s hands are not cut off awkwardly. The personnel carrier that provides context to the picture in the background layer isn’t chopped in half at the edge of the frame. Photographers call this working the edges. Shapes like door frames or trees or objects of strong color are used to define the edge of the frame by allowing them to resolve within it.
+
+<hr/>
+
+Peak Action 
+
+!4.2.8.a.png(Interview with a photographer who discusses using composition on assignment)!
+
+A final key element to good photography is timing. The most powerful photographs are taken at the split second when all the compositional elements come together and the action in the scene is at its most dramatic. This is called the moment of peak action. The best photographers have great anticipation. They will often set up to take advantage of key compositional elements and then wait for the moment of peak action. 
+
+A little care in composition and thoughtfulness about the information you need to convey to tell the story will go a long way toward making better photographs.
+
+<hr/>
+
+h1. أشياء يجب أن تتذكرها
+
+Perhaps the biggest thing to remember for citizen journalists is learning to think visually. This is about more than just composition. It is about thinking through how to give strong visual expression to your story. This begins with investing yourself in taking better photographs. Many reporters who take photos and citizen journalists tend to think of the photography as an afterthought. They report their story and then snap a couple pictures at the end. Good photography takes time. You need to plan for it and think through how you will get the kinds of images that really capture the essence of a story and move viewers emotionally.
+
+<hr/>
+
+!4.2.10.a.png!
+
+Another thing to remember is safety. A reporter can stand at the edge of a potentially dangerous scene. A photographer needs to get close to take a good picture. News photographer are always balancing safety against the need to make very compelling images.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:What does thinking visually mean (it can be more than one)?
+Answer 1:Planning your story from the outset for good visual content.
+Answer 2:Devoting time to getting good images.
+Answer 3:Understanding how telling visual stories is more than merely translating what you would report and write.
+Answer 4:None of the above.
+Correct Answer:1,2,3
+
+<hr/>
+
+Question 2
+Question:TRUE of FALSE: A picture should be well organized. A good way to do this to have only a single, posed subject and put it in the middle of your frame.
+Answer 1:TRUE
+Answer 2:FALSE
+Correct Answer:2
+
+<hr/>
+
+Question 3
+Question:Which of the following a basic principles of photography for good composition.
+Answer 1:The rule of thirds.
+Answer 2:Working the edges.
+Answer 3:Working the Layers.
+Answer 4:All of the above.
+Correct Answer:4
+
+<hr/>
+
+Question 4
+Which of these images is properly exposed?
+Answer 1:!4.2.13.a.png!
+Answer 2:!4.2.13.b.png!
+Answer 3:!4.2.13.c.png!

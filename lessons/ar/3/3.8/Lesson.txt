@@ -1,0 +1,77 @@
+h1. بيان بالمشكلة
+
+h2. I have recorded an interview in one language but I want to have audio translation in my story.
+
+!3.8.1.a.png!
+
+<hr/>
+
+h1. خلفية
+
+When tackling topics that include audio in other languages, it may be necessary to provide a translation in your target language. The original audio, while important for its authenticity and to hear the emotion in the speaker's voice, may not be understandable to many in your audience. In such situations a voice over translation can be used.
+
+The result, once everything is edited, should be a program that captures the original language/audio and includes a translation that is clear and understandable.
+
+<hr/>
+
+h1. الحل
+
+h2. Voice Over Translation
+
+!3.8.3.a.mp3(Example of a voice over translation)!
+
+One successful style of voice over translation allows the first 3 to 6 seconds of the original voice to play on its own. After this, the producer lowers the volume (during the editing process) and adds in the translation audio in a different but clear voice.
+
+Voice Over Translation uses your program time more efficiently and assist the audio segment to remain within your allotted time. However, the audience will lose the impact that an original, unmodified voice can have.
+
+<hr/>
+
+h2. On the Spot
+
+!3.8.4.a.mp3(Example of an on the spot translator)!
+
+Another style of translation is immediate, on the spot translation. This involves having someone on location with you as you record the interview. The translators voice should appear periodically throughout the conversation. You must be sure the interviewee pauses often to allow phrases and sentences to be translated.
+
+Immediate, On the Spot Translation enables your audience to hear the original and complete comments from the interviewee. This method create less work during the editing process. Long lengths of time with content in a language the audience doesn't understand may cause the audience to lose focus or interest.
+
+If you are not sure you can get a voice over translation that can be used during the editing process, it might be best to have an on the spot translator who you record as part of the interview.
+
+<hr/>
+
+h1. أشياء يجب أن تتذكرها
+
+!3.8.6.a.mp3(Example of an interviewee that talks for too long before a translation starts)!
+
+Is it best NOT to allow statements in different languages to run on for long without any kind of translation.
+
+<hr/>
+
+!3.8.7.a.png!
+
+Whenever possible include at least some of the original audio in order to harness any emotion or meaning that can be communicated from the tone and energy of that voice.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:True or False; There is only one way to handle translations in audio.
+Answer 1:True
+Answer 2:False
+Correct Answer:2
+
+<hr/>
+
+Question 2
+Question:True or False; It is best to completely remove the original voice so that we only hear the translated audio.
+Answer 1:True
+Answer 2:False
+Correct Answer:2
+
+<hr/>
+
+Question 3
+Question:True or False; Good audio translations can be in different tones than the originals. (for example, a female voice translating the words of a male voice)
+Answer 1:True
+Answer 2:False
+Correct Answer:1

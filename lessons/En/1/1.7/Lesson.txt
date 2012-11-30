@@ -65,11 +65,12 @@ When writing photo captions, the same principles of good writing apply. A photo 
 h2. Key words and tags
 
 ( 
-!1.7.6.a.png(caption)!
-!1.7.6.b.png(caption)!
-!1.7.6.c.png(caption)!
-!1.7.6.d.png(caption)!
-!1.7.6.e.png(caption)!
+!1.7.5.a.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!1.7.5.b.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!1.7.5.c.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!1.7.5.d.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!1.7.5.e.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!1.7.5.f.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
 )
 
 Search engines and the web crawlers that support them can’t yet analyse video or photo or an audio recording very well. Your text choices for headlines, captions, keywords, tags and story are an important part of being seen even if your story is almost exclusively video or audio This is called search engine optimization (SEO). To maximize SEO text in general and key words/tags in particular should:

@@ -55,8 +55,6 @@ Even smart phones are capable of images with resolution so great that they can b
 
 h2. Exposure correction
 
-!4.5.7.a.mp4(How to edit a photo using the Photoshop Express mobile app)!
-
 Editing apps like Photoshop Express will allow you to increase or decrease exposure and correct color problems. Images properly exposed and white balance when shot should require little more than at tweak, but images shot under difficult lighting may be dramatically improved in post-production.
 
 <hr/>

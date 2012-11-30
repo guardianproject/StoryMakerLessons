@@ -42,8 +42,6 @@ If your camera allows you to set the white balance manually, do it. Your smartph
 
 <hr/>
 
-!4.11.16.a.mp4(How to adjust your colors in the Photoshop Express mobile app)!
-
 If your smartphone cannot control white balance manually, you can correct color with post-production apps (for more on this, see the section on post-production). If the color temperature is way off, it is VERY IMPORTANT to make adjustments before publishing your images.
 
 <hr/>

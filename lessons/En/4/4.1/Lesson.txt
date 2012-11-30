@@ -22,8 +22,6 @@ Your eye is quick to focus on the singular thing of interest in your field of vi
 
 !4.1.4.b.png(Example of a photo exposed correctly in low light)!
 
-!4.1.4.c.png(Example of a photo exposed correctly in low light)!
-
 A camera must be told to freeze motion and struggles to do it with fast-moving objects, especially in low light. It takes much more light to record an image with a digital camera than for your eye to see it.
 
 <hr/>
@@ -72,7 +70,7 @@ h2. Balancing the Triangle
 
 (
 !4.1.10.a.png(Shutter- 1/30th Second  Aperture- F/5.6  ISO-200  WB-Auto)!
-!4.1.10.a.png(Shutter- 1/60th Second  Aperture- F/4  ISO-800  WB-Auto)!
+!4.1.10.b.png(Shutter- 1/60th Second  Aperture- F/4  ISO-400  WB-Auto)!
 )
 
 Creating an image with a proper exposure is very much a game of playing ISO, aperture and shutter off of one another to achieve the desired effect. The bigger the camera the more manual control the photographer will have over these features, but even smart phone cameras now will let you adjust exposure by touching the screen at a point that represents a medium exposure value. Some also have digital zoom that, in effect, allow you to zoom in or out.

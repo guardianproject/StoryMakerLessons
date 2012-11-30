@@ -26,7 +26,7 @@ h2. Light
 
 (
 !4.9.4.a.png(Example of using daylight to light a subject)!
-!4.9.4.b.png(Example of using a window to light a subject)!
+!4.9.4.b.png(Example of using an external source to light a subject)!
 !4.9.4.c.png(Example of using an external source to light a subject)!
 )
 
@@ -46,8 +46,6 @@ h2. Flash
 
 (
 !4.9.6.a.png(Example of a photo taken with a camera phone flash)!
-!4.9.6.b.png(Example of a photo taken with a camera phone flash)!
-!4.9.6.c.png(Example of a photo taken with a camera phone flash)!
 )
 
 Many smartphones come with a built-in flash. The burst of light can help you freeze motion. Most phone flashes are only effective for about three meters.
@@ -67,9 +65,9 @@ In many cases your subject will move at varying speeds. Footballers move more sl
 
 h2. Angle to Movement
 
-!4.9.8.a.mp4(How to pan with a camera to catch movement)!
+!4.9.8.a.png(How to select the action feature on a mobile device)!
 
-The most difficult movement for the camera is when the subject is moving across the frame from right to left or left to right. A common technique for handling this situation is called panning. Point your camera and follow the subject as it goes by, twisting your body if you have to. This reduces the relative speed of the movement to the camera. You may change your angle so the subject comes at the camera on an angle. This will allow the camera to track the object better and freeze the action.
+The most difficult movement for the camera is when the subject is moving across the frame from right to left or left to right. A common technique for handling this situation is called panning. Point your camera and follow the subject as it goes by, twisting your body if you have to. This reduces the relative speed of the movement to the camera. You may change your angle so the subject comes at the camera on an angle. This will allow the camera to track the object better and freeze the action. Many smart phones have a scene selection feature with an 'action' option.
 
 <hr/>
 

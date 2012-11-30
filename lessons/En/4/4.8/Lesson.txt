@@ -18,6 +18,7 @@ A digital camera can’t do that. It has to be calibrated to adjust for differen
 !4.11.13.a.png(Example of a subject lit by a tungesten bulb)!
 !4.11.13.b.png(Example of a subject lit outdoors when it's cloudy)!
 !4.11.13.b.png(Example of a subject lit outdoors in the sun)!
+!4.11.13.b.png(Example of a subject lit by a fluorescent bulb)!
 )
 
 Small tungsten bulbs have a very warm temperature, coloring the image more yellow. Daylight on an overcast, cloudy day has a very high light temperature coloring the image blue. Other light sources -- sunlight, fluorescent light, shade -- all fall in the middle. Color temperature has nothing to do with the amount of light.
@@ -124,4 +125,10 @@ Correct Answer:1,3
 Question 4
 Question:How might you correct the white balance in the image shown here?
 
-NEED MULTIPLE CHOICE ANSWERS
+!4.11.25.a.png!
+
+Answer 1:Change the white balance option to 'fluorescent' when shooting.
+Answer 2:Adjust the exposure
+Answer 3:Adjust the light temperature in post-production by adding yellow.
+Answer 4:All of the above
+Correct Answer:3

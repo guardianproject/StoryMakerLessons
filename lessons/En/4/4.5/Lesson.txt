@@ -44,7 +44,9 @@ Another common issue is backlighting. You are shooting a subject in relative sha
 
 h1. Solution
 
-!4.8.7.a.mp4(Example of how to properly expose a dark arear with a smartphone)!
+!4.8.7.a.png(Example of an over exposed photo composition)!
+!4.8.7.b.png(Example of how to properly expose a dark arear with a smartphone)!
+
 
 Many touch-screen smartphone cameras allow the photographer to touch a place on-screen to tell the camera where to draw its exposure value from. You can also point the camera at a shadowy area in the frame, touch the screen and reframe the shot. The camera will retain the lower exposure value. This is true of most cameras. Point the camera at spot that has exposure values closer to what you need and push the shutter halfway down. You MUST CONTINUE TO HOLD THE SHUTTER DOWN as you reframe the shot.
 
@@ -53,8 +55,6 @@ Many touch-screen smartphone cameras allow the photographer to touch a place on-
 (
 !4.8.8.a.png(Example of how to properly adjust a photo)!
 !4.8.8.b.png(Example of how to properly adjust a photo)!
-!4.8.8.c.png(Example of how to properly adjust a photo)!
-!4.8.8.d.png(Example of how to properly adjust a photo)!
 )
 
 Images that are slightly overexposed or underexposed can sometime be fixed with built-in photo software apps or apps like Adobe Photoshop Express. Adobe Photoshop Express is an app that allows you to manage exposure in your picture. You could touch the face of a person strongly backlight and the camera will reset exposure for his face.
@@ -109,4 +109,5 @@ Answer 1:Increase the ISO.
 Answer 2:Adjust the exposure slightly in post-production.
 Answer 3:Open the aperture (if possible).
 Answer 4:Slow shutter speed being careful not to slow it so much that the image becomes blurry.
-Correct Answer:???????
+Answer 5:All of the above.
+Correct Answer:5

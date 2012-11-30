@@ -44,7 +44,7 @@ h2. The feature story
 
 !1.6.7.a.mp4(Example of a feature story)!
 
-Feature stories broader trends rather than specific events. They can be about important issues such as water shortages or more light-hearted events such as holiday festivals or a story about an unusual artist. Features favor a more artful presentation than news stories. Feature stories include some description, presentations of detailed information about how the event looked or sounded or how people react.
+Feature stories are about broader trends rather than specific events. They can be about important issues such as water shortages or more light-hearted events such as holiday festivals or a story about an unusual artist. Features favor a more artful presentation than news stories. Feature stories include some description, presentations of detailed information about how the event looked or sounded or how people react.
 
 <hr/>
 

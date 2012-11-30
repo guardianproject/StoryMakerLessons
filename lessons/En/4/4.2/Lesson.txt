@@ -23,8 +23,7 @@ h1. Solution
 
 Rule of Thirds
 
-!4.2.4.a.png!
-caption:Rule of Thirds
+!4.2.4.a.png(Rule of Thirds)!
 
 The foundation of good composition is the rule of thirds (see illustration). The rule of thirds breaks down the frame into nine equal rectangles. Many smartphones will allow you to display the rule of thirds grid over the camera display.
 
@@ -33,6 +32,7 @@ The foundation of good composition is the rule of thirds (see illustration). The
 !4.2.5.a.png!
 !4.2.5.b.png!
 !4.2.5.c.png!
+!4.2.5.d.png!
 
 Good photographers compose along the intersections of lines in the frame and work to use each of the nine rectangles to tell their story. Amateurs tend to place the subject in the middle of the frame and ignore the remaining space rather than use it to make a more compelling image.
 
@@ -54,7 +54,7 @@ In a well-composed photograph important shapes or information complete themselve
 
 Peak Action 
 
-!4.2.8.a.png(Interview with a photographer who discusses using composition on assignment)!
+!4.2.8.a.mp4(Interview with a photographer who discusses using composition on assignment)!
 
 A final key element to good photography is timing. The most powerful photographs are taken at the split second when all the compositional elements come together and the action in the scene is at its most dramatic. This is called the moment of peak action. The best photographers have great anticipation. They will often set up to take advantage of key compositional elements and then wait for the moment of peak action. 
 
@@ -109,3 +109,4 @@ Which of these images is properly exposed?
 Answer 1:!4.2.13.a.png!
 Answer 2:!4.2.13.b.png!
 Answer 3:!4.2.13.c.png!
+Correct Answer:2

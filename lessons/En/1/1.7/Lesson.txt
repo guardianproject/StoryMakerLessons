@@ -22,8 +22,6 @@ h1. Solution
 
 h2. Text in the lead role
 
-!1.7.4.a.png!
-
 Some stories are simply not very visual. Others are not easily produced as audio pieces. These can be dry policy stories, visually uninteresting press conferences or stories that are challenging because of lighting, noise, access or they are reported after the fact. If text is going to play a lead role in your presentation, it should have the following news dispatch-like characteristics:
 
 * Sentences should be short: 25-35 words. Use simple, declarative sentences rather than compound or complex sentences.
@@ -35,12 +33,25 @@ Some stories are simply not very visual. Others are not easily produced as audio
 
 <hr/>
 
+*Examples of text in the lead role:*
+
+* Dhaka, Bangladesh- November 25, 2012  — More than 100 people died Saturday and Sunday in a fire at a garment factory outside Dhaka, Bangladesh. 
+* It took firefighters more than 17 hours to put out the blaze at the factory, Tazreen Fashions, after it started Saturday evening, said Salim Nawaj Bhuiyan, a retired fire official by telephone from Dhaka, Bangladesh’s capital. 
+* At least 111 people were killed and many more workers were taken to several local hospitals and clinics with burns and smoke inhalation injuries.  
+* “The main difficulty was to put out the fire. Sufficient approach road was not there,” said Salim Nawaj Bhuiyan, who now runs a fire safety company in Dhaka. “The fire service had to take great trouble to approach the factory.”
+* Bangladesh’s garment industry is the second largest exporter of clothing after China. The industry employs more than three million workers in Bangladesh, mostly women. 
+* It has a notoriously poor record of fire safety. Since 2006, more than 500 Bangladeshi workers have died in garment factory fires, according to Clean Clothes Campaign, an anti-sweatshop advocacy group based in Amsterdam. 
+* Experts say many of the fires could have been easily avoided if the factories had taken the right precautions. Many factories are in cramped neighborhoods, have too few fire escapes and widely flout safety measures.
+
+<hr/>
+
 ( 
-!1.7.5.a.png(caption)!
-!1.7.5.b.png(caption)!
-!1.7.5.c.png(caption)!
-!1.7.5.d.png(caption)!
-!1.7.5.e.png(caption)!
+!1.7.5.a.png(11 Sept '03 -- USMC Lt. Jeff Colvin (L) discusses firing range practice with his Georgian Army counterpart. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!1.7.5.b.png(11 Sept '03 -- USMC Sgt. Luis Gines, from New York City, helps a Georgian soldier with the his shooting posture. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!1.7.5.c.png(11 Sept '03 -- USMC  Staff Sgt.Joe Duenas from Guam oversees the firing range training for new recruits Georgians. The approximately 100 American Advisors stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!1.7.5.d.png(11 Sept '03 -- USMC Sgt. Domonic Tino from Quantico, VA explains sighting on a rifle to a Georgian soldier. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!1.7.5.e.png(11 Sept '03 -- USMC Sgt. Luis Gines, from New York City, helps a Georgian soldier with the sight on his AK-47. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!1.7.5.f.png(11 Sept '03 -- USMC Sgt. Domonic Tino from Quantico, VA, gives the thumbs up to a Georgian soldier on the range. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
 )
 
 When writing photo captions, the same principles of good writing apply. A photo caption should be no more than two sentences and include the following information:

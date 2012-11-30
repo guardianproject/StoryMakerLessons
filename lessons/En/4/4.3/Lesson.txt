@@ -48,6 +48,26 @@ h2. Writing Captions
 
 A caption should be one or two sentences. In most photo captions the first sentence identifies the people and location of the photograph and date where it was taken. The second should provide contextual information to help readers understand what they are looking at.
 
+Example of How to Write a Caption:
+
+*The first sentence should:*
+
+* Be written in the present tense.
+* Be written in complete sentences
+* Describe What’s in the picture
+* Say exactly when it was taken
+* Say Exactly where it was taken
+
+
+*A second or sometimes third sentence should:*
+* Typically be written in the past tense
+* Be written in complete sentences
+* Provide context to allow viewers to better understand the significance of the image.
+
+EXAMPLE: 
+?A child severely burned by a car bomb on June 9, 2010, receives care at the Indira Gandi Institute of Child Medicine in Kabul, Afghanistan. Doctors are struggling with limited medicines to treat the growing number of child victims whose injuries are often compounded by other medical problems, such as poor nutrition, that diminish a child's ability to heal. John Smock/SIPA.
+
+
 <hr/>
 
 (

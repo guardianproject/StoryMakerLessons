@@ -8,9 +8,16 @@ h2. What makes good reporting? It must to be fact-based rather than based on opi
 
 h1. Background
 
-!1.2.2.a.png!
+Reporting begins with answering six basic questions about an issue: 
 
-Reporting begins with answering six basic questions about an issue: who, what, where, when, why and how. Good journalists do some background research when they first start working on a story. Different types of story require different types of reporting and emphasize different elements of the story.
+*Who?* 
+*What?* 
+*Where?* 
+*When?* 
+*Why?* 
+and *How?* 
+
+Good journalists do some background research when they first start working on a story. Different types of story require different types of reporting and emphasize different elements of the story.
 
 <hr/>
 

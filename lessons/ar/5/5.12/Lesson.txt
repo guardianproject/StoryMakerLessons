@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. What is White Balance?
+h2. ما هو التوازن الأبيض؟
 
 !5.12.1.a.png!
 
@@ -9,151 +9,151 @@ h2. What is White Balance?
 h1. خلفية
 
 (
-!5.12.2.a.png(Example of a subject lit by a tungesten bulb)!
-!5.12.2.b.png(Example of a subject lit outdoors when it's cloudy)!
-!5.12.2.c.png(Example of a subject lit outdoors in the sun)!
+!5.12.2.a.png (مثال لعنصر مضاء بمصباح تنجستين)!
+!5.12.2.b.png (مثال لعنصر مضاء بالخارج والسماء ملبدة بالغيوم)!
+!5.12.2.c.png (مثال لعنصر مضاء بالخارج في ضوء الشمس)!
 )
 
-Different sources of light produce light of different color temperatures. Artificial lighting such as lightbulbs used in the home produce light with an orange tint to it. Daylight has a blue tint to it.
+تختلف درجة حرارة اللون باختلاف مصدر الضوء. فالإضاءة الاصطناعية، مثل مصابيح الإضاءة المستخدمة في المنزل، تنتج ضوءً به مسحة برتقالية. أما ضوء النهار فبه مسحة زرقاء.
 
 <hr/>
 
 (
-!5.12.3.a.png(Example of a professional colored photo)!
-!5.12.3.b.png(Example of an unacceptable colored photo)!
+!5.12.3.a.png (مثال لصورة ملونة بشكل محترف)!
+!5.12.3.b.png (مثال لصورة ملونة بشكل غير مقبول)!
 )
 
-Our eyes adjust to these color shifts, but cameras need to adjust a setting called “white balance” so the images will appear the way our eyes see them naturally.
+مع أن أعيننا تتأقلم مع هذه التحولات اللونية، فلابد من ضبط الكاميرات من خلال ضبط إعداد معين يسمى "توازن اللون الأبيض" لكي تظهر الصور كما تراها أعيننا في الطبيعة.
 
-The term white balance refers to shifting the color in the image so that anything white in the frame will appear as a neutral white, with no tint.
-
-<hr/>
-
-!5.12.4.a.png(A common Auto White Balance icon)!
-
-Most cameras have an automatic white balance that will register the color temperature of the prevailing source of light and make the necessary adjustments without adjusting anything at all.
+ويشير مصطلح توازن اللون الأبيض إلى انتقال اللون في الصورة بحيث يبدو أي شيء أبيض في الكادر أبيض محايدًا دون مسحة من أي لون آخر.
 
 <hr/>
 
-!5.12.5.a.png(Icons for the common white balance options)!
+!5.12.4.a.png (الأيقونة المعروفة للتوازن التلقائي للون الأبيض)!
 
-Some cameras have pre-set white balance options to cope with different types of lighting such as daylight or indoor or incandescent light.
-
-<hr/>
-
-Remember to to reset the white balance option if the lighting conditions change. If you come from outside and begin recording inside without adjusting your white balance setting, your pictures will be very orange. If you are recording indoors and go outside to shoot without adjusting the white balance, you will end up with very blue pictures.
+ويوجد بمعظم الكاميرات خاصية الضبط التلقائي لتوازن اللون الأبيض تقوم بتسجيل درجة حرارة لون مصدر الضوء السائد وتقوم بالتعديلات اللازمة دون ضبط أي شيء على الإطلاق.
 
 <hr/>
 
-!5.12.7.a.png(A common Auto White Balance icon)!
+!5.12.5.a.png (أيقونات خيارات توازن اللون الأبيض المعروفة)!
 
-h2. AWB (Auto White Balance)
-
-Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you’re unsure of which of these is the best to go with.
-
-This setting may be the most effective if you have strong artificial and natural light sources in your frame.
+يوجد في بعض الكاميرات خيارات معدة سلفا لضبط توازن اللون الأبيض للتكيف مع الأنواع المختلفة من الإضاءة مثل ضوء النهار أو ضوء داخل المنازل أو الضوء المتوهج.
 
 <hr/>
 
-!5.12.8.a.png(A common Daylight White Balance icon)!
-
-h2. Daylight
-
-Used for shooting outdoors. This setting will give your images a very “cool” or a slight blue tint to them. When shooting indoors, images will have an orange tint.
+تذكر أن تضبط خيار توازن اللون الأبيض إذا تغيرت ظروف الإضاءة. فإذا جئت من الخارج وبدأت تسجل بالداخل بدون ضبط إعداد توازن اللون الأبيض، فستكون صورك برتقالية للغاية. وإذا كنت تسجل داخل المنزل وخرجت لتسجيل اللقطات دون ضبط توازن اللون الأبيض، فسوف تصبح صورك زرقاء للغاية.
 
 <hr/>
 
-!5.12.8.a.png(A common Cloudy White Balance icon)!
+!5.12.7.a.png (الأيقونة المعروفة للتوازن التلقائي للون الأبيض)!
 
-h2. Cloudy
+h2. التوازن التلقائي للون الأبيض (AWB)
 
-Used for shooting outdoors. This setting will give your images a slightly “warmer” color to them. While the daylight option is technically the more correct white balance, using the cloudy setting gives a very appealing image.
+يتم استخدام هذه الأيقونة عند التصوير في أي مكان. إن الكاميرا تبذل قصارى جهدها في تخمين الإعداد الصحيح الذي يمكنها استخدامه. وإذا خمنت الكاميرا هذا الإعداد بشكل خاطئ، فسوف تنتج صورًا سيئة. هذا هو الإعداد الذي يجب عليك استخدامه إذا لم تكن متأكدًا من الخيار الأفضل من بين هذه الخيارات.
 
-When shooting indoors, this setting will give your images a strong orange tint.
-
-<hr/>
-
-!5.12.8.a.png(A common Incandescent White Balance icon)!
-
-h2. Incandescent
-
-Used for shooting indoors, with traditional small light bulbs. When shooting outdoors, images will have a strong blue tint.
+قد يكون هذا الإعداد هو الأكثر فعالية إذا كان لديك مصادر اصطناعية وطبيعية للضوء في كادرك.
 
 <hr/>
 
-!5.12.9.a.png(A common Fluorescent White Balance icon)!
+!5.12.8.a.png (الأيقونة المعروفة للتوازن التلقائي للون الأبيض في ضوء النهار)!
 
-h2. Fluorescent
+h2. ضوء النهار
 
-For shooting indoors, with the long tube fluorescent lights. When shooting outdoors, images will have a blue tint.
+يتم استخدامها عند التصوير بالخارج. يمنح هذا الإعداد لصورك لونًا "رائعًا" للغاية أو مائلاً للزرقة بعض الشيء. عند التصوير في الخارج، تكون الصور مائلة للون البرتقالي بعض الشيء.
+
+<hr/>
+
+!5.12.8.a.png (الأيقونة المعروفة للتوازن التلقائي للون الأبيض في اليوم الغائم)!
+
+h2. الغائم
+
+يتم استخدامه للتصوير بالخارج. يمنح هذا الإعداد لصورك لونًا "أكثر دفئًا" بعض الشيء. بينما يعد خيار ضوء النهار الخيار الأصح والأدق لتوازن اللون الأبيض من الناحية الفنية، فإن استخدام إعداد اليوم الغائم يمنحك صورة أكثر جاذبية.
+
+عند التصوير بالخارج، يضيف هذا الإعداد لصورك لونًا برتقاليًا قويًا.
+
+<hr/>
+
+!5.12.8.a.png (الأيقونة المعروفة لتوازن اللون الأبيض في الإضاءة الساطعة)!
+
+h2. السطوع
+
+يتم استخدامها للتصوير بالخارج في وجود المصابيح التقليدية والمصابيح الصغيرة. عند التصوير بالخارج، يضفي هذا الإعداد على الصور لونًا أزرق قويًا.
+
+<hr/>
+
+!5.12.9.a.png (الأيقونة المعروفة لتوازن اللون الأبيض في إضاءة الفلوريسنت)!
+
+h2. الفلوريسنت
+
+يتم استخدامها للتصوير بالخارج في وجود الإضاءة الفلوريسنت الطويلة. عند التصوير بالخارج، يضفي هذا الإعداد على الصورة لونًا أزرق.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-!5.12.10.a.mp4(How to use a piece of paper to manually set the white balance)!
+!5.12.10.a.mp4 (كيف نستخدم ورقة لإعداد التوازن الأبيض يدوياً)!
 
-If you are unsure what setting you should use, you can set the white balance yourself by holding a white piece of paper in front of your camera. A white wall or white material can also work. This will make the camera adjust into the correct white balance for the circumstances and ensure your images have the correct color temperature.
-
-<hr/>
-
-If you are using the Auto White Balance setting, point your camera at the intended subject, and wait 3-5 seconds before you begin recording. This will improve the automatic correction.
+إذا كنت غير متأكد من الإعداد الذي ينبغي عليك استخدامه، فيمكنك أن تضبط توازن اللون الأبيض بنفسك بالإمساك بقطعة من الورق الأبيض أمام الكاميرا. كما يمكن أن يفيد في ذلك حائط أبيض أو مادة بيضاء. وسوف يجعل ذلك الكاميرا تضبط نفسها على توازن اللون الأبيض المناسب للظروف السائدة وتضمن أن يكون لصورك درجة الحرارة اللونية الصحيحة.
 
 <hr/>
 
-Always update your White Balance setting when you move to a different lighting situation.
+إذا كنت تستخدم إعداد الضبط التلقائي لتوازن اللون الأبيض، فقم بتوجيه الكاميرا إلى الشيء الذي تريد تصويره وانتظر من 3-5 ثوانٍ قبل أن تبدأ التسجيل، وسوف يؤدي ذلك إلى تحسين التصحيح التلقائي.
 
 <hr/>
 
-h1. Quiz
+قم دائمًا بتحديث إعداد توازن اللون الأبيض عندما تنتقل إلى مكان الإضاءة به مختلفة.
 
-Question 1
-Question:What color tint does daylight give?
-Answer 1:Orange
-Answer 2:Black
-Answer 3:Red
-Answer 4:Blue
+<hr/>
+
+h1. امتحان موجز
+
+السؤال 1
+Question: ما مسحة اللون التي يعطيها ضوء النهار؟
+Answer 1: البرتقالي
+Answer 2: الأسود
+Answer 3: الأحمر
+Answer 4: الأزرق
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:What color tint does artificial light give?
-Answer 1:Orange
-Answer 2:Red
-Answer 3:Blue
-Answer 4:Black
+السؤال 2
+Question: ما مسحة اللون التي يعطيها الضوء الاصطناعي؟
+Answer 1: البرتقالي
+Answer 2: الأحمر
+Answer 3: الأزرق
+Answer 4: الأسود
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:If I don’t know what setting to use, what should I do?
-Answer 1:Ignore it
-Answer 2:Use Auto White Balance
-Answer 3:Use Incandescent
-Answer 4:Use Cloudy
+السؤال 3
+Question: إذا لم أكن أعرف أي إعداد يجب علي استخدامه، فما الذي ينبغي عليّ عمله؟
+Answer 1: أتجاهل الأمر
+Answer 2: أستخدم التوازن الأبيض
+Answer 3: أستخدم السطوع
+Answer 4: أستخدم الغائم
 Correct Answer:2
 
 <hr/>
 
-Question 4
-Question:If you are filming outside with an appropriate white balance, what color will your image become when you go inside?
-Answer 1:Blue
-Answer 2:Green
-Answer 3:Orange
-Answer 4:Purple
+السؤال 4
+ Question: إذا كنت تقوم بالتسجيل بالخارج مع توازن مناسب للون الأبيض، فما اللون الذي ستصبح عليه صورتك عندما تنتقل إلى الداخل؟
+Answer 1: الأزرق
+Answer 2: الأخضر
+Answer 3: البرتقالي
+Answer 4: الأرجواني
 Correct Answer:3
 
 <hr/>
 
-Question 5
-Question: The white balance setting is wrong in this shot. Which setting should have been used?
+السؤال 5
+Question: توازن اللون الأبيض في هذه الصورة خطأ. ما الإعداد الذي كان ينبغي استخدامه؟
 
 !5.12.19.a.mp4!
 
-Answer 1:Cloudy
-Answer 2:Daylight
-Answer 3:It's actually set correctly.
-Answer 4:Fluorescent
+Answer 1: الغائم
+Answer 2: ضوء النهار
+Answer 3: تم إعداده بطريقة صحيحة بالفعل
+Answer 4: الفلوريسنت
 Correct Answer:4

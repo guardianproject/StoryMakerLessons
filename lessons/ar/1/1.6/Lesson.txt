@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. How do I adapt my coverage as the story changes?
+h2. كيف يمكن أن أعدّل تغطيتي للموضوع حسب التغيرات التي تطرأ عليه؟
 
 !1.6.1.a.png!
 
@@ -8,97 +8,97 @@ h2. How do I adapt my coverage as the story changes?
 
 h1. خلفية
 
-Some stories are like bright flares. They burn intensely but shortly. Other stories build slowly, growing in intensity as they go. Still other stories are short-lived but illustrate ongoing social issues that warrant continued coverage.
+هناك موضوعات كالمشاعل المتوهجة؛ حيث تشتعل بشدة ولكن لمدة قصيرة. على الجانب الآخر، هناك موضوعات أخرى تبدأ متئدة وهادئة ثم تزيد حدتها بمرور الوقت. أيضًا، هناك موضوعات قصيرة العمر ولكنها تتناول أحداثًا اجتماعية جارية تسمح بوجود تغطية مستمرة لها.
 
 <hr/>
 
 !1.6.3.a.png!
 
-News organizations think in terms of distinct categories for coverage. These categories help journalists take advantage of the availability of more information as time goes on. They help journalists maintain the attention of readers and viewers by providing variety in their coverage. Understanding this progression and what’s expected of you will make you a better journalist.
+بوجه عام، تفكر المؤسسات الإخبارية من منطلق الفئات المتميزة الصالحة للتغطية. وتلك الفئات هي التي تساعد الصحفيين على الاستفادة من توفر المزيد من المعلومات بمرور الوقت، كما تساعدهم أيضًا على الحفاظ على جذب انتباه القراء والمشاهدين من خلال تقديم مجموعة متنوعة من المعلومات في تغطيتهم. إن فهم هذه العملية وإدراك المتوقع منك أن تعمله فيها سيجعلك صحفيًا متميزًا.
 
 <hr/>
 
-Much online news coverage is short, no longer than Tweets, Facebook or microblog posts. The text is often accompanied by photos, audio or video. Still, what you post and when should be influenced by these principles. 
+إن قدرًا كبيرًا من التغطية الإخبارية المتوفرة على الإنترنت موجز للغاية، فلا يزيد عن مجرد تغريدات أو مشاركات منشورة على موقع الفيسبوك أو المدونات الصغيرة. وفي الغالب الأعم، يكون الخبر مصحوبًا بصور أو مقاطع صوتية أو مقاطع فيديو. بيد أن ما تنشره وتوقيت نشره يجب أن يتأثر بالمفاهيم السالف ذكرها. 
 
 <hr/>
 
 h1. الحل
 
-h2. The breaking news story
+h2. الأخبار العاجلة
 
-!1.6.5.a.mp4(Example of a breaking news story)!
+!1.6.5.a.mp4 (مثال على الأخبار العاجلة)!
 
-From fires to demonstrations to plane crashes, breaking news events are unplanned and require a fast response. Breaking news stories are often succinct dispatches that provide little more than basic information: who, what, where, when, why and how. Think in terms of reporting the basic facts and interviewing sources in your coverage that get to the key information immediately. Breaking news stories are sometimes referred to as first-day stories if there will be follow up coverage as the event unfolds.
+ابتداءً من الحرائق ووصولاً إلى المظاهرات وحوادث تحطم الطائرات، فإن أحداث الأخبار العاجلة غير منظمة، ومن ثم فهي تتطلب استجابة سريعة. في الغالب الأعم، الأخبار العاجلة عبارة عن رسائل إخبارية موجزة تقدم أكثر من مجرد معلومات أساسية: من وما وأين ومتى ولماذا وكيف. لذا، فكر في تقديم الحقائق الأساسية ومقابلة المصادر في تغطيتك للأحداث، والتي تساعد على الوصول للمعلومات المتعلقة بالموضوع على الفور. في بعض الأحيان، يشار للأخبار العاجلة باسم "موضوعات اليوم الأول"، وذلك في حالة وجود تغطية متابعة للحدث في أثناء تطوره.
 
 <hr/>
 
-h2. The event story
+h2. موضوع الحدث
 
-!1.6.6.a.mp4(Example of a general assignment story)!
+!1.6.6.a.mp4 (مثال على الموضوعات المهمة)!
 
-This may be a press conference, planned demonstration, opening of a new hospital, or an election. Some follow a breaking news event. One key difference from breaking stories is that journalists have the opportunity to do pre-reporting. This allows you to present more background information in your story or as links. It might also allow you time to talk to more people, perhaps including an expert voice or someone with an opposing viewpoint. Ask yourself what information and sources will help the reader better understand the relevance of the issue.
+من الممكن أن يكون عبارة عن مؤتمر صحفي أو مظاهرة منظمة أو افتتاح لمستشفى جديد أو متابعة لوقائع انتخابات معينة. وقد يتبع بعضها حدث به أخبار عاجلة. من الفروق الأساسية التي تميز بين هذا الحدث وبين الأحداث العاجلة أن ههنا فرصة للصحفيين للتمهيد للإعلان عن الخبر، مما يتيح لهم تقديم المزيد من المعلومات أو الروابط للموضوع الذي يغطونه. كما قد يتيح لك كصحفي التحدث مع المزيد من الأشخاص، وربما يمكنك من إجراء لقاء مع أحد الخبراء أو أحد المعارضين للحدث. سل نفسك عن المعلومات والمصادر التي يمكن أن تساعد القارئ على فهم الموضوع بشكل أفضل.
 
 <hr/>
 
 h2. The feature story
 
-!1.6.7.a.mp4(Example of a feature story)!
+!1.6.7.a.mp4 (مثال على مقالة رئيسة)!
 
-Feature stories broader trends rather than specific events. They can be about important issues such as water shortages or more light-hearted events such as holiday festivals or a story about an unusual artist. Features favor a more artful presentation than news stories. Feature stories include some description, presentations of detailed information about how the event looked or sounded or how people react.
+إن نطاق موضوعات المقالات الرئيسة أوسع من ذلك الخاص بأحداث معينة. فمن الممكن أن تتعلق تلك الموضوعات بأحداث مهمة مثل نقص المياه، أو قد تتعلق بأحداث مبهجة مثل احتفالات العطلات أو موضوع يتناول فنانًا متميزًا. ويفضل في المقالات الرئيسة اتباع طريقة متقنة وفنية أكثر في تقديم المعلومات تزيد عن تلك التي تتطلبها الموضوعات الإخبارية.تتضمن موضوعات المقالات الرئيسة أيضًا بعض الأوصاف وعرضًا للمعلومات المفصلة حول الشكل الذي ظهر به الحدث أو وقعه على الآخرين أو رد فعال الآخرين حياله.
 
 <hr/>
 
 h2. The profile story
 
-!1.6.8.a.mp4(Example of a profile story)!
+!1.6.8.a.mp4 (مثال على موضوع شخصي)!
 
-A profile is a story about a person. He or she could be a politician or an athlete or a celebrity. Profile stories give us a window into the world of that person. Like features, profiles often contain description as well as quotes from the subject him or herself and perhaps from friends, family members and associates.
+الموضوع الشخصي عبارة عن قصة تدور حول شخص معين. من الممكن أن يكون هذا الشخص شخصية سياسية أو رياضية أو شخصية من المشاهير. وتمدنا تلك الموضوعات الشخصية بنبذة عن العالم الذي يعيش فيه هذا الشخص. وكما هو الحال بالنسبة للمقالات الرئيسة، غالبًا ما تحتوي الموضوعات الشخصية على أوصاف بالإضافة إلى أقوال صادرة عن هذا الشخص، وربما تحتوي أيضًا على أقوال وآراء صادرة عن أصدقائه أو أفراد عائلته أو زملائه في العمل.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-It should be clear from the different story types presented in this section how journalists and news organizations can present a compelling variety of coverage over time that encourages public understanding and dialogue about an issue. It should also be clear how the different types of stories can apply to longer stories, microblogging or be used with photo, video and audio journalism.
+لا بد وأنه قد اتضح لك هنا من أنواع الموضوعات المختلفة التي قدمناها في هذا القسم كيف يمكن للصحفيين والمؤسسات الإخبارية تقديم مجموعة متنوعة ورائعة من التغطية على مدار الوقت، والتي تشجع العامة على فهم موضوع ما والتحاور فيه. كما يتضح لنا هنا كيف يمكن أن تنطبق أنواع الموضوعات المختلفة على الموضوعات الطويلة أو المدونات الصغيرة، أو إمكانية استخدامها مع الموضوعات الصحفية المصحوبة بالصور ومقاطع الفيديو والمقاطع الصوتية.
 
 <hr/>
 
-!1.6.10.a.mp4(Interview with a journalis who has experience creating a news "package")!
+!1.6.10.a.mp4 (مقابلة مع صحفي مر بتجربة إنشاء "حزمة" أخبار)!
 
-Together these stories and other accompanying media elements make up what is called a “package.” Understanding what elements to include in a package and when to present them is an important part of good journalism and news management.
-
-<hr/>
-
-!1.6.11.a.mp4(Example of a breaking news story)!
-!1.6.11.b.mp4(Example of a following story)!
-
-The most important thing to remember is to present you information in a logical order for the reader -- analysis about the causes of a power outage in the capitol should not precede breaking news coverage of its immediate impact on the public. But, as the storyline evolves, it is important to continue to make basic, background or contextual information available.
+يشكل الجمع بين تلك الموضوعات وعناصر الإعلام الأخرى المصاحبة لها ما يعرف باسم "حزمة". يلعب فهم أنواع العناصر التي سيتم تضمينها في حزمة ما والوقت المناسب لتقديمها دورًا مهمًا في الصحافة المتميزة والتحكم في الأخبار.
 
 <hr/>
 
-h1. Quiz
+!1.6.11.a.mp4 (مثال على موضوع أخبار عاجلة)!
+!1.6.11.b.mp4 (مثال على موضوع متابعة)!
 
-Question 1
-Question:Which of the following are characteristics of a good news analysis story (it can be more than one)?
-Answer 1:The journalist’s opinion is clear
-Answer 2:The presentation of information shows only one point of view, one side of the story
-Answer 3:While the presentation may present a point of view, it makes a fact-based argument for that point of view
-Answer 4:The reader does not realize that it is an analysis/opinion piece rather than hard news
+إن الأمر الأكثر أهمية والذي يجب أن تتذكره هنا يتمثل في تقديمك لمعلوماتك بترتيب منطقي للقارئ. فتحليل أسباب انقطاع التيار الكهربي في مجلس الشيوخ لا ينبغي أن يسبق تغطية الأخبار العاجلة لتأثيره الفوري على العامة. ولكن، ومع تطور حبكة الموضوع، من الضروري أن تستمر في جعل المعلومات الأساسية أو المعلومات السياقية متاحة.
+
+<hr/>
+
+h1. امتحان موجز
+
+السؤال 1
+Question: أي مما يلي يعد من سمات التحليل الجيد للأخبار (يمكن أن يتم اختيار أكثر من إجابة واحدة)؟
+Answer 1: أن يكون رأي الصحفي واضحًا.
+Answer 2: أن تعرض المعلومات المقدمة وجهة نظر واحدة فقط أو جانبًا واحدًا من الموضوع.
+Answer 3: على الرغم من أن عرض المعلومات يمكن أن يقدم وجهة نظر معينة، فإنه يقدم نقاشًا مبنيًا على حقائق لوجهة النظر تلك.
+Answer 4: لا يدرك القارئ أن هذا الموضوع عبارة عن تحليل/رأي شخصي وليس أخبارًا واقعية.
 Correct Answer:1,3
 
 <hr/>
 
-Question 2
-Question:TRUE of FALSE: As a story from first-day coverage to deeper, more investigative coverage, it is important to provide contextual information in your presentation that reminds readers of the basic facts of the issue.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: كموضوع يبدأ من تغطية اليوم الأول ويتعمق فيما بعد لتغطية أكثر تحقيقًا واستقصاءً، من الضروري أن تقدم المعلومات السياقية في الموضوع والتي تذكر القراء بالحقائق الأساسية له.
+Answer 1: صح
+ Answer 2: خطأ
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:The categories of stories presented here are important because.
-Answer 1:They are a roadmap for how journalists can present more information as a story evolves over time
-Answer 2:The provide variety of presentation that helps keep a reader interested in topic over time
-Answer 3:Clear categories give reporters and news organization a way to talk about stories and plan long-term coverage
-Answer 4:All of the above
+السؤال 3
+Question: تعد فئات الموضوعات المذكورة هنا مهمة نظرًا لأنها:
+Answer 1: تمثل خارطة طريق للكيفية التي يمكن من خلالها أن يقدم الصحفيون المزيد من المعلومات مع تطور الموضوع بمرور الوقت.
+Answer 2: تقدم مجموعة متنوعة من طرق تقديم المعلومات تساعد على الاحتفاظ بجذب انتباه القارئ للموضوع بمرور الوقت.
+Answer 3: عبارة عن فئات واضحة تمنح المراسلين والمؤسسات الإخبارية سبيلاً للتحدث عن الموضوعات والتخطيط للتغطية طويلة المدى.
+Answer 4: كل ما سبق
 Correct Answer:4

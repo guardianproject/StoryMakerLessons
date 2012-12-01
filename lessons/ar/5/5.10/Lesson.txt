@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. How do you use space in the frame?
+h2. كيف تستخدم المساحة في الكادر؟
 
 !5.10.1.a.png!
 
@@ -8,41 +8,41 @@ h2. How do you use space in the frame?
 
 h1. خلفية
 
-The rule of thirds and the five basic shots provide a great foundation to start making your shots better with. They’re not the only rules to learn however. Nose space and Head space are two important rules that will help you arrange the rest of the space in your frame to support your story.
+توفر قاعدة التثليث واللقطات الخمس الأساسية أساسًا جيدًا للبدء في تحسين لقطاتك. لكنها ليست هي القواعد الوحيدة التي يجب تعلمها. فمساحة الأنف ومساحة الرأس قاعدتان مهمتان تساعدانك على ترتيب باقي المساحة في الكادر لدعم مادتك.
 
 <hr/>
 
 h1. الحل
 
-h2. Nose Space
+h2. مساحة الأنف
 
 !5.10.3.a.png!
 
-Well composed shots have space in the direction the subject is facing, or moving.
+اللقطات المصممة جيدًا بها مساحة في الاتجاه الذي ينظر أو يتحرك فيه الشخص الموجود في اللقطة.
 
 <hr/>
 
 !5.10.4.a.png!
 
-In this medium shot, the subject is on the right rule of third line. He is facing the left hand side of the frame. You can see, the direction he is facing is where the remaining two thirds of the frame are.
+وفي هذه اللقطة المتوسطة، يوجد الشخص على الخط الصحيح لقاعدة التثليث. وهو هنا ينظر إلى الجانب الأيسر من الكادر. ويمكنك أن ترى أنه ينظر في الاتجاه الذي يوجد فيه الثلثان الباقيان من الكادر.
 
 <hr/>
 
 !5.10.5.a.png!
 
-If he was facing the opposite direction you could either ask him to shift the direction he is facing and follow the same example, or adjust your frame and your frame would look like this.
+فإذا كان ينظر في الاتجاه المضاد، فيمكنك أن تطلب منه تغيير الاتجاه الذي ينظر فيه وتتبع نفس المثال، أو ضبط الكادر وسيبدو كهذا.
 
-You can see, everything is framed on the right, now that he is facing the opposite direction.
+يمكنك أن ترى أن كل شيء قد تم جعله في يمين الكادر، حيث أصبح الآن ينظر في الاتجاه المضاد.
 
-Following this guideline will ensure your subject has appropriate room in front of them. You may also hear this rule referred to as “looking space” or “lead room”. It’s the same concept though.
+إن اتباعك هذه الإرشادات سوف يضمن ترك مساحة مناسبة أمام الشخص. وقد يترامي إلى سمعك أن هذه القاعدة يطلق عليها أيضا "مساحة النظر" أو "المساحة الأمامية"، لكن المفهوم واحد.
 
 <hr/>
 
-h2. Head Space
+h2. مساحة الرأس
 
 !5.10.6.a.png!
 
-Head space is the distance between the top of a subject’s head, and the top of the frame. It is a guideline to make sure your subjects head does not appear to high or too low in the frame. 
+مساحة الرأس هي المسافة بين أعلى رأس الشخص وأعلى الكادر، وهي من الإرشادات التي تساعدك على التأكد من أن رأس الشخص الذي تقوم بتصويره لن يظهر مرتفعا أو منخفضا أزيد من اللازم في الكادر. 
 
 <hr/>
 
@@ -52,77 +52,78 @@ Head space is the distance between the top of a subject’s head, and the top of
 !5.10.7.c.png!
 )
 
-This amount of space changes depending on what shot size you are using. 
+تتغير هذه المساحة تبعا لحجم اللقطة التي تستخدمها. 
 
-These three different shots all have very different head room. But in all of them the focal point of the subject rests on the top line. This means headspace is really a balance of the rule of thirds and the top of the frame.
-
-<hr/>
-
-You should always keep these rules in mind to effectively use the space in your frame. Follow these rules to keep your audience focused on the story.
+هذه اللقطات الثلاث المختلفة تبدو فيها جميعًا مساحة الرأس مختلفة ، لكن النقطة البؤرية للشخص فيها جميعًا موجودة على الخط الأعلى. ويعني ذلك أن مساحة الرأس هي في حقيقتها توازن بين قاعدة التثليث وأعلى الكادر.
 
 <hr/>
 
-!5.10.9.a.png(Example of bad nose space)!
+يجب عليك دائمًا أن تضع هذه القواعد في اعتبارك لكي تستخدم المساحة الموجودة في الكادر بفعالية. 
+اتبع هذه القواعد لكي تحافظ على تركيز جمهورك على المادة.
 
-If you do not allow for nose space, your subject may appear to be speaking to someone else.
+<hr/>
 
-In general, if you do not follow this rule your subject appears cramped in the frame, and the audience will be distracted.
+!5.10.9.a.png (مثال لمساحة أنف سيئة)!
+
+إذا لم تتح مساحة للأنف، فقد يبدو الشخص وكأنه يتحدث مع شخص آخر.
+
+وبصفة عامة، إذا لم تتبع هذه القاعدة فسوف يبدو الشخص محشورًا في الكادر وسوف يتشتت الجمهور.
 
 
 <hr/>
 
 (
-!5.10.10.a.png(Example of someones head sitting too low)!
-!5.10.10.b.png(Example of someones head sitting too high)!
+!5.10.10.a.png (مثال لرأس شخص يوجد منخفضًا جدا في الكادر)!
+!5.10.10.b.png (مثال لرأس شخص يوجد مرتفعًا جدا في الكادر)!
 
 )
 
-If you do not allow for proper headspace your subject’s head will be cut off, or their head will sit very low in the frame. Both of these are very distracting to an audience as well.
+إذا تم تتح مساحة كافية للرأس، فلن يظهر رأس الشخص بكامله أو قد يظهر رأسه منخفضًا جدا في الكادر، وكلا الحالتين تسبب تشتتا كبيرا للجمهور كذلك.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-A well balanced shot will feel right to you, these rules will help you find the right look faster.
+إذا كانت اللقطة متوازنة، فسوف تشعر أنت أنها على ما يرام، وسوف تساعدك هذه القواعد على التوصل إلى المنظر المناسب بشكل أسرع.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:Nose room is?
-Answer 1:Putting the subject’s nose at the bottom of the frame.
-Answer 2:The space between the subject's nose and the camera lens.
-Answer 3:Allowing for space in the frame in the direction the subject is facing, or moving.
-Answer 4:How much room should be between you and the camera.
-Correct Answer:Answer 3
+السؤال 1
+Question: ما تعريف مساحة الأنف ؟
+Answer 1: وضع أنف الشخص في أسفل الكادر.
+Answer 2: المساحة بين أنف الشخص وعدسة الكاميرا.
+Answer 3: ترك مساحة في الكادر للاتجاه الذي ينظر أو يتحرك فيه الشخص.
+Answer 4: المساحة التي ينبغي أن تتركها بينك وبين الكاميرا.
+Correct Answer: Answer 3
 
 <hr/>
 
-Question 2
-Question:What is Head Space?
-Answer 1:The distance between a subject’s arms, and the side of the frame.
-Answer 2:The space between your head and the camera.
-Answer 3:The space where you put the subject's head
-Answer 4:The distance between the top of a subject’s head, and the top of the frame.
+السؤال 2
+Question: ما مساحة الرأس؟
+Answer 1: المسافة بين ذراعي الشخص وجانب الكادر.
+Answer 2: المساحة بين رأسك وبين الكاميرا.
+Answer 3: المساحة التي تضع فيها رأس الشخص.
+Answer 4: المسافة بين أعلى رأس الشخص وأعلى الكادر.
 Correct Answer:3
 
 <hr/>
 
-Question 3
-Question:Which of these shots is a good example of Head Room?
-Answer 1:!5.10.14.a.png!
-Answer 2:!5.10.14.b.png!
-Answer 3:!5.10.14.c.png!
-Answer 4:None of the above.
+السؤال 3
+Question: أي من هذه اللقطات مثال جيد لمساحة الرأس؟
+Answer 1: !5.10.14.a.png!
+Answer 2: !5.10.14.b.png!
+Answer 3: !5.10.14.c.png!
+Answer 4: لا إجابة مما سبق صحيحة.
 Correct Answer:2
 
 <hr/>
 
-Question 4
-Question:Which of these shots is a good example of Nose Room?
-Answer 1:!5.10.15.a.png!
-Answer 2:!5.10.15.b.png! 
-Answer 3:!5.10.15.c.png! 
-Answer 4:All of the above.
+السؤال 4
+Question: أي من هذه اللقطات مثال جيد لمساحة الأنف؟
+Answer 1: !5.10.15.a.png!
+Answer 2: !5.10.15.b.png!
+Answer 3: !5.10.15.c.png!
+Answer 4: كل ما سبق.
 Correct Answer:1

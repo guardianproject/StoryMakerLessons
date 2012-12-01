@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. I have my mobile phone and I'm ready to record, what can I do to make sure the recording comes out well?
+h2. لديّ هاتف محمول وعلى استعداد للتسجيل، فما الذي يمكن أن أفعله لأضمن جودة التسجيل؟
 
 !3.6.1.a.png!
 
@@ -8,116 +8,116 @@ h2. I have my mobile phone and I'm ready to record, what can I do to make sure t
 
 h1. خلفية
 
-Recording audio is easy, but there are many ways to ruin the recording so that it is unusable. To ensure this does not happen to you, practice these simple steps while you are recording an interview, or your own narration of a story. Following these steps may prevent an audio problem before it happens. Because once your audio is recorded badly, it is extremely difficult to save it.
+إن تسجيل الصوت أمر سهل للغاية، بيد أن هناك العديد من الطرق التي قد تتلف تسجيلك وتجعله غير صالح للاستخدام. لتضمن عدم حدوث هذا الأمر، تمرن على تلك الخطوات البسيطة في أثناء تسجيلك لإحدى المقابلات، أو في أثناء سردك لأحداث قصة ما. إن إتباع مثل تلك الخطوات يمكن أن يمنع حدوث مشكلة في الصوت قبل أن تحدث، وهذا نظرًا لأنه حالما يتم تسجيل الصوت بشكل سيء، يصبح من الصعب للغاية حفظه. 
 
 <hr/>
 
 h1. الحل
 
-h2. Handling Noise and Grip
+h2. التعامل مع الضوضاء والإمساك بجهاز التسجيل
 
 !3.6.3.b.png!
 
-!3.6.3.a.mp3(Example of handling noise)!
+!3.6.3.a.mp3 (مثال على التعامل مع الضوضاء)!
 
-When preparing to record, hold your device in a way that is comfortable and natural. Hold the device without applying much pressure, a manner that you can hold for an extended period of time.
+عندما تعد للتسجيل، أمسك بجهاز التسجيل المتوفر معك بشكل مريح وطبيعي. أمسك به دون أن تطبق يدك عليه وتضغط عليه بشكل كبير، وهو نحو يسمح لك بالإمساك به لفترات طويلة من الوقت.
 
 <hr/>
 
 !3.6.4.a.png!
 
-If you must hold the recording device up to the person throughout the interview, rest your elbow on a solid surface. It is best to sit down, rest your elbow on the table and extend your arm toward the audio source.
+إذا كان عليك أن ترفع جهاز التسجيل لأعلى كي يصل للمتحدث في أثناء المقابلة، فأسند كوعك على سطح صلب. من الأفضل أيضًا أن تجلس وتسند كوعك على الطاولة وتفرد ذراعك نحو مصدر الصوت.
 
-If there is a table between you and the person you are interviewing, you can set the recorder on a table, but take care no one touches, taps, or bangs the table, this may cause contact noise.
+إذا كانت هناك طاولة بينك وبين الشخص الذي تجري معه المقابلة، فيمكنك وضع جهاز التسجيل عليها، ولكن احرص على ألا يلمس أحد الطاولة أو ينقر أو يطرق عليها، فقد يتسبب ذلك في إحداث ضوضاء.
 
 <hr/>
 
 !3.6.5.a.png!
 
-There are several types of stands that fit handheld recorders or even smart phones, to hold them in place during the interview. You can make your own using materials you have anything you can rest the recorder on that keeps it as face level with your audio source will do.
+هناك أنواع عدة من المنصات أو الحوامل التي تلائم الإمساك بأجهزة التسجيل أو حتى الهواتف الذكية، وذلك كي تتمكن من تثبيت أي منها في أثناء المقابلة. وتستطيع أن تصنع الحامل الخاص بك بنفسك باستخدام المواد المتوفرة لديك؛ فأي شيء يمكن أن تضع جهاز التسجيل عليه موجهًا إياه لأعلى نحو مصدر الصوت سوف يفي بالغرض.
 
 <hr/>
 
-h2. Hums and Background Noise
+h2. الهمهمة والضوضاء الحادثة في الخلفية
 
-!3.6.6.a.mp3(Example of air conditioning sound)!
+!3.6.6.a.mp3 (مثال على الأصوات الصادرة عن أجهزة تكييف الهواء)!
 
-Detecting air conditioning sounds and other machine sounds that can ruin your audio recording should be done before you press record. When you arrive at the location, take notice of any and all sounds even those that seem harmless. Ask if machines causing noise can be turned off, or suggest a change of location for the sake of the audio quality. Most people will understand and trust your expertise on the subject.
+إن وجود أصوات صادرة عن أجهزة تكييف الهواء أو أي من الأجهزة الأخرى يمكن أن يتلف الصوت الذي تسجله. لذا يجب التأكد من هذا الأمر قبل أن تضغط على زر التسجيل. عندما تصل لمكان المقابلة، لاحظ جميع الأصوات حتى تلك التي قد يبدو لك أنها لن تضر في شيء. اطلب أن يتم إيقاف تشغيل الأجهزة المتسببة في الضوضاء، أو اقترح تغيير المكان من أجل جودة الصوت. بوجه عام، يتفهم معظم الأشخاص هذا الأمر ويثقون في خبرتك في هذا الصدد.
 
 <hr/>
 
 !3.6.7.a.png!
 
-Hold the microphone a bit under the mouth of the interviewee so that the airstream coming out of his or her mouth will not create HISS or POP sounds in the recording.
+ضع الميكروفون أسفل فم من تقابله بعض الشيء بحيث لا ينتج عن اندفاع الهواء من فمه أو فمها أصوات هسهسة أو خشخشة في التسجيل.
 
 
 <hr/>
 
 !3.6.8.a.png!
 
-Remember to monitor your recording using headphones, they will help you notice any disruptive sounds that you may not have considered before.
+تذكر أن تراقب تسجيلك باستخدام سماعات الأذن، فسوف يساعدك ذلك الأمر على ملاحظة أية أصوات مزعجة لم تلاحظها من قبل. 
 
 <hr/>
 
-h2. Backup and Store Files
+h2. قم بعمل نسخة احتياطية من الملفات واحفظها
 
 !3.6.9.a.png!
 
-Once you have your audio recorded, unless you upload it immediately to the internet, there is always a risk that your audio files will get lost, damaged or deleted. It is therefore very important to offload your recordings as soon as possible to your computer and even better, store a copy on an external hard drive. Professional media makers often have multiple backups of their content just in case their computer or one of their backup drives is damaged.
+حالما تنتهي من تسجيل المقابلة الصوتية، هناك دومًا خطورة تتمثل في إمكانية فقدك لملفاتك الصوتية أو تلفها أو حذفها إلا إذا حملتها على الفور على الإنترنت. بناءً على ذلك، من الضروري للغاية أن تحفظ تسجيلاتك على الكمبيوتر الذي تستخدمه بأسرع وقت ممكن، والأفضل من ذلك أن تحتفظ بنسخة منها على أحد الأقراص الصلبة الخارجية. في الغالب الأعم، يقوم صناع الإعلام المحترفون بعمل نسخ احتياطية متعددة للمحتوى الخاص بهم لتفادي إمكانية تلفه على أجهزة الكمبيوتر الخاصة بهم أو على أقراصهم الاحتياطية.
 
 <hr/>
 
 !3.6.10.a.png!
 
-Remember to also keep your audio files labeled and organized. StoryMaker allows you to make notes on individual clips, this function can help you remember important details. Choose a name that includes the title of the project and some other identifiable label that tells you what part of the project it is.
+علاوة على ما سبق، تذكر أن تعنون ملفاتك الصوتية وتعمل على تنظيمها. يتيح لك ستوري ميكر وضع ملاحظات على المقاطع الفردية، وهذه السمة يمكن أن تساعدك في تذكر التفاصيل المهمة. اختر اسمًا يتضمن عنوان المشروع واسمًا آخر يخبرك بماهية هذا الجزء من المشروع.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-* Always consider how long you will have to hold your recorder steady before you begin an interview. For longer interviews, find a comfortable way to sit or stand, that also keeps you from having to change your grip.
-* Make use of surfaces, especially something that can be used as a stand, to rest the recorder at an acceptable distance from the audio source.
-* Look and listen for background sounds that could harm the quality of your recording when you first arrive at an interview or recording location.
-* Keep your audio files backed up and correctly labeled.
+* ضع في اعتبارك دومًا المدة التي ستضطر فيها للإمساك بجهاز التسجيل بشكل ثابت قبل أن تبدأ إجراء المقابلة. بالنسبة للمقابلات الطويلة، ابحث عن طريقة مريحة للجلوس أو الوقوف، والتي قد تساعدك في تجنب الاضطرار لتغيير الطريقة التي تمسك بها جهاز التسجيل.
+* استفد من الأسطح، وخاصة تلك التي يمكن أن تستخدمها كحامل لوضع جهاز التسجيل عليه على مسافة مناسبة من مصدر الصوت.
+* ابحث وأنصت جيدًا للأصوات الموجودة في الخلفية والتي يمكن أن تضر بجودة تسجيلك، واجعل ذلك أول ما تفعله عندما تصل لمكان المقابلة أو التسجيل. 
+* احتفظ بنسخ احتياطية من ملفاتك الصوتية وعنونها على النحو الصحيح.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What is handling noise?
-Answer 1:The music of a famous composer.
-Answer 2:The interrupting background sound of an air conditioner.
-Answer 3:Disruptive sounds caused by your own hand changing its grip or moving while holding a recorder.
-Answer 4:Handling noise, ie turning off noisy machines.
+السؤال 1
+Question: ما التعامل مع الضوضاء؟
+Answer 1: موسيقى ملحن مشهور.
+Answer 2: صوت الخلفية الصادر عن أحد أجهزة تكييف الهواء.
+Answer 3: الأصوات المشوشة الصادر عن تغييرك لقبضة يدك على جهاز التسجيل أو تحركك من مكانك وأنت ممسك بجهاز التسجيل.
+Answer 4: التعامل مع الضوضاء؛ أي إيقاف تشغيل الأجهزة المحدثة للضجة.
 Correct Answer:3
 
 <hr/>
 
-Question 2
-Question:Which of the following can be used to prevent handling noise and keep your arm or recorder stable during a recording?
-Answer 1:Table
-Answer 2:Mic Stand
-Answer 3:A Wall
-Answer 4:All of the Above.
+السؤال 2
+Question: أي مما يلي يمكن أن يُستخدم في التعامل مع الضوضاء والحفاظ على ثبات ذراعك أو ثبات جهاز التسجيل في أثناء التسجيل؟
+Answer 1: طاولة
+Answer 2: حامل الميكروفون
+Answer 3: حائط
+Answer 4: كل ما سبق
 Correct Answer:4
 
 <hr/>
 
-Question 3
-Question:When should you address the problem of air conditioning sounds or other machines?
-Answer 1:When you arrive at a location, before you start recording.
-Answer 2:In the middle of the interview.
-Answer 3:During the editing process.
-Answer 4:Turn off all machines 24 hours before your interview.
+السؤال 3
+Question: متى يجب عليك التعامل مع مشكلة الأصوات الصادرة عن أجهزة تكييف الهواء أو عن أي من الأجهزة الأخرى؟
+Answer 1: عندما تصل لمكان المقابلة أو التسجيل، وقبل أن تبدأ التسجيل.
+Answer 2: في منتصف المقابلة.
+Answer 3: في أثناء عملية التحرير.
+Answer 4: يجب إيقاف تشغيل جميع الأجهزة قبل موعد المقابلة بـ 24 ساعة.
 Correct Answer:1
 
 <hr/>
 
-Question 4
-Question:Which is NOT a good strategy for protecting your data after recording?
-Answer 1:Keep the file on your smart phone and never copy it anywhere else.
-Answer 2:Copy it to your computer and an external hard drive.
-Answer 3:Upload it to the internet somewhere where you can access it later.
-Answer 4:Email a copy of the file to yourself.
+السؤال 4
+Question: ما الطريقة التي لا تعد طريقة جيدة لحماية بياناتك قبل التسجيل؟
+Answer 1: الاحتفاظ بالملف على هاتفك الذكي وعدم عمل نسخة منه في أي مكان آخر على الإطلاق.
+Answer 2: نسخ الملف على الكمبيوتر الذي تستخدمه وعلى قرص صلب خارجي.
+Answer 3: تحميل الملف على الإنترنت في مكان معين يمكنك الوصول إليه في وقت لاحق.
+Answer 4: إرسال نسخة من الملف بالبريد الإليكتروني لنفسك.
 Correct Answer:1

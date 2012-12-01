@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. The Arab region is today experiencing a profound change in its media. You are at the core of a transition that has resulted in more democratic governments and greater media freedom in several countries and various stages of transition in others. Yet media law in the region remains weak at best and at worst has been used as a tool to silence journalists. How should you navigate the ongoing change in media law?
+h2. تشهد المنطقة العربية في الوقت الحالي تغيرًا ملحوظًا في إعلامها. وقد أصبحتَ في صلب هذا التحول الذي أدى إلى ظهور حكومات أكثر ديمقراطية وإلى زيادة قدر حرية الإعلام في العديد من البلاد، هذا علاوة على حدوث مراحل مختلفة من التحول في بلاد أخرى. بيد أن قانون الإعلام في المنطقة لا يزال ضعيفًا في أفضل الحالات. وفي أسوأ الحالات، أصبح يستخدم كأداة لتكميم أفواه الصحفيين. فكيف ينبغي عليك اجتياز التغير الحادث في قانون الإعلام؟
 
 !1.8.1.a.png!
 
@@ -8,72 +8,72 @@ h2. The Arab region is today experiencing a profound change in its media. You ar
 
 h1. خلفية
 
-Journalists everywhere work under at least some small degree of legal restrictions over what they produce. Most commonly these are issues of national security, information deemed to be obscene and language that might incite violence or put people in danger.
+يعمل الصحفيون في مختلف الأماكن تحت قدر ضئيل بعض الشيء من القيود القانونية التي تحكم ما يقومون بعمله. وتعد قضايا الأمن القومي الأكثر شيوعًا في هذا الأمر، هذا بالإضافة إلى المعلومات التي تعتبر غير لائقة واللغة المستخدمة التي قد تحرض على العنف أو تعرض الناس للخطر. 
 
-In countries with well-developed media laws criticism of government and presentation of unpopular ideas is permitted. Some degree of public access to government records is also guaranteed.
+في البلاد التي تسود فيها قوانين الإعلام المتطورة، فإن توجيه النقد من وسائل الإعلام للحكومات وتقديم الأفكار غير الشعبية مسموح به. كما تتيح تلك القوانين أيضًا إمكانية الاطلاع العام على السجلات الحكومية.
 
-Several countries in the Middle East are now drafting new media laws as they overhaul their constitutions. Advocacy organizations such as the Committee to Protect Journalists are concerned vague language in emerging laws may be used against journalists.
+والآن، تصيغ العديد من دول الشرق الأوسط قوانين جديدة للإعلام في أثناء إصلاحها لدساتيرها. وهناك قلق من الهيئات الدفاعية؛ مثل لجنة حماية الصحفيين، من أن يتم استخدام لغة غامضة في سن هذه القوانين، والتي يمكن أن يتم استخدامها ضد الصحفيين.
 
 <hr/>
 
 h1. الحل
 
-h2. What should you do to protect themselves from overly restrictive application of media laws?
+h2. ماذا ينبغي على الصحفيين أن يفعلوا ليحموا أنفسهم من التطبيق المقيد لقوانين الإعلام؟
 
-h3. Know the law 
+h3. كن علم ودراية بالقوانين 
 
 !1.8.3.a.png!
 
-Understand the law in the country or region you work. Just because laws to protect journalists exist doesn’t mean that government, local leadership and security forces will obey the law, but understanding the law can be a first step toward improving it.
+تفهم جيدًا القانون الساري في البلد أو المنطقة التي تعمل بها. فمجرد وجود القوانين المختصة بحماية الصحفيين لا يعني أن الحكومة والقيادة المحلية وقوات الأمن سوف تنصاع لها. ولكن فهم هذه القوانين قد يمثل الخطوة الأولى نحو العمل على تطويرها. 
 
 <hr/>
 
-h3. Adhere to professional codes of conduct
+h3. التزم بقوانين السلوكيات المهنية
 
 !1.8.4.a.png!
 
-In an earlier lesson there is a professional code of conduct for journalists. Even in countries where media laws are very restrictive, observing the principles outlined may help you avoid accusations of libel or treason.
+في قسم سابق، ذكرنا قوانين السلوكيات المهنية الخاصة بالصحفيين.  وحتى في الدول التي تكون فيها قوانين الإعلام مقيدة ومتزمتة للغاية، يمكن أن يساعدك الالتزام بالمبادئ التي سبق وأوضحناها في هذا الصدد على تجنب أن تُتهم بالقذف والتشهير أو بالخيانة.
 
 <hr/>
 
-h3. Advocate for change
+h3. أيّد التغيير ودافع عنه
 
 !1.8.5.a.png!
 
-One of the key characteristics of the shift in media throughout the Arab region is the blending of media with media advocacy. Citizen journalists are breaking through barriers in how journalism is defined at the same time they are covering stories. Pool resources with others to create a knowledge base. Seek support from legal organizations within your country. Seek support and information from international organizations like the Committee to Project Journalists.
+يعد مزج وسائل الإعلام مع مناصرتها من السمات الأساسية للتحول في الإعلام بالمنطقة العربية بأكملها. فقد أصبح بإمكان الصحفيين المدنيين أن يخترقوا الحواجز الموضوعة على كيفية تحديد دور الصحافة في أثناء تغطيتهم لموضوعاتهم. اعمل على تجميع المصادر مع بعضها البعض لتعمل على إنشاء قاعدة معلوماتية. اطلب المساعدة من الهيئات القانونية الموجودة ببلدك. واطلب المساعدة والمعلومات كذلك من الهيئات الدولية مثل لجنة حماية الصحفيين.   
 
 <hr/>
 
-h3. Protect yourself (and your sources)
+h3. احم نفسك (ومصادرك أيضًا)
 
 !1.8.6.a.png!
 
-This issue will be addressed more fully in the digital security module. In short, understanding the law, how authorities may ignore or abuse the law or identify you online and being proactive is essential to any journalist working under unsafe conditions. If you are arrested, prosecuted or harassed, contact national and international organizations that provide support for journalists.
+سوف يتم تناول هذا الموضوع بشكل أكثر تفصيلاً في وحدة التأمين الرقمي. بإيجاز شديد، يعد فهم هذه القوانين والكيفية التي قد تتجاهل بها السلطات هذه القوانين أو تسيء استخدامها أو تحدد هويتك عبر الإنترنت هذا بجانب اتخاذك للتدابير الوقائية من الأمور الأساسية التي ينبغي أن يعلمها أي صحفي يعمل في ظل ظروف غير آمنة. فإذا تم القبض عليك أو مقاضاتك أو مضايقتك بأي شكل من الأشكال، اتصل بالهيئات القومية والدولية التي تقدم الدعم للصحفيين.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-!1.8.7.a.mp4(Interview with an expert of Arabic media law)!
+!1.8.7.a.mp4 (مقابلة مع خبير في قانون الإعلام العربي)!
 
-Inevitably the development of media law in the Arab region and in individual countries will reflect their unique cultures and national interests. Nonetheless, you have to be willing to push boundaries. Even in many countries with fairly liberal laws self-censorship is an issue among journalists. Some journalists are uncomfortable covering highly controversial cultural issues such as the rights of women or tribal disputes. Some journalists are reluctant to cover issues that tarnish national image such as widespread alcohol abuse or corruption within popular institutions. Sunshine is the best disinfectant. If these issues have relevance to the public interest, people need to know and it’s your job to tell them.
+مما لا شك فيه أن التطور الحادث في قوانين الإعلام في المنطقة العربية والدول الأخرى سوف يعكس ثقافاتها ومصالحها القومية المتميزة. على الرغم من ذلك، ينبغي عليك أن تكون على استعداد للتعامل مع مثل تلك التحديثات. فحتى في العديد من البلاد التي تتسم بالقوانين الليبرالية إلى حد ما، تعد الرقابة الذاتية من الموضوعات المهمة المنتشرة بين الصحفيين. بوجه عام، هناك بعض الصحفيين لا يشعرون بالارتياح في تغطية بعض الموضوعات الثقافية المثيرة للجدل لحد كبير؛ مثل حقوق المرأة أو النزاعات القبلية. من ناحية أخرى، يتردد بعض الصحفيين في تغطية الموضوعات التي تلطخ أو تشوه الصورة القومية؛ مثل انتشار تعاطي الكحوليات أو الفساد المستشري في المؤسسات العامة. إن الوضوح هو أفضل الخيارات المتاحة في هذا الصدد. ومن ثم، إذا كانت تلك الموضوعات تتعلق بالصالح العام، فسيصبح الناس بحاجة لمعرفتها، ومهمتك تتمثل في أن تعلمهم بها.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:Even if the media laws are unclear and the authorities apply them unfairly in the country or region where you work which of the following can help citizen journalists protect themselves?
-Answer 1:Be familiar with the laws that are on the books
-Answer 2:Advocate for better media law
-Answer 3:Adhere to a professional code of ethics
-Answer 4:All of the above
+السؤال 1
+Question: حتى وإن كانت قوانين الإعلام غير واضحة والسلطات تطبقها بشكل مجحف في البلد أو المنطقة التي تعمل بها، فاذكر أي مما يلي يمكن أن يساعد الصحفيين المدنيين على حماية أنفسهم؟
+Answer 1: الإلمام بالقوانين المنصوص عليها في الكتب
+Answer 2: الدعوة لوضع قانون أفضل للإعلام
+Answer 3: الالتزام بقانون الأخلاقيات المهنية
+Answer 4: كل ما سبق
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE: Self-censorship can be an issue for many journalists even if government censorship is not. Good journalists need to be willing to give fair coverage to ideas with which they do not agree, unpopular topics that are relevant to public interest and subject matter that is culturally uncomfortable but important
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: يمكن أن تمثل الرقابة الذاتية مشكلة للعديد من الصحفيين حتى وإن لم تكن الرقابة الحكومية كذلك. ومن ثم، يحتاج الصحفيون المتميزون لأن يكونوا مستعدين لتقديم تغطية منصفة وعادلة للأفكار التي لا يتفقون معها والموضوعات غير الشائعة التي تتعلق بالصالح العام، هذا بالإضافة للموضوعات التي تعد مهمة ولكنهم لا يشعرون بالارتياح تجاهها من الناحية الثقافية.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:1

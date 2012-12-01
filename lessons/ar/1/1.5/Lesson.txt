@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. How can I learn to cover an issue professionally and ethically?
+h2. كيف أتعلم تغطية موضوع بشكل مهني وأخلاقي؟
 
 !1.5.1.a.png!
 
@@ -8,127 +8,127 @@ h2. How can I learn to cover an issue professionally and ethically?
 
 h1. خلفية
 
-!1.5.2.a.mp4(Interview with a journalist who has experience ethical issues in the field)!
+!1.5.2.a.mp4 (مقابلة مع صحفي ذي خبرة في الموضوعات الأخلاقية في هذا المجال)!
 
-From the outset we have discussed professional standards and journalism ethics. Many news organizations publish professional and ethical guidelines, called a code of ethics, for their staff. Sometimes journalism associations or professional organizations do the same thing. No matter how strongly you feel about an issue or an injustice, your opinion should not influence your story. Report the facts and let the audience judge for themselves. You will be much better journalist as a result.
+بادئ ذي بدء، تطرقنا لمناقشة المعايير المهنية وأخلاقيات الصحافة. تنشر العديد من المؤسسات الإخبارية إرشادات ونصائح مهنية وأخلاقية للعاملين بها؛ وهي التي تعرف باسم "أخلاقيات المهنة". في بعض الأحيان، تفعل الهيئات الصحفية أو الهيئات المهنية الأمر نفسه. بصرف النظر عن تأييدك لموضوع ما أو دفاعك عن ظلم وقع على أحد، فلا ينبغي أن يؤثر رأيك هذا على الموضوع الذي تغطيه. انشر الحقائق ودع الجمهور يحكم بنفسه على الأمر. فبهذا النحو، تصبح صحفيًا ناجحًا.
 
 <hr/>
 
 h1. الحل
 
-h2. 10 Professional and Ethical Standards for Journalists:
+h2. 10 معايير مهنية وأخلاقية للصحفيين:
 
 !1.5.3.a.png!
 
-h3. Fact-based
+h3. الاعتماد على الحقائق
 
-Good journalism is based on verifiable facts collected through good reporting rather than hearsay, opinion or speculation. No matter how strongly you feel about a story, let the facts speak for themselves in your reporting and trust in the audience’s ability to draw its own conclusions.
+تعتمد الصحافة الجيدة على الحقائق الثابتة المجمعة من خلال التقارير الجيدة أكثر من اعتمادها على الإشاعات أو الآراء أو التخمينات. كما سبق وذكرنا، وبصرف النظر عن تأييدك لرأي ما في الموضوع الذي تتناوله، دع الحقائق تتحدث عن نفسها في تقاريرك وثق في قدرة الجمهور على التوصل للنتائج الخاصة به.
 
 <hr/>
 
 !1.5.4.a.png!
 
-h3. Citizen-based
+h3. الاعتماد على المواطنين
 
-As a citizen journalist you are a guardian of the public interest not a spokesperson for political or business interests. Your coverage should be about issues important to the lives of ordinary people. The presentation of information in your reporting should be clear and easy-to-read.
+بصفتك صحفيًا مدنيًا، فإنك حارس للصالح العام ولست متحدثًا رسميًا باسم المصالح السياسية أو المصالح التجارية. ومن ثم، يجب أن تدور تغطيتك عن الموضوعات التي تهم حياة المواطنين العاديين. وبالتالي أيضًا، يجب أن تكون طريقة تقديمك للمعلومات في تقاريرك واضحة وسهلة في قراءتها.
 
 <hr/>
 
 !1.5.5.a.png!
 
-h3. Balanced
+h3. التوازن
 
-The best journalism seek to represent all sides of an issue, not just the one most allied to the journalist’s views. Journalists should interview the best sources to represent a variety of informed perspectives. Sources should always be given an opportunity to respond to criticism and allegations of wrongdoing. This may mean representing people or views with which you strongly disagree. That is all part of good journalism.
+تسعى الصحافة المتميزة إلى تقديم جميع الجوانب التي تتعلق بالموضوع، وليس فقط تلك التي تتفق مع وجهات نظر الصحفي الذي يقدمه. ومن ثم، يجب على الصحفيين إجراء مقابلات مع أفضل المصادر الممكنة لعرض مجموعة متنوعة من وجهات النظر الموثوق بها. ويجب دومًا أن يتم إعطاء الفرصة للمصادر للرد على النقد والاتهامات والادعاءات المتعلقة بالتهم الموجهة إليهم. وقد يعني هذا الأمر تقديم الأفراد أو وجهات النظر التي قد تعارضها أنت نفسك بشدة. وهذا كله جزء من الصحافة الجيدة.
 
 <hr/>
 
 !1.5.6.a.png!
 
-h3. Fair 
+h3. الإنصاف 
 
-Be honest with yourself about your own cultural values and do not allow them to bias your reporting about others. Avoid stereotyping by race, religion, ethnicity, gender, age, occupation, physical appearance or social status.
+كن صادقًا مع نفسك حيال قيمك الثقافية ولا تسمح لها بأن تؤثر على تقاريرك عن الآخرين. تجنب الآراء الشائعة حول العرق أو الديانة أو الجنس أو العمر أو المهنة أو الشكل الخارجي أو المكانة الاجتماعية.
 
 <hr/>
 
 !1.5.7.a.png!
 
-h3. Accurate
+h3. الدقة
 
-The facts and details of a story must be confirmed as correct to the best of the journalist’s ability. Never distort the facts to make them better support your story. Never omit important information because it doesn’t support your story. Never manipulate a quote or use it out of context.
+يجب التأكد من صحة ودقة الحقائق والتفاصيل الخاصة بالموضوع، فهذا ما يصب في صالح قدرة الصحفي نفسه. لا تشوه الحقائق أبدًا لتجعلها تدعم موضوعك بشكل أفضل. ولا تتجاهل المعلومات المهمة لمجرد أنك ترى أنها لا تدعم موضوعك. لا تتلاعب بالأقوال أو تستخدمها خارج نطاق سياقها.
 
 <hr/>
 
 !1.5.8.a.png!
 
-h3. Relevant
+h3. الصلة بالموضوع
 
-Citizen journalism should be of immediate value to the audience. If your stories are not of immediate relevance to people’s lives, you will lose them as readers. Equally important is whether or not coverage of the topic may result in greater knowledge and discussion about an important social issue and perhaps meaningful change to public policy.
+يجب أن تكون الصحافة المدنية ذات قيمة كبيرة لدى الجمهور. فإذا لم تكن موضوعاتك مرتبطة ارتباطًا مباشرًا بحياة الأفراد، فسوف تفقدهم كقراء. ويتسم قرارك بتغطية موضوع ما أو عدم تغطيته بالقدر نفسه من القيمة والأهمية، وقد ينتج عنه معلومات أكثر ومناقشات أكبر حول موضوع اجتماعي مهم، وربما يُحدث تغييرًا حقيقيًا في السياسة العامة.
 
 <hr/>
 
 !1.5.9.a.png!
 
-h3. Timely 
+h3. التوقيت 
 
-Your coverage should be timely. Coverage that is timely is more valuable to people in their daily lives and more likely change in related public policy. It is important to get the news out and get it out quickly. News that is late is not news at all.
+يجب أن تتم تغطيتك في الوقت المناسب. فتغطية الأحداث في وقتها أكثر قيمة للأفراد في حياتهم اليومية، ومن المرجح أيضًا أن تُحدث تغييرًا في السياسة العامة المرتبطة بها. من الضروري والمهم أن تحصل على المعلومات وتعرضها بسرعة، فالأخبار المتأخرة لا تعد أخبارًا بأي حال من الأحوال.
 
 <hr/>
 
 !1.5.10.a.png!
 
-h3. Independent 
+h3. الاستقلالية 
 
-Journalists should not be affiliated with a specific political party, agenda or interest group. You should never be paid or receive gifts from organizations or individuals to report -- or not report -- on a particular issue. Always be aware of the motivations of sources in your coverage. Avoid conflicts of interest, real or perceived. Avoid membership in organizations or attending events in your personal life that may compromise your integrity.
+في المجمل العام، لا يجب أن ينتمي الصحفيون لحزب سياسي معين أو يؤيدوا أجندة أو مجموعة معينة ذات مصالح خاصة. ولا يجب أن يتلقوا رشاوى أو هدايا من شركات أو أفراد ليعرضوا – أو لا يعرضوا - أخبارًا– عن موضع معين. انتبه دومًا لدوافع المصادر في تغطيتك. تجنب صراعات المصالح الحقيقية أو التي يمكن أن تستنتجها. تجنب الانضمام لهيئات معينة أو حضور أحداث في حياتك الشخصية قد تؤثر على نزاهتك.
 
 <hr/>
 
 !1.5.11.a.png!
 
-h3. Transparent
+h3. الشفافية
 
-Journalists need to be open about their coverage techniques, sources and interests related to the story. Disclose unavoidable potential conflicts of interest. Never take information from other news organizations without attributing it. Admit mistakes in or limitations to your coverage. Clarify conditions attached to any promise made in exchange for information. Avoid surreptitious methods of gathering information except when more open methods will not produce information important to the public. Encourage public discourse about your coverage.
+لا بد أن يكون الصحفيون واضحين حيال طرق تغطيتهم للأحداث والمصادر والمصالح المتعلقة بالموضوع الذي يتناولونه. اكشف عن صراعات المصالح السياسية التي لا سبيل لاجتنابها. لا تأخذ المعلومات من مؤسسات إخبارية أخرى دون أن تنسبها إليها. اعترف بالأخطاء أو القيود الموجودة في تغطيتك للموضوع. اشرح الظروف المرتبطة بأية تسوية تم عملها في مقابل الحصول على المعلومات التي قدمتها. تجنب الأساليب السرية في جمع المعلومات باستثناء الحالة التي تفشل فيها العديد من الطرق المفتوحة والمباشرة في تقديم المعلومات المهمة للعامة. شجع على التحاور العام حول تغطيتك.
 
 <hr/>
 
 !1.5.12.a.png!
 
-h3. Minimizes Harm
+h3. تقليل الضرر
 
-You must always be sensitive to the impact your reporting will have on those covered. Be sensitive when seeking or using interviews or visual content of those affected by tragedy or grief, especially when dealing with children and people inexperienced with the media. Private people have a greater right to privacy than do public officials and others who seek power, influence or attention. Only an overriding public need can justify intrusion into anyone’s privacy. People accused of but not tried for crimes or wrongdoing should not be tried in the media.
+ينبغي عليك دومًا أن تكون حساسًا تجاه تأثير تقريرك على من تتولى تغطية موضوعهم فيه. كن حريصًا أيضًا عند طلب أو استخدام المقابلات أو المحتوى المرئي لأولئك المتأثرين بكارثة أو مأساة ما، خاصة عند التعامل مع الأطفال والأفراد الذين ليست لديهم خبرة في التعامل مع الإعلام. إن الأشخاص المنعزلين لديهم حق أكبر في الخصوصية يزيد عن ذلك الخاص بالموظفين العموميين والأشخاص الآخرين الذي يسعون وراء السلطة أو التأثير أو جذب الانتباه. فالحاجة العامة الملحة فقط هي التي يمكن أن تبرر التدخل في خصوصية أي فرد كان. ولا يجب أيضًا بشكل عام أن تتم محاكمة الأفراد المتهمين – والذين لم تعقد محاكماتهم بعد – بجريمة أو إساءة ما في وسائل الإعلام.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-The main thing to remember when writing is to keep it short and keep it informative. This is not an environment for ponderous statements of opinion. Text should provide viewers with the information they need to understand the basic facts of the story as well as a connection with other information about the story through links to social sites. It should also provide the information that search engines need to find your work.
+يتمثل الأمر الأساسي الذي يجب تذكره عند الكتابة هنا في الحفاظ على إيجاز الموضوع واحتوائه على العديد من المعلومات، فليست الصحافة مجالاً لطرح الآراء والعبارات المملة. يجب أن يقدم الموضوع للقراء والمشاهدين المعلومات التي يحتاجون لمعرفتها لفهم الحقائق الأساسية للموضوع. كما يجب أن يقدم لهم رابطًا بالمعلومات الأخرى المتعلقة بالقصة من خلال روابط بالمواقع الاجتماعية. كذلك، يجب أن يقدم المعلومات التي تحتاج آليات البحث إليها للبحث عن عملك.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:Which of the following are examples of ethical journalistic practices
-Answer 1:Advocating in your reporting for a opposition political party that is clearly better than a current, openly corrupt government
-Answer 2:Pretending to be a member of a political party at a rally when you are there to cover it as a journalist
-Answer 3:Reporting and writing on issues that interest you but have no immediate value to your audience
-Answer 4:None of the above
+السؤال 1
+Question: أي مما يلي يعد مثالاً على الممارسات الصحفية الأخلاقية؟
+Answer 1: الدفاع في تقريرك عن حزب سياسي معارض من الواضح للغاية أنه حزب حكومي فاسد.
+Answer 2: الادعاء بأنك عضو في حزب سياسي في أحد الاجتماعات الحاشدة بينما أنت موجود هناك لتغطية الحدث باعتبارك صحفي.
+Answer 3: كتابة تقرير عن الموضوعات التي تهمك والتي ليست لها قيمة عند جمهورك.
+Answer 4: لا إجابة مما سبق صحيحة
 Correct Answer:4
 
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE: If your working environment is unusually challenging or complicated in a way that makes it hard to adhere to professional standards, it’s OK to not apply the code rather than exercise good professional judgement to navigate an acceptable compromise
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: إذا كانت بيئة عملك صعبة ومعقدة للغاية بشكل يجعل من الصعب عليك أن تلتزم بالمعايير المهنية، فلا ضرر من عدم التزامك بأخلاقيات المهنة بدلاً من أن تلتزم بالأحكام المهنية الجيدة للتوصل لتسوية مقبولة.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:2
 
 <hr/>
 
-Question 3
-Question:In reality, journalists can sometimes become celebrities or recognized experts with strong opinions and a following of readers. This kind of power can be very seductive and can lead to compromises in professional ethics. To avoid this journalists who become public figures should:
-Answer 1:Be transparent about their professional affiliations
-Answer 2:Seek to minimize the appearance of too close a relationship with high power political and business leaders
-Answer 3:Reaffirm their commitment to reporting in the interest of citizens rather than the elite in their coverage
-Answer 4:All of the above
+السؤال 3
+Question: في الواقع، يمكن للصحفيين في بعض الأحيان أن يصبحوا شخصيات عامة أو خبراء معروفين ذوي آراء قوية وقراء متابعين لهم. قد يصبح هذا النوع من السلطة مغريًا للغاية ويمكن أن يؤدي أيضًا إلى عدم الالتزام في بعض الأحيان بالأخلاقيات المهنية. لتجنب هذا الأمر، يجب على الصحفيين الذين يصبحون شخصيات عامة أن:
+Answer 1: يتحلوا بالشفافية بشأن علاقاتهم المهنية.
+Answer 2: يحاولوا التقليل من إظهار علاقاتهم القوية بالقادة السياسيين ورجال الأعمال ذوي السلطة العالية.
+Answer 3: يعيدوا التأكيد على التزامهم بتقديم المعلومات والتقارير لصالح المواطنين وليس لصالح الصفوة في الموضوعات التي يقدمونها.
+Answer 4: كل ما سبق
 Correct Answer:4

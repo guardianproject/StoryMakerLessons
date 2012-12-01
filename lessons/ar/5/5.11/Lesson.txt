@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. My shots are well composed, but when I watch them together they're repetitive and do not tell me a complete story. What am I missing?
+h2. لقد قمت بتصميم لقطاتي بشكل جيد لكن عندما أشاهدها معاً تبدو مكررة ولا تحكي قصة مكتملة. ما الذي أفتقده فيها؟
 
 !5.11.1.a.png!
 
@@ -8,164 +8,164 @@ h2. My shots are well composed, but when I watch them together they're repetitiv
 
 h1. خلفية
 
-A successful shot is more than a well composed image. A shot with a goal progresses the story and provides specific information that supports the goal of the sequence.
+اللقطة الناجحة أكثر من مجرد صورة تم تصميمها بشكل جيد. فأية لقطة لها هدف تساعد في سير أحداث القصة وتوفر معلومات خاصة تدعم هدف التسلسل.
 
 <hr/>
 
 h1. الحل
 
-!5.11.3.a.png(Example of a wide shot providing a clear location)!
+!5.11.3.a.png (مثال للقطة متسعة تبين المكان بوضوح)!
 
-Each shot type has specific goals it's best suited to achieve. You may be able to explain your location with other shot types, but the wide shot is the easiest option to do it successfully. For example, wide shots are filmed far away from a subject. This distance often provides a clear image of the area around the subject, which is why it's effective to depict the location.
+لكل نوع من أنواع اللقطات هدف تناسب تحقيقه أكثر من غيرها. وقد تكون قادرا على بيان المكان الذي تدور فيه اللقطة بأنواع أخرى من اللقطات، لكن اللقطة المتسعة هي أسهل خيار تستطيع القيام به بنجاح. فعلى سبيل المثال، يتم تصوير اللقطات المتسعة على مسافة بعيدة من موضوع اللقطة، وهذه المسافة غالبا ما توفر صورة واضحة للمنطقة المحيطة بموضوع اللقطة، وهذا هو السبب في كون تصوير المكان فعالا أم لا.
 
 <hr/>
 
 (
-!5.11.4.a.png(Example of using different shot types to tell a story)!
-!5.11.4.b.png(Example of using different shot types to tell a story)!
-!5.11.4.c.png(Example of using different shot types to tell a story)!
-!5.11.4.d.png(Example of using different shot types to tell a story)!
-!5.11.4.e.png(Example of using different shot types to tell a story)!
+!5.11.4.a.png (مثال لاستخدام أنواع مختلفة من اللقطات لحكاية قصة)!ّ
+!5.11.4.b.png (مثال لاستخدام أنواع مختلفة من اللقطات لحكاية قصة)!
+!5.11.4.c.png (مثال لاستخدام أنواع مختلفة من اللقطات لحكاية قصة)!
+!5.11.4.d.png (مثال لاستخدام أنواع مختلفة من اللقطات لحكاية قصة)!
+!5.11.4.e.png (مثال لاستخدام أنواع مختلفة من اللقطات لحكاية قصة)!
 )
 
-Every shot type's goal also answers a specific question about the story as well. By shooting a complete set of shot types, you can allow yourself to focus on a separate part of the story with each shot, and as a group they will tell a complete story.
+كما أن هدف كل نوع من أنواع اللقطات يجيب على سؤال معين عن المادة. وعن طريق تصوير مجموعة كاملة من اللقطات مختلفة الأنواع، تستطيع التركيز على جزء معين من المادة بكل لقطة، ويمكنك أن تحكي قصة كاملة باللقطات كمجموعة واحدة.
 
-Only try to accomplish one goal per shot when you're first learning. A sequence is more successful with two shots that each do a good job of achieving one goal, than to have one shot that does a bad job of achieving two goals.
-
-<hr/>
-
-It's best to experiment with this at first, and expect to fail more often then it works. Don't get discouraged. It is a challenging skill and each goal you add to a shot makes it significantly harder to be successful.
+عليك فقط أن تحاول تحقيق هدف واحد في اللقطة الواحدة في بداية تعلمك. وعندما يتكون التسلسل من لقطتين تحقق كل منهما هدفا واحدا، فسوف يحقق درجة أكبر من النجاح الذي يحققه عندما يكون عليك تحقيق هدفين في لقطة واحدة.
 
 <hr/>
 
-Now that we understand why we have shot goals lets review some examples of the shot types. What goal they're best suited to, and give you some tips to help you be successful.
+من الأفضل أن تجرب ذلك في البداية وتتوقع أن تخفق أكثر مما تنجح. لكن لا تجعل ذلك يثبطك، فهذه المهارة تفرض تحديات وكل هدف تضيفه إلى أية لقطة يزيد كثيرا من صعوبة نجاحها.
 
 <hr/>
 
-h2. Wide Shot
-
-!5.11.7.a.mp4(Example of a Wide Shot)!
-
-*Goal:* Shows the location / scene of a story.
-
-Tips
-
-* Typically used once in a scene, usually at the beginning.
-* Has a sense of the feel of the location.
-* To use multiple times you should be showing a dramatic change to the location. For example, an empty town square to a full town square is a successful use of two location shots.
+والآن بعد أن فهمت السبب في ضرورة وجود هدف للقطات التي نقوم بتصويرها، لنراجع بعض الأمثلة على أنواع اللقطات، وأفضل الأهداف التي تناسبها ولنقدم لك بعض النصائح التي قد تساعدك على النجاح.
 
 <hr/>
 
-h2. Long Shot
+h2. اللقطة الطويلة
 
-!5.11.8.a.mp4(Example of a Long Shot)!
+!5.11.7.a.mp4 (مثال للقطة العريضة)!
 
-*Goal:* Showcases the characters and how they interact with the location.
+*الهدف:* لقطة تظهر مكان/مسرح الأحداث
 
-Tips
+نصائح
 
-* Best used to highlight a subject's actions.
-* Effective for including multiple subjects.
-* It’s common to allow for more headroom than in either medium or close up shots.
-
-<hr/>
-
-h2. Medium Shot
-
-!5.11.9.a.mp4(Example of a Medium Shot)!
-
-*Goal:* Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
-
-Tips
-
-* Headroom is very important to being successful.
-* Eye line is very important to being successful.
-* Good at showing a subject's body language.
+* عادة ما تستخدم مرة واحدة في المشهد الواحد، في بدايته.
+* تعكس جو المكان.
+* لكي تستخدمها عدة مرات، يجب أن تظهر تغيرا دراميا في المكان، فإظهار ميدان في مدينة وهو فارغ ثم عرضه وهو ممتلئ مثلا يعد استخداما ناجحا للقطتين لمكان الحدث.
 
 <hr/>
 
-h2. Close up Shot
+h2. اللقطة الطويلة
 
-!5.11.10.a.mp4(Example of a Close Up Shot)!
+!5.11.8.a.mp4 (مثال للقطة الطويلة)!
 
-*Goal:* Forces the audience to focus entirely on a single character, encourages the emotion of the character.
+*الهدف:* لقطة تعرض الشخصيات وكيف تتفاعل مع المكان
 
-Tips
+نصائح
 
-* Capturing emotion and feeling is your primary objective.
-* Pay close attention to the eyes of your subject.
-* Don't worry about incorporating the environment in this shot.
+* أفضل استخدام لها لتسليط الضوء على أفعال الشخص الذي يظهر في اللقطة.
+* فعالة عندما تتضمن اللقطة أكثر من شخص.
+* من الشائع السماح بمجال أكبر لمساحة الرأس مما في اللقطات المتوسطة أو المقربة.
 
 <hr/>
 
-h2. Detail Shot
+h2. اللقطة المتوسطة
 
-!5.11.7.a.mp4(Example of a Detail Shot)!
+!5.11.9.a.mp4 (مثال للقطة المتوسطة)!
 
-*Goal:* Showcases an interesting detail, often focusing directly on an important action.
+*الهدف:* لقطة توجه الجمهور للتركيز بشكل كامل على شخصية واحدة أو اثنتين، وقد لا تساعد في فهم مكان الحدث.
 
-Tips
+نصائح
 
-* A subjects hands are usually good to start with, especially when performing an action.
-* Best used to highlight details lost in wider shots.
-* Focus and frame for the specific details you want, cut out everything else.
+* مساحة الرأس مهمة للغاية لنجاح هذا النوع من اللقطات.
+* خط العين مهم للغاية لنجاح هذا النوع من اللقطات.
+* تفيد في عرض لغة جسد الشخص موضوع اللقطة.
+
+<hr/>
+
+h2. اللقطة المقربة
+
+!5.11.10.a.mp4 (مثال للقطة المقربة)!
+
+*الهدف:* لقطة تجبر المشاهدين على التركيز بشكل كامل على شخصية واحدة وتحفز عاطفة هذه الشخصية.
+
+نصائح
+
+* تسجيل العواطف والمشاعر هو هدفك الأساسي.
+* انتبه جيدا لعيني الشخص موضوع اللقطة.
+* لا تقلق بشأن تضمين البيئة في هذا النوع من اللقطات.
+
+<hr/>
+
+h2. اللقطة المفصلة
+
+!5.11.7.a.mp4 (مثال للقطة المفصلة)!
+
+*الهدف:* لقطة تعرض تفاصيل شيقة، غالبا ما تركز مباشرة على فعل مهم.
+
+نصائح
+
+* عادة ما تكون يدا الشخص موضوع اللقطة بداية جيدة، خصوصا عندما يؤدي عملا معينا.
+* أفضل ما تستخدم فيه هو تسليط الضوء على التفاصيل المفقودة في اللقطات الأوسع.
+* ركز وحدد التفاصيل الخاصة التي تريدها واستبعد ما عداها.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-!5.11.12.a.png(The subject matter should be 50% of the screen focus)!
+!5.11.12.a.png (يجب أن تشغل المادة 50% من تركيز الشاشة)!
 
-Consider the Hitchcock rule from video basics when you're considering your goal. Ask yourself if the most important element,  the primary goal of your shot is clearly visible.
-
-<hr/>
-
-!5.11.13.a.png(Rule of Thirds)!
-
-The rule of thirds is there to help you arrange the elements in your frame so that they're successful. Use the four point system from it to ensure your goals are clear.
+اعتبر قاعدة هيتشكوك من الأساسيات عندما تفكر في هدفك. اسأل نفسك إن كان أهم عنصر، وهو الهدف الأساسي من لقطتك، ظاهرا بوضوح.
 
 <hr/>
 
-* Often times, when you're first recording shots with single goals they will feel "obvious" or "simple". When you watch them with the rest of your shots though, you'll see how each shot having a specific purpose builds to tell a complete story.
+!5.11.13.a.png (قاعدة التثليث)!
+
+إن قاعدة التثليث موجودة لتساعدك في ترتيب العناصر في الكادر لكي تنجح. استخدم شبكة النقاط الأربع في الكادر لتضمن وضوح أهدافك.
 
 <hr/>
 
-h1. Quiz
+* غالبا، عندما تقوم بتسجيل لقطاتك الأولى بهدف واحد لكل لقطة تبدو هذه اللقطات "واضحة" أو "بسيطة". لكن عندما تشاهدها مع باقي اللقطات التي قمت بتسجيلها، سترى كيف أن كل لقطة لها غرض خاص تفيد مع غيرها في حكاية قصة مكتملة.
 
-Question 1
-Question:How do I help ensure my shots are successful?
-Answer 1:Move the shot around a lot. 
-Answer 2:Make every shot look the same.
-Answer 3:Any shot that looks good is successful.
-Answer 4:Give your shot a goal.
+<hr/>
+
+h1. امتحان موجز
+
+السؤال 1
+Question: كيف أساعد في ضمان نجاح لقطاتي؟
+Answer 1: حرك اللقطة كثيرا.
+Answer 2: اجعل كل لقطة تتطابق مع الأخرى.
+Answer 3: أي لقطة تبدو جيدة ناجحة.
+Answer 4: احرص على أن يكون للقطتك هدفًا.
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:How many goals should I try to accomplish in a shot?
-Answer 1:0
-Answer 2:1
-Answer 3:4
-Answer 4:12
+السؤال 2
+Question: كم هدفًا ينبغي عليّ أن أحاول تحقيقه في اللقطة الواحدة؟
+Answer 1: 0
+Answer 2: 1
+Answer 3: 4
+Answer 4: 12
 Correct Answer:2
 
 <hr/>
 
-Question 3
-Question:What is the goal of a long shot?
-Answer 1:Highlight the characters cool shoes.
-Answer 2:Showcases the characters and how they interact with the location.
-Answer 3:Depict the characters haircut.
-Answer 4:Showcase the country the subject is from.
+السؤال 3
+Question: ما الهدف من اللقطة الطويلة؟
+Answer 1: تسليط الضوء على الأحذية الظريفة التي ترتديها الشخصيات.
+Answer 2: عرض الشخصيات وكيف تتفاعل مع المكان.
+Answer 3: تصوير تسريحة الشخصيات.
+Answer 4: عرض بلد الشخصية.
 Correct Answer:2
 
 <hr/>
 
-Question 4
-Question:What shot should you pay particular close attention to the eyes of your subject?
-Answer 1:Long
-Answer 2:Medium
-Answer 3:Close Up
-Answer 4:Detail
+السؤال 4
+Question: ما اللقطة التي يجب أن تهتم فيها بصفة خاصة بعيني شخصيتك؟
+Answer 1: الطويلة
+Answer 2: المتوسطة
+Answer 3: المقربة
+Answer 4: المفصلة
 Correct Answer:3

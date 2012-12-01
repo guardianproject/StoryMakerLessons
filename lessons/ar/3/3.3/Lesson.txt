@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. I know how to record but Im not sure what kind of story style to use for my project.
+h2. أعرف كيف أسجل لكنني غير متأكد من أسلوب المادة الذي يجب أن أستخدمه لمشروعي.
 
 !3.3.1.a.png!
 
@@ -8,80 +8,80 @@ h2. I know how to record but Im not sure what kind of story style to use for my 
 
 h1. خلفية
 
-Depending on what your story is about and how you want to approach it, there are different styles of audio production and presentation that you can make use of. Sometimes you may find yourself in the middle of an event or a breaking story, which would mean a specific style of audio reporting would be most useful for that situation. Alternatively perhaps you are doing a profile piece or a human interest story involving different witnesses and different voices, which would again call for another approach.
+توجد أساليب مختلفة للإنتاج والعرض المسموع يمكنك الاستفادة منها تبعا لموضوع مادتك وكيف تريد أن تتناولها. فقد تجد نفسك أحيانا في وسط حدث أو خبر مهم، وهو ما يعني أن أسلوبا معينا من التقارير المسموعة سيفيد أكثر في هذا الموقف. أو ربما تقوم بعمل تقرير عن حياة شخص معين أو قصة إنسانية مهمة تتضمن شهودا مختلفين وأصواتا مختلفة، وهو ما يستلزم مرة أخرى أسلوبا مختلفا.
 
-While each situation could be approached in more than 1 way, there is a short list of specific steps and guidelines you can follow in order to best present a specific type of story.
+ومع أن كل موقف من هذه المواقف يمكن تناوله بأكثر من طريقة، توجد قائمة مختصرة بخطوات وإرشادات معينة يمكنك أن تتبعها لكي تعرض نوعا معينا من المواد بأفضل طريقة.
 
 <hr/>
 
 h1. الحل
 
-h2. Breaking News
+h2. الأخبار العاجلة
 
-!3.3.3.a.mp3(Example of a breaking news report)!
+!3.3.3.a.mp3 (مثال لتقرير إخباري عاجل)!
 
-A breaking news report (hard news) requires a piece of audio that explains what is happening, summarizing the key points, the main actors, and any information that is known so far. Because such reports are about something that may still be going on, sometimes there will be unanswered questions that will be addressed in follow-up reports. Breaking news stories may feature a reporter at the location of the action, with his/her voice explaining what is known so far as well as what can be seen on the ground for that vantage point. In some cases a breaking news story can/must be introduced from a remote location based on second hand reports when it is not possible to be there. It's crucial that you will at least cover the following questions: Who, What, Where, Why, When and How.
-
-<hr/>
-
-h2. Events
-
-!3.3.4.a.mp3(Example of an event report)!
-
-Unlike breaking news stories, events are usually scheduled which allows a reporter to prepare how they want to tell a story beforehand. An audio report about an event should highlight the who, what, and why information. It is also useful to have interviews or comments from participants who can give additional information or observations. Events often have main participants in the form of honored guests or keynote speakers, whom you can contact before the event to schedule an interview. Even if you decide not to use the audio from those interviews, it is good to do them and have that audio as an option for your final production piece.
-
-As with most types of stories, to report on an event you can use one voice as the narrator explaining what is happening and why. The narrator could either be someone in a studio or someone on location introducing interviews and other information.
+يتطلب التقرير الإخباري العاجل (أهم الأنباء) قطعة صوتية تشرح ما يحدث وتلخص أهم النقاط وأهم الأطراف الفاعلة وأي معلومات معروفة حتى اللحظة. ولأن هذه التقارير تدور حول شيء ربما لا يزال مستمرا، فقد تكون هناك أحيانا أسئلة لم يتم الإجابة عليها ويتم تناولها في التقارير التالية. وقد تتضمن التقارير الإخبارية العاجلة مراسلا في موقع الحدث يشرح بصوته ما تم معرفته حتى الآن وما يمكن رؤيته من موقعه المتميز. وفي بعض الحالات، يمكن/يتحتم تقديم التقرير الإخباري العاجل من موقع بعيد بناء على تقارير غير مباشرة عند عدم القدرة على الوجود في موقع الحدث. ومن الأهمية بمكان أن تغطي الأسئلة التالية على الأقل: من، وماذا وأين ولماذا ومتى وكيف.
 
 <hr/>
 
-h2. Feature
+h2. الأحداث
 
-!3.3.5.a.mp3(Example of a featured story)!
+!3.3.4.a.mp3 (مثال لتقرير عن حدث)!
 
-A feature story means dedicating more time to focus on one topic. It also means doing more research and presenting as much background information as possible to further tell a story. That story should also include audio from key actors related to the topic. Have multiple sources and a cross section of voices speaking on that topic based on experience and observations can also increase the quality of a feature story.
+على عكس التقارير الإخبارية العاجلة، غالبا ما يكون للأحداث جدول محدد وهو ما يمكّن المراسل من الإعداد مقدما للطريقة التي يريد بها حكاية القصة. ويجب أن يسلط التقرير المسموع عن الحدث الضوء على المعلومات المتعلقة بالمشاركين في الحدث وطبيعة الحدث والسبب فيه. كما أنه من المفيد إجراء مقابلات أو أخذ تعليقات من المشاركين الذين يمكن أن يقدموا معلومات أو ملاحظات إضافية. وغالبا ما يشارك في الأحداث أشخاص مهمون قد يكونون ضيوف شرف أو متحدثين بارزين؛ ويمكنك الاتصال بهم قبل الحدث للترتيب لإجراء مقابلة معهم. وحتى لو قررت عدم استخدام التسجيلات الصوتية من هذه المقابلات، فمن المفيد أن تجريها ويتوفر لديك هذه التسجيلات الصوتية كخيار متاح لك عند إنتاج عملك النهائي.
 
-Features can be carried out in a few different styles, which include the use of narration to explain background information and introduce different parts and interviews within the story.
+وكما هو الحال مع معظم أنواع القصص، لكي تعد تقريرا عن حدث معين، يمكنك استخدام صوت باعتباره الراوي الذي يشرح ما يجري ولماذا. وقد يكون هذا الراوي شخصا في الأستوديو أو شخصا في موقع الحدث يقوم بإجراء مقابلات ويقدم معلومات أخرى.
+
+<hr/>
+
+h2. التحقيقات
+
+!3.3.5.a.mp3 (مثال لتحقيق إخباري)!
+
+المقصود بالتحقيق الإخباري تخصيص وقت أكبر للتركيز على موضوع معين؛ كما يعني إجراء المزيد من البحث وعرض أكبر قدر ممكن من المعلومات الخلفية لحكاية القصة. كما يجب أن تتضمن تلك القصة تسجيلات صوتية من أهم الأطراف التي لها علاقة بالموضوع. كما أن تعدد المصادر وتسجيل آراء عدة أشخاص عن هذا الموضوع بناء عن التجربة والمشاهدات يمكن أن يزيد من جودة التحقيق الإخباري.
+
+يمكن عمل التحقيقات الإخبارية بطرق مختلفة تشمل استخدام السرد لشرح معلومات الخلفية وتقديم أجزاء مختلفة ومقابلات شخصية ضمن التحقيق.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-!3.3.6.a.mp3(Example of a story using multiple contributors)!
+!3.3.6.a.mp3 (مثال لتحقيق إخباري باستخدام عدة مساهمين)!
 
-* Be sure to have first hand observations and interviews whenever possible.
-* It is good to have more than one voice in a story.
-* Include different types of sources in your story.
-* Be sure to present the classic answers to who, what, when and why in a story.
-* Be clear and focus on a single primary topic in each story.
+* احرص على أن تحصل على ملاحظات وتجري مقابلات مع من حضروا الحدث متى أمكن ذلك.
+* من المفيد أن يكون في القصة أكثر من صوت واحد.
+* احرص على أن تتضمن قصتك أنواعا مختلفة من المصادر.
+* احرص على أن تعرض الإجابات الكلاسيكية عن "من وماذا ومتى ولماذا" في قصتك.
+* كن واضحا وركز على موضوع أساسي واحد في كل قصة.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1 
-Question:The main purpose of a breaking news story is
-Answer 1:To make a long detailed audio report including extensive research and many interviews.
-Answer 2:To present an honored guest who is speaking at a special conference.
-Answer 3:To summarize what information is available regarding something that is happening now and who's outcome is still not completely known and will require followup reports.
-Answer 4:None of the above.
+السؤال 1
+Question: الغرض الرئيس من الخبر العاجل هو ...
+Answer 1: تقديم تقرير صوتي طويل ومفصل يتضمن بحثا موسعا والعديد من المقابلات.
+Answer 2: تقديم ضيف مهم يتحدث في مؤتمر خاص.
+Answer 3: تلخيص المعلومات المتوفرة بخصوص شيء يحدث الآن والتي لم تعرف نتيجتها بشكل كامل بعد وتحتاج إلى تقارير متابعة.
+Answer 4: لا إجابة مما سبق صحيحة.
 Correct Answer:3
 
 <hr/>
 
-Question 2 
-Question:The advantage of producing an audio report about an event is.
-Answer 1:You can prepare in advance, doing research and scheduling interviews related to the event.
-Answer 2:You have no time to do research, just say what you know.
-Answer 3:It is not possible to do interviews at an event.
-Answer 4:All of the above.
+السؤال 2
+Question: ميزة إنتاج تقرير صوتي عن حدث معين هي ...
+Answer 1: أنك تستطيع الاستعداد مقدما فتجري بحثا وترتب لإجراء مقابلات تتعلق بالحدث.
+Answer 2: أنه لا يتوفر لديك أي وقت لإجراء البحث وعليك أن تقول ما تعرفه فقط.
+Answer 3: أنه لا يمكن إجراء المقابلات في حدث.
+Answer 4: كل ما سبق.
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:Narration can be used in what type of audio story:
-Answer 1:Feature
-Answer 2:Event
-Answer 3:Breaking News
-Answer 4:All of the above
+السؤال 3
+Question: في أي نوع من الأخبار الصوتية يمكن استخدام السرد؟
+Answer 1: التحقيق.
+Answer 2: الحدث.
+Answer 3: الأخبار العاجلة.
+Answer 4: كل ما سبق.
 Correct Answer:4

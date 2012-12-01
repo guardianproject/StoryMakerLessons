@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. My audio file is ready, but how do I get my work listed on itunes, or embedded on my blog, and other important spaces online?
+h2. ملفي الصوتي جاهز ولكن كيف أقوم بإدراج عملي على قائمة آي تيونز أو أضعه في مدونة أو في غيرها من المواقع المهمة المتوفرة على الإنترنت؟
 
 !3.7.1.a.png!
 
@@ -8,79 +8,79 @@ h2. My audio file is ready, but how do I get my work listed on itunes, or embedd
 
 h1. خلفية
 
-!3.7.2.a.png(Example of a website with an embedded player)!
+!3.7.2.a.png (مثال لموقع ويب به برنامج لتشغيل الملفات الصوتية)!
 
-If you have an audio program or report finalized and exported to your desired quality, you may now want your work to be found by your audience. If you’re publishing it via your own website, you need to make sure it appears correctly so that people can click and play or download.
+إذا كان لديك برنامج أو تقرير صوتي انتهيت من إعداده وقمت بتصديره بالجودة التي تريدها، فربما تريد الآن أن تجعل عملك متاحا للآخرين. وإذا كنت تقوم بنشره على موقعك الإلكتروني الخاص، فعليك أن تتأكد من أنه سيظهر بشكل صحيح لكي يستطيع الناس النقر عليه وتشغيله أو تنزيله.
 
 <hr/>
 
 h1. الحل
 
-!3.7.3.a.png(Apple iTunes)!
+!3.7.3.a.png (برنامج Apple iTunes)!
 
-!3.7.3.b.png(SoundCloud)!
+!3.7.3.b.png (برنامج SoundCloud)!
 
-!3.7.3.c.png(Archive.org)!
+!3.7.3.c.png (موقع Archive.org)!
 
-If you’re planning to do more audio programs or a podcast, then it would be a good idea to be listed on some of the more commonly used podcast catalogue tools . One of the largest in the world is apple’s itunes listings. There are also alternatives like soundcloud and archive.org, each of which have their own options for listening back to, downloading, and embedding audio on your website. The reason for using any or all of these is the goal of being found, heard, and shared among different communities online.
-
-<hr/>
-
-h2. Hosting Your Audio
-
-!3.7.4.a.png(Example of an uploaded audio clip with description, embedded player and direct download link)!
-
-First thing to do when your audio project is ready, is to choose where to host it. This could be on your own server, on the server where you have your website, or on a free 3rd party site like Archive.Org. The great advantage of using a site like ‘archive’ is that they host your audio file, and provide embed codes and download links for you to use wherever you wish. That means you can have a site where you place their easy to use player so that people can click to hear your program. It also means if your program is extremely popular, you won’t have to worry about the strain or extra cost of providing more bandwidth - archive will handle it. Please note that at present, using soundcloud as a third party host gives you a player but does not allow for direct downloads which are an essential part of having a working podcast.
+إذا كنت تخطط لإنتاج المزيد من البرامج الصوتية أو بودكاست، فمن المفيد أن تدرجها على عدد من أدوات تصنيف ملفات البودكاست الشائع استخدامها، ومن أكبر القوائم على مستوى العالم موقع آي تيونز التابع لشركة آبل. كما توجد قوائم بديلة مثل soundcloud و archive.org ويتوفر في كل منهما خياراته الخاصة للاستماع إلى ما قمت بنشره وتنزيل الملفات الصوتية وتضمينها في موقعك الإلكتروني. والسبب في استخدام أي من هذه المواقع أو استخدامها جميعًاا معًا هو تحقيق الهدف المتمثل في أن يجد الآخرون ملفك ويسمعونه ويشاركونه في المجتمعات المختلفة على الإنترنت.
 
 <hr/>
 
-h2. iTunes Podcast Directory
+h2. استضافة مادتك الصوتية
 
-!3.7.5.a.png(Uploading a new podcast on iTunes)!
+!3.7.4.a.png (مثال لمادة صوتية تم تحميلها مع وصفها وبرنامج التشغيل الذي يتضمنه الموقع ورابط التنزيل المباشر)!
 
-Once you have your site working properly with embedded audio and downloadable programs, it is ready to be listed on podcast directories.
+أول شيء يجب عليك القيام به عندما يصبح مشروعك الصوتي جاهزًا هو أن تختار الموقع الذي سيقوم باستضافته. وقد يكون ذلك الموقع هو الخادم الخاص بك، أو الخادم الذي يستضيف موقعك الإلكتروني، أو موقعًا مجانيًا يخص طرفًا ثالثًا مثل موقع Archive.org. وتتمثل الميزة الكبرى لاستخدام موقع مثل موقع Archive.org في أن هذه المواقع تستضيف ملفك الصوتي وتوفر أكوادا متضمنة وروابط لتنزيله وتستطيع استخدامها أينما تشاء، ويعني ذلك أنه سيتوفر لديك موقع يمكنك أن تضع فيه برنامج التشغيل السهل الخاص بالموقع لكي يستطيع الأفراد النقر على برنامجك والاستماع إليه. كما يعني أنه إذا كان برنامجك ذا شعبية بالغة، فلن يكون عليك أن تقلق بشأن التوتر أو التكلفة الإضافية لزيادة عرض النطاق المخصص له – فسوف يتولى موقع Archive.org  هذه المسألة. وأرجو أن تلاحظ أن استخدام soundcloud حاليا كموقع استضافة يخص طرفا ثالثا يمنحك برنامج تشغيل ولكنه لا يسمح بالتنزيل المباشر الذي هو عنصر أساسي من عناصر نشر بودكاست سليم.
 
-To submit a podcast to iTunes you can simply go to iTunes (free to install and use on mac or pc) and create a free account. Once you are logged in find the option “submit a podcast” and fill out all the required information such as show name, author, album art, and category. Approval should take a few days, at which time you will receive an email confirmation. This makes it possible for people to search based on topic, show name, or your own name, and find your audio programs. From there you can also share recommended programs or individual episodes via your social media networks.
+<hr/>
+
+h2. دليل البودكاست على آي تيونز
+
+!3.7.5.a.png (رفع بودكاست جديد على آي تيونز)!
+
+بمجرد أن يكون لديك موقع يعمل بشكل جيد مع المواد الصوتية المتضمنة والبرامج التي يمكن تنزيلها، فسيكون ملفك الصوتي جاهزا للإدراج على أدلة البودكاست.
+
+لرفع بودكاست لموقع آي تيونز، يمكنك ببساطة الذهاب إلى موقع آي تيونز (ويمكن تثبيت واستخدام برنامج آي تيونز مجانًا على الحاسب الشخصي وحاسبات الماكنتوش) وإنشاء حساب مجاني في الموقع. وبمجرد قيامك بتسجيل الدخول ابحث عن خيار "رفع بودكاست submit a podcast" وكتابة جميع المعلومات المطلوبة مثل اسم العرض show name والمؤلف author ونوع الألبوم album art والفئة category. وهذا يمكّن الأفراد من البحث بناءً على الموضوع أو اسم العرض أو اسمك الشخصي والعثور على برامجك الصوتية. ويمكنك كذلك أن تشارك البرامج الموصى بها أو المشاهد الفردية عن طريق الشبكات الاجتماعية التي تشارك بها.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-!3.7.6.a.png(Promoting your project on Twitter)!
+!3.7.6.a.png (ترويج مشروعك على تويتر)!
 
-* If you have a limited budget and you want a host that can handle large demand, upload your audio project to archive.org.
-* If you have a site where you want your audio projects to be featured and available for listening, use embed codes from 3rd party sites like soundcloud or archive.
-* Note that at present, soundcloud is not a good choice for hosting your recordings for a podcast, they do not allow unrestricted direct downloads.
-* Use social media networks to share links to your work and help these links be passed on to others.
+* إذا كانت ميزانيتك محدودة وكنت تريد موقع استضافة يستطيع التعامل مع الطلب الكبير، فقم برفع مشروعك الصوتي إلى موقع archive.org.
+* إذا كان لديك موقع تريد عرض مشروعك الصوتي وتوفيره عليه ليستطيع الآخرون الاستماع إليه، فاستخدم أكوادا متضمنة من مواقع تنتمي لطرف ثالث مثل soundcloud أو archive.
+* لاحظ أن موقع soundcloud لا يعد خيارا جيدا في الوقت الحالي لاستضافة تسجيلاتك الخاصة ببودكاست فهي لا تسمح بالتنزيل المباشر دون قيود.
+* استخدم الشبكات الاجتماعية لمشاركة روابط عملك والمساعدة في نقل هذه الروابط للآخرين.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What is the advantage of using 3rd party media hosts?
-Answer 1:They can handle big bandwidth demands.
-Answer 2:They offer embed and sharing options for your audio.
-Answer 3:They are free.
-Answer 4:All of the Above.
+السؤال 1
+Question: ما ميزة استخدام مواقع تنتمي لطرف ثالث لاستضافة الوسائط؟
+Answer 1: أنها تستطيع التعامل مع الطلب الكبير على عرض النطاق.
+Answer 2: أنها توفر خيارات تضمين ومشاركة مادتك الصوتية.
+Answer 3: أنها مجانية.
+Answer 4: كل ما سبق.
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:When is listing my audio work on itunes a good idea?
-Answer 1:When Im only doing one program and I want to sell it to a major media outlet.
-Answer 2:Never.
-Answer 3:When I know I will do more audio programs and I want them to be an ongoing part of my podcast.
-Answer 4:When I get an apple computer.
+السؤال 2
+Question: متى يكون إدراج عملي الصوتي على موقع آي تيونز فكرة جيدة؟
+Answer 1: عندما أقوم بإنتاج برنامج واحد فقط وأريد بيعه لمنفذ كبير للوسائط.
+Answer 2: ليست هذه فكرة جيدة أبدا.
+Answer 3: عندما أعرف أنني سأقوم بإنتاج مزيد من البرامج الصوتية وأريد أن تكون جزءً مستمرا من البودكاست الخاصة بي.
+Answer 4: عندما أحصل على حاسب آبل.
 Correct Answer:3
 
 <hr/>
 
-Question 3
-Question:How do I take an audio project that I have uploaded to archive.org and put it on my site so that people can play it?
-Answer 1:You can’t.
-Answer 2:Use the “embed” code and (cut/paste) insert it into a new post on your website.
-Answer 3:Write to archive.org and ask them to do it.
-Answer 4:Paste a link to the url of my archive.org page.
+السؤال 3
+Question: كيف آخذ مشروعا صوتيّا قمت برفعه إلى موقع archive.org وأضعه على موقعي الإلكتروني لكي يستطيع الناس تشغيله؟
+Answer 1: لا تستطيع القيام بذلك.
+Answer 2: استخدم كود "تضمين" و (قص/لصق) أدرجه في إضافة جديدة على موقعك.
+Answer 3: أكتب إلى موقع archive.org وأطلب منهم أن يفعلوا ذلك.
+Answer 4: أقوم بلصق رابط لعنوان صفحتي على موقع archive.org
 Correct Answer:2

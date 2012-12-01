@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. At events ranging from press conferences to demonstrations to elections, how do I know what kinds of images I should be looking for?
+h2. في أحداث تتراوح بين المؤتمرات الصحفية إلى المظاهرات إلى الانتخابات، كيف لي أن أعرف أي نوع من الصور ينبغي أن أبحث عنه؟
 
 !4.7.1.a.png!
 
@@ -8,96 +8,96 @@ h2. At events ranging from press conferences to demonstrations to elections, how
 
 h1. خلفية
 
-Photojournalism can be very formulaic. Editors and viewers expect to see particular kinds of images from specific events. Good photojournalists know the formula and can produce it. Great photojournalists know the formula and can expand on it. The formula can be very helpful for journalists new to photography or for multitasking at an event with limited time to devote to photography.
+ربما يعتمد التصوير الصحفي بشدة على قواعد محددة. فالمحررون والمشاهدون يتوقعون أن يروا أنواعا معينة من الصور من أحداث معينة. والمصورون الصحفيون الأكفاء يعرفون القواعد ويستطيعون إنتاجها. أما المصورون الصحفيون المتميزون فيعرفون القواعد ويستطيعون توسيعها. وقد تكون القواعد مفيدة للغاية بالنسبة للصحفيين المبتدئين في عالم التصوير الفوتوغرافي أو للقيام بأكثر من مهمة في حدث لا يمكن تخصيص وقت كبير فيه للتصوير الفوتوغرافي.
 
 <hr/>
 
 h1. الحل
 
-h2. Breaking News
+h2. الأخبار العاجلة
 
 (
-!4.7.3.a.png(Example of a breaking news photos)!
-!4.7.3.b.png(Example of a breaking news photos)!
-(
+!4.7.3.a.png (مثال لصور أخبار عاجلة)!
+!4.7.3.b.png (مثال لصور أخبار عاجلة)!
+)
 
-Breaking news events are unplanned events of social importance or interest. This is often reflected in the images we see. A breaking news event can be a bombing or a natural disaster or the unplanned announcement of a political candidate's run for office. The photographer should try to illustrate the key dramatic and narrative elements of the event. Think foreground (subject) and background (context). Often coverage is after the event has happened. Reaction shots --how people are responding to the event or its aftermath -- can make for very powerful images. People sweeping after an earthquake. Celebrating a victory following a battle.
+إن الأخبار العاجلة أحداث غير مخطط لها وذات أهمية اجتماعية أو قد تكون شيقة. وغالبا ما يتجلى ذلك في الصور التي نراها. وقد يكون الخبر العاجل عبارة عن تفجير قنبلة أو كارثة طبيعية أو إعلان مفاجئ عن تولي مرشح سياسي منصبا معينا. ويجب على المصور الفوتوغرافي أن يحاول تصوير العناصر الدرامية والروائية المهمة في الحدث. فكر في الأمامية (الموضوع) وفي الخلفية (السياق). وغالبا ما تتم التغطية بعد وقوع الحدث. ولقطات ردود الأفعال – كيف يتجاوب الأفراد مع الحدث أو الفترة التي تعقبه – قد تنتج صورا قوية للغاية، مثل نزوح الناس بأعداد كبيرة بعد زلزال؛ أو الاحتفال بالنصر عقب معركة.
 
 <hr/>
 
-h2. Events
+h2. الأحداث
 
 (
-!4.7.4.a.png(Example of an event photo)!
-!4.7.4.b.png(Example of an event photo)!
-!4.7.4.c.png(Example of an event photo)!
+!4.7.4.a.png (مثال لصورة حدث)!
+!4.7.4.b.png (مثال لصورة حدث)!
+!4.7.4.c.png (مثال لصورة حدث)!
 )
 
-From elections to trials to political rallies, news events are the bulk of what photographers do. Good photo coverage does more than document a news event, it captures its energy and importance. Ask yourself what visual element of the event best symbolizes the overall story, that is likely your photograph.
+إن الأحداث الإخبارية هي جملة ما يقوم به المصورون الفوتوغرافيون، من الانتخابات إلى المحاكمات إلى المسيرات السياسية. والتغطية الجيدة بالصور تفعل ما هو أكثر من مجرد توثيق حدث إخباري معين، فهي تسجل طاقته وأهميته. اسأل نفسك ما العناصر البصرية في الحدث التي ترمز للقصة العامة بأفضل ما يكون ويحتمل أن تكون موضوعا لصورك الفوتوغرافية.
 
-* An image of a citizen casting a ballot for the first time.
-* An image of a passionate demonstrator with others in the background.
-* An image of a presidential candidate shaking hands with a military chief.
+* صورة لمواطن يدلي بصوته في اقتراع للمرة الأولى.
+* صورة لمتظاهر متحمس ويوجد آخرون في خلفية الصورة.
+* صورة لمرشح رئاسي يصافح قائدا عسكريا.
 
 <hr/>
 
-h2. Features
+h2. التحقيقات الإخبارية
 
 (
-!4.7.5.a.png(Example of a feature photo)!
-!4.7.5.b.png(Example of a feature photo)!
+!4.7.5.a.png (مثال لصورة تحقيق إخباري)!
+!4.7.5.b.png (مثال لصورة تحقيق إخباري)!
 )
 
-Feature stories and photographs are stories that are not tied to a specific news event. A feature can be about a trend -- growing numbers of women learning to drive -- or about something lighthearted and unusual -- a dance theater for children. Features are where news photographers are expected to be creative in their approach to what they shoot. Ask yourself what will best illustrate the event on an emotional level. Think context in your images and think human emotion. What elements -- and what moment -- tell the story in an interesting way?
+التحقيقات الإخبارية والصور الفوتوغرافية مواد لا ترتبط بحدث إخباري معين. فقد يكون التحقيق عن اتجاه معين – زيادة أعداد النساء اللاتي يتعلمن القيادة – أو عن شيء مرح وغير عادي – مسرح راقص للأطفال. وفي التحقيقات الإخبارية، يتوقع من المصورين الإخباريين أن يكونوا مبدعين في تناولهم لما يقومون بتصويره. اسأل نفسك ما الذي سيصور الحدث بأفضل ما يكون على المستوى العاطفي. فكر في سياق صورك وفكر في العواطف الإنسانية. ما العناصر – وما اللحظات – التي تحكي القصة بطريقة شيقة؟
 
 <hr/>
 
-h2. Portraits
+h2. البورتريهات
 
 (
-!4.7.6.a.png(Example of a portrait photo)!
-!4.7.6.b.png(Example of a portrait photo)!
+!4.7.6.a.png (مثال لصورة بورتريه)!
+!4.7.6.b.png (مثال لصورة بورتريه)!
 )
 
-Photographers frequently shoot portraits to illustrate a profile story about the person pictured or because the person figures heavily in a broader story. Portraits fall into two categories: posed and candids. Posed portraits are set up with the subject looking into the camera or just off camera. Good posed portraits take advantage of nice lighting and capture the subject’s expression in a way that is revealing related to the story. Candid portraits typically show the subject in action doing that thing for which he or she is in the news. Many photographers will shoot both when assigned to do a portrait. It is a good idea to include some contextual elements in the image that provide a hint in the picture as to who the subject is.
+غالبا ما يلتقط المصورون بورتريهات لتصوير تحقيق مصور عن الشخص الذي يتم تصويره أو لأن الشخص يبرز بشدة عندما تكون المادة أشمل. وتنقسم البورتريهات إلى فئتين هما: البورتريهات المتعمدة والبورتريهات العفوية. ويتم إعداد البورتريهات المعدة سلفا والشخص ينظر إلى الكاميرا ناحيتها فحسب. البورتريهات المتعمدة الجيدة تستفيد من الإضاءة الجيدة وتسجل تعبيرات الشخص بطريقة كاشفة لها علاقة بالمادة الخبرية. أما البورتريهات العفوية فهي تبين الشخص أثناء قيامه بالشيء الذي هو سبب وجوده في الخبر. وكثير من المصورين يلتقط كلا النوعين من البورتريهات عند تكليفه بعمل بورتريه. ومن المفيد إدراج بعض العناصر السياقية في الصورة لتوفير لمحة في الصورة عن ماهية الشخص.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
 (
-!4.7.7.a.png(Example of an arranged photo)!
-!4.7.7.b.png(Example of an arranged photo)!
+!4.7.7.a.png (مثال لصورة متعمدة)!
+!4.7.7.b.png (مثال لصورة متعمدة)!
 )
 
-These guidelines are designed to make shooting easier. They should not inhibit you. It is important to note that in some cases photographers are allowed to arrange a shot. This is NEVER permitted with breaking news or general news. Occasionally with feature assignments and more frequently with portraits a photographer can arrange the photograph -- ask the subject to move to better light, introduce contextual elements, or reenact something.
+إن القصد من هذه الإرشادات جعل التصوير أسهل، لكن يجب ألا تثير القلق لديك. ومن المهم أن تنتبه إلى أن المصورين يُسمح لهم في بعض الحالات بالترتيب للقطة معينة. ولا يُسمح بذلك أبدا في حالة الأخبار العاجلة أو الأخبار العامة. ويستطيع المصور أحيانا – في حالة التحقيقات الإخبارية وبصورة أكبر في حالة البورتريهات – الترتيب لالتقاط الصورة – أي يطلب من الشخص الذي سيقوم بتصويره بالتحرك إلى منطقة الضوء فيها أكثر قليلا أو تقديم عناصر سياقية أو إعادة تفعيل شيء معين.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:When photographing a press conference you might try and shoot which of the following?
-Answer 1:Tight, animated headshots of each of the participants rather than one, overall shot.
-Answer 2:Full frontal shots rather than profiles from left or right.
-Answer 3:A group shot during the ‘photo op’.
-Answer 4:All of the above.
+السؤال 1
+Question: عند تصوير مؤتمر صحفي أي مما يلي قد تحاول تصويره وتقوم بتصويره بالفعل؟
+الإجابة 1: لقطات متحركة متراصة لكل واحد من المشاركين بدلاً من أخذ لقطة واحدة شاملة للجميع. 
+الإجابة 2: لقطات أمامية كاملة بدلا من صور جانبية من اليسار أو اليمين.
+الإجابة 3: لقطة جماعية أثناء توفر "فرصة صورة".
+الإجابة 4: كل ما سبق.
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE: It is OK to set up shots at general news events.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: لا حرج في الترتيب لالتقاط الصور في الأحداث الإخبارية العامة.
+الإجابة 1: صح 
+الإجابة 2: خطأ
 Correct Answer:2
 
 <hr/>
 
-Question 3
-Question:Which of the following are characteristics of a good news portrait (it can be more than one).
-Answer 1:The subject is statue-like and looking at the camera.
-Answer 2:There are no props or cues in the image to contextualize it or explain why the subject is in the news.
-Answer 3:The subject is partially obscured so it is hard to see his or her face clearly.
-Answer 4:None of the above.
+السؤال 3
+Question: أي مما يلي سمات البورتريه الإخباري الجيد (قد تتضمن الإجابة الصحيحة أكثر من إجابة)؟
+Answer 1: أن يقف الشخص الذي تقوم بتصويره جامدا كالتمثال وينظر إلى الكاميرا.
+Answer 2: ألا توجد عناصر أو مفاتيح في الصورة تعطي فكرة عن سياقها أو تشرح سبب وجود الشخص في الخبر.
+Answer 3: أن تكون صورة الشخص غامضة جزئيّا فيصعب رؤية وجهه بوضوح.
+Answer 4: لا إجابة مما سبق صحيحة.
 Correct Answer:4

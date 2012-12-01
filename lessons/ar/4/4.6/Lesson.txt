@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. How do I photograph fast-moving objects?
+h2. كيف يمكنني تصوير الأشياء التي تتحرك بسرعة؟
 
 !4.9.1.a.png!
 
@@ -8,102 +8,102 @@ h2. How do I photograph fast-moving objects?
 
 h1. خلفية
 
-!4.9.2.a.png(How a shutter works on a camera)!
+!4.9.2.a.png (كيف يعمل غطاء إغلاق الكاميرا؟)!
 
-From football players to moving vehicles and marching protesters, journalists frequently have to take pictures of moving objects. A camera’s ability to freeze action is controlled by the shutter. If the shutter speed is too slow, it cannot adequately freeze action. The image appears blurry because the sensor is recording the movement. Shutter speeds are typically measured in fractions of a second. The faster the action, the faster the shutter speed needs to be.
+بدءً من لاعبي كرة القدم وحتى الحافلات المتحركة والمتظاهرين المتحركين في إحدى المسيرات، عادة ما يكون على الصحفيين التقاط صور للأشياء المتحركة. يتم التحكم في قدرة الكاميرا على تثبيت الحركة عن طريق غطاء إغلاق الكاميرا. ومن ثم، إذا كان غطاء إغلاق الكاميرا بطيئًا للغاية، فلن يتمكن من تثبيت الحركة على النحو المناسب. وبالتالي، تظهر الصورة غير واضحة نظرًا لأن جهاز الاستشعار يسجل الحركة. في الغالب الأعم، يتم قياس سرعات غطاء إغلاق الكاميرا بوحدة الجزء من الثانية. كلما زادت سرعة الحركة، اشتدت الحاجة لأن يكون غطاء الإغلاق أكثر سرعة.
 
 <hr/>
 
-!4.9.3.a.png(Shutter Priority Icon)!
+!4.9.3.a.png (أيقونة أولوية غطاء إغلاق الكاميرا)!
 
-Some smartphones have settings that tells the camera to favor a faster shutter speed in its exposure equation. The icon for this is a profile of a man running. For smart phones without this feature there are several things you can do to help freeze action. This begins with knowing the limitations of the camera and being realistic about your choices.
+تحتوي بعض الهواتف الذكية على إعدادات تُعلم الكاميرا بأفضلية الإسراع في استخدام غطاء إغلاق الكاميرا عند معادلة عملية التعريض. وتتمثل الأيقونة الدالة على ذلك الأمر في صورة رجل يجري. أما الهواتف الذكية غير المحتوية على هذه السمة، فتوجد بها العديد من الأمور التي يمكنك عملها لتساعدك على تثبيت الحركة. يبدأ هذا الأمر بمعرفة حدود عمل الكاميرا والتحلي بالواقعية في اختياراتك.
 
 <hr/>
 
 h1. الحل
 
-h2. Light
+h2. الإضاءة
 
 (
-!4.9.4.a.png(Example of using daylight to light a subject)!
-!4.9.4.b.png(Example of using a window to light a subject)!
-!4.9.4.c.png(Example of using an external source to light a subject)!
+!4.9.4.a.png (مثال على استخدام ضوء النهار لإضاءة أحد العناصر)!
+!4.9.4.b.png (مثال على استخدام النافذة في إضاءة أحد العناصر)!
+!4.9.4.c.png (مثال على استخدام مصدر خارجي لإضاءة أحد العناصر)!
 )
 
-The most common challenge when trying to photograph motion is inadequate light. There is not enough light to allow the camera to properly expose your picture AND have a high enough shutter speed to freeze action. You can’t make the camera do the impossible. If you know you need to freeze action, plan your assignment so there will be enough light. This can mean choosing a time of day when there is sunlight. It might also mean choosing a location where there will be the most light possible – near a street light, stage light or in the headlights of a car.
+يتمثل التحدي الأكثر شيوعًا والذي تواجهه عند محاولة تصوير حركة ما في الإضاءة غير الجيدة. في حالة عدم وجود إضاءة كافية تسمح للكاميرا بأن تلتقط صورتك على نحو مناسب، وفي حالة عدم تميز غطاء إغلاق الكاميرا بالسرعة الكافية لتثبيت الحركة، فلن تجعل الكاميرا تقوم بالمستحيل. إذا كنت تعلم أنك بحاجة لتثبيت حركة ما، فخطط لتقييمك بشكل يمكنك من الحصول على القدر الكافي من الإضاءة. بعبارة أخرى، قد يعني هذا الأمر أن تختار وقتًا من اليوم يتوافر فيه ضوء الشمس، كما يعني اختيار مكان للتصوير يتوفر به أقصى قدر ممكن من الإضاءة كأن يكون بالقرب من عمود الإنارة بالشارع، أو من ضوء مسرح ما أو من ضوء الكشافات الأمامية لسيارة.
 
 <hr/>
 
-h2. Stabilize the Camera
+h2. توازن الكاميرا وثباتها
 
-!4.9.5.a.png(Proper holding stances for a camera)!
+!4.9.5.a.png (الوقفات المناسبة للإمساك بالكاميرا)!
 
-Camera shake – the movement of your own hands while holding the camera -- can cause or contribute to blurry images and not only when shooting fast moving objects.- Always hold a camera close to your body. This is will make it easier to stabilize than if your arm is fully extended. It may help to rest the elbow of your camera hand on your knee or another object to stabilize your camera.
+اهتزاز الكاميرا: إن حركة يديك في أثناء الإمساك بالكاميرا يمكن أن تتسبب أو تُسهم في التقاط صور غير واضحة، ولا ينطبق هذا الأمر على تصوير العناصر المتحركة فحسب. لذا، أمسك بالكاميرا دومًا بالقرب من جسمك. سوف ييسر عليك ذلك الأمر تحقيق قدر أكبر من الثبات يزيد عما إذا كان ذراعك مفرودًا بالكامل. كذلك، يمكن أن يساعدك على أن تسند كوع يد الكاميرا على ركبتك أو على عنصر آخر لتتمكن من تثبيتها.
 
 <hr/>
 
-h2. Flash
+h2. الفلاش
 
 (
-!4.9.6.a.png(Example of a photo taken with a camera phone flash)!
-!4.9.6.b.png(Example of a photo taken with a camera phone flash)!
-!4.9.6.c.png(Example of a photo taken with a camera phone flash)!
+!4.9.6.a.png (مثال على صورة ملتقطة بفلاش كاميرا الهاتف)!
+!4.9.6.b.png (مثال على صورة ملتقطة بفلاش كاميرا الهاتف)!
+!4.9.6.c.png (مثال على صورة ملتقطة بفلاش كاميرا الهاتف)!
 )
 
-Many smartphones come with a built-in flash. The burst of light can help you freeze motion. Most phone flashes are only effective for about three meters.
+تأتي العديد من الهواتف الذكية محتوية على فلاش داخلي. ومن الممكن أن يساعدك اندفاع الضوء على تثبيت الحركة. بوجه عام، تعمل معظم فلاشات الهواتف بشكل فعال في مسافة تقدر بثلاثة أمتار فقط.
 
 <hr/>
 
-h2. Pick your Moment
+h2. التقط حركتك
 
 (
-!4.9.7.a.png(Example of capturing a moment)!
-!4.9.7.b.png(Example of capturing a moment)!
+!4.9.7.a.png (مثال على التقاط حركة)!
+!4.9.7.b.png (مثال على التقاط حركة)!
 )
 
-In many cases your subject will move at varying speeds. Footballers move more slowly as a play is being set up. Cars slow at corners or in traffic. Demonstrators are stationary for speeches. Choose a moment when things movie more slowly. If you combine this with a good location for light, you can often get sharp pictures of difficult subjects even at night -- demonstrators chanting under a streetlight, for example.
+في العديد من الحالات، يتحرك العنصر الذي تصوره بسرعات متنوعة. لمزيد من التوضيح، يتحرك لاعبو كرة القدم على نحو أكثر بطئًا عند بدء اللعب. وتتحرك السيارات أيضًا ببطء في الأركان أو عند الازدحام. بينما لا يتحرك المتظاهرون نظرًا للخطب والشعارات التي يلقونها. على أية حال، اختر اللحظة المناسبة عندما تتحرك الأشياء على نحو أكثر بطئًا. وإذا جمعت بين هذا الأمر وبين المكان جيد الإضاءة، فغالبًا ما ستتمكن من التقاط صور واضحة لأشياء يصعب تصويرها حتى في أثناء الليل، كأن تلتقط صورة لمتظاهرين ينشدون في ضوء أعمدة الإنارة المتوفرة بالشارع مثلاً.
 
 <hr/>
 
-h2. Angle to Movement
+h2. زاوية الحركة
 
-!4.9.8.a.mp4(How to pan with a camera to catch movement)!
+!4.9.8.a.mp4 (كيف يمكن تحريك الكاميرا لتلتقط حركة؟)!
 
-The most difficult movement for the camera is when the subject is moving across the frame from right to left or left to right. A common technique for handling this situation is called panning. Point your camera and follow the subject as it goes by, twisting your body if you have to. This reduces the relative speed of the movement to the camera. You may change your angle so the subject comes at the camera on an angle. This will allow the camera to track the object better and freeze the action.
-
-<hr/>
-
-At least the main subject of your photo should always be sharp. Remember and manage the limitations of your equipment and the lighting conditions. Football players, vehicles and other moving objects may vary their speed. They may move into and out of greater light sources. position yourself for the most advantageous moment to get your photo when the subject is well illuminated and moving comparatively slowly.
+إن الحركة الأصعب بالنسبة للكاميرا تتمثل في الوقت الذي يتحرك فيه الشيء الذي تصوره عبر الكادر من اليمين لليسار أو من اليسار لليمين. ومن الطرق المعروفة في التعامل مع هذا الموقف تلك التي تعرف باسم "الحركة الأفقية والرأسية". لمزيد من التوضيح، ثبت الكاميرا وتتبع العنصر الذي تصوره في أثناء حركته وأدر جسمك تبعًا له إذا تطلب الأمر ذلك. سوف يقلل هذا الأمر من السرعة النسبية لحركة الكاميرا. وقد تحتاج لتغيير زاويتك بحيث يصبح العنصر الذي تصوره في زاوية محددة بالكاميرا. سوف يسمح هذا الأمر للكاميرا بتتبع العنصر بشكل أفضل وتثبيت الحركة أيضًا.
 
 <hr/>
 
-h1. Quiz
+يجب أن يكون العنصر الأساسي بصورتك على الأقل واضحًا دومًا. تذكر وتحكم في حدود إمكانات آلتك وظروف الإضاءة المحيطة بك. فقد تتنوع سرعات لاعبي كرة القدم والحافلات والعناصر المتحركة الأخرى. وقد ينتقلون من وإلى مصادر إضاءة أكبر أيضًا. اضبط وضعك لتتحين اللحظة المناسبة أكثر لالتقاط صورتك عندما يكون العنصر في إضاءة جيدة ويتحرك ببطء بعض الشيء.
 
-Question 1
-Question:What causes blurry images when photographing fast-moving objects?
-Answer 1:Too large and aperture.
-Answer 2:A slow shutter speed.
-Answer 3:Accidentally switching the camera to video mode.
-Answer 4:Too high an ISO.
+<hr/>
+
+h1. امتحان موجز
+
+السؤال 1
+Question: ما الذي يتسبب في التقاط صور غير واضحة عند تصوير العناصر التي تتحرك بسرعة؟
+Answer 1: فتحة الكاميرا الكبيرة للغاية
+Answer 2: بطء سرعة غطاء إغلاق الكاميرا
+Answer 3: انتقال الكاميرا لوضع التصوير بالفيديو دون عمد
+Answer 4: مستوى الحساسية عال للغاية
 Correct Answer:2
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE: Blurriness can be caused by handshake. It is important to stabilize the camera when trying to freeze action.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: يمكن أن ينتج عدم وضوح الصور عن اهتزاز الأيدي. لذا، من الضروري أن تثبت الكاميرا عند محاولة تثبيت الحركة.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:2
 
 <hr/>
 
-Question 3
-Question: How might you improve the sharpness of this image? 
+السؤال 3
+Question: كيف يمكن أن تحسن من وضوح هذه الصورة؟ 
 
 !4.9.13.a.png!
 
-Answer 1:Wait for a moment when the subject is moving more slowly.
-Answer 2:Zoom to a more telephoto setting.
-Answer 3:Wait for a moment when the subject is in more light.
-Answer 4:Ask the fast-moving subject to take a photo of himself.
+Answer 1: انتظر اللحظة المناسبة التي يتحرك فيها العنصر الذي تصوره على نحو أكثر بطئًا.
+Answer 2: كبر الصورة لإعداد صورة مقربة أكبر.
+Answer 3: انتظر اللحظة المناسبة التي يكون فيها العنصر الذي تصوره في إضاءة أكثر.
+Answer 4: اطلب من العنصر الذي يتحرك بسرعة أن يلتقط صورة لنفسه.
 Correct Answer:1,3

@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. How do I write a basic caption to accompany a photograph?
+h2. كيف أكتب عنوانًا أساسيًا لصورة؟
 
 !4.3.1.a.png!
 
@@ -8,138 +8,138 @@ h2. How do I write a basic caption to accompany a photograph?
 
 h1. خلفية
 
-!4.3.2.a.png(10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match.)!
+!4.3.2.a.png (10 يونيو 2012 – طرابلس، ليبيا - مشجعو كرة القدم يحتفلون بالفوز على الكاميرون 2-1 في إحدى مباريات التصفيات المؤهلة لكأس العالم.)!
 
-h3. Caption: 10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match
-h3. Keywords: Tripoli, Libya, Cameroon, World Cup, sports, Middle East.  
-h3. Tags: Sports, celebration, flags, World Cup, fans
+h3. Caption: 10 يونيو 2012 – طرابلس، ليبيا -- مشجعو كرة القدم يحتفلون بالفوز على الكاميرون 2-1 في إحدى مباريات التصفيات المؤهلة لكأس العالم
+h3. الكلمات الأساسية: طرابلس، ليبيا، الكاميرون، كأس العالم، الرياضة، الشرق الأوسط
+h3. علامات الترميز: الرياضة، الاحتفال، الأعلام، كأس العالم، المشجعين
 
-Every photograph needs a caption and keywords/tags. A good caption provides the reader basic information and context to understand a photograph and its relevance to the news: where the photo was taken, when it was taken, and a very brief description of what's in the photo. Search engines and search fields on sites like YouTube can't recognize images. They can only recognize text associated with the image. Keywords and tags, along with the caption, help viewers find the images through search engines.
+بوجه عام، تحتاج كل صورة إلى عنوان وكلمات أساسية/علامات ترميز. يقدم العنوان الجيد للقارئ المعلومات الأساسية والسياق اللازم لتفهمه الصورة وعلاقتها بالخبر: مثل مكان التقاط الصورة وزمانها ووصف موجز للغاية لما تحتويه. إن آليات البحث وحقول البحث المتوفرة على مواقع مثل موقع يوتيوب لا تتعرف على الصور، حيث إنها تتعرف فقط على النصوص الملحقة بالصور. كذلك، تساعد الكلمات الأساسية وعلامات الترميز، بالإضافة إلى العنوان، المشاهدين على العثور على الصور التي يريدونها من خلال آليات البحث.
 
 <hr/>
 
-h2. Bad Photo and Caption
+h2. الصور والعناوين السيئة
 
-!4.3.3.a.png(Demonstrators outside UN headquarters yesterday protest about peacekeepers in Darfur.)!
+!4.3.3.a.png (احتجاج المتظاهرين بالأمس خارج مقر الأمم المتحدة على قوات حفظ السلام الموجودة في دارفور)!
 
-h2. Good Photo and Caption
+h2. الصور والعناوين الجيدة
 
-!4.3.3.b.png(25 September, 2008 – New York, NY - More than 200 demonstrators gathered outside UN headquarters during its 63rd annual General Assembly meeting to protest what they say is a Security Council slow to act on its own demand for peacekeepers in Darfur. (SIPA Press/John Smock))!
+!4.3.3.b.png (25 سبتمبر 2008 – نيويورك – تجمع أكثر من 200 متظاهر خارج مقر الأمم المتحدة أثناء اجتماع الجمعية العامة السنوي الثالث والستين للاحتجاج على ما أسموه تباطؤ مجلس الأمن في التصرف حيال طلبه بشأن قوات حفظ السلام في دارفور. (مؤسسة سيبا للصحافة/جون سموك))!
 
-Captions should be clear, accurate and complete in the information they provide about the photograph.
+يجب أن تكون العناوين واضحة ودقيقة وكاملة في المعلومات التي تقدمها عن الصورة.
 
 <hr/>
 
 (
-!4.3.4.a.png(27 April, 2006 – Birqash, Egypt --  A camel merchant chases a camel at the camel market in Birqash, an hour northwest of the Cairo. Sale of camel meet is on the rise in Egypt and surrounding countries in response to the bird flu epidemic, which makes chicken unsafe to eat. (John Smock/SIPA Press) )!
-!4.3.4.b.png(27 April, 2006 -- Birqash, Egypt -- A young boy helps load baby camels on to trailers at the Camel Market in Birqash, an hour northwest of the Cairo. Hundreds of animals make the trek from as far away as southern Sudan to what is perhaps oldest and largest remaining camel market in the Middle East. The animals are sold for meat as well as for transportation. (John Smock/SIPA Press))!
-!4.3.4.c.png(27 April 2006 – Birqash, Egypt – Camels loaded on a truck bound for Cairo leave the camel market. Hundreds of camels are sold each week. These camels will be sold to butchers for meat. (John Smock/SIPA Press))!
+!4.3.4.a.png (27 إبريل 2006 – برقاش، مصر – تاجر جمال يطارد جملاً في سوق الجمال ببرقاش، الذي يبعد قدر ساعة شمال غرب القاهرة. تزايد مبيعات الجمال في مصر والدول المحيطة بها نتيجة لانتشار وباء أنفلونزا الطيور الذي جعل تناول الدجاج غير آمن. (جون سموك / مؤسسة سيبا للصحافة))!
+!4.3.4.b.png (27 إبريل 2006 – برقاش، مصر – فتى صغير يساعد في تحميل صغار الجمال على الحافلات في سوق الجمال ببرقاش، والذي يبعد مسافة ساعة شمال غرب القاهرة. تنتقل المئات من الحيوانات من أماكن بعيدة مثل جنوب السودان لما يعد أقدم وأكبر سوق باقي للجمال في الشرق الأوسط. يتم بيع الحيوانات للحومها ولاستخدامها في الانتقال أيضًا. (جون سموك/ مؤسسة سيبا للصحافة))!
+!4.3.4.c.png (27 إبريل 2006 – برقاش، مصر – تحميل الجمال على الحافلات تاركة سوق الجمال ومتوجهة إلى القاهرة. يتم بيع المئات من الجمال كل أسبوع. سوف يتم بيع هذه الجمال للجزارين من أجل لحومها. (جون سموك/مؤسسة سيبا للصحافة))!
 )
 
-The captions for a photo essay should not repeat the same information over and over. Write captions as short, progressive explanations of the individual image in the context of the entire slideshow. In some cases you may present them as title cards that present short “factoids,” additional information or stats that help provide context.
+لا يجب أن تكرر عناوين المقالة المزودة بالصور المعلومات نفسها مرارًا وتكرارًا. لذا، لا بد أن يكون العنوان عبارة عن إيضاح موجز ومتدرج للصورة في سياق العرض الكامل لها. في بعض الحالات، قد تعرض العناوين في صورة كروت عناوين تقدم "أخبارًا موجزة" أو معلومات إضافية أو إحصائيات تساعد في تقديم السياق.
 
 <hr/>
 
 h1. الحل
 
-h2. Writing Captions
+h2. كتابة العناوين
 
-!4.3.5.a.png(The first sentence should describe what is happening in the photo and provide the exact location and date. The first sentence is typically written in the present tense to provide a sense of immediacy. A second or third sentence can be written but are not required to provide context for the viewer. These are typically written in the past tense. Captions should be brief and provide only information relevant to understanding the image.)!
+!4.3.5.a.png (يجب أن توضح الجملة الأولى ما يحدث في الصورة وتقدم أيضًا المكان والتاريخ الدقيقين. بوجه عام، تتم كتابة هذه الجملة باستخدام زمن الفعل المضارع لإعطاء حس المباشرة. ويمكن أن تتم كتابة جملة ثانية أو ثالثة، بيد أنها لا يلزم أن تقدم سياقًا للمشاهد. وهذه الجمل عادة ما تُكتب في زمن الفعل الماضي. على أية حال، يجب أن تكون العناوين موجزة ومقدمة للمعلومات المتعلقة بفهم ما تحويه الصورة.)!
 
-A caption should be one or two sentences. In most photo captions the first sentence identifies the people and location of the photograph and date where it was taken. The second should provide contextual information to help readers understand what they are looking at.
+يجب أن يكون العنوان مكونًا من جملة واحدة أو اثنتين. في معظم عناوين الصور، توضح الجملة الأولى الأشخاص الموجودين في الصورة ومكان وتاريخ التقاطها. أما الجملة الثانية، فيجب أن تقدم المعلومات السياقية التي تساعد القراء على فهم ما يشاهدونه أمامهم.
 
 <hr/>
 
 (
-!4.3.8.a.png(3 November, 2011 – Rustavi, Republic of Georgia – Extensive repairs begin on the Baku-Tbilisi-Ceyhan (TBC) pipeline conducted by British Petroleum (BP). When operational the pipeline transports as much as a million gallons a day, providing an alternative to fuel from Russia to countries in the Caucasus. (John Smock/SIPA Press))!
-!4.3.8.b.png(21 October, 2012, -- Cairo, Egypt – Egyptian street artist Gameer opened an exhibit of his artwork this week at a gallery in Cairo. Gameer was arrested for his work during the revolution (Photo: John Smock))!
-!4.3.8.c.png(20 October, 2012 – Giza, Egypt – Vendors normally busy offering camel rides and tours at the pyramids sit idle. Tourism has been down significantly since the revolution. (Photo: John Smock))!
+!4.3.8.a.png (3 نوفمبر 2011 – روستافي، جمهورية جورجيا – إصلاحات موسعة تبدأ في خط أنابيب باكو – تبليسي – جيهان (أو ما يعرف اختصارًا ب ت ج) تجريها شركة بريتيش بتروليوم. عندما يعمل هذا الخط ، فسوف ينقل ما يصل إلى مليون جالون يوميًا، مما يجعله يوفر بديلاً للوقود من روسيا إلى البلاد الموجودة في القوقاز. (جون سموك/مؤسسة سيبا للصحافة))!
+!4.3.8.b.png (21 أكتوبر 2012 – القاهرة، مصر – فنان الشارع المصري جامير يفتتح معرضًا لأعماله هذا الأسبوع في إحدى قاعات العرض بالقاهرة. سبق وتم اعتقال جامير بسبب أعماله في أثناء الثورة (صورة: جون سموك))!
+!4.3.8.c.png (20 أكتوبر 2012 – الجيزة، مصر – تعرض التجار الذين اعتادوا تقديم ركوب الجمال والرحلات في الأهرام للبطالة. يذكر أن السياحة قد شهدت انخفاضًا كبيرًا منذ اندلاع الثورة. (صورة: جون سموك))!
 )
 
-The exact format for captions vary, but a basic photo captions should:
+يختلف ويتنوع التنسيق الصحيح للعناوين، ولكن عناوين الصور الأساسية يجب أن:
 
-* Clearly identify the people and location in the photo. Professional titles should be included and the formal name of the location. In large groups, identifications of only notable people may be required and sometimes no I.D.s are required at all.
-* Include the date the photograph was taken. If an archive photograph or photograph taken prior to the event is used, the caption should make it clear that it is a “file photo.”
-* Provide some context or background to the reader so he or she can understand the news value of the photograph.
-
-<hr/>
-
-h2. Keywords and Tags
-
-!4.3.9.a.png(Tags: tank, Russian Afghanistan. This image is licensed to be reproduce commercially.)!
-
-Keywords and tags help search engines find images and work identify photos in the archive. Typically there will be a field for keywords or tags along with the caption field.
+* تبين بوضوح الأشخاص الموجودين بالصورة والمكان الذي التقطت به. يجب أن يتم تضمين العناوين الحرفية والاسم الرسمي للمكان. في المجموعات الكبيرة، قد يتطلب الأمر تعريف الأشخاص المشهورين فقط، وفي بعض الأحيان لا يتطلب الأمر تعريف أي حد على الإطلاق.
+* تتضمن تاريخ التقاط الصورة. إذا تم استخدام صورة أرشيفية أو صورة تم التقاطها قبل وقوع الحدث، فيجب أن يوضح العنوان أنها صورة "أرشيفية".
+* تقدم بعض السياق أو الخلفية للقارئ بحيث يتمكن من فهم قيمة الأخبار التي تقدمها الصورة.
 
 <hr/>
 
-*TIPS*
+h2. الكلمات الأساسية وعلامات الترميز
 
-* Include specific geographic information.
-* Avoid abbreviations.
-* Keyword with the kind of photo(s) it is (portrait, demonstration, economy).
-* Consider word choice: Would someone use another word more naturally to do a search?
-* Think about related words to your topic that might help direct people to your photo.
-* Use common words that reflect specific subjects: Computer security: hacking, hackers, security, firewall, attack, network, flaw.
-* Order of the keywords/tags is important-with the first couple of words weighed more heavily.
+!4.3.9.a.png (علامات الترميز: دبابة، أفغانستان الروسية. هذه الصورة مصرح بإعادة استخدامها تجاريًا.)!
+
+تساعد الكلمات الأساسية وعلامات الترميز آليات البحث على العثور على الصور والأعمال التي تعرف هذه الصورة في الأرشيف. عادة ما يكون هناك حقل مخصص لإدخال الكلمات الأساسية وعلامات الترميز بالإضافة إلى حقل العنوان.
 
 <hr/>
 
-Creative Element On-Screen Captions:
-!4.3.10.a.png(education, Afghanistan, girls, school, English language)!
-!4.3.10.b.png(flag, children, Libya, revolution, Arab spring)!
-!4.3.10.c.png(election, Arab, Arab-American, United States, politics, women, girls, vote, voting)!
+*نصائح*
+
+* تضمين المعلومات الجغرافية الخاصة
+* تجنب الاختصارات
+* استخدام الكلمات الأساسية مع نوع الصورة (الصور)، سواء كانت (صورًا شخصية، صورًا توضيحية، صورًا اقتصادية)
+* اختيار الكلمات: هل يمكن أن يستخدم الشخص كلمة أخرى أكثر بديهية لإجراء عملية البحث؟
+* التفكير في الكلمات المرتبطة بموضوعك والتي يمكن أن تساعد في توجيه الأشخاص لصورتك.
+* استخدام الكلمات المعروفة التي تعكس موضوعات معينة: تأمين الحاسب: القرصنة، القراصنة، التأمين، الجدران النارية، الهجوم، الشبكة، العطل.
+* ترتيب الكلمات الأساسية/علامات الترميز مهم – فالكلمتان الأوليتان تحملان قدرًا كبيرًا من الأهمية.
+
+<hr/>
+
+عناوين مبتكرة على الشاشة:
+!4.3.10.a.png (التعليم، أفغانستان، الفتيات، المدرسة، اللغة الإنجليزية)!
+!4.3.10.b.png (علم، أطفال، ليبيا، ثورة، الربيع العربي)!
+!4.3.10.c.png (انتخاب، العرب، العربي-الأمريكي، الولايات المتحدة، السياسة، السيدات، الفتيات، صوت، التصويت)!
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-Basic caption and keywords should always be included. Here are some things to watch out for:
+يجب دومًا أن يتم تضمين العناوين الرئيسة والكلمات الأساسية. إليك بعض الأمور التي ينبغي عليك الانتباه إليها:
 
-* Make sure names of people and places are correctly identified and spelled.
-* Be accurate.
-* Photojournalism is journalism.
-* If a photo is manipulated digitally beyond simple sizing and color control, it should be labeled as a “photo illustration” in the caption or in the photo credit. If unusual photo techniques are used, such as high dynamic range (HDR) effects, it should be noted in the caption.
-* Do not editorialize or make assumptions about what someone in a picture is thinking: “an unhappy voter...” or “A fortunate survivor...” The reader should be given the facts and allowed to decide for herself or himself what the feelings or emotions are.
-* Do not characterize the content of a picture as beautiful, dramatic, horrifying or in any other such descriptive terms that should be evident in the photograph. If it's not evident in the photograph, you telling the reader won't make it happen.
+* التأكد من صحة أسماء الأشخاص والأماكن وتهجئتها.
+* التحلي بالدقة
+* التصوير الصحفي هو لب الصحافة
+* إذا تمت معالجة إحدى الصور بشكل رقمي بخلاف التحكم البسيط في الحجم والألوان، فيجب أن تعطى اسم "توضيح الصورة" في العنوان أو في تصريح استخدامها. إذا ما تم استخدام طرق معالجة غير معتادة للصور؛ مثل مؤثرات (النطاق الديناميكي العالية)، فيجب أن يُذكر ذلك في العنوان.
+* لا تعدل أو تضع افتراضات بشأن ما يعتقده شخص ما في الصورة: "ناخب غير سعيد..." أو "ناج محظوظ...". يجب أن يتم تقديم الحقائق للقارئ والسماح له باتخاذ القرار بنفسه بشأن ما يشعر به تجاهها.
+* لا تصور محتوى صورة ما وتقول أنها جميلة أو درامية أو مرعبة أو أي من الصفات الموجودة في الصورة. إن لم يكن هذا واضحًا في الصورة، فتعريفك للقارئ بهذا الأمر لن يجعلها كذلك.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:The first sentence of a photo caption should include
-Answer 1:A brief description of the scene in the image, the date, the locations, and the names of any important people or landmarks.
-Answer 2:A history of the event photographed.
-Answer 3:The photographer’s interpretation of what people in the image are feeling.
-Answer 4:All of the above.
+السؤال 1
+Question: يجب أن تتضمن الجملة الأولى من عنوان الصورة:
+Answer 1: وصفًا موجزًا للمشهد الموجود في الصورة وتاريخها ومكان التقاطها وأسماء أي أشخاص مهمين أو معالم معروفة.
+Answer 2: تاريخ الحدث المصور
+Answer 3: تفسير المصور لما يشعر به الأشخاص المصورون في الصورة
+Answer 4: كل ما سبق
 Correct Answer:1
 
 <hr/>
 
-Question 2
-Question:TRUE of FALSE: Keywords and tags not only helps people find your images online, they help you and news organizations find images more easily in your photo archive.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: الكلمات الأساسية وعلامات الترميز لا تساعد الأشخاص على العثور على صورك على الإنترنت فحسب، بل تساعدك أنت والمؤسسات الإعلامية على العثور على الصورة بسهولة داخل أرشيف صورك.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:A good caption has which of the following characteristics (it can be more than one).
-Answer 1:The location and date the image was shot is clear.
-Answer 2:Significant people portrayed are identified by full name and title.
-Answer 3:There are no misspelling or grammatical errors.
-Answer 4:All of the above.
+السؤال 3
+Question: يضم العنوان الجيد أيًا من السمات الآتية (يمكن أن تكون أكثر من سمة واحدة):
+Answer 1: توضيح لمكان وتاريخ الصورة
+Answer 2: تعريف للأشخاص المهمين في الصورة بأسمائهم الكاملة وألقابهم
+Answer 3: خلوه من أية أخطاء إملائية أو نحوية
+Answer 4: كل ما سبق
 Correct Answer:4
 
 <hr/>
 
-Question 4
-Question:What is the best caption for this image? 
+السؤال 4
+Question: ما أفضل عنوان لهذه الصورة؟ 
 
 !4.3.15.a.png!
 
-Answer 1:12 September, 2012 – Rustavi, Republic of Georgia -- Interior Ministry troops search cars for suspected terrorists on election day along the main road leading to Tbilisi, the capital of this small Caucasian country.
-Answer 2:Soldiers by the road on election day in the Republic of Georgia.
-Answer 3:Angry soldiers loyal to the president in Georgia hunt for opposition party members.
+Answer 1: 12 سبتمبر 2012 – روستافي، جمهورية جورجيا – قوات الداخلية تفتش السيارات بحثًا عن إرهابيين مشتبه بهم في يوم الانتخابات على امتداد الطريق الرئيس المؤدي إلى تبليسي، عاصمة هذه البلد القوقازية الصغيرة.
+Answer 2: الجنود منتشرون على الطريق في يوم إجراء الانتخابات بجمهورية جورجيا
+Answer 3: الجنود الغاضبون الموالون لرئيس جمهورية جورجيا يفتشون عن المعارضين
 Correct Answer:1

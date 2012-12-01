@@ -1,13 +1,13 @@
 !1.0.1.a.png!
 
-The demand for quality journalism in the Middle East has never been greater. People need access to information that is accurate, timely and relevant to their lives.
+لم تكن المطالبة بجودة الصحافة في الشرق الأوسط أبداً بهذا القدر، فالناس يحتاجون إلى المعلومات الدقيقة والمناسبة زمنياً والمتعلقة بمعيشتهم.
 
-From natural disasters to civil unrest to stories about art and culture, good citizen journalists can produce and upload material in real time that audiences want to watch. The challenge for citizen journalists and established news organizations alike is to work together to collect and distribute stories that have impact on people’s lives.
+من الكوارث الطبيعية إلى الاضطراب المدني إلى القصص عن الفن والثقافة، يمكن للصحفي المواطن الجيد إنتاج ورفع مادة في الوقت المناسب يرغب الجمهور في مشاهدتها. ويتمثل التحدي الذي يواجهه الصحفيون المواطنون ومؤسسات الأخبار العريقة على حد سواء في العمل بشكل جماعي لتجميع وتوزيع القصص التي تؤثر على معيشة الناس.
 
-How do citizen journalists collect and report information that established outlets can use? In turn, how do established news organizations better support dedicated citizen journalists and take advantage of what they have to offer?
+كيف يقوم الصحفيون المواطنون بتجميع والإبلاغ عن المعلومات التي يمكن للمنافذ العريقة استخدامها؟ وبدورها، كيف تقدم مؤسسات الأخبار العريقة دعماً أفضل للصحفيين المواطنين والاستفادة مما يجب أن تقدمه؟
 
-You are dependent almost exclusively on mobile devices, Internet contacts and social networks such as Twitter, Facebook and YouTube for communication of information. These comparatively inexpensive tools are capable of producing and distributing HD video, high resolution images and high quality audio. Only a few years ago the equipment needed to produce content cost tens of thousands of dollars.
+عند نقل المعلومات، فإنك تعتمد بصورة حصرية تقريبًا على الهواتف النقالة وجهات اتصال الإنترنت والشبكات الاجتماعية مثل تويتر وفيسبوك ويوتيوب. وتتمكن هذه الأدوات غير المكلفة نسبياً من إنتاج وتوزيع فيديو بتقنية عالية وصور عالية الدقة ومادة صوتية عالية الجودة. ومنذ بضعة سنوات كانت المعدات اللازمة لإنتاج المحتوى تكلف عشرات الآلاف من الدولارات.
 
-Today’s journalism is different than the journalism of only a few years ago in other very fundamental ways. Traditionally journalists provided information and the audience consumed it. Today’s journalism is much more interactive. The audience now can push the direction of coverage and demands a voice in how issues are publicly discussed.
+تختلف الصحافة اليوم عما كانت عليه منذ بضعة سنوات بطرق جوهرية شديدة الاختلاف، حيث كان الشكل التقليدي أن يقوم الصحفيون بتقديم المعلومات ويقوم الجمهور باستهلاكها. وتتسم الصحافة اليوم بأنها تفاعلية بصورة أكبر بكثير، حيث يتمكن الجمهور الآن من دفع اتجاه التغطية ويطالب بصوت في طريقة مناقشة الموضوعات علناً.
 
-These changes have produced a more democratic kind of journalism in which news producers and their audiences are more closely related. The citizen journalist is an key player in the new journalism. This app will show you how do you best leverage your unique tools and skills to reach the broadest possible audience with information about important issues.
+نتج عن هذه التغيرات نوعاً أكثر ديموقراطيةً من الصحافة يتسم بالترابط بصورة أكبر بين القائمين على إنتاج الأخبار وجماهيرهم. ويعتبر الصحفي المواطن لاعباً أساسياً في الصحافة الجديدة. وسيوضح لكم هذا التطبيق أفضل طريقة لتعزيز أدواتك ومهاراتك الفريدة للوصول إلى الجمهور المحتمل لما تقوم بنشره بمعلومات عن قضايا مهمة.

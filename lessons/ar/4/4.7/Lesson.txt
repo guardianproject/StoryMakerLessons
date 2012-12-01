@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. What do I do if someone is reluctant to be photographed or the circumstances are emotionally difficult for the subject or myself?
+h2. ماذا أفعل إذا كان شخص ما غير مستعد لأن يتم تصويره أو إذا كانت الظروف صعبة من الناحية العاطفية بالنسبة للشخص أو بالنسبة لي شخصيًا؟
 
 !4.10.1.a.png!
 
@@ -8,103 +8,102 @@ h2. What do I do if someone is reluctant to be photographed or the circumstances
 
 h1. خلفية
 
-People are very sensitive to having their photo taken. The more difficult the circumstance of the story the more difficult it is to get a photograph. Our own biases and emotional investment in a story may result in making good choices about shooting photos difficult.
+بوجه عام، الأشخاص حساسون للغاية للتصوير. كلما زادت صعوبة ظروف القصة، زادت صعوبة التقاط صور لها. كما أن تحيزنا واستغلالنا العاطفي للقصة قد ينتج عنه صعوبة في اتخاذ القرارات السليمة بشأن التقاط الصور.
 
 <hr/>
 
 h1. الحل
 
-For journalists who live in the communities they cover there are some unique challenges.
+بالنسبة للصحفيين الذين يعيشون في المجتمعات التي يغطون أحداثها، تواجههم بعض التحديات الفريدة من نوعها.
 
-* Should I take photographs of people if they don’t want you to?
-* Should I publish very graphic images of violence and death? 
-* Should I help someone who is injured or photograph them?
-* Should I publish images that might cast a favored individual or institution in an unfavorable light even if the image is 
-truthful? 
-* Should I publish images that may in some way may humanize and support a person or idea with which I strongly disagree?
+* هل يجب أن التقط صورًا لأشخاص لا يرغبون في التصوير؟
+* هل يجب أن أنشر صورًا حية للغاية للعنف والموت؟
+* هل يجب أن أساعد شخصًا مصابًا أم علي أن أصوره؟
+* هل يجب أن أنشر الصور التي يمكن أن تعبر عن شخص أو موقف مفضل وهو في موقف سيء حتى وإن كانت الصورة حقيقية؟
+* هل علي أن أنشر الصور التي يمكن بشكل أو بآخر أن تجسد وتدعم شخصًا أو فكرة أعارضها بشدة؟
 
-Every photojournalist must make these choices- for him or herself- within the professional and ethical boundaries that journalism allows.
-
-<hr/>
-
-h2. Make People Comfortable
-
-!4.10.4.a.mp4(Example of how to warm up a subject and get them comfortable)!
-
-In breaking news situations journalists are typically working frantically and have little time to build rapport. But, when shooting general news events, features, or portraits, you need to warm people up. Explain how the photo will be used.- It also goes a long way to- tell people a bit about yourself. Speak to them conversationally. All of these things may help you convince people who are reluctant to be photographed. How the image might be shot and used can involve a bit of persuasion and negotiation.
+إن كل مصور صحفي يتحتم عليه أن ينظر لتلك الخيارات بنفسه أو بنفسها في إطار الحدود المهنية والأخلاقية التي تسمح بها الصحافة.
 
 <hr/>
 
-h2. Minimizes Harm
+h2. اجعل الأشخاص يشعرون بالارتياح
 
-!4.10.1.a.mp4(Interview with a photographer who experienced photographing those affected by tragedy or grief)!
+!4.10.4.a.mp4 (مثال لكيفية تمرين شخص ما وجعله يشعر بالارتياح)!
 
-You must always be sensitive to the impact publishing images of people will have on those portrayed. Be sensitive when shooting those affected by tragedy or grief, especially when dealing with children and people inexperienced with the media. Private people have a greater right to privacy than do public officials and others who seek power, influence or attention.
-
-<hr/>
-
-h2. Shoot for Options
-
-Even if a single image is going to be presented with a story or post, you will want a variety of images from which to choose. In the case of difficult subject matter, Images need to be graphic enough to tell a story truthfully. They should not be gratuitous, when publishing graphic images, photographers need to consider the audience, the importance of the story and the impact the images will have.
+في حالات الأخبار العاجلة، عادة ما يعمل الصحفيون بشكل هستيري ولا يكون لديهم متسع من الوقت للتجاوب معها. ولكن، عند تصوير الأحداث الإخبارية العامة أو الصور المقالية أو البورتريهات، فإنك بحاجة لتجهيز الأشخاص لهذا الأمر. يجب أن يتم توضيح الكيفية التي سيتم من خلالها استخدام الصور. كما أن الأمر هنا يتعلق لحد كبير بتقديم نبذة عن نفسك لهؤلاء الأشخاص والتحدث والتحاور معهم أيضًا. قد تساعدك هذه الأمور جميعًا على إقناع الأفراد الذين تريد تصويرهم. إن الكيفية التي سيتم بها التقاط الصورة واستخدامها قد تنطوي على قدر من الإقناع والتفاوض.
 
 <hr/>
 
-h2. Manage your Bias
+h2. تقليل الضرر
 
-!4.10.7.a.mp4(Interview with a photographer who found them self bias on an assignment)!
+!4.10.1.a.mp4 (مقابلة مع مصور تعرض لتجربة تصوير أشخاص تعرضوا لكوارث أو أحزان)!
 
-Know yourself, be aware of your biases and do not let them influence how you portray a situation or issue. Good photojournalists seek to capture the universal human elements of stories. Humanity is not defined by national boundary, tribe, politics or province.
+يجب عليك دومًا أن تكون حساسًا تجاه الأثر الذي يمكن أن يخلفه نشر هذه الصور على الأشخاص الذين يتم تصويرهم. كن حساسًا عندما تصور أولئك المتأثرين بكارثة أو المتعرضين لحادث محزن، خاصة عند التعامل مع الأطفال والأشخاص الذين ليس لديهم خبرة في التعامل مع وسائل الإعلام. إن الأشخاص المنعزلين يكون لديهم حق أكبر في الخصوصية يزيد عن ذلك الخاص بالموظفين العموميين والأشخاص الآخرين الذين يطمحون لنيل السلطة أو التأثير أو يسعون لجذب الانتباه إليهم.
 
 <hr/>
 
-h2. Your own safety
+h2. تعدد الاختيارات في التصوير
 
-!4.10.8.a.mp4(Interview with a photographer about shooting in unsafe situations)!
+حتى وإن كنت ستعرض صورة واحدة فقط لسرد الحدث أو القصة، فلا بد وأنك سترغب في أن يتوفر لديك مجموعة متنوعة من الصور التي يمكنك الاختيار من بينها. في حالة الموضوعات الصعبة، يجب أن تكون الصور حية وواقعية بالقدر الذي يكفي لجعلها تروى القصة أو الحدث بشكل واقعي. ومن ثم، لا يجب أن تكون بلا مبرر. فعند نشر الصور الحية، يحتاج المصورون لأن يضعوا في اعتبارهم الجمهور وأهمية القصة والأثر الذي ستخلفه تلك الصور.
 
-Some situations are difficult to shoot because they are unsafe for the citizen journaliss. No photograph is worth life or injury. When shooting in dangerous situations always have an exit strategy. Be aware that soldiers and security forces may not wish to be photographed. Be smart about the risks. Mental health is part of safety too. Only you can decide your limitations. Only you can decide if and when you should put down your camera and help. You will make a much better decisions if you think through your values before you find yourself in a high-pressure situation requiring you to make a decision on the spot.
+<hr/>
+
+h2. تحكم في انحيازك
+
+!4.10.7.a.mp4 (مقابلة مع مصور وجد نفسه منحازًا في تقييم ما)!
+
+افهم نفسك جيدًا وانتبه لانحيازك ولا تجعله يؤثر على كيفية تصويرك للموقف أو الحدث. إن المصورين الصحفيين الجيدين يسعون لتصوير العناصر الإنسانية العالمية للقصص والأحداث. والإنسانية غير مقيدة بحدود قومية أو بطوائف أو سياسات أو مقاطعات.
+
+<hr/>
+
+h2. شعورك بالأمان
+
+!4.10.8.a.mp4 (مقابلة مع مصور بشأن التصوير في مواقف غير آمنة)!
+
+بعض المواقف يصعب التصوير فيها نظرًا لأنها تكون غير آمنة للصحفيين المدنيين. فلا توجد صورة تساوي حياتك أو تعرضك للإصابة. عند التصوير في المواقف الخطرة، لا بد وأن يكون لديك دومًا استراتيجية للخروج. وانتبه إلى أن الجنود وقوات الأمن قد لا يرغبون في أن يتم تصويرهم. لذا، كن ذكيًا في التعامل مع المخاطر. كما أن الصحة الذهنية تعد جزءًا من الأمان أيضًا. إنك وحدك الذي تستطيع أن تقرر حدودك في هذا الأمر. إنك وحدك الذي تستطيع أن تقرر الإمكانية والوقت المناسب الذي يجب عليك فيه أن تضع الكاميرا وتقدم يد العون لمن أمامك. يمكنك أن تتخذ قرارات أفضل إذا فكرت جيدًا في قيمك قبل أن تجد نفسك في موقف يحمل قدرًا كبيرًا من الضغط ويتطلب منك أن تتخذ قرارًا على الفور.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-Below are the ethical guidelines published by National Press Photographers Association in the United States. It is much like professional and ethical guidelines published internationally by similar organizations.
+إليك فيما يلي الإرشادات الأخلاقية التي نشرتها نقابة المصورين الصحفيين القومية بالولايات المتحدة الأمريكية. وتعد هذه الإرشادات مماثلة لحد كبير للإرشادات المهنية والأخلاقية التي نشرت على المستوى الدولي من قبل هيئات مماثلة.
 
-* Be accurate and comprehensive in the representation of subjects.
-* Resist being manipulated by staged photo opportunities.
-* Be complete and provide context when photographing or recording subjects. Avoid stereotyping individuals and groups. Recognize and work to avoid presenting one’s own biases in the work.
-* Treat all subjects with respect and dignity. Give special consideration to vulnerable subjects and compassion to victims of crime or tragedy. Intrude on private moments of grief only when the public has an overriding and justifiable need to see.
-* While photographing subjects do not intentionally contribute to, alter, or seek to alter or influence events.
-* Editing should maintain the integrity of the photographic images’ content and context. Do not manipulate images or add or alter sound in any way that can mislead viewers or misrepresent subjects.
-* Do not pay sources or subjects or reward them materially for information or participation.
-* Do not accept gifts, favors, or compensation from those who might seek to influence coverage.
-* Do not intentionally sabotage the efforts of other journalists.
+* كن دقيقًا ومتفهمًا في عرض الموضوعات.
+* قاوم إغراء فرص التقاط الصور المنظمة.
+* كن على أهبة الاستعداد ووفر السياق عند تصوير أو تسجيل الموضوعات. تجنب وضع صور نمطية للأفراد والمجموعات. تعرف على عملك واعمل على تجنب عرض الآراء الشخصية لشخص معين في العمل.
+* تعامل مع كافة الموضوعات باحترام ووقار. انتبه جيدًا وبشكل خاص للموضوعات الخطرة والتعاطف مع ضحايا جريمة أو كارثة ما. يمكنك أن تتدخل في لحظات الحزن الخاصة فقط عندما يكون للرأي العام حاجة ملحة ومبررة للتعرف عليها.
+* في أثناء تصويرك للموضوعات، لا تحاول عن عمد المساهمة في أو تعديل أو السعي لتعديل الأحداث أو التأثير عليها.
+* يجب أن يحافظ التحرير على تكامل محتوى الصور الملتقطة وسياقها. لا تتلاعب بالصور أو تضيف لها صوتًا أو تعدله بأية طريقة يمكن أن تضل المشاهدين أو تسيء عرض الموضوعات.
+* لا تدفع أموالاً لمصادرك الإخبارية أو تكافئهم بشكل مادي على المعلومات أو المشاركة معك.
+* لا تقبل هدايا أو عطايا أو تعويضات من أولئك الذين يسعون للتأثير على تغطيتك للأحداث.
+* لا تحاول عن عمد تخريب أو تدمير جهود الصحفيين الآخرين.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What are some thing you can do to make subjects who are reluctant to be photographed more comfortable with the idea?
-Answer 1:Explain to them how the photos are to be used.
-Answer 2:Point out that it is an opportunity for them to speak out on a issue that might be important to them.
-Answer 3:Negotiate a bit about how the photo will be taken and perhaps used.
-Answer 4:All of the above.
+السؤال 1
+Question: ما الذي يمكنك عمله لتجعل الأشخاص الممانعين أو غير المستعدين للتصوير يشعرون براحة أكبر تجاه تلك الفكرة؟
+Answer 1: توضح لهم الكيفية التي سيتم من خلالها استخدام تلك الصور.
+Answer 2: توضح لهم أنها فرصة من أجلهم للتحدث في موضوع قد يكون مهمًا بالنسبة لهم.
+Answer 3: تتفاوض معهم قليلاً بشأن كيفية التقاط تلك الصور وربما استخدامها أيضًا.
+Answer 4: كل ما سبق
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE: It is OK to have an agenda based on your own political and personal views when deciding how to cover an event.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: من الأفضل أن يكون لديك أجندة معتمدة على آرائك السياسية والشخصية عند اتخاذك القرار بشأن الكيفية التي ستغطي بها حدث ما.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:2
 
 <hr/>
 
-Question 3
-Question:Which of the following are important to keep in mind when shooting under difficult circumstances (it can be more than one).
-Answer 1:A photographer needs to be sensitive to the rights of private citizens when taking their photograph.
-Answer 2:You should be aware of your own personal safety.
-Answer 3:Don’t take pictures that are graphic and might upset someone.
-Answer 4:All of the above.
+السؤال 3
+Question: ما الأمور المهمة مما يلي والتي يجب أن تضعها في اعتبارك عند التقاط صور في ظروف صعبة (يمكن أن يكون أكثر من أمر واحد)؟
+Answer 1: يحتاج المصور لأن يكون حساساً تجاه حقوق المواطنين المنعزلين عند التقاطه صورهم.
+Answer 2: يجب أن تنتبه جيدًا لسلامتك وأمنك.
+Answer 3: لا تلتقط صورًا حية وواقعية يمكن أن تتسبب في الضيق أو الإزعاج لشخص ما.
+Answer 4: كل ما سبق
 Correct Answer:1,2

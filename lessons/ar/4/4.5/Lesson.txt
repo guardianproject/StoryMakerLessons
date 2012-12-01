@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. Why are my images overexposed (too light) or underexposed (too dark) and how do I fix it?
+h2. لماذا تتعرض صوري للتعريض الزائد (فاتحة أكثر من اللازم) أو التعريض المنخفض (داكنة أكثر من اللازم) وكيف أصلحها؟
 
 !4.8.1.a.png!
 
@@ -8,105 +8,105 @@ h2. Why are my images overexposed (too light) or underexposed (too dark) and how
 
 h1. خلفية
 
-Inside every digital camera there is a light meter. This meter takes a light reading in the instant before you take a picture and tells the camera how to set the ISO, Aperture and Shutter (see section one).- With point-and-shoots and dSLRs this meter is more sophisticated and it is up to the photographer to set the exposure in whole or part based on the reading.
+يوجد داخل كل كاميرا رقمية مقياس للضوء، وهذا المقياس يقيس شدة الإضاءة في اللحظة التي تسبق التقاطك للصورة ويخبر الكاميرا كيف تضبط مستوى الحساسية والفتحة والغطاء (انظر القسم واحد). – ومع استخدام كاميرا تعمل بطريقة التوجيه والالتقاط أو الكاميرات الرقمية العاكسة أحادية العدسة، سيكون هذا المقياس أكثر تقدمًا وتعود إلى المصور مسألة ضبط كمية التعريض جزئيّا أو كليا بناءً على القراءة.
 
 <hr/>
 
-!4.8.3.a.png(Example of common problems with light metering)!
+!4.8.3.a.png (مثال للمشاكل الشائعة عند قياس الضوء)!
 
-These meters are easily confused. They take an overall reading of light coming into the lens and averaging to set the exposure. The camera will have difficulty estimating exposure if there is a lot of variation in the available light.
-
-<hr/>
-
-Insufficient light is the most common problem photographers confront. A camera, is a poor light-gathering device compared to the human eye. One of the biggest challenges photographers have when shooting in low light is recognizing the problem and methodically solving it rather than taking a bunch of images and hoping that one will work out.
+هذه العدادات تخطيء بسهولة، فهي تأخذ قراءة عامة للضوء الوارد من العدسة وتحسب المتوسط لضبط كمية التعريض. وتواجه الكاميرا صعوبة في تقدير كمية التعريض إذا كان هناك تباين كبير في الضوء المتوفر.
 
 <hr/>
 
-(
-!4.8.5.a.png(Example of a photo taken with a camera phone)!
-!4.8.5.b.png(Example of a photo taken with a point and shoot camera)!
-!4.8.5.c.png(Example of a photo taken with a DSLR camera)!
-)
-
-In low light situations there is not enough light striking the sensor to properly expose it. Smartphones have smaller lenses and much smaller maximum apertures as a result (see the camera basics section) than professional cameras. Because the aperture is so small, they simply can’t let as much light in as larger cameras with larger lenses operating at the same shutter speed.
+ويعد نقص الضوء أكثر مشكلة تواجه المصورين. فالكاميرا آلة لا تجمع الضوء بكفاءة مقارنة بالعين البشرية. ومن أكبر التحديات التي تواجه المصورين عند التصوير في الضوء المنخفض التعرف على المشكلة وحلها بدلا من التقاط مجموعة من الصور على أمل أن تصح إحداها.
 
 <hr/>
 
 (
-!4.8.6.a.png(Example of a backlit photo)!
-!4.8.6.b.png(Example of light bouncing off a highly reflective surface)!
+!4.8.5.a.png (مثال لصورة تم التقاطها بكاميرا هاتف)!
+!4.8.5.b.png (مثال لصورة تم التقاطها بكاميرا تعمل بأسلوب التوجيه والالتقاط)!
+!4.8.5.c.png (مثال لصورة تم التقاطها بالكاميرات الرقمية العاكسة أحادية العدسة)!
 )
 
-Another common issue is backlighting. You are shooting a subject in relative shadow with bright lights or sunshine behind the subject. The camera is meter based in part on the bright light and the subject will appear too dark. Another common problem is light bouncing off a highly reflective surface such as white tent canvas or snow or sand. Other exposure problems may arise when shooting in low light conditions because the camera tries to make the scene appear lighter than it actually is.
+عندما يكون الضوء منخفضا، لا تكون كمية الضوء التي تسقط على مجس الضوء كافية لتعريضه بشكل مناسب. وتكون عدسة الهاتف الذكي أصغر وبالتالي تكون أقصى فتحة يدخل منها الضوء أصغر كذلك (انظر القسم الخاص بأساسيات الكاميرا) من الكاميرات الاحترافية. ولأن فتحة دخول الضوء صغيرة جدا، فهي لا تسمح بدخول كمية من الضوء مثل التي تسمح بها الكاميرات ذات العدسات الأكبر والتي تعمل بنفس سرعة إغلاق الغطاء.
+
+<hr/>
+
+(
+!4.8.6.a.png (مثال لصورة بإضاءة خلفية)!
+!4.8.6.b.png (مثال للضوء وهو ينعكس من على سطح شديد الانعكاس)!
+)
+
+ومن المشاكل الأخرى الشائعة الإضاءة الخلفية. عندما تقوم بتصوير شيء ما في ظل نسبي مع وجود أضواء ساطعة أو ضوء الشمس خلفه. وتعتمد الكاميرا على المقياس جزئيّا في الضوء الساطع وسيبدو الشيء داكنا أزيد من اللازم. ومن المشاكل الأخرى الشائعة انعكاس الضوء عن سطح شديد الانعكاس مثل قماش خيمة أبيض أو الجليد أو الرمل. وقد تثور مشاكل أخرى تتعلق بالتعريض عند التصوير في ظروف الإضاءة الخافتة لأن الكاميرا تحاول جعل المشهد فاتحا أكثر مما هو في الحقيقة.
 
 
 <hr/>
 
 h1. الحل
 
-!4.8.7.a.mp4(Example of how to properly expose a dark arear with a smartphone)!
+!4.8.7.a.mp4 (مثال لكيفية تعريض منطقة داكنة بشكل مناسب باستخدام هاتف ذكي)!
 
-Many touch-screen smartphone cameras allow the photographer to touch a place on-screen to tell the camera where to draw its exposure value from. You can also point the camera at a shadowy area in the frame, touch the screen and reframe the shot. The camera will retain the lower exposure value. This is true of most cameras. Point the camera at spot that has exposure values closer to what you need and push the shutter halfway down. You MUST CONTINUE TO HOLD THE SHUTTER DOWN as you reframe the shot.
+كثير من كاميرات الهواتف التي تعمل بشاشة اللمس تمكّن المصور من لمس مكان معين على الشاشة لإخبار الكاميرا من أين تستمد قيمة التعريض. كما تستطيع توجيه الكاميرا إلى منطقة مظللة معينة في الإطار وتلمس الشاشة ثم تعيد تحديد إطار اللقطة. وسوف تحتفظ الكاميرا بقيمة التعريض الأدنى. وينطبق ذلك على معظم الكاميرات. قم بتوجيه الكاميرا ناحية النقطة التي تكون قيم التعريض فيها أقرب لما تريده وادفع الغطاء إلى منتصف المسافة لأسفل. يجب أن تستمر في تثبيت الغطاء لأسفل وأنت تعيد تحديد إطار اللقطة.
 
 <hr/>
 
 (
-!4.8.8.a.png(Example of how to properly adjust a photo)!
-!4.8.8.b.png(Example of how to properly adjust a photo)!
-!4.8.8.c.png(Example of how to properly adjust a photo)!
-!4.8.8.d.png(Example of how to properly adjust a photo)!
+!4.8.8.a.png (مثال لكيفية ضبط صورة بشكل مناسب)!
+!4.8.8.b.png (مثال لكيفية ضبط صورة بشكل مناسب)!
+!4.8.8.c.png (مثال لكيفية ضبط صورة بشكل مناسب)!
+!4.8.8.d.png (مثال لكيفية ضبط صورة بشكل مناسب)!
 )
 
-Images that are slightly overexposed or underexposed can sometime be fixed with built-in photo software apps or apps like Adobe Photoshop Express. Adobe Photoshop Express is an app that allows you to manage exposure in your picture. You could touch the face of a person strongly backlight and the camera will reset exposure for his face.
+الصور التي تكون معرضة بشكل زائد قليلا أو معرضة بدرجة أقل من اللازم قليلا يمكن إصلاحها أحيانا ببرامج مدمجة خاصة بالصور مثل برنامج أدوبي فوتوشوب إكسبريس وهو برنامج يمكّنك من التحكم في كمية التعريض في صورتك. ويمكنك أن تلمس وجه شخص بإضاءة خلفية قوية وستقوم الكاميرا بإعادة ضبط كمية تعرض وجهه.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-* It is essential that your images be properly exposed.
-* Smartphone cameras simply aren’t capable taking well exposed images under tough lighting conditions.
-* Managing the exposure within the range that the camera is capable can help a lot.
-* Always take a few practice pictures to check the exposure and make adjustments if necessary.
+* من الضروري تعريض صورك بشكل مناسب.
+* كاميرات الهواتف الذكية ببساطة لا تستطيع التقاط الصور المعرضة بشكل جيد في ظل ظروف إضاءة صعبة.
+* التحكم في التعريض في المدى الذي تستطيع الكاميرا العمل فيه يمكن أن يساعد كثيرا.
+* قم دائما بالتقاط بضع صور على سبيل التمرين لتتأكد من كمية التعريض والقيام بالتعديلات اللازمة عند الضرورة.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What three things control exposure?
-Answer 1:ISO
-Answer 2:Aperture
-Answer 3:Zoom setting
-Answer 4:Shutter
+السؤال 1
+Question: ما الأشياء الثلاثة التي تتحكم في التعريض؟
+Answer 1: مستوى الحساسية.
+Answer 2: فتحة الضوء.
+Answer 3: إعدادات التكبير والتصغير.
+Answer 4: الغطاء.
 Correct Answer:1,2,4
 
 <hr/>
 
-Question 2
-Question:True or False: The shutter controls the amount of time the shutter is exposed to light.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صواب أم خطأ: يتحكم الغطاء في مدة تعريض الغطاء للضوء.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:When shooting with a smartphone you can do which of the following if the image is overexposed.
-Answer 1:Nothing. Smartphones offer no manual control of exposure.
-Answer 2:Many smartphone cameras now let you select the area of the frame that will be properly exposed by touching it. The camera will recalibrate exposure based on the spot you select.
-Answer 3:Set the smartphone to manual camera mode.
-Answer 4:None of the above.
+السؤال 3
+Question: عند التقاط صور باستخدام هاتف ذكي، يمكنك أن تفعل أيًا مما يلي إذا كانت الصورة معرضة أكثر من اللازم.
+Answer 1: لا شيء. الهواتف الذكية لا توفر خاصية التحكم اليدوي في كمية التعريض.
+Answer 2: كثير من الهواتف الذكية الآن تمكنك من اختيار المنطقة التي سيتم تعريضها بشكل مناسب داخل إطار الصورة عن طريق لمسها. وسوف تقوم الكاميرا بقياس كمية التعريض من جديد بناءً على البقعة التي تختارها.
+Answer 3: ضبط الهاتف الذكي على الصيغة اليدوية للكاميرا.
+Answer 4: لا إجابة مما سبق صحيحة.
 Correct Answer:2
 
 <hr/>
 
-Question 4
-Question:How might you correct the exposure in this example image? 
+السؤال 4
+Question: كيف تستطيع تصحيح التعريض في هذه الصورة؟ 
 
 !4.8.13.a.png!
 
-Answer 1:Increase the ISO.
-Answer 2:Adjust the exposure slightly in post-production.
-Answer 3:Open the aperture (if possible).
-Answer 4:Slow shutter speed being careful not to slow it so much that the image becomes blurry.
+Answer 1: زيادة مستوى الحساسية.
+Answer 2: ضبط كمية التعريض قليلا فيما بعد الإنتاج.
+Answer 3: فتح الغطاء (إذا أمكن ذلك).
+Answer 4: إبطاء سرعة الغطاء مع الحرص على عدم إبطائها كثيرا لكيلا تصبح الصورة مشوشة.
 Correct Answer:???????

@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. What makes good reporting? It must to be fact-based rather than based on opinion, rumor or personal interest.
+h2. ما سمات التقرير الجيد؟ يجب أن يستند إلى حقائق ليس إلى رأي أو شائعة أو مصلحة شخصية.
 
 !1.2.1.a.png!
 
@@ -10,84 +10,121 @@ h1. خلفية
 
 !1.2.2.a.png!
 
-Reporting begins with answering six basic questions about an issue: who, what, where, when, why and how. Good journalists do some background research when they first start working on a story. Different types of story require different types of reporting and emphasize different elements of the story.
+يبدأ التقرير بالإجابة على ستة أسئلة أساسية عن الموضوع: من وماذا وأين ومتى ولماذا وكيف. يقوم الصحفي الجيد بعمل بعض الأبحاث عن خلفية الموضوع عندما يبدأ العمل على قصة. وتتطلب أنواع القصص المختلفة أنواناً مختلفة من التقارير والتأكيد على عناصر مختلفة من القصة.
 
 <hr/>
 
-Accurate information can be hard to collect, but a few solid facts can go a long way toward informing people about an issue. It is often hard to know whom to trust for information. Good journalist, exercise judgment and common sense in reporting They also consider sources carefully and are transparent in attribution of where their information came from.
+يمكن أن يكون الحصول على المعلومات الدقيقة عملية صعبة، لكن يمكن لبضعة حقائق ثابتة أن تنقل الصورة إلى الناس بشكل جيد. وغالباً ما يصعب معرفة من يمكن الثقة في معلوماته. ويقوم الصحفي الجيد باستخدام الحكم والحس العام في إعداد تقاريره، كما يتأنى في انتقاء المصادر ويتعامل بشفافية في ذكر مصدر معلوماته.
 
 <hr/>
 
-!1.2.4.a.png!
+من التحديات الأخرى فصل الحقيقة عن الرأي. يجب أن تحتفظ بمشاعرك الخاصة بعيداً عن الموضوع قيد البحث واحترام قدرة الجمهور على تكوين رأي يستند إلى المعلومات الدقيقة التي تقدمها.
 
-Another challenge is separating fact from opinion. You need to keep your own feelings about an issue in check and respect the audience’s ability to form an opinion based on the accurate information you present.
+Examples of Fact and Opinion:
+
+*WHAT*
+
+> Good:  Voters in Tripoli took to the polls today in the nation’s first-ever democratic election.
+> Bad: Today is a day of celebration as our great nation ushers in a new, more prosperous era.
+
+*WHERE*
+
+> Good: The match was played on a makeshift former university football practice field outside of Port Said. 
+> Bad: The game was not played at the normal stadium. 
+ 
+*WHEN*
+
+> Good: Originally scheduled for the evening of April 6, 2012, the performance by Aman Halawa has been moved to April 14.
+> Bad: The world-recognized musician’s performance was planned for yesterday but has been moved to next week.
+
+*WHY*
+
+> Good:  The bridge could not withstand the pressure of the rising storm water and collapsed, said a spokesman from the Army Corp of Engineers.
+> Bad:  The bridge was poorly maintained because of government corruption, so it fell apart in the storm.
+
+*HOW*
+
+> Good: People began gathering early in the day and by evening hundreds had collected at the square chanting, waving signs and demanding the health minister’s resignation following the deaths last week of 13 children due to a tainted flu vaccine. 
+> Bad: Many people came and shouted for the health minister to be fired, blaming him for the children’s deaths.
 
 <hr/>
 
 h1. الحل
 
-When reporting a story ask yourself if you have collected the information common citizens unfamiliar with the issue will need to understand it. This begins with answering five essential questions. In English they are called the Five Ws:
+عند إعداد تقرير بشأن موضوع اسأل نفسك هل حصلت على المعلومات التي سيحتاج المواطن العادي غير المعتاد على الأمر أن يفهمها. يبدأ ذلك بالإجابة على خمسة أسئلة جوهرية. يطلق عليها باللغة الإنجليزية Five Ws:
 
-* Who is the story about?
-* What happened?
-* When did it take place?
-* Where did it take place?
-* Why did it happen?
+* ما الذي تدور حوله القصة؟
+* ماذا حدث؟
+* متى حدث؟
+* أين حدث؟
+* لماذا حدث؟
 
 <hr/>
 
 !1.2.6.a.png!
 
-Properly asked and answered the Five Ws will help journalists to collect the basic facts required to build a solid story. Be as specific as possible. The more detail the better. It’s one thing to write that there were security forces at the demonstration. It may be more informative to make it clear they were interior ministry troops as opposed to regular army.
+عند طرح Five Ws والإجابة عليها على نحو مناسب ستساعد هذه الأسئلة الصحفيين على الحصول على الحقائق الأساسية المطلوبة لإنشاء موضوع قوي. كن محدداً قدر المستطاع. وكلما زادت التفاصيل كان ذلك أفضل. من بين الأمور الكتابة عن وجود قوات أمنية في المظاهرة. ومما يثري المعلومات بصورة أكبر توضيح أن تلك القوات تابعة لوزارة الداخلية مقابل الجيش النظامي.
+
+Examples of properly asked and answered Five Ws:
+
+*What Happened?* In summary and precisely, explain what took place. Who exactly was involved? How many? What was the outcome? Is property damaged? Who won? Is anyone dead? Be specific.
+
+*Where Did it Happen?* Provide the country, province and city. The political affiliation, ethnicity and religion of people in the area may – or may not – be important. Is it an urban area? A rural area? A military compound? 
+
+*When Did it happen?* Give the exact date – day of the month, month and year. If season is important or if the fact that it is a holiday or event like a ceasefire is relevant include that information.  Was it day or night?
+
+*Why Did it Happen?* What caused the event? What is the background? Avoid speculation. Rely on reported fact. Was there a single thing that set it off or did it build slowly? Was it planned? If so, by who? Who paid for it? Who arranged it?
+
+*How Did it Happen?*  Describe the progression of the event – observation is different than opinion. How did it proceed? Did it start slowly and build? Did it happen suddenly? Was there a clear turning point?
 
 <hr/>
 
-For short dispatches it is often helpful to think in terms of collecting “factoids.” Factoids are the backbone of good reporting. Factoids are tidbits of factual information that you can use to make sure you are answering who, what, where, when and why to best of your ability.
+من المفيد غالباً للتقارير القصيرة التفكير في الحصول على "التسريبات". والتسريبات أساسية للتقارير الجيدة، وهي حكايات تحتوي على معلومات واقعية يمكنك استخدامها للتأكد من تحديد من وماذا وأين ومتى ولماذا لأقصى قدر ممكن.
 
-* Numbers and stats are factoids: How many? What time did it start?
-* Details about the issue are factoids. Describe briefly of how it – whatever it may be – works. Where did it start? When will it take effect? Who is involved? Who opposes it? Who supports it?
-* Observations are factoids. Physical descriptions are an often- overlooked but powerful type of factoid. What does the room look like? What is he wearing? What is the scene?
-* Quotes are factoids: Quotes dramatize and personalize your point. Quotes should typically be statements of opinion – how the source feels -- rather than fact (it’s the FACT that it was said that’s valuable to the journalist).
-* More involved or longer stories may require more reporting with a wider variety of sources before and after an event.
+* الأرقام والإحصائيات تسريبات: كم عددها؟ متى بدأت؟
+* التفاصيل الخاصة بالموضوع تسريبات. صف بإيجاز كيف – على أية حالة كانت – تعمل. أين بدأت؟ متى سيكون لها تأثير؟ من المشترك في الأمر؟ من يعارضه؟ من يؤيده؟
+* الملاحظات من بين التسريبات. الأوصاف المادية غالباً نوع مبالغ فيه لكنه قوي من التسريبات. كيف تبدو الغرفة؟ ماذا يرتدي؟ ما المعنى وراء ذلك؟
+* اقتبس التسريبات: تؤدي الاقتباسات إلى إضفاء الطابع الدرامي والشخصي على الموضوع. ويجب أن تكون الاقتباسات تصريحات للآراء – كيف يشعر المصدر – بدلاً من الحقيقة (الحقيقة هي ما قيل أنه ذو قيمة للصحفي).
+* يمكن للقصص الأطول أو المشترك فيها عدد أكبر أن تتطلب تقريراً أكبر بمجموعة متنوعة كبيرة من المصادر قبل وبعد الحدث.
 
 <hr/>
 
-!1.2.8.a.mp4(Example of a longer story with a wider variety of sources)!
+!1.2.8.a.mp4 (مثال لقصة أطول ذات مجموعة متنوعة من المصادر)!
 
-More involved or longer stories may require more reporting with a wider variety of sources before and after an event.
+يمكن للقصص الأطول أو المشترك فيها عدد أكبر أن تتطلب تقريراً أكبر بمجموعة متنوعة كبيرة من المصادر قبل وبعد الحدث.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-Access and time are the biggest challenges to good reporting. Personal bias is another. All can often be minimized by talking to other journalists and looking at coverage of the story from a variety of sources. It’s important to form a network of colleagues you can trust. But, be careful: you don’t want to pass along bad information to your readers.
+يمثل الوصول والتوقيت أكبر التحديات أمام التقرير الجيد. والانحياز الشخصي مثال آخر على تلك التحديات. ويمكن الحد من كل هذه التحديات عن طريق التحدث إلى صحفيين آخرين والنظر إلى تغطية القصة من مجموعة متنوعة من المصادر. ومن المهم تكوين شبكة من الزملاء يمكنك الثقة فيهم. لكن احذر: أنت لا ترغب في نقل معلومات سيئة إلى قرائك.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:Which of the choices below are examples of “factoids“ (It can be more than one).
-Answer 1:Numbers
-Answer 2:Quotes
-Answer 3:Personal opinion
-Answer 4:None of the above
+السؤال 1
+Question: أي الاختيارات التالية أمثلة على "factoids" (يمكن أن يكون لهذا السؤال أكثر من إجابة واحدة).
+Answer 1: الأرقام
+Answer 2: الاقتباس
+Answer 3: الرأي الشخصي
+Answer 4: إجابة أخرى
 Correct Answer:1,2
 
 <hr/>
 
-Question 2
-Question:TRUE of FALSE: Who, what, where, when, how, and why are the six basic questions you should try and answer when reporting
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: من ومتى وأين وكيف ولماذا ستة أسئلة أساسية يجب عليك محاولة الإجابة عليها عند إعداد تقرير
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:Which are obstacles to better reporting
-Answer 1:Access
-Answer 2:Time
-Answer 3:Personal bias
-Answer 4:All of the above
+السؤال 3
+Question: أي مما يلي عوائق أمام إعداد التقارير بصورة أفضل
+Answer 1: الوصول
+Answer 2: الوقت
+Answer 3: التحيز الشخصي
+Answer 4: كل ما سبق
 Correct Answer:4

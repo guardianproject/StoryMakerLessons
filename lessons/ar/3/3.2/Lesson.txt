@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. Finding a good topic is the key part of any audio story. But what is the best way to choose a topic and present that story?
+h2. إيجاد موضوع جيد هو أهم جزء في القصة المسموعة. لكن ما الطريقة الأفضل لاختيار موضوع وعرض تلك القصة؟
 
 !3.2.1.a.png!
 
@@ -8,12 +8,12 @@ h2. Finding a good topic is the key part of any audio story. But what is the bes
 
 h1. خلفية
 
-Before you begin to produce an audio piece, there are a few questions you should answer.
+قبل أن تبدأ في إنتاج المادة المسموعة، هناك بعض الأسئلة التي يجب عليك الإجابة عليها:
 
-* What is the most compelling way to tell your story? Is it a news story, a feature story, news analysis or an investigative story? You need to determine whether the issue is a recent event, or whether you might focus on the impact of an event of society, or a story about an interesting person.
-* What is your angle? A good way to think about how to interestingly approach a topic is thinking how it actually affects ordinary people.
-* What audience are you aiming at? What are they interested in? If you're making a item for children, it's a very different way of producing a story then when you are making a human rights story. Can you present the story in an engaging, clear, and interesting manner? What different parts does you item consist of? What audio do you need?
-* What kind of time frame will you need in order to produce the item and do you have enough time?
+* ما أكثر الطرق إقناعا لقص قصتك؟ هل هي القصة الإخبارية، أم التحقيق الإخباري، أم التحليل الإخباري أم التقصي والبحث؟ يجب عليك أن تحدد إن كانت المسألة حدثا قريبا أم إن كان بوسعك التركيز على تأثير هذا الحدث على المجتمع، أم هي قصة عن شخص مهم.
+* ما الزاوية التي ستتناول القصة منها؟ من الطرق الجيدة للتفكير في أسلوب شيق لتناول موضوع معين أن تفكر كيف يؤثر فعليّا على الناس العاديين.
+* من الجمهور الذي تستهدفه؟ ما الذي يهتمون به؟ فإذا كنت تنتج عملا للأطفال، فستكون طريقة مختلفة جدا في إنتاج القصة عما إذا كانت تتعلق بحقوق الإنسان. هل تستطيع عرض القصة بطريقة واضحة وشيقة وتستحوذ على انتباه المستمعين؟ ما الأجزاء المختلفة التي يتكون منها عملك؟ ما المواد المسموعة التي تحتاج إليها؟
+* ما نوع الإطار الزمني الذي ستحتاج إليه لكي تنتج العمل وهل الوقت المتوفر لك كافٍ؟
 
 <hr/>
 
@@ -21,63 +21,63 @@ h1. الحل
 
 !3.2.3.a.png!
 
-Plan your audio segment before you start recording. Your plan should include:
+خطط للمادة المسموعة قبل أن تبدأ التسجيل، ويجب أن تتضمن خطتك ما يلي:
 
-* Your goals
-* An overview of your segment
-* Who should be involved
-* Timeframe for completion
-* Intended length of the program
-* If you're doing an interview: prepare at least 15 questions
+* أهدافك؛
+* نظرة عامة على العمل؛
+* الأشخاص المشاركين فيه؛
+* الإطار الزمني للانتهاء منه؛
+* الطول المقرر للبرنامج؛
+* إذا كنت تجري مقابلة، فقم بتجهيز 15 سؤالاً على الأقل.
 
-Remember to ask yourself, why are you making this program? Is there a specific audience you want to reach?
-
-<hr/>
-
-!3.2.4.a.mp3(Example of an interview)!
-
-Once your plan is written, you must make necessary arrangements and preparation. Agree on recording times with your subjects. Plan where to record and ensure there is a suitable recording environment.
+تذكر أن تسأل نفسك عن السبب الذي يدفعك لإنتاج هذا البرنامج؟ هل هناك جمهور معين تريد الوصول إليه؟
 
 <hr/>
 
-!3.2.5.a.mp3(Example of a first person audio report)!
+!3.2.4.a.mp3 (مثال لمقابلة شخصية)!
 
-Leave sufficient time within your plan for editing and publishing. It is possible you will change your mind or have to change your plan based on what you have, once you have put together and assembled your clips.
+بمجرد أن تنتهي من كتابة خطتك، عليك أن تقوم بالترتيبات والاستعدادات اللازمة. اتفق على أوقات التسجيل مع من ستقوم بالتسجيل معهم. خطط للمكان الذي ستقوم بالتسجيل فيه واحرص على توفر بيئة مناسبة للتسجيل.
+
+<hr/>
+
+!3.2.5.a.mp3 (مثال لتقرير مسموع بصيغة المتكلم)!
+
+خصص زمنا كافيا في خطتك للتحرير والنشر؛ فمن المحتمل أن تغيّر رأيك أو تضطر إلى تغيير خطتك بناءً على ما لديك، بعد أن تكون قد انتهيت من تجميع وتركيب المقاطع معاً.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها 
 
-* If time is limited and you’re not sure what type of recording you’re going to do, do not go out and just record everything.
-* Sketch a plan or a script for yourself, that you can fall back on during interviews or while recording a monologue/report.
-* Contact potential interviewees in advance and give them options for where and when you can meet.
-* Think about what audience you would like to reach when considering what kind of program to record.
+* إذا كان الوقت محدودا ولم تكن متأكدا من نوع التسجيلات الذي ستقوم به، فلا تكتفي بالخروج وتسجيل كل شيء فحسب.
+* ضع مخططًا أو سيناريو لما ستقوم به ويمكنك الاستعانة به أثناء المقابلات أو أثناء تسجيل المشاهد التي يؤديها فرد واحد أو التقارير.
+* اتصل مقدمًا بالأشخاص الذين يحتمل أن تجري معهم مقابلات واعرض عليهم أكثر من مكان وزمان لإجراء المقابلة.
+* فكر في الجمهور الذي تريد الوصول إليه عند التفكير في نوع البرنامج الذي تريد تسجيله.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What type of audio segment could you NOT produce if you were alone in the jungle?
-Answer 1:First person report.
-Answer 2:Documentary style focused on nature sounds.
-Answer 3:Interview.
+السؤال 1
+Question: ما نوع المقاطع الصوتية التي لا يمكنك أن تنتجها إذا كنت بمفردك في الغابة؟
+Answer 1: تقرير بصيغة المتكلم.
+Answer 2: الأسلوب التسجيلي الذي يركز على أصوات الطبيعة.
+Answer 3: المقابلة الشخصية.
 Correct Answer:3
 
 <hr/>
 
-Question 2
-Question:If you wanted to interview the mayor of a major city, how would you proceed?
-Answer 1:Contact his/her office, introduce yourself and your purpose, and schedule an appointment.
-Answer 2:Go to the mayor’s office today and insist on doing the interview immediately.
-Answer 3:Find out where the mayor eats lunch and jump out from behind a tree as he/she is leaving the building.
+السؤال 2
+Question: إذا كنت تريد إجراء مقابلة مع عمدة مدينة كبيرة، فما الذي ستقوم به؟
+Answer 1: الاتصال بمكتبه والتعريف بنفسك وما تريده والترتيب لموعد معه.
+Answer 2: الذهاب إلى مكتب العمدة اليوم والإصرار على إجراء المقابلة في الحال.
+Answer 3: تحاول معرفة المكان الذي يتناول العمدة فيه غداءه وتقفز من وراء شجرة أثناء مغادرته للمبنى.
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:What kind of audience would an audio segment about learning to count and how to learn new words be most suitable for?
-Answer 1:High School Students.
-Answer 2:Young Children.
-Answer 3:University Professors.
+السؤال 3
+Question: ما نوعية الجمهور الذي يناسب أكبر لبرنامج مسموع حول تعلم العد وكيفية تعلم الكلمات الجديدة؟
+Answer 1: طلاب المدرسة الثانوية.
+Answer 2: الأطفال الصغار.
+Answer 3: أساتذة الجامعة.
 Correct Answer:2

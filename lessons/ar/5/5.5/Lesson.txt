@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. How do I get a good shot?
+h2. كيف أحصل على لقطة جيدة؟
 
 !5.5.1.a.png!
 
@@ -8,121 +8,121 @@ h2. How do I get a good shot?
 
 h1. خلفية
 
-When you are in the middle of shooting your video it may be difficult to know exactly what you should record. This is particularly true when you are starting out. It’s easy to get frustrated, confused, and be unsure of yourself.
+في أثناء تصويرك لمقطع الفيديو الذي تسجله، قد تجد أنه من الصعب أن تحدد بالضبط ما عليك تصويره. يعد هذا الأمر صحيحًا على وجه الخصوص عندما تبدأ التصوير. ففي هذا الوقت، سيكون من السهل أن تشعر بالإحباط والحيرة وعدم الثقة في نفسك.
 
-Every videographer has gone through this. You will get better with practice. Do your best to remain calm, focus on the task at hand, and you will find success.
+مما لا شك فيه أن كل مصور فيديو قد مر بهذه المرحلة. واعلم أن أداءك لا بد وأن يتحسن بالممارسة. ابذل قصارى جهدك للحفاظ على هدوئك والتركيز على المهمة التي تقوم بها، وسوف تتمكن من تحقيق النجاح في مهمتك.
 
 <hr/>
 
 h1. الحل
 
-Keep three guidelines in mind while you are shooting to become an effective videographer.
+ضع في اعتبارك دومًا ثلاث نصائح في أثناء تصويرك، وذلك كي تصبح مصور فيديو ناجحًا ومتميزًا.
 
-h2. Have Purpose
+h2. اجعل لنفسك هدفًا
 
-h2. Have Control
+h2. تحكم في الأمور
 
-h2. Have Confidence
-
-<hr/>
-
-h2. Have Purpose
-
-!5.5.4.a.mp4(Example of a subject framed in a scene)!
-
-Know what you want to record
-* Pay close attention to what action or subject you intend to record, and make sure you can see it clearly in the frame.
+h2. كن واثقًا من نفسك
 
 <hr/>
 
-!5.5.5.a.mp4(Example of capturing motion in a frame)!
+h2. اجعل لنفسك هدفًا
 
-Hold your position while recording
-* Allow the action within your frame to be the source of motion. This will make it easier for the viewer to focus. Make a decision on the best place to record from and hold your frame.
+!5.5.4.a.mp4 (مثال على شخص تم تصويره في أحد المشاهد)!
 
-<hr/>
-
-h2. Have Control
-
-!5.5.6.a.mp4(The proper way to hold a camera steady)!
-
-Hold your camera steady (diagram)
-* Use your body to brace the camera, the individual above uses the side of their body to brace the camera, while centering it in front of them.
-* Remember to breathe. You may be tempted to hold your breath to keep the camera from moving, but its best to set your shot, breathe, and when you have a steady shot, begin recording.
+كن على علم بما تريد تسجيله
+* انتبه جيدًا للحركة أو الشخص الذي تنتوي تصويره، وتأكد من رؤيتك له بوضوح داخل الكادر.
 
 <hr/>
 
-!5.5.7.a.mp4(Example of how to properly show motion in a frame without panning)!
+!5.5.5.a.mp4 (مثال على تصوير حركة في أحد الكادرات)!
 
-Do not pan
-* Moving the camera creates a lot of motion in the frame. This is often more distracting than helpful. If you want another angle, stop recording, change your frame, and start recording your new shot.
+اثبت أثناء التصوير
+* اجعل الحركة الموضوعة داخل كادرك مصدرًا للحركة. سوف ييسر هذا الأمر على المشاهد أن يركز. اتخذ قرارك بشأن أفضل مكان يمكن أن تسجل منه وحافظ على كادرك.
 
 <hr/>
 
-h2. Have Confidence
+h2. تحكم في الأمور
+
+!5.5.6.a.mp4 (الطريقة المناسبة للإمساك بالكاميرا بثبات)!
+
+أمسك بالكاميرا بثبات (مخطط)
+* استخدم جسمك في الإمساك بالكاميرا، يستخدم الشخص الموضح أعلاه جانب جسمه للإمساك بالكاميرا مع مركزتها أمامه مباشرة.
+* تذكر أن تتنفس. قد تحاول حبس أنفاسك للحفاظ على ثبات الكاميرا من الحركة، ولكن من الأفضل أن تضبط لقطتك التي تريد التقاطها أولاً ثم تتنفس، وعندما يصبح لديك لقطة ثابتة، ابدأ التسجيل.
+
+<hr/>
+
+!5.5.7.a.mp4 (مثال لكيفية عرض حركة داخل كادر دون الحركة الأفقية)!
+
+لا تتحرك بشكل أفقي
+* إن تحريك الكاميرا ينتج عنه قدر كبير من الحركة داخل الكادر. وفي الغالب الأعم، يكون هذا الأمر مشتتًا للانتباه أكثر من كونه مفيدًا. ومن ثم، إذا كنت تريد التصوير من زاوية مختلفة، فتوقف عن التصوير وغير كادرك وابدأ تصوير اللقطة الجديدة.
+
+<hr/>
+
+h2. كن واثقًا من نفسك
 
 !5.5.8.a.png!
 
-Have a goal for your shot
-* Knowing what you’re trying to record before you begin will allow you to know when you’ve completed the shot.
+حدد هدفًا للقطتك التي تسجلها
+* إن معرفتك لما تحاول تسجيله قبل أن تبدأ في تسجيله سوف يتيح لك معرفة الوقت الذي أتممت فيه تسجيل اللقطة بالفعل.
 
 <hr/>
 
-!5.5.9.a.mp4(Example of a single shot telling a story)!
+!5.5.9.a.mp4 (مثال للقطة واحدة تروي قصة ما)!
 
-Don’t stop recording until actions have completed
+لا تتوقف عن التسجيل إلى أن تتم جميع الحركات.
 
 <hr/>
 
 !5.5.10.a.png!
 
-Stand in front of what you want to film, not off to the side
+توقف أمام ما ترغب في تصويره وليس على جانبه.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-* The more you keep these in mind, the more effective your footage will be.
-* The only time to not follow these guidelines is when they will put you or your subject at risk.
+* كلما وضعت هذا الأمر في اعتبارك، زادت كفاءة مقياس الطول الذي تستخدمه.
+* تتمثل المرة الوحيدة التي لن تتبع فيها هذه النصائح في الوقت الذي تجد نفسك أو الشيء الذي تصوره معرضًا للخطر.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What are the three primary guidelines?
-Answer 1:Have Purpose.
-Answer 2:Have Control.
-Answer 3:Have Confidence.
-Answer 4:Take Risk.
+السؤال 1
+Question: ما النصائح الثلاث الأساسية؟
+Answer 1: اجعل لنفسك هدفًا 
+Answer 2: تحكم في الأمر 
+Answer 3: كن واثقًا من نفسك 
+Answer 4: تحمل المجازفة 
 Correct Answer:1,2,3
 
 <hr/>
 
-Question 2
-Question:What should I do to record another action?
-Answer 1:Pan over to it from the shot you’re recording.
-Answer 2:Stop recording, change your frame, and start recording the action in new shot.
-Answer 3:Keep recording while moving to it as fast as possible.
-Answer 4:Pass the camera to someone closer.
-Correct Answer:2
+السؤال 2
+Question: ما الذي يجب علي فعله إن أردت تسجيل حركة أخرى؟
+Answer 1: توجه بالكاميرا إليها بشكل أفقي من اللقطة التي تسجلها.
+ Answer 2:توقف عن التسجيل وغير كادرك وابدأ تسجيل الحركة في لقطة جديدة.
+Answer 3: استمر في التسجيل مع انتقالك إليها بأقصى سرعة ممكنة.
+Answer 4: أعط الكاميرا لشخص أكثر قربًا منها.
+ Correct Answer:2
 
 <hr/>
 
-Question 3
-Question:Why is it important to hold your position when recording?
-Answer 1:There is only one right angle to film from.
-Answer 2:Motion confuses people.
-Answer 3:The camera doesn’t record when moving.
-Answer 4:Allowing the action within your frame to be the source of motion will make it easier to see.
+السؤال 3
+Question: ما أهمية الثبات في أثناء التصوير؟
+Answer 1: لا توجد سوى زاوية واحدة صحيحة للتصوير منها.
+ Answer 2:تشتت الحركة انتباه المشاهدين.
+ Answer 3:لا تسجل الكاميرا في أثناء الحركة.
+ Answer 4:جعل الحركة الواقعة داخل نطاق كادرك مصدر الحركة سوف ييسر كثيرًا من مشاهدتها.
 Correct Answer:4
 
 <hr/>
 
-Question 4
-Question:Why does standing in front of what you want to record help your shot feel more natural?
-Answer 1:It simulates the way in which we interact with one another.
-Answer 2:It is the only way the record button works.
-Answer 3:It will intimidate the subject.
-Answer 4:It is the easiest way to record.
+السؤال 4:
+Question: لم يساعدك الوقوف أمام ما تريد تسجيله على أن تجعل اللقطة طبيعية أكثر؟
+Answer 1: لأنه يحاكي الطريقة التي نتعامل بها مع بعضنا البعض.
+Answer 2: لأنه الطريقة الوحيدة التي يعمل بها زر التسجيل.
+Answer 3: لأنه الطريقة الوحيدة للتحكم فيما يتم تصويره.
+Answer 4: لأنه أسهل طريقة للتسجيل.
 Correct Answer:1

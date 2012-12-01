@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. Photographing an event well is one thing. Editing the pictures well is another. What are some tips and concepts to think about when editing pictures for publication?
+h2. إن التصوير المتميز أمر، وتحرير الصور بشكل متميز أمر آخر. فما بعض النصائح والمفاهيم التي يجب وضعها في الاعتبار عند تحرير الصور لنشرها؟
 
 !4.4.1.a.png!
 
@@ -10,37 +10,37 @@ h1. خلفية
 
 !4.4.2.a.png!
 
-No matter if you are photographing an event to produce a single image or shooting to produce a more elaborate slideshow, you will shoot many more images than you use. You need to edit your images to select the few that best illustrate the story.
+سواء كنت تقوم بتصوير حدث لإنتاج صورة واحدة أم التقاط صور لإنتاج عرض شرائح أكثر إتقانا، فسوف تقوم بالتقاط صور أكثر مما ستستخدم. وسوف تحتاج إلى تحرير صورك لاختيار قلة منها تصور المادة بأفضل ما يكون.
 
 <hr/>
 
-Editing images can take time and requires skill and self-discipline. Editing photos well is about divorcing yourself from your feelings or investment in the work and selecting only the images that convey the story best to your viewer. Just because you worked hard to get a photograph doesn’t make it a good photograph. Just because you recognize the importance of its content doesn’t mean the viewer will see the same thing. If its not in the picture for the viewer to see it’s not a picture at all.
+وقد يستغرق تحرير الصور وقتا ويتطلب مهارة وانضباطا ذاتيا. ويعتمد التحرير الجيد للصور على تحييد مشاعرك أو ما تستثمره في العمل وألا تختار إلا الصور التي توصل المادة بأفضل ما يكون لمشاهدك. ولن تكون الصورة جيدة فقط لأنك اجتهدت في إنتاجها. ولن يعني إدراكك لأهمية مضمونها أن المشاهد سيدرك هذه الأهمية. فإذا لم تكن الصورة تعكس هذا المضمون بوضوح بالنسبة للمشاهد فلن تكون صورة على الإطلاق.
 
 <hr/>
 
 h1. الحل
 
-Editing images is often a process of elimination. Select images that are ‘maybes’ and then, based on what you need the photos to do, winnow down to the best. 
+إن تحرير الصور غالبا ما تكون عملية حذف بعضها. اختر صورا "محتملة" ثم بناءً على ما تحتاج إلى أن تقوم الصورة بعمله، غربلها لتختار أفضلها. 
 
-* Do not edit into a vacuum. Ask yourself some key questions:
-** How many images do you need?
-** Who is the audience?
-** What does the editor want?
+* لا تحرر في فراغ. اسأل نفسك عددًا من الأسئلة المهمة:
+** كم صورة ستحتاجها؟
+** من الجمهور؟
+** ما الذي يريده المحرر؟
 
-These questions will limit the criteria by which you choose and make editing easier.
-
-<hr/>
-
-h2. Three-step approach to editing pictures
-
-* Step 1 - Identify
-* Step 2 - Script
-* Step 3 - Sequence & Process
-
+وسوف تحد هذه الأسئلة من معايير اختيارك للصور وتجعل التحرير أسهل.
 
 <hr/>
 
-h2. Step 1 - Identify
+h2. أسلوب تحرير الصور في ثلاث خطوات
+
+* الخطوة الأولى – حدّد
+* الخطوة الثانية – اكتب سيناريو
+* الخطوة الثالثة – التتابع والمعالجة
+
+
+<hr/>
+
+h2. الخطوة الأولى – حدّد
 
 (
 !4.4.5.a.png!
@@ -60,12 +60,12 @@ h2. Step 1 - Identify
 !4.4.5.o.png!
 )
 
-A first round that includes your strongest images -- Don’t worry about the specifics of your story. Pick images that convey core emotional and graphic strength. Think most about the eye-grabbing qualities of the images. The number should relate loosely to how you will use the images. If you are looking for a single, final image, select fewer than if you plan to assemble a slideshow. You may have several images of the same subject from different angles. You may have an assortment of images that illustrate the same idea. That’s OK for now.
+جولة  أولى تشمل أقوى صورك – لا تقلق كثيرا بشأن تفاصيل مادتك. اختر الصور التي توصل أهم نقاط القوة العاطفية والرسومية. فكر معظم الوقت في الخصائص التي تجذب العين في الصورة. ويجب أن تكون هناك علاقة حرة نسبيا بين عدد الصور وطريقة استخدامك لها. فإذا كنت تبحث عن صورة نهائية وحيدة، فاختر عددًا من الصور أقل من العدد الذي تختاره إذا كنت تخطط لعمل عرض شرائح. وقد يكون لديك صور عديدة لنفس الموضوع من زوايا عديدة. وربما يكون لديك حشد من الصور التي تصور نفس الفكرة. ولا شيء في ذلك حتى الآن.
 
 
 <hr/>
 
-h2. Step 2 - Script
+h2. الخطوة الثانية – اكتب سيناريو
 
 (
 !4.4.6.a.png!
@@ -81,11 +81,11 @@ h2. Step 2 - Script
 )
 
 
-Think the story through -- Now that you have a narrower assortment of images, begin to decide HOW you will use the photos. If you are looking for a single image, identify a photo that conveys the most information -- and the most drama -- to illustrate your specific story. You may opt for a portrait of someone quoted in an accompanying text. You may opt for a photo that symbolizes the emotion of an event, a person waving a flag and shouting. You may opt for a photo that is a literal summary, a person casting a ballot. If you are editing for slideshow, you will want an assortment of images based on the kind of slideshow you want to do (see the photo essay section). Remove images that convey the same information -- and choose only the best one. If you have several similar images, choose only the best -- the one that most clearly visualizes subject, context and emotion in a clear and understandable way.
+فكر في المادة ككل – الآن وقد أصبح لديك مجموعة محدودة من الصور، عليك أن تقرر كيف ستستخدم الصور. فإذا كنت تبحث عن صورة واحدة فعليك أن تحدد صورة توصل أكبر قدر ممكن من المعلومات وأكبر قدر ممكن من الدراما لتوضيح مادتك. وربما تختار بورتريها لشخص ورد اسمه في نص مصاحب للصورة. وقد تختار صورة ترمز لعاطفة مرتبطة بحدث معين مثل شخص يلوح بعلم ويهتف. وربما تختار صورة تعد بمثابة تلخيص حرفي للحدث، مثل صورة شخص يدلي بصوته في اقتراع معين. وإذا كنت تقوم بتحرير الصور من أجل عرض شرائح، فسوف تحتاج إلى مجموعة من الصور المختلفة بناءً على نوع عرض الشرائح الذي تريد إنتاجه (انظر قسم المقالة الصورية). احذف الصور التي توصل نفس المعلومات ولا تختر إلا أفضلها. وإذا كان لديك العديد من الصور المتشابهة، فلا تختر إلا أفضلها: اختر الصور التي تصور الموضوع والسياق والعاطفة بأكثر درجة من الوضوح بطريقة واضحة ومفهومة.
 
 <hr/>
 
-h2. Step 3 - Sequence & Process
+h2. الخطوة الثالثة – التتابع والمعالجة
 
 (
 !4.4.7.a.png!
@@ -96,7 +96,7 @@ h2. Step 3 - Sequence & Process
 !4.4.7.f.png!
 )
 
-If you are editing for a single image (or a handful of images from which an editor will choose). You need to crop, size, color correct and caption these images. The specificS of this are covered in the section on post production. If you are building a slideshow you need to sequence the final images. Remember: if an image isn’t advancing your story, it’s hurting it. Select images around the important elements of the story, archive images that either do not advance the story or repeat other, stronger images. Sequence the images in a way that is chronological -- do not move from night to day and back in an unnatural order. Be conscious of the ‘flow’ of images, letting color move the viewer from one image to the next, move from a tight shot to wide shot and then back to a tight shot. Like the single image, these images must be cropped, sized, color corrected and captioned.
+إذا كنت تقوم بالتحرير من أجل الحصول على صورة واحدة (أو حفنة من الصور ليختار المحرر منها واحدة)، فسوف تحتاج إلى قص هذه الصور وضبط حجمها وتصحيح ألوانها وكتابة تعليق عليها. وسوف نتناول هذه المسائل بالتفصيل في القسم المتعلق فيما بعد بالإنتاج. وإذا كنت تقوم بإنشاء عرض شرائح، فسوف تحتاج إلى ترتيب الصور النهائية في تتال معين. تذكّر: إذا كانت الصورة لا تفيد مادتك فإنها سوف تضرها. اختر الصور التي تتعلق بالعناصر المهمة من المادة واحفظ الصور التي لا تفيد المادة أو تتشابه مع صور أخرى أقوى. قم بترتيب الصور في تتال زمني: لا تنتقل من الليل إلى النهار ثم من النهار إلى الليل في ترتيب مخالف للطبيعة. كن واعيا "لتدفق الصور" واحرص على أن تجعل اللون ينقل المشاهد من الصورة للصورة التي تليها. انتقل من اللقطة المحدودة إلى اللقطة الواسعة ثم إلى اللقطة المحدودة. وكما في حالة الصورة المفردة، لابد من قص هذه الصور وضبط حجمها وتصحيح ألوانها وكتابة تعليقات عليها.
 
 <hr/>
 
@@ -104,48 +104,48 @@ h1. أشياء يجب أن تتذكرها
 
 !4.4.8.a.png!
 
-The editing techniques outlined above assumes the luxury of time to edit. With some breaking news events or last-minute deadline assignments, you may have to edit on the fly. Meaning, make a quick selection and post the image(s) on the spot. You can always replace these images later with a more carefully selected and processed image.
+إن طرق التحرير التي استعرضناها أعلاه تفترض توفر الكثير من الوقت للتحرير. لكن في حالة الأخبار العاجلة أو المهام التي يتم التكليف بها في اللحظات الأخيرة قبل الموعد النهائي، ربما يكون عليك أن تقوم بالتحرير على عجالة، ويعني ذلك أن تقوم باختيار الصور وإرسالها بسرعة من موقع الأحداث. ويمكنك دائما استبدال هذه الصور فيما بعد بصور أخرى تم اختيارها ومعالجتها بعناية أكبر.
 
 <hr/>
 
-When covering stories about disaster or conflict you should be sensitive to how you use images of violence, injury, death or people grieving. Images of children require special care. Images need to be graphic enough to tell a story truthfully. At the same time, they should not be gratuitous. Photographers should not shy away from shooting graphic images if they accurately tell the story. However, publishing them can be another issue. Photographers and the publications they shoot for need to consider the audience, the importance of the story and the impact the images will have when publishing graphic images. When confronted with scenes of violence or death, good photographers will shoot images that are both graphic as well as more symbolic to give editors a choices about what to publish.
+عندما تقوم بتغطية كارثة أو صراع، يجب عليك أن تتعامل بحساسية مع طريقة استخدامك لصور العنف أو الإصابة أو الموتى أو من يتألمون. ولابد من التعامل مع صور الأطفال بحرص. ويجب أن تكون الصور صريحة بشكل يكفي لكي تحكي القصة بصدق؛ لكن يجب في الوقت نفسه ألا تكون بلا مبرر. ويجب ألا يحجم المصورون عن تصوير الصور الصريحة إذا كانوا سيحكون القصة بدقة. لكن قد يكون نشر هذه الصور مسألة أخرى. فالمصورون والمطبوعات التي يقومون بالتصوير من أجلها بحاجة لمراعاة الجمهور وأهمية القصة وتأثير المادة عند نشر صور صريحة. وعندما يواجهون صور العنف أو الموت، يقوم المصورون الأكفاء بالتقاط الصور التي تعد صريحة ورمزية أكثر في الوقت نفسه بما يتيح للمحررين اختيار ما يقومون بنشره منها.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:Which of the following are characteristics of good editing?
-Answer 1:You should pick the images you want to use all at once to save time.
-Answer 2:Caption everything and then select only the images you want.
-Answer 3:The literal information in each image is more important than its emotional or graphic value and more important than how the image might work as part of a slideshow.
-Answer 4:None of the above.
+السؤال 1
+Question: أي مما يلي من خصائص التحرير المتميز؟
+Answer 1: يجب عليك أن تختار جميع الصور التي تريد استخدامها مرة واحدة لتوفير الوقت.
+Answer 2: اكتب تعليقا على كل شيء ثم لا تختر إلا الصور التي قد تحتاج إليها.
+Answer 3: المعلومات الحرفية في كل صورة أهم من قيمتها العاطفية أو الرسومية وأهم من الطريقة التي تعمل بها ضمن عرض شرائح.
+Answer 4: لا إجابة مما سبق صحيحة
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE: When photographing a breaking news event, you may not have time initially to edit your images. Post one or two and then replace them later with better images.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: عند تصوير خبر عاجل، ربما لا يتوفر لك في البداية وقت لتحرير صورك. قم بإرسال صورة أو اثنين ثم استبدلها لاحقا بصور أفضل.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:2
 
 
 <hr/>
 
-Question 3
-Question:Editing is a process of elimination. Which of the things below should you be thinking about when editing (it can be more than one)
-Answer 1:Which are my strongest images irrespective of the specific story?
-Answer 2:Are there any redundant images in my slideshow -- images that don’t advance the story or show the viewer something new?
-Answer 3:Is there a nice ‘flow’ to the images as the viewer clicks from one to the next?
-Answer 4:All of the above.
+السؤال 3
+ Question: التحرير عبارة عن عملية حذف. أي مما يلي يجب عليك التفكير فيه عند التحرير (قد تشمل الإجابة الصحيحة أكثر من إجابة)؟
+Answer 1: أيها أقوى الصور لدي بصرف النظر عن موضوع المادة؟
+Answer 2: هل توجد أية صور متكررة في عرض الشرائح الذي أقوم بإنتاجه؟مثل صور لا تفيد المادة أو لا تقدم للمشاهد شيئًا جديدا
+Answer 3: هل هناك "تدفق" ظريف للصور مع نقر المشاهد من صورة إلى التالية؟
+Answer 4: كل ما سبق
 Correct Answer:4
 
 <hr/>
 
-Question 4
-Question:Which of these photo sequences has a clear objective?
-Answer 1:(!4.4.13.a.png!!4.4.13.b.png!!4.4.13.c.png!)
-Answer 2:(!4.4.13.d.png!!4.4.13.e.png!!4.4.13.f.png!)
-Answer 3:(!4.4.13.g.png!!4.4.13.h.png!!4.4.13.i.png!)
+السؤال 4
+Question: أي من تسلسل الصور التالية ذات غرض واضح؟
+Answer 1: (!4.4.13.a.png!!4.4.13.b.png!!4.4.13.c.png!)
+Answer 2: (!4.4.13.d.png!!4.4.13.e.png!!4.4.13.f.png!)
+Answer 3: (!4.4.13.g.png!!4.4.13.h.png!!4.4.13.i.png!)
 Correct Answer:3

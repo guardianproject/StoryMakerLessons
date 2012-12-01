@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. I have a topic, but what is the best way to organize my audio story?
+h2. لدي موضوع، لكن ما أفضل طريقة لتنظيم قصتي الصوتية؟
 
 !3.4.1.a.png!
 
@@ -10,91 +10,91 @@ h1. خلفية
 
 !3.4.2.a.png!
 
-Having an interesting topic and an idea of what you want to do is important. Having an organized plan is necessary to create a complete and quality piece of audio. Sketch an outline that lays out who is to be interviewed, what the questions will be, when some segments should be completed, and any other important guidelines to carry out on the road to complete your story.
+من المهم أن يكون لديك موضوع شيق وفكرة عما ترغب في القيام به. ومن الضروري أن تكون لديك خطة منظمة لإنشاء صوت مكتمل وجيد. قم بوضع تخطيط يوضح من يتم إجراء المقابلة معه والأسئلة التي سيتم طرحها ومتى يجب الانتهاء من بعض الأجزاء وأية إرشادات هامة أخرى لتنفيذها في طريق الانتهاء من قصتك.
 
 <hr/>
 
 h1. الحل
 
-h2. Introduction
+h2. مقدمة
 
-Any story, including an audio story, needs an introduction. The beginning is called the lead. It must: grab listeners' attention; clearly explain what the story is about; give the most crucial facts; and identify the source of the information. The more attractive and compelling it is, the more chance people will actually listen to the rest of the story.
-
-<hr/>
-
-h3. Professional Introduction
-
-!3.4.4.a.mp3(Example of a professional introduction to a story)!
-
-Whether its your voice or someone else's, you need a statement explaining the topic, why it should be of interest to the audience, and how this particular segment is going to tell that story. The introduction is also where you can give some background about the topic, some history and  relevant recent developments. You may wish to outline of what will happen during the segment, mentioning if you will use interviews or sounds from an event. This preview may spark the interest of the listener and encourage them to keep listening in anticipation.
+تحتاج أية قصة، وتشمل القصة الصوتية، إلى مقدمة. ويطلق على البداية "الدليل". ويجب أن تقوم المقدمة بما يلي: جذب انتباه الجمهور؛ شرح موضوع القصة بطريقة واضحة؛ تقديم الحقائق الأكثر أهمية؛ تحديد مصدر المعلومات. وكلما زادت المقدمة في الجذب والإقناع زادت فرصة استماع الناس بشكل حقيقي إلى بقية القصة.
 
 <hr/>
 
-h3. Personal Introduction
+h3. المقدمة الاحترافية
 
-!3.4.5.a.mp3(Example of a personal introduction to a story)!
+!3.4.4.a.mp3 (مثال لمقدمة احترافية للقصة)!
 
-Some introductions can be more personal, explaining who is talking and some background about that person. Then there can a personal explanation as to why this topic is interesting or came to the attention of the person doing the introduction. The most basic way of doing this, if you are doing your own introduction, is to greet the audience, introduce yourself, and go on to tell the audience what the topic or focus of this story will be.
-
-<hr/>
-
-h2. Interviews
-
-Before you conduct an audio interview that will be part of your story, always have questions prepared. These questions now only enable you to plan your interview, they also act as guidelines when during a conversation you forget what you want to ask or you find a previous question is not going well and you want to move on. Look over those questions and ask yourself if they are structured in a way that can lead to real detailed and interesting answers, instead of yes, no, or one word answers that are rarely interesting for an audience. The goal is to ask questions that might take you somewhere you did not expect. But to also have questions that can bring you back to the point if your interviewee starts to stray.
+سواء كان صوتك أو صوت شخص آخر، لا بد من وجود بيان يشرح الموضوع ولماذا يجب أن يهم الجمهور وكيف سيخبر هذا الجزء بعينه تلك القصة. وتعتبر المقدمة أيضاً أفضل جزء يمكنك فيه تقديم خلفية عن الموضوع وبعض التطورات السابقة والحديثة ذات الصلة. قد ترغب في تخطيط ما سيحدث خلال ذلك الجزء عن طريق تحديد ما إذا كنت ستلجأ إلى مقابلات شخصية أو أصوات خاصة بأحد الأحداث. ويمكن أن يثير هذا الاستعراض اهتمام المستمع وتشجيعه على الاستمرار في الإنصات.
 
 <hr/>
 
-h2. Additional Audio
+h3. المقدمة الشخصية
 
-!3.4.7.a.mp3(Example of using background audio)!
+!3.4.5.a.mp3 (مثال لمقدمة شخصية للقصة)!
 
-When outlining how your story will be told, besides considering what voices you want to hear from, you should also consider what audio would help paint a picture in the mind of the audience. You will probably need background sounds to add color to the story, as well as some voice overs and introductions. If it is an event, you'll want to plan what event audio to use, how/when/where you can capture it, or if it already exists how you can get it. Just like introducing a guest or an interviewee, you can also introduce a piece of audio that illustrates the story. Unlike pictures or video, audio can be misleading so it is useful to have a voice that explains what is being heard, when it took place, and where. You can choose how to do that explanation when planning your story, perhaps you want to first let the audience hear the sounds of a protest or a celebration and then explain what they just heard. Or explain what they are about to hear, and then play the audio.
+يمكن لبعض المقدمات أن تأخذ طابعاً شخصياً بشكل أكبر عن طريق تحديد من يتحدث وخلفية عن ذلك الشخص. وبعد ذلك يمكن أن يكون هناك توضيح شخصي حول سبب أهمية هذا الموضوع أو سبب اهتمام الشخص الذي يقوم بالتقديم. وإذا كنت تضع المقدمة الخاصة بك فإن الطريقة الأساسية للقيام بذلك هي تحية الجمهور وتعريف نفسك والمضي قدماً نحو إخبار الجمهور بالموضوع أو بما ستركز عليه هذه القصة.
 
 <hr/>
 
-h2. Conclusion
+h2. المقابلات الشخصية
 
-!3.4.8.a.mp3(Example of a story conclusion)!
+قبل أن تقوم بإجراء مقابلة شخصية صوتية تحتل جزءً من قصتك، قم دائماً بإعداد الأسئلة. وتساعدك هذه الأسئلة الآن فقط على تخطيط المقابلة، كما تفيدك كإرشادات عندما تنسى خلال المحادثة ما تريد السؤال عنه أو عندما تكتشف عدم ملائمة سؤال سابق وتريد الانتقال إلى السؤال التالي. تفحص تلك الأسئلة واسأل نفسك إذا كان قد تم إعدادها بطريقة يمكن أن تؤدي إلى الحصول على إجابات شيقة ومفصلة بشكل حقيقي، بدلاً من الإجابة بنعم أو بلا، أو الإجابات المكونة من كلمة واحدة التي نادراً ما تكون شيقة للجمهور. والهدف من ذلك هو طرح الأسئلة التي يمكن أن تأخذك إلى نقطة لم تكن تتوقعها. كما أن الهدف الآخر هو الحصول على أسئلة يمكن تعيدك إلى نقطة الحوار إذا بدأ الضيف في الشرود.
 
-Any good story needs a beginning, a middle and then end. So a conclusion is necessary. A summary of the points made within the entire piece and some of the ideas that may come out of those points. Sometimes a conclusion can actually include new questions for a future report or story. The important thing is to briefly remind the audience what took place in this story and some of the more memorable points from the entire audio segment. If there is to be a followup, the conclusion can also make reference to the continuation or future audio report that is to come based on issues raised in this particular segment.
+<hr/>
+
+h2. صوت إضافي
+
+!3.4.7.a.mp3 (مثال لاستخدام صوت خلفية)!
+
+عند تخطيط طريقة رواية قصتك، بجانب التفكير في الأصوات التي تريد سماعها، يجب أيضاً التفكير في الصوت الذي سيساعد على رسم صورة في أذهان الجمهور. وربما تحتاج أصوات خلفية لإضافة لون إلى القصة، بالإضافة إلى بعض الأصوات المصاحبة والمقدمات. وإذا كان الموضوع عن أحد الأحداث، سترغب في تخطيط صوت الحدث الذي ستستخدمه وكيف/متى/أين يمكنك التقاطه، أو إذا كان موجوداً بالفعل كيف يمكنك الحصول عليه. تماماً مثل تقديم أحد الضيوف أو من يتم إجراء مقابلة معه، يمكنك أيضاً تقديم صوت يوضح القصة. على عكس الصور أو الفيديو، قد يكون الصوت محيراً لذلك من المفيد وجود صوت يشرح ما يتم سماعه ومتى حدث وأين. يمكنك اختيار كيفية القيام بذلك الشرح عند تخطيط قصتك، وربما ترغب في السماح للجمهور أولاً بسماع أصوات احتجاج أو احتفال ثم تقوم بشرح ما سمعوه للتو. أو اشرح ما سيسمعونه ثم قم بتشغيل الصوت.
+
+<hr/>
+
+h2. الخاتمة
+
+!3.4.8.a.mp3 (مثال لخاتمة قصة)!
+
+تحتاج أية قصة جيدة إلى بداية ومنتصف ثم إلى النهاية. لذلك من الضروري وجود خاتمة. ملخص للنقاط التي تم التعبير عنها داخل المادة وبعض الأفكار التي قد تخرج عن تلك النقاط. يمكن للخاتمة في بعض الأحيان أن تتضمن بشكل حقيقي أسئلة جديدة لتقرير أو قصة في المستقبل. الشيء المهم هو تذكير الجمهور بشكل موجز بما حدث في هذه القصة وبعض النقاط العالقة بالذاكرة بشكل أكبر من المادة الصوتية بأكملها. وإذا كانت هناك متابعة، يمكن للخاتمة أن تشير أيضاً إلى الاستمرار أو التقرير الصوتي التالي استناداً إلى الموضوعات التي تمت إثارتها في هذا الجزء.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-* Plan and write out your questions for interviews.
-* Start with an introduction that explains a bit about who you are, the topic, and why the topic is relevant to the audience. 
-* Be clear about your topic or goal when requesting an interview.
-* Decide on what additional audio will help tell your story, and write out how to introduce or explain that audio during the segment. 
-* Finish it off with a strong conclusion, summarizing the key points, as well as future questions or audio stories that could follow this one.
+* خطط ودون التي ستوجهها إلى الضيوف.
+* ابدأ بمقدمة توضح بعض الشيء عمن تكون وعن الموضوع وسبب ارتباط الموضوع بالجمهور.
+* كن واضحاً بشأن موضوعك أو هدفك عند طلب إجراء مقابلة.
+* حدد الصوت الإضافي الذي سيساعدك في رواية قصتك ودون طريقة تقديم أو شرح الصوت خلال ذلك الجزء.
+* اختم بخاتمة قوية ملخصاً النقاط الأساسية، بالإضافة إلى الأسئلة أو القصص الصوتية المستقبلية التي يمكن أن تتبع هذه القصة.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:A good introduction should include:
-Answer 1:Introduction of the narrator.
-Answer 2:A preview of what the topic is and who will be featured.
-Answer 3:An explanation of everything that will be learned in this program.
-Answer 4:A shout-out to your fans.
+السؤال 1
+Question: يجب في المقدمة الجيدة أن تتضمن:
+Answer 1: تعريف الراوي.
+Answer 2: استعراض للموضوع ومن ستدور حوله القصة.
+Answer 3: شرح لكل شيء سيتم معرفته في هذا البرنامج.
+Answer 4: تهليل للمعجبين.
 Correct Answer:1,2
 
 <hr/>
 
-Question 2
-Question:Can you share your questions with an interviewee before the interview?
-Answer 1:Always.
-Answer 2:Never.
-Answer 3:It is your choice.
-Answer 4:All of the Above.
+السؤال 2
+Question: هل يمكنك إطلاع الضيف على أسئلتك قبل إجراء المقابلة؟
+Answer 1: دائماً
+Answer 2: أبداً
+Answer 3: حسب اختيارك
+Answer 4: كل ما سبق
 Correct Answer:3
 
 <hr/>
 
-Question 3
-Question:Which is NOT an example of additional audio that can help illustrate your story?
-Answer 1:The sounds of a protestors for a story about a protest.
-Answer 2:Loud music for a story about an old book store.
-Answer 3:A speech from a politician for a story about a political rally. 
+السؤال 3
+Question: أي مما يلي ليس مثالاً للصوت الإضافي الذي يمكن أن يساعدك في توضيح قصتك؟
+Answer 1: أصوات محتجين لقصة عن احتجاج.
+Answer 2: موسيقى صاخبة لقصة عن مكتبة قديمة.
+Answer 3: كلمة من أحد السياسيين لقصة عن نشاط سياسي.
 Correct Answer:2

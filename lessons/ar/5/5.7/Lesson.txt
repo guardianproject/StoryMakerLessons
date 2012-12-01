@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. What is a shot / reverse shot?
+h2. ما اللقطة / اللقطة العكسية؟
 
 !5.7.1.a.png!
 
@@ -8,47 +8,47 @@ h2. What is a shot / reverse shot?
 
 h1. خلفية
 
-You can only point it in one direction at a time. If you want to show an action occurring from different angles at the same time you must film them separately. This is known as a shot / reverse shot.
+لا يمكنك أن توجهها إلا في اتجاه واحد في كل مرة. فإذا كنت تريد عرض حدث معين من زوايا مختلفة في الوقت ذاته، فلابد أن تقوم بتصويره من كل زاوية على حده. ويعرف ذلك باللقطة العكسية.
 
 <hr/>
 
 h1. الحل
 
-To create a shot / reverse shot you record two shots with both in mind. As an example, we will walk through constructing a basic shot / reverse shot of someone typing on their keyboard.
+لعمل لقطة عكسية، قم بتسجيل لقطتين واضعًا كليهما في اعتبارك. فعلى سبيل المثال، سوف نستعرض كيفية إنشاء لقطة عكسية أساسية لشخص يقوم بالكتابة باستخدام لوحة المفاتيح الخاصة به.
 
 <hr/>
 
 !5.7.4.a.mp4!
 
-The first shot is your subject's face in a medium shot while they’re performing an action.
+في اللقطة الأولى، سيظهر وجه الشخص في لقطة متوسطة أثناء قيامه بفعل معين.
 
 <hr/>
 
 !5.7.5.a.mp4!
 
-The second shot, the reverse shot in this sequence, is a shot of whatever the subject is doing in the first shot. In this case, it’s typing on their computer.
+أما اللقطة الثانية – وهي اللقطة العكسية في هذا التتابع – فهي لقطة لما يقوم به الشخص في اللقطة الأولى، وهو في هذه الحالة الكتابة على الحاسب.
 
 <hr/>
 
 !5.7.6.a.mp4!
 
-When you cut these two shots together, it will appear as if the subject is typing on their keyboard. While we used a medium shot in the first shot, it could also be a close up. This is a matter of style on your part, but the other shots in your video will help you make that decision.
+عندما تقوم بقص هاتين اللقطتين معاً، سيبدو وكأن الشخص يقوم بالكتابة على لوحة المفاتيح. ومع أننا استخدمنا لقطة متوسطة في اللقطة الأولى، فقد كان من الممكن أن نستخدم لقطة مقربة؛ ويتوقف ذلك على أسلوبك في التصوير، لكن اللقطات الأخرى في مقطع الفيديو الذي تقوم بتصويره سوف تساعد على اتخاذ هذا القرار.
 
-That’s it. You have enough shots to construct a shot / reverse shot.
+وبهذه الطريقة سيكون لديك عدد كافٍ من اللقطات لإنشاء لقطة عكسية. 
 
 <hr/>
 
-This technique also works to show what a subject may be looking at. Either an object, or potentially another person. For instance, if you want to show someone on their phone.
+وتفلح هذه الطريقة أيضًا لعرض ما ينظر إليه الشخص، سواء كان شيئًا أم شخصًا آخر. فعلى سبيل المثال، عندما تريد عرض شخص يتحدث في الهاتف.
 
 !5.7.7.a.mp4!
 
-Film their face while they use their phone and then film the phone they’re using.
+قم بتصوير وجهه وهو يستخدم هاتفه ثم صور الهاتف الذي يستخدمه.
 
 <hr/>
 
 !5.7.8.a.mp4!
 
-You are not limited to using only two shots. Adding more shots allows you to show how the process of the action changes over time. If a task is becoming more difficult, you might show a second shot of the subject appearing interested while writing an email, and end with a look of satisfaction when they send the email.
+لست مقيدا باستخدام لقطتين فقط. بل إن إضافة المزيد من اللقطات سوف يمكّنك من أن تبين كيف يسير الحدث مع مرور الوقت. فإذا أصبحت مهمة ما أصعب، فقد تقوم بعرض لقطة ثانية للشخص وهو يبدو مهتمًا بشيء أثناء كتابة رسالة إلكترونية، وتنهي العرض بنظرة رضا على وجهه عندما يقوم بإرسال الرسالة.
 
 <hr/>
 
@@ -56,45 +56,45 @@ h1. أشياء يجب أن تتذكرها
 
 !5.7.9.a.mp4!
 
-* They help create the appearance of continuous action in your video.
-* They are popular to use in interviews with a specific interviewee.
-* Good technique to use for getting good b roll.
+* فهي تساعد في خلق مظهر الفعل المستمر في مقطع الفيديو.
+* كما يشيع استخدامها في المقابلات الشخصية مع ضيف معين.
+* وهي أيضا طريقة جيدة يمكنك استخدامها للحصول على بي رول جيدة.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What’s the smallest number of shots you need to create a shot / reverse shot?
-Answer 1:10 shots
-Answer 2:3 shots
-Answer 3:6 shots
-Answer 4:2 shots
+السؤال 1
+Question: ما أقل عدد من اللقطات تحتاج إليه لإنشاء لقطة عكسية؟
+Answer 1: 10 لقطات
+Answer 2: 3 لقطات
+Answer 3: 6 لقطات
+Answer 4: لقطتان
 Correct Answer:4,2
 
 <hr/>
 
-Question 2
-Question:This technique only works to show what a subject is looking at?
-Answer 1:True, it can only show what they’re looking at.
-Answer 2:False, it can also show what they’re doing.
+السؤال 2
+Question: هذه الطريقة لا تفيد إلا في عرض ما ينظر إليه شخص ما
+Answer 1: صح. فلا يمكن أن تعرض إلا ما ينظر إليه الشخص.
+Answer 2: خطأ. فهي تستطيع كذلك عرض ما يقوم به.
 Correct Answer:2
 
 <hr/>
 
 السؤال 3
 
-Question:What types of shots work best in a shot / reverse shot?
-Answer 1:Long Shot
-Answer 2:Medium Shot
-Answer 3:Establishing Shot
-Answer 4:Detail Shot
+Question: ما أنواع اللقطات الذي يفيد أكثر في تصوير لقطة عكسية؟
+Answer 1: اللقطات الطويلة.
+Answer 2: اللقطات المتوسطة.
+Answer 3: لقطات التأسيس.
+Answer 4: لقطات التفاصيل.
 Correct Answer:2,4
 
 <hr/>
 
-Question 4
-Question:True or false: Adding more shots allows you to show how the process of the action being performed changes over time.
-Answer 1:True, each shot can show a different step in the process.
-Answer 2:False, adding shots only confuses the audience.
+السؤال 4
+Question: صح أم خطأ: إضافة مزيد من اللقطات يمكّنك من عرض كيفية تغير الحدث مع مرور الوقت.
+Answer 1: صح؛ فكل لقطة يمكن أن تعرض خطة مختلفة في هذه العملية.
+Answer 2: خطأ؛ فإضافة اللقطات لا يفيد إلا في إرباك المشاهدين.
 Correct Answer:1

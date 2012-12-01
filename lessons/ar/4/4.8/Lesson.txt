@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. There is a color shift to many of my pictures. Many are too yellow. Some are too blue. What is the problem and what can I do about it?
+h2. هناك تغير في الألوان في العديد من صوري. فالكثير منها أصفر للغاية، وبعضها أزرق للغاية. ما المشكلة وما الذي يمكنني فعله حيالها؟
 
 !4.11.1.a.png!
 
@@ -8,120 +8,120 @@ h2. There is a color shift to many of my pictures. Many are too yellow. Some are
 
 h1. خلفية
 
-Your eye in combination with your brain does an excellent job of calibrating how you perceive color. You will recognize a color as red even if the light source illuminating it is very yellow, making the apparent color orange. You will recognize fleshtones even if the light illuminating the subject is a very greenish-blue fluorescent.
+إن استخدام عينيك وعقلك معًا يقوم بمهمة رائعة في تحديد كيفية إدراكك للون. لمزيد من التوضيح، يمكنك معرفة أن اللون هو اللون الأحمر حتى وإن كان مصدر الإضارة الذي يمده بالضوء أصفر للغاية مما يجعل اللون يظهر وكأنه برتقالي. أيضًا، يمكنك معرفة درجات لون اللحوم حتى وإن كانت الإضاءة التي تضيء عليها عبارة عن إضاءة فلوريسنت زرقاء مائلة للون الأخضر.
 
-A digital camera can’t do that. It has to be calibrated to adjust for different light source’s color temperature. This calibration is measured against absolute white. That’s why it is called white balance.
-
-<hr/>
-
-(
-!4.11.13.a.png(Example of a subject lit by a tungesten bulb)!
-!4.11.13.b.png(Example of a subject lit outdoors when it's cloudy)!
-!4.11.13.b.png(Example of a subject lit outdoors in the sun)!
-)
-
-Small tungsten bulbs have a very warm temperature, coloring the image more yellow. Daylight on an overcast, cloudy day has a very high light temperature coloring the image blue. Other light sources -- sunlight, fluorescent light, shade -- all fall in the middle. Color temperature has nothing to do with the amount of light.
+لا يمكن للكاميرا الرقمية فعل ذلك الأمر. ومن ثم، يجب أن يتم ضبط هذا الأمر حسب مختلف درجات حرارة الألوان الخاصة بمصدر الإضاءة. إن عملية الضبط تلك تتم من خلال مقارنتها باللون الأبيض الناصع. لهذا السبب، يطلق عليها اسم "توازن اللون الأبيض".
 
 <hr/>
 
 (
-!4.11.14.a.png(Example of a professional colored photo)!
-!4.11.14.b.png(Example of an unacceptable colored photo)!
+!4.11.13.a.png (مثال لعنصر مضاء بمصباح تنجستين)!
+!4.11.13.b.png (مثال لعنصر مضاء بالخارج والسماء ملبدة بالغيوم)!
+!4.11.13.b.png (مثال لعنصر مضاء بالخارج في ضوء الشمس)!
 )
 
-Good color management is very important. It makes image much more professional in appearance. dSLRs and many point-and-shoots will allow you calibrate the white balance manually. Many smartphones provide a variety of presets for white balance.
+تتسم مصابيح التنجستين الصغيرة بدرجة حرارة دافئة للغاية، مما يؤدي لتلوين الصورة بلون أكثر اصفرارًا. أما ضوء النهار في يوم غائم فينتج عنه درجة حرارة إضاءة عالية للغاية تؤدي لتلوين الصورة باللون الأزرق. وبالنسبة لمصادر الإضاءة الأخرى مثل ضوء الشمس والإضاءة الفلوريسنت والظلال، فجميعها تقع في درجات حرارة متوسطة. بوجه عام، لا توجد علاقة بين درجة حرارة اللون وقدر الإضاءة.
+
+<hr/>
+
+(
+!4.11.14.a.png (مثال لصورة ملونة بشكل محترف)!
+!4.11.14.b.png (مثال لصورة ملونة بشكل غير مقبول)!
+)
+
+إن التحكم الجيد في الألوان يعد مهمًا للغاية؛ حيث يجعل شكل الصورة أكثر حرفية. تتيح لك الكاميرات الرقمية العاكسة أحادية العدسة والعديد من كاميرات التصوير الفوري التحكم في توازن اللون الأبيض بشكل يدوي. كما تقدم العديد من الهواتف الذكية نطاقًا متنوعًا من الإعدادات المضبوطة مسبقًا فيما يختص بتوازن اللون الأبيض.
 
 <hr/>
 
 h1. الحل
 
-!4.11.15.a.png(Icons for the common white balance options)!
+!4.11.15.a.png (أيقونات خيارات توازن اللون الأبيض المعروفة)!
 
-If your camera allows you to set the white balance manually, do it. Your smartphone may have a button or menu option for white balance. It will offer several icons representing- five or six- common light sources. Pick the one that most represents the shooting conditions you are working under.
+إذا كانت الكاميرا تتيح لك ضبط توازن اللون الأبيض بشكل يدوي، فاضبطه بنفسك. قد يحتوي هاتفك الذكي أيضًا على زر أو خيار قائمة يتيح لك ضبط توازن اللون الأبيض. كما يمكن أن يوفر لك العديد من الأيقونات التي تمثل خمسة أو ستة من مصادر الإضاءة المعروفة. اختر من هذه المصادر الأكثر تناسبًا مع ظروف التصوير التي تعمل بها.
 
 <hr/>
 
-!4.11.16.a.mp4(How to adjust your colors in the Photoshop Express mobile app)!
+!4.11.16.a.mp4 (كيفية ضبط ألوانك في برنامج فوتوشوب إكسبريس التطبيقي المتوفر على الهواتف المحمولة؟)!
 
-If your smartphone cannot control white balance manually, you can correct color with post-production apps (for more on this, see the section on post-production). If the color temperature is way off, it is VERY IMPORTANT to make adjustments before publishing your images.
+إذا لم يكن بإمكان هاتفك الذكي التحكم في توازن اللون الأبيض بشكل يدوي، فيمكنك تصحيح الألوان من خلال التطبيقات التي تأتي محملة على الهواتف المحمولة (لمزيد من المعلومات عن هذا الموضوع، انظر القسم الذي يتناول هذه المنتجات). إذا كانت درجة حرارة اللون عالية للغاية، فمن الضروري للغاية أن تقوم بعمل تعديلات قبل أن تنشر صورك.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-h2. AWB (Auto White Balance)
+h2. التوازن التلقائي للون الأبيض (AWB)
 
-!4.11.17.a.png(A common Auto White Balance icon)!
+!4.11.17.a.png (الأيقونة المعروفة للتوازن التلقائي للون الأبيض)!
 
-Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you’re unsure of which of these is the best to go with.
-
-<hr/>
-
-h2. Daylight
-
-!4.11.18.a.png(A common Daylight White Balance icon)!
-
-Used for shooting outdoors. This setting will give your images a very “cool” or a slight blue tint to them. When shooting indoors, images will have an orange tint.
+يتم استخدام هذه الأيقونة عند التصوير في أي مكان. إن الكاميرا تبذل قصارى جهدها في تخمين الإعداد الصحيح الذي يمكنها استخدامه. وإذا خمنت الكاميرا هذا الإعداد بشكل خاطئ، فسوف تنتج صورًا سيئة. هذا هو الإعداد الذي يجب عليك استخدامه إذا لم تكن متأكدًا من الخيار الأفضل من بين هذه الخيارات.
 
 <hr/>
 
-h2. Cloudy
+h2. ضوء النهار
 
-!4.11.19.a.png(A common Cloudy White Balance icon)!
+!4.11.18.a.png (الأيقونة المعروفة للتوازن التلقائي للون الأبيض في ضوء النهار)!
 
-Used for shooting outdoors. This setting will give your images a slightly “warmer” color to them. While the daylight option is technically the more correct white balance, using the cloudy setting gives a very appealing image.
-
-When shooting indoors, this setting will give your images a strong orange tint.
+يتم استخدامها عند التصوير بالخارج. يمنح هذا الإعداد لصورك لونًا "رائعًا" للغاية أو مائلاً للزرقة بعض الشيء. عند التصوير في الخارج، تكون الصور مائلة للون البرتقالي بعض الشيء.
 
 <hr/>
 
-h2. Incandescent
+h2. الغائم
 
-!4.11.20.a.png(A common Incandescent White Balance icon)!
+!4.11.19.a.png (الأيقونة المعروفة للتوازن التلقائي للون الأبيض في اليوم الغائم)!
 
-Used for shooting indoors, with traditional small light bulbs. When shooting outdoors, images will have a strong blue tint.
+يتم استخدامه للتصوير بالخارج. يمنح هذا الإعداد لصورك لونًا "أكثر دفئًا" بعض الشيء. بينما يعد خيار ضوء النهار الخيار الأصح والأدق لتوازن اللون الأبيض من الناحية الفنية، فإن استخدام إعداد اليوم الغائم يمنحك صورة أكثر جاذبية.
 
-<hr/>
-
-h2. Fluorescent
-
-!4.11.21.a.png(A common Fluorescent White Balance icon)!
-
-For shooting indoors, with the long tube fluorescent lights. When shooting outdoors, images will have a blue tint.
+عند التصوير بالخارج، يضيف هذا الإعداد لصورك لونًا برتقاليًا قويًا.
 
 <hr/>
 
-h1. Quiz
+h2. السطوع
 
-Question 1
-Question:Which best describes what white balance means?
-Answer 1:The amount of light that strikes the sensor.
-Answer 2:The color temperature of the light striking the sensor, ranging from very warm (yellow) to cool (blue).
-Answer 3:The text color of the caption.
-Answer 4:None of the above.
+!4.11.20.a.png (الأيقونة المعروفة لتوازن اللون الأبيض في الإضاءة الساطعة)!
+
+يتم استخدامها للتصوير بالخارج في وجود المصابيح التقليدية والمصابيح الصغيرة. عند التصوير بالخارج، يضفي هذا الإعداد على الصور لونًا أزرق قويًا.
+
+<hr/>
+
+h2. الفلوريسنت
+
+!4.11.21.a.png (الأيقونة المعروفة لتوازن اللون الأبيض في إضاءة الفلوريسنت)!
+
+يتم استخدامها للتصوير بالخارج في وجود الإضاءة الفلوريسنت الطويلة. عند التصوير بالخارج، يضفي هذا الإعداد على الصورة لونًا أزرق.
+
+<hr/>
+
+h1. امتحان موجز
+
+السؤال 1
+Question: ما أفضل وصف لمصطلح "توازن اللون الأبيض"؟
+Answer 1: قدر الضوء الذي يندفع في جهاز الاستشعار
+Answer 2: درجة حرارة اللون الخاصة بالضوء الذي يندفع في جهاز الاستشعار، والتي تتراوح بين درجة دافئة للغاية (أصفر) للدرجة الباردة (أزرق)
+Answer 3: لون نص العنوان
+Answer 4: لا إجابة مما سبق صحيحة.
 Correct Answer: 2
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE: Whenever possible you should always adjust the white balance in the camera or in post production.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: كلما أمكن، يجب عليك دومًا أن تضبط توازن اللون الأبيض في الكاميرا أو في مرحلة ما بعد الإنتاج.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:2
 
 <hr/>
 
-Question 3
-Question:How can you control the white balance with your android smartphone or point and shoot camera? (t can be more than one):
-Answer 1 Manually set the white balance to the icon that best represents the light color conditions under which you are shooting.
-Answer 2:It is a good idea to calibrate with a white piece of paper as video journalists do. 
-Answer 3:Adjust the white balance in post production.
-Answer 4:All of the above.
+السؤال 3
+Question: كيف يمكنك التحكم في توازن اللون الأبيض بهاتفك الذكي الذي يعمل بنظام أندرويد أو في الكاميرات الفورية؟ (يمكن أن تجيب بأكثر من إجابة واحدة)
+Answer 1: تضبط توازن اللون الأبيض بشكل يدوي على الأيقونة التي تتواءم مع ظروف الألوان المناسبة للإضاءة التي تصور فيها.
+Answer 2: إنها لفكرة جيدة أن تضبط هذا التوازن باستخدام ورقة بيضاء مثلما يفعل مصورو الفيديو.
+Answer 3: أن تضبط توازن اللون الأبيض في مرحلة ما بعد الإنتاج.
+Answer 4: كل ما سبق
 Correct Answer:1,3
 
 <hr/>
 
-Question 4
-Question:How might you correct the white balance in the image shown here?
+السؤال 4
+Question: كيف يمكنك تصحيح توازن اللون الأبيض في الصورة الموضحة هنا؟
 
-NEED MULTIPLE CHOICE ANSWERS
+الحاجة للانتقاء من الاختيارات المتعددة

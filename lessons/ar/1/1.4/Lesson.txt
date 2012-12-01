@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. What are some basic techniques for getting the most out of an interview?
+h2. ما أكثر الطرق الأساسية شيوعًا لتحقيق الاستفادة القصوى من المقابلات؟
 
 !1.4.1.png!
 
@@ -8,15 +8,15 @@ h2. What are some basic techniques for getting the most out of an interview?
 
 h1. خلفية
 
-Interviewing well is a learned skill. In the last section you learned about identifying sources and the different kind of information they are best qualified to provide. In this section we will discuss how to approach your subject or source to get the information you need on the record.
+يعد إجراء المقابلات بصورة متميزة من المهارات التي يتم اكتسابها وتعلمها. في القسم الأخير، تعرفت على كيفية تحديد المصادر والأنواع المختلفة من المعلومات الصالحة بشكل جيد لتقديمها. أما في هذا القسم، فسوف نتطرق لمناقشة كيف يمكنك أن تلفت انتباه مصدر معلوماتك إلى أن يأتي لك بالمعلومات التي تحتاجها.
 
 <hr/>
 
-Some interviews can be pre-arranged. Some are quick, unplanned and done at the scene. Good reporters often have established contacts -- Experts such as informational sources or an authoritative voices -- they can call for an interview on short notice in the event of breaking news or a tight deadline.
+بوجه عام، يمكن التخطيط لبعض المقابلات بشكل مسبق. بيد أن بعضها يكون سريعًا وغير مخطط له ويتم إجراؤه على الفور. في الغالب الأعم، سيكون لدى المراسلين المحترفين جهات اتصال محددة – أي خبراء مثل المصادر المعلوماتية أو أحد الأشخاص الرسميين – يتصلون بهم لإجراء مقابلة موجزة معهم في حالة الأخبار العاجلة أو في حالة عدم توافر الوقت الكافي أمامهم.
 
 <hr/>
 
-The type of story you are doing and the circumstances of the interview will impact your techniques and ability to apply the principles introduced here. It is important to note that recording interviews, has special requirements; you need to be sure you have useable recorded material. This will be covered in the audio and video modules.
+مما لا شك فيه أن نوع القصة التي تقوم بعملها والظروف المحيطة بالمقابلة يؤثران على الطرق التي ستتبعها وقدرتك على تطبيق المفاهيم المطروحة هنا. من الضروري أن تلاحظ أن تسجيل المقابلات له متطلبات خاصة؛ فأنت بحاجة إلى أن تكون متأكدًا من امتلاكك للمادة المسجلة المفيدة. وهذا ما سوف نتطرق لمناقشته في نماذج المقاطع الصوتية ومقاطع الفيديو.
 
 <hr/>
 
@@ -24,111 +24,128 @@ h1. الحل
 
 !1.4.5.png!
 
-Remember: the type of sources you are interviewing and the role they will play in your coverage will impact the kinds of questions you ask. The amount of time you have will also affect how you conduct your interview.
+تذكر: يؤثر نوع المصادر التي تجري معها المقابلات والدور الذي سيكون لهم في تغطيتك على أنواع الأسئلة التي ستطرحها. كما يؤثر الوقت المتوفر أمامك على كيفية إجراءك للمقابلة.
 
 <hr/>
 
-!1.4.6.png(Example of well prepared notes for an interview)!
+h2. كن مستعدًا
 
-h2. Be prepared
+ابحث الموضوع جيدًا قبل أن تجري المقابلة إن أمكن. سوف يجعلك هذا الأمر تطرح أسئلة أفضل وأكثر علاقة بالموضوع الذي تناقشه. كما سيساعدك على معرفة بعض المعلومات عن الشخص الذي تجري معه المقابلة.
 
-Do some research before the interview when possible. You will ask better, more relevant questions. It helps to know a bit about the person you are interviewing.
+h2. عرّف نفسك بأنك صحفي
 
-h2. Identify yourself as a journalist
+في العديد من المواقف، سوف يكون هذا الأمر واضحًا، بيد أنه لا يكون كذلك في جميع المواقف والحالات. يعد هذا الأمر صحيحًا على وجه الخصوص بالنسبة للمقابلات التي تعقد عبر الإنترنت. إن هذا الأمر مهم للغاية من الناحية الأخلاقية والمهنية، على الرغم من وجود بعض الاستثناءات له (لمزيد من المعلومات حول هذا الأمر، انظر القسم 8 الذي يتناول المعايير الأخلاقية والمهنية).
 
-In many situations this will be obvious, but not in all situations. This is especially true online. It is ethically and professionally very important to do this, though there are some exceptions (more on this see section 8 on professional standards and ethics).
+اجعل الشخص الذي تجري معه المقابلة يعلم إذا ما كنت أنت أو صحفي آخر سوف يستخدم الكاميرا في التقاط بعض الصور أو تصوير بعض مقاطع الفيديو – فلا يجب أن تصوره فجأة أو دون أن يكون مستعدًا لذلك.
 
-Let the subject know if you or another journalist will be using a camera to record photos or video - The subject should not be caught surprised or unprepared.
+h2. جهز بعض الأسئلة الاستهلالية
 
-h2. Prepare some introductory questions
-
-It is always a good idea to have some basic questions prepared. It saves time and keeps the interview focused.
+إنها لفكرة جيدة دومًا أن تعد بعض الأسئلة الأساسية؛ حيث يوفر ذلك عليك الوقت ويزيد من تركيز المقابلة التي تجريها.
 
 <hr/>
 
-h2. Record the interview
+*Example of well prepared notes for an interview:*
 
-When possible, record your interview. It often will be more accurate than your notes. It also gives you proof of what was said. Take notes too, because equipment can fail.
+Intro or warm-up questions (asked early to make the subject comfortable because they are easy and impersonal questions):
+* What is your full name (and title) as you would like it for the article?
+* Where did you study?
+* What are the materials you use and why do you use them?
 
-h2. Interview in person
+Main interview questions (this is where you collect the most interesting and useful information)
+* How do you describe the purpose of your work to others?
+* What are some of the influences or inspirations for your artwork?
+* How did the revolution influence the themes and subjects that your artwork addresses?
+* What role do artists play in the new Egypt? 
 
-While this is not always possible in the online world, it is a good idea to meet someone in person when doing an interview. It is harder for people to be unresponsive or avoid answering questions.
-
-<hr/>
-
-!1.4.8.mp4(Example of a beginning of an interview)!
-
-h2. Have a one-sentence explanation of your story for your sources
-
-You need to make it clear to your subject what your story is about. This will help them stay focused and give you relevant answers.
-
-h2. Start with basic questions
-
-Depending on the amount of time you have, it is important to start with basic, safe questions. Help people get comfortable before you begin asking more emotionally difficult or challenging questions. It may help to give people some information about yourself.
+Closing questions (This is often where you ask the most difficult or revealing questions, along with the final question below)
+* Your critiques say you are little more than street graffiti artist or simple illustrator. How do you respond to these criticisms?
+* Is there anything else you would like to add or that you think is important for readers to know?
 
 <hr/>
 
-!1.4.9.mp4(Example of how to control an interview, probe and clarify)!
+h2. سجّل المقابلة
 
-h2. Control the interview
+كلما أمكن، سجل المقابلة التي تجريها. في الغالب الأعم، يساعدك ذلك في أن تكون أكثر دقة في تسجيل ملاحظاتك، كما إنه دليل على ما قيل في المقابلة. دوّن بعض الملاحظات أيضًا، فالأجهزة من الممكن أن تتعطل في أي وقت.
 
-Sometimes people have expectations for your interview that are different than your own. Politicians frequently try to turn an interview to subjects important to them. Private citizens unfamiliar with the interview process often talk about things irrelevant to the topic. You need to be polite but firm in controlling the interview. Monologues are never as informative as interviews consisting of questions and short, relevant answers.
+h2. اجعل المقابلة شخصية
 
-h2. Don’t rush the answer
-
-While it is important to control the pace of the interview, it’s important to let people complete a thought. People will sometimes try and fill an awkward silence by saying more -- sometimes more than they should!
-
-h2. Probe and clarify
-
-Sometimes subjects are not good at answering questions clearly. Other times they are intentionally trying to avoid answering a question. In either case you can ask your question a different way. Sometimes it helps to restate the answer to the subject: “so, you are saying that...” as a way to confirm an answer. With politicians it may help to ask a more general version of a question if they refuse to answer it specifically.
+على الرغم من أن هذا الأمر غير ممكن دومًا في عالم الإنترنت، فإنها لفكرة جيدة أن تجري المقابلة مع الشخص بصفة شخصية. ففي هذه الحالة، يصعب على الأشخاص الذين تجري معهم المقابلة أن يكونوا غير متجاوبين، كما يصعب عليهم تجنب الإجابة على الأسئلة التي ستطرحها عليهم.
 
 <hr/>
 
-!1.4.10.mp4(Example of asking a sensitive question and ending an interview)!
+!1.4.8.mp4 (مثال لبدء إجراء مقابلة)!
 
-Save sensitive questions for the end - As a reporter you need to be tough. You have to ask the difficult questions and get answers. A good strategy for this is to save the most challenging questions for last. This way you still have material if the subject is angered by your question.
+h2. اعرض توضيحًا مكونًا من جملة واحدة لقصتك للشخص الذي تقابله
 
-Ending the interview - It is always a good idea to end the interview with two questions: 1) “Is there anything else you would like to say?” This gives the subject the opportunity to give you information important to them or answer questions you did not think to ask. And, 2) “Can I contact you if I have any more questions?” This will allow you to follow-up in the event you or an editor need to clarify something or there is a development in the story to which you need a response.
+يجب أن توضح للشخص الذي تقابله الموضوع الذي تدور حوله قصتك. سوف يساعدك هذا الأمر على التركيز ويجعلك تحصل على إجابات ذات علاقة بقصتك.
+
+h2. ابدأ بالأسئلة الأساسية
+
+بالاعتماد على قدر الوقت المتاح أمامك، يعد من الضروري أن تبدأ بالأسئلة الأساسية الآمنة. ساعد الأشخاص على الشعور بالارتياح قبل أن تبدأ في طرح الأسئلة التي تعد صعبة من الناحية العاطفية أو تمثل تحديًا أمامهم. قد يفيدك أيضًا أن تقدم للأشخاص بعض المعلومات عن نفسك.
+
+<hr/>
+
+!1.4.9.mp4 (مثال لكيفية التحكم في المقابلة: الاستقصاء والتوضيح)!
+
+h2. تحكم في المقابلة
+
+في بعض الأحيان، يكون لدى الأشخاص توقعاتهم بشأن مقابلتك، وقد تكون مختلفة عن التوقعات الخاصة بك. في الغالب الأعم، يحاول السياسيون تحويل المقابلة للموضوعات التي تعد مهمة بالنسبة لهم. أما المواطنون غير المعتادين على إجراء المقابلات، فغالبًا ما تجدهم يتحدثون عن أمور لا علاقة لها بالموضوع. لذا، لا بد أن تتحلى بالأدب والأخلاق مع التحلي بالحزم في الوقت نفسه لتتمكن من التحكم في المقابلة. بوجه عام، لا تقدم الأحاديث الفردية الكثير من المعلومات؛ حيث إنها تتألف من أسئلة وإجابة مختصرة ومرتبطة بالموضوع.
+
+h2. لا تتعجل الحصول على الإجابة
+
+على الرغم من أنه من الضروري أن تتحكم في وتيرة المقابلة، فإنه من الضروري أن تتيح للأشخاص الوقت الكافي والتام للتفكير في إجابات أسئلتك. سوف يحاول الأشخاص في بعض الأحيان ملء الفراغ والصمت من خلال قول المزيد من المعلومات – وأحيانًا ما تكون أكثر مما يجب أن يقولونه بالفعل!
+
+h2. استقص ووضح
+
+في بعض الأحيان، لن يجيب الأشخاص على الأسئلة بوضوح. وفي أحيان أخرى، يحاولون عن عمد تجنب الإجابة عن سؤال ما. في كلتا الحالتين، تستطيع طرح سؤالك بطريقة مختلفة. يساعدك هذا الأمر أحيانًا على إعادة تكرار الإجابة على الشخص الذي تقابله: "حسنًا، لقد كنت تقول أن ...." كوسيلة للتأكيد على الإجابة. بالنسبة للسياسيين، قد يساعد هذا الأمر على طرح شكل أكثر عمومية للسؤال إذا ما رفضوا الإجابة عن سؤال معين على وجه الخصوص. 
+
+<hr/>
+
+!1.4.10.mp4 (مثال على طرح سؤال حساس وإنهاء المقابلة)!
+
+احتفظ بالأسئلة الحساسة لنهاية المقابلة – إنك بحاجة كمراسل إلى أن تكون مشاكسًا. لا بد أن تطرح الأسئلة الصعبة وتحصل على إجابات لها. من الطرق الجيدة لذلك أن تحتفظ بالأسئلة الأكثر تحديًا للنهاية. بهذا الشكل، سيزال بإمكانك الاحتفاظ بمادة المقابلة إذا ما غضب الشخص الذي تقابله من السؤال الذي طرحته. 
+
+إنهاء المقابلة – إنها لفكرة جيدة دومًا أن تنهي المقابلة بسؤالين هما: 1) "هل هناك ما تود أن تضيفه؟" سوف يتيح هذا السؤال للشخص الذي تقابله فرصة إعطائك معلومات مهمة أو الإجابة عن أسئلة لم تفكر أنت نفسك في طرحها. هناك أيضًا السؤال 2) "هل يمكنني الاتصال بك إذا ما كان لدي المزيد من الأسئلة؟" سوف يتيح هذا السؤال لك متابعة الحدث الذي ترغب أنت أو أحد المحررين في استبيانه أو متابعة حدوث أية تطورات ترغب في الاستفسار عنها في قصتك. 
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-The most common challenge to a good interview is time and a reluctant or difficult subject.
+إن التحدي الأكثر شيوعًا للمقابلة الجيدة يتمثل في الوقت والشخص المعارض أو الممتعض.
 
-* Prioritize your questions and identify the single, most essential bit of information you need from a subject.
-* Get to the most important question quickly in the interview.
-* If the subject is difficult because they are uncomfortable or difficult because there is something they don’t want to tell you, an interview can sometimes become a negotiation.
-* As a reporter you have to be tough but fair.
-* Sometimes sources recognize that a “no comment” response or vague response to question will make them look worse in the press than a straight answer. You may choose to point this out. 
-* Your story will be more interesting if your interviews for it include people with opposing points of view.
+* ضع أولويات لأسئلتك وحدد الجزء الأهم من المعلومات التي تحتاج للحصول عليها من الشخص الذي تجري معه المقابلة.
+* انتقل للسؤال الأكثر أهمية بسرعة في المقابلة.
+* إذا كان الشخص صعب المراس نظرًا لعدم شعوره بالارتياح أو نظرًا لوجود أمور ما لا يرغب في الإفصاح عنها، فمن الممكن أن تتحول المقابلة في بعض الأحيان إلى نوع من التفاوض.
+* كمراسل، يجب أن تكوم حازمًا ولكن منصفًا.
+* في بعض الأحيان، يدرك الأشخاص الذين تجري معهم المقابلة أن الإجابة بـ "لا تعليق" أو الإجابة غير الواضحة على أحد الأسئلة سوف تسيء إلى شخصهم في الصحافة بشكل أكثر من تقديم إجابة واضحة. لذا، قد تفضل هنا أن توضح هذا الأمر.
+* سوف تصبح قصتك أكثر تشويقًا إذا ما تضمنت مقابلاتك أشخاصًا ذوي وجهات نظر متعارضة.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What are some things you might do if you are interviewing someone reluctant to talk
-Answer 1:Move to your most essential questions more quickly
-Answer 2:Ask why the subject is reluctant and see if a solution can be negotiated
-Answer 3:With a public figure you might point out that a “no comment” will make him look bad
-Answer 4:All of the above
+السؤال 1
+Question: ما بعض الأمور التي يمكنك فعلها إذا كنت تقابل شخصًا لا يريد التحدث؟
+Answer 1: تنتقل لأكثر الأسئلة أهمية بسرعة.
+Answer 2: تسأل عن السبب وراء معارضته للتحدث وتحاول التوصل لحل لها.
+Answer 3: عند مقابلة شخصية عامة، قد تشير إلى أن الإجابة بـ "لا تعليق" سوف تسيء لشخصه في الصحافة.
+Answer 4: كل ما سبق
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE if a subject is reluctant to answer an important question, rather than restate the question differently or try and push the issue by probing, you should drop it.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: إذا كان الشخص الذي تجري معه المقابلة ممانعًا في الإجابة عن سؤال مهم، ينبغي عليك تجاهل هذا السؤال بدلاً من أن تعيد صياغته بشكل مختلف أو تحاول بأي شكل ممكن أن تدفعه للإجابة عليه من خلال التحقيق معه.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:Here are some things to NEVER do in an interview
-Answer 1:Let things fall silent for an awkward period of time
-Answer 2:Explain what the story is about
-Answer 3:At the end of the interview ask the subject if he or she has anything to add
-Answer 4:None of the above
+السؤال 3
+Question: إليك فيما يلي بعض الأمور التي لا ينبغي عليك مطلقًا فعلها عند إجراء المقابلات:
+Answer 1: تصمت لفترة من الوقت.
+Answer 2: توضح الموضوع الذي تدور حوله قصتك.
+Answer 3: في نهاية المقابلة، تسأل الشخص الذي تقابله عما إذا كان لديه ما يود إضافته.
+Answer 4: لا إجابة مما سبق صحيحة
 Correct Answer:4

@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. How do I create shot lists?
+h2. كيف أنشئ قوائم اللقطات؟
 
 !5.9.1.a.png!
 
@@ -8,7 +8,7 @@ h2. How do I create shot lists?
 
 h1. خلفية
 
-Only rarely is video edited together in the same order in which it was recorded. To more effectively use time and keep yourself organized, it’s best to have a clear plan before you begin recording your story. A list of all the shots you need in order to assemble your story is a great way to organize this plan.
+في حالات نادرة فقط، يتم تحرير الفيديو بنفس الترتيب الذي تم تسجيله به. ولكي تستخدم الوقت بكفاءة وتعمل بطريقة منظمة، من الأفضل أن يكون لديك خطة واضحة قبل أن تبدأ في تسجيل مادتك. ومن الطرق الجيدة لتنظيم هذه الخطة إعداد قائمة بجميع اللقطات التي تحتاج إليها لتجميع مادتك.
 
 <hr/>
 
@@ -16,73 +16,73 @@ h1. الحل
 
 !5.9.3.a.png!
 
-Think of the shot list functioning the same as a grocery list when you go to the market.
+فكر في قائمة اللقطات وكأنها قائمة بالأشياء التي ستشتريها عندما تذهب إلى السوق.
 
-It’s quite helpful to write out your story in plain text. Imagine all of the the different subjects, what actions will occur, and any other elements you think are important to record to completely show your story. It’s important to be as specific as possible.
-
-<hr/>
-
-h2. Write it out
-
-Once you have all your story elements, you can then start imagining what different shots you need to record. This is a good time to review the five basic shots. Consider what each of them do well, and how you can use them to frame the different story elements.
+ومن المفيد تماما أن تكتب سيناريو مادتك. تخيل جميع الموضوعات المختلفة والأفعال التي ستحدث وأي عناصر أخرى ترى أنه من المهم تسجيلها لعرض مادتك بشكل كامل. ومن المهم أن تكون محددا بقدر الإمكان.
 
 <hr/>
 
-h2. Shot list
+h2. دوّنها
+
+بمجرد أن تتوفر لديك جميع عناصر مادتك، يمكنك حينها أن تبدأ في تخيل اللقطات المختلفة التي ستحتاج إلى تسجيلها. ومن المفيد الآن أن تراجع اللقطات الخمس الأساسية. فكر فيما تفيد فيه كل منها وكيف تستطيع استخدامها لوضع إطار لعناصر المادة المختلفة.
+
+<hr/>
+
+h2. قائمة اللقطات
 
 !5.9.5.a.png!
 
-With a piece of paper, create a three column list. The first column should be “Shot Type”, the second should be “Description”, and the third should be “Story Elements”.
+أحضر ورقة واكتب قائمة من ثلاث أعمدة عنوان العمود الأول "نوع اللقطة" وعنوان الثاني "الوصف" وعنوان الثالث "عناصر اللقطة".
 
 <hr/>
 
-h2. Fill In the details
+h2. اكتب التفاصيل
 
 !5.9.6.a.png!
 
-Fill in all the shots you think you need. Be specific, but do not hesitate to write down a lot of shots. This is a guideline to help you focus when you are recording. Sometimes what you write down will not be possible, that’s quite alright.
+اكتب تفاصيل جميع اللقطات التي ترى أنك ستحتاج إليها. كن دقيقًا، لكن لا تتردد في تدوين الكثير من اللقطات. وهذه النصيحة ستفيدك في التركيز عند التسجيل. وقد لا يكون ما تكتب تفاصيله ممكنا في بعض الأحيان، لكن لا مشكلة في ذلك.
 
-Now, for every shot, list out the specific shot type you think will work best. Fill in as much description you can think of, and decide what story elements you need in that frame.
+والآن، قم بفرز أنواع اللقطات التي ترى أنها الأكثر فائدة. واكتب أكبر قدر ممكن من التفاصيل وحدد عناصر المادة التي ستحتاج إليها في ذلك الإطار.
 
-Be as specific as possible with all of this information. When you are recording you will be distracted by other activity. Plan as much as possible before you start to obtain the surest path to success.
+كن دقيقَا قدر الإمكان فيما يتعلق بهذه المعلومات كلها، فأثناء التسجيل سوف تشتت أنشطة أخرى انتباهك. خطط لأكبر قدر مما ستقوم به قبل أن تبدأ لتكون واثقا من تحقيق النجاح.
 
-Write all of this information as if you are not the person filming it. If someone besides you can understand the shots you want, you know you have a good shot list.
+اكتب هذه المعلومات كلها وكأنك لست أنت الذي سيقوم بالتصوير. فإذا كان غيرك يستطيع فهم اللقطات التي تريدها، فاعلم أن قائمة اللقطات التي أعددتها جيدة.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-* Shot lists are like an artists notebook, you keep your ideas in them, but when you're shooting they often change.
-* Don't get stuck making your descriptions perfect.
-* More ideas are often better for a shot list.
-* As you have more and more practice shooting stories, shot lists will become easier to develop.
+* قوائم اللقطات مثل دفتر الفنان، فأنت تحتفظ بأفكارك فيها لكنك كثيرا ما تقوم بتغييرها أثناء تسجيل اللقطات.
+* لا تجعل الحرص على إتقان وصف اللقطات يشل حركتك.
+* كلما زادت الأفكار كان أفضل لقائمة اللقطات.
+* مع تدربك أكثر وأكثر على تسجيل المواد ستصبح عملية إعداد قوائم اللقطات أسهل وأسهل.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What makes up a shot list?
-Answer 1:Weather
-Answer 2:Shot Type
-Answer 3:Description
-Answer 4:Story Elements
+السؤال 1
+Question: ما الذي تتضمنه قائمة اللقطات؟
+Answer 1: الطقس.
+Answer 2: نوع اللقطات.
+Answer 3: الوصف.
+Answer 4: عناصر المادة.
 Correct Answer:2,3,4
 
 <hr/>
 
-Question 2
-Question:When writing a shot list I should be?
-Answer 1:As specific as possible.
-Answer 2:as vague as possible.
-Answer 3:confused.
-Answer 4:unclear.
+السؤال 2
+Question: عند كتابة قائمة لقطات يجب أن أكون:
+Answer 1: دقيقا بقدر الإمكان.
+Answer 2: غامضا بقدر الإمكان.
+Answer 3: مرتبكا.
+Answer 4: غير واضح.
 Correct Answer:1
 
 <hr/>
 
-Question 3
-Question:True or False, it’s helpful to write your story out in plain text?
-Answer 1:True
-Answer 2:False
+السؤال 3
+Question: صح أم خطأ: من المفيد كتابة سيناريو للمادة
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:1

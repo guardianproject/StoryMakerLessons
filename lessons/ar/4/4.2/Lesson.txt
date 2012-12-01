@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. What are some basic principles of good photo composition?
+h2. ما بعض المبادئ الأساسية للتصوير الجيد للصور؟
 
 !4.2.1.a.png!
 
@@ -8,25 +8,25 @@ h2. What are some basic principles of good photo composition?
 
 h1. خلفية
 
-Photography, borrows a lot from painting. The best photos are composed so the subject of the image is framed well and the purpose of the photo is clear. Good color and the relationship between the dominant shapes in a frame -- the elements of the picture your eye looks at first -- are important to good composition. How light is used is extremely important.
+إن التصوير يحمل كثيرًا بين طياته من سمات وصفات الرسم. وأفضل الصور يتم تصويرها بحيث يكون موضوع الصورة مضبوطًا بشكل جيد داخل الكادر ويكون الغرض من هذه الصورة واضحًا. كما أن الألوان الجيدة والعلاقة بين الأشكال المهيمنة داخل كادر ما – أي مكونات الصورة التي تقع عينيك عليها للوهلة الأولى – تعد مهمة للغاية في التصوير الجيد. كذلك، تمثل كيفية استخدام الإضاءة قدرًا كبيرًا من الأهمية.
 
 <hr/>
 
-!4.2.3.a.png(Example of a photo that provides context and action)!
-!4.2.3.b.png(Example of a photo that provides context and action)!
+!4.2.3.a.png (مثال لصورة تتيح السياق والحركة)!
+!4.2.3.b.png (مثال لصورة تتيح السياق والحركة)!
 
-When taking photographs of a news event it’s important to remember that the viewer of photos can’t see the totality of the scene as you can. They can’t know what you don’t show them. The world can look very different in a photograph. Strong photojournalists capture not just the drama and action of an event in their images, but include visual elements that provide context as to location and the causes of the event being photographed. This requires you to ‘think visually,’ which can be a challenge for even the best journalists.
+عند التقاط صور من أجل حدث إخباري، من الضروري أن تتذكر أن مشاهد هذه الصور لا يمكنه أن يرى المشهد في مجمله كما تراه أنت. كما أنه لا يمكن أن يعلم ما لم تعرضه له. إن العالم يمكن أن يبدو مختلفًا للغاية في صورة ما، والمصورون الصحفيون المحترفون لا يلتقطون الحدث فحسب في صورهم، بل إنهم يضمنون فيه العناصر المرئية التي ترتبط بمكان وأسباب الحدث الذي يصورونه. يتطلب هذا الأمر "التفكير بشكل مرئي"؛ وهذا ما يمكن أن يمثل تحديًا حتى أمام أفضل الصحفيين.
 
 <hr/>
 
 h1. الحل
 
-Rule of Thirds
+قاعدة التثليث
 
 !4.2.4.a.png!
-caption:Rule of Thirds
+caption:قاعدة التثليث
 
-The foundation of good composition is the rule of thirds (see illustration). The rule of thirds breaks down the frame into nine equal rectangles. Many smartphones will allow you to display the rule of thirds grid over the camera display.
+إن أساس التصوير الجيد يتمثل في قاعدة التثليث (انظر الشكل). لمزيد من التوضيح، تقسم قاعدة التثليث الكادر إلى تسعة مستطيلات متساوية في الحجم. وتتيح لك العديد من أنواع الهواتف الذكية عرض شبكة قاعدة التثليث على شاشة الكاميرا.
 
 <hr/>
 
@@ -34,78 +34,78 @@ The foundation of good composition is the rule of thirds (see illustration). The
 !4.2.5.b.png!
 !4.2.5.c.png!
 
-Good photographers compose along the intersections of lines in the frame and work to use each of the nine rectangles to tell their story. Amateurs tend to place the subject in the middle of the frame and ignore the remaining space rather than use it to make a more compelling image.
+يلتقط المصورون المتميزون صورهم على امتداد شبكة الخطوط المتقاطعة في الكادر، ويستخدمون كل مستطيل من المستطيلات التسعة ليروون من خلالها قصصهم. أما الهواة، فيميلون لوضع العنصر في منتصف الكادر ويتجاهلون المساحة الباقية بدلاً من أن يستفيدوا منها لالتقاط صورة جذابة أكثر.
 
 <hr/>
 
-Layering 
+إنشاء الطبقات 
 
-!4.2.6.a.png(Example of a photo with a clear foreground, middleground and background)!
+!4.2.6.a.png (مثال لصورة ذات أمامية ووسط وخلفية واضحة)!
 
-Another important principle for good composition is called layering. Creating distinct layers in your frame: foreground, middleground and background helps you tell clearer, more complex visual stories with your photography. You might chose to place your subject, a farmer whose fields are barren because of drought, frame left in the foreground and his dried up empty field in the background. This will give the image a clear subject layer (foreground) and context (background layer).
-
-<hr/>
-
-!4.2.7.a.png(Example of a photo using edges)!
-
-In a well-composed photograph important shapes or information complete themselves in the frame. The cook’s hands are not cut off awkwardly. The personnel carrier that provides context to the picture in the background layer isn’t chopped in half at the edge of the frame. Photographers call this working the edges. Shapes like door frames or trees or objects of strong color are used to define the edge of the frame by allowing them to resolve within it.
+هناك مفهوم مهم آخر للتصوير الجيد، وهو الذي يعرف باسم "إنشاء الطبقات". لمزيد من التوضيح، تساعدك عملية إنشاء طبقات متميزة في كادرك؛ مثل الأمامية والوسط والخلفية، على سرد أحداث مرئية أوضح وأكثر تطورًا من خلال ما تصوره. قد تختار أن تضع العنصر الذي تصوره؛ كأن يكون مزارعًا أجدبت حقوله بسبب الجفاف، على الكادر الأيسر في الأمامية وتضع الحقل الجاف الخالي في الخلفية. سوف يمنح هذا الأمر لصورتك طبقة عنصر واضحة (أمامية) وسياق واضح (طبقة خلفية).
 
 <hr/>
 
-Peak Action 
+!4.2.7.a.png (مثال لصورة تستخدم الحواف)!
 
-!4.2.8.a.png(Interview with a photographer who discusses using composition on assignment)!
+في الصور المصورة بشكل جيد، تكمل الأشكال أو المعلومات المهمة نفسها بنفسها داخل الكادر. فأيدي الطاهي لا تكون مقطوعة بشكل غير ملائم، والحافلات التي تعطي سياقًا ومعنىً للصورة في طبقة الخلفية غير مقسومة لنصفين عند حافة الكادر. بوجه عام، يطلق المصورون على هذا الأمر اسم "ضبط الحواف". فالأشكال مثل أطر الأبواب أو الأشجار أو العناصر ذات الألوان القوية تستخدم لتحديد حافة الكادر من خلال جعلها تتلاشى داخلها.
 
-A final key element to good photography is timing. The most powerful photographs are taken at the split second when all the compositional elements come together and the action in the scene is at its most dramatic. This is called the moment of peak action. The best photographers have great anticipation. They will often set up to take advantage of key compositional elements and then wait for the moment of peak action. 
+<hr/>
 
-A little care in composition and thoughtfulness about the information you need to convey to tell the story will go a long way toward making better photographs.
+عمل الذروة 
+
+!4.2.8.a.png (مقابلة مع مصور يناقش استخدام التصوير في التقييم)!
+
+يعد التوقيت عنصرًا أساسيًا نهائيًا للتصوير الجيد. يهتم أكثر المصورين كفاءة وحرفية بتقسيم الثانية عندما تجتمع جميع المكونات التركيبية معًا وتصل الحركة في المشهد إلى ذروتها. يطلق على هذه اللحظة اسم "عمل الذروة". وعادة ما يكون لدى أفضل المصورين حدس رائع. وغالبًا ما يكونون مستعدين للاستفادة من المكونات التركيبية الأساسية يليه الانتظار إلى أن تحين لحظة عمل الذروة. 
+
+إن الاهتمام البسيط بتكوين الصور والتفكير في المعلومات التي تريد توصيلها لتسرد حدثًا ما سوف يساعدك كثيرًا في أن تلتقط صورًا أفضل.
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-Perhaps the biggest thing to remember for citizen journalists is learning to think visually. This is about more than just composition. It is about thinking through how to give strong visual expression to your story. This begins with investing yourself in taking better photographs. Many reporters who take photos and citizen journalists tend to think of the photography as an afterthought. They report their story and then snap a couple pictures at the end. Good photography takes time. You need to plan for it and think through how you will get the kinds of images that really capture the essence of a story and move viewers emotionally.
+ربما يكون أهم أمر يجب أن يتذكره الصحفيون الهواة دومًا هو ذلك الذي يتمثل في التفكير بشكل مرئي. إن الأمر هناك يتعلق بأكثر من مجرد تكوين الصور، أنه يتعلق بالتفكير في كيفية تقديم تعبير مرئي قوي في سرد الحدث. ويبدأ هذا الأمر بالاستفادة من نفسك في التقاط صور أفضل. إن العديد من المراسلين الذي يلتقطون الصور والصحفيين الهواة يميلون للتفكير في التصوير باعتباره فكرة لاحقة. فتجدهم يسردون أحداثهم وقصصهم ثم يلتقطون صورة أو اثنتين في النهاية. أما المصورون المتميزون، فيأخذون وقتهم في هذا الأمر. عليك أن تخطط من أجل التصوير وتفكر في الكيفية التي ستلتقط من خلالها أنواع الصور التي تسرد حقًا أساس الحدث وتحرك مشاعر المشاهدين.
 
 <hr/>
 
 !4.2.10.a.png!
 
-Another thing to remember is safety. A reporter can stand at the edge of a potentially dangerous scene. A photographer needs to get close to take a good picture. News photographer are always balancing safety against the need to make very compelling images.
+من الأمور الأخرى التي ينبغي عليك أن تتذكرها هو الأمان. فالمراسل يمكن أن يقف على حافة حدث به خطر محدق. كما يحتاج المصور إلى أن يكون قريبًا بالقدر الذي يسمح له بالتقاط صورة جيدة. بوجه عام، يوازن مصورو الأخبار دومًا بين الأمان والحاجة لالتقاط صور أكثر إقناعًا.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
-Question 1
-Question:What does thinking visually mean (it can be more than one)?
-Answer 1:Planning your story from the outset for good visual content.
-Answer 2:Devoting time to getting good images.
-Answer 3:Understanding how telling visual stories is more than merely translating what you would report and write.
-Answer 4:None of the above.
+السؤال 1
+Question: ما معنى التفكير بشكل مرئي (قد يكون له أكثر من معنى)؟
+Answer 1: التخطيط لقصتك من البداية للحصول على محتوى مرئي جيد.
+Answer 2: تخصيص وقت لالتقاط صور جيدة.
+Answer 3: فهم واستيعاب أن سرد أحداث القصص المرئية يعد أكثر من مجرد ترجمة لما تريد الإخبار عنه وكتابته.
+Answer 4: لا إجابة مما سبق صحيحة
 Correct Answer:1,2,3
 
 <hr/>
 
-Question 2
-Question:TRUE of FALSE: A picture should be well organized. A good way to do this to have only a single, posed subject and put it in the middle of your frame.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: يجب أن تكون الصورة منظمة على نحو جيد. والطريقة المناسبة لعمل ذلك تتمثل في أن يكون أمامك عنصر ثابت واحد فقط وتجعله في منتصف كادرك.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:2
 
 <hr/>
 
-Question 3
-Question:Which of the following a basic principles of photography for good composition.
-Answer 1:The rule of thirds.
-Answer 2:Working the edges.
-Answer 3:Working the Layers.
-Answer 4:All of the above.
+السؤال 3
+Question: أي مما يلي يعد مفهومًا أساسيًا لالتقاط الصور الجيدة؟
+Answer 1: قاعدة التثليث 
+Answer 2: ضبط الحواف
+Answer 3: ضبط الطبقات
+Answer 4: كل ما سبق
 Correct Answer:4
 
 <hr/>
 
-Question 4
-Which of these images is properly exposed?
-Answer 1:!4.2.13.a.png!
-Answer 2:!4.2.13.b.png!
-Answer 3:!4.2.13.c.png!
+السؤال 4
+أي من الصور التالية تم تعريضها على نحو سليم؟
+Answer 1: !4.2.13.a.png!
+Answer 2: !4.2.13.b.png!
+Answer 3: !4.2.13.c.png!

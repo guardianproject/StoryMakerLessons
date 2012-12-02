@@ -1,4 +1,4 @@
-h1. Problem Statement
+h1. بيان بالمشكلة
 
 h2. Some stories are best told through multiple photographs as a photo essay.. What are some basic principles for shooting photographs that will work well together as a set?
 
@@ -6,7 +6,7 @@ h2. Some stories are best told through multiple photographs as a photo essay.. W
 
 <hr/>
 
-h1. Background
+h1. خلفية
 
 
 
@@ -58,7 +58,7 @@ A good photo essay can be a remarkably strong tool to document and dramatize a n
 
 <hr/>
 
-h1. Solution
+h1. الحل
 
 Every photo essay needs structure and a clear point. An essay can be structured one of two ways: a narrative story or a series. Aim for 8 to 20 images in your final edit. You may need to shoot a lot more to get that many useable pictures.
 
@@ -247,13 +247,13 @@ You don't need to make every image in series EXACTLY like the others. Sometimes 
 
 <hr/>
 
-h1. Things to Remember
+h1. أشياء يجب أن تتذكرها
 
 The biggest thing to remember for full-time photojournalists and citizen journalists telling a multimedia story is shooting enough images. As pointed out at the top of this section, variety is key. Shooting enough images to have variety AND quality takes time. Good photographers plan their coverage to allow them to get the images they will need. They also plan a tentative shot list based on the shot categories outlined above.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
 Question 1
 Question:Good photo essays are more than a random assortment of images. They need a story structure. Which of the options below might provide structure to a story (it can be more than one)?

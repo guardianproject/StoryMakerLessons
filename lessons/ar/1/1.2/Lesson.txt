@@ -8,9 +8,16 @@ h2. ما سمات التقرير الجيد؟ يجب أن يستند إلى حق
 
 h1. خلفية
 
-!1.2.2.a.png!
+Reporting begins with answering six basic questions about an issue: 
 
-يبدأ التقرير بالإجابة على ستة أسئلة أساسية عن الموضوع: من وماذا وأين ومتى ولماذا وكيف. يقوم الصحفي الجيد بعمل بعض الأبحاث عن خلفية الموضوع عندما يبدأ العمل على قصة. وتتطلب أنواع القصص المختلفة أنواناً مختلفة من التقارير والتأكيد على عناصر مختلفة من القصة.
+*Who?* 
+*What?* 
+*Where?* 
+*When?* 
+*Why?* 
+and *How?* 
+
+Good journalists do some background research when they first start working on a story. Different types of story require different types of reporting and emphasize different elements of the story.
 
 <hr/>
 

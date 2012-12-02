@@ -1,4 +1,4 @@
-h1. Problem Statement
+h1. بيان بالمشكلة
 
 h2. What are the technical requirements and ethical limitations when editing my photos to ensure high quality, useable images?
 
@@ -6,7 +6,7 @@ h2. What are the technical requirements and ethical limitations when editing my 
 
 <hr/>
 
-h1. Background
+h1. خلفية
 
 Your initial photo is a rough draft of a written story. Images can be dramatically improved by how they are cropped, sized, color corrected and captioned.
 
@@ -25,7 +25,7 @@ The ability to edit your own work is an unacknowledged but essential part of the
 
 <hr/>
 
-h1. Solution
+h1. الحل
 
 h2. Cropping
 
@@ -55,8 +55,6 @@ Even smart phones are capable of images with resolution so great that they can b
 
 h2. Exposure correction
 
-!4.5.7.a.mp4(How to edit a photo using the Photoshop Express mobile app)!
-
 Editing apps like Photoshop Express will allow you to increase or decrease exposure and correct color problems. Images properly exposed and white balance when shot should require little more than at tweak, but images shot under difficult lighting may be dramatically improved in post-production.
 
 <hr/>
@@ -79,7 +77,7 @@ For specific caption and keyword guidelines, see the caption & key word section.
 
 <hr/>
 
-h1. Things to Remember
+h1. أشياء يجب أن تتذكرها
 
 h2. Unethical Manipulation
 
@@ -105,7 +103,7 @@ The Associated Press ethical guidelines for post-production of photographs.
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
 Question 1
 Question:When shooting which of the following will make post production more effective?

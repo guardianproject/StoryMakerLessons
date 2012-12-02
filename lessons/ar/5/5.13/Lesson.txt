@@ -1,4 +1,4 @@
-h1. Problem Statement
+h1. بيان بالمشكلة
 
 h2. What are the advantages of the different content sites available?
 
@@ -6,7 +6,7 @@ h2. What are the advantages of the different content sites available?
 
 <hr/>
 
-h1. Background
+h1. خلفية
 
 Distribution platforms vary in their nature, specifications and requirements. It’s important to keep your options in mind when you are deciding where you would like to put your video for the most impact.
 
@@ -14,7 +14,7 @@ New sites are started and others disappear constantly, so this information is on
 
 <hr/>
 
-h1. Solution
+h1. الحل
 
 !5.13.3.a.png!
 
@@ -114,7 +114,7 @@ Amara - a site which allows users to subtitle online videos hosted in a variety 
 
 <hr/>
 
-h1. Quiz
+h1. امتحان موجز
 
 Question 1
 Question:What are some of the problems of YouTube?

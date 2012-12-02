@@ -44,9 +44,28 @@ h1. الحل
 
 h2. كتابة العناوين
 
-!4.3.5.a.png (يجب أن توضح الجملة الأولى ما يحدث في الصورة وتقدم أيضًا المكان والتاريخ الدقيقين. بوجه عام، تتم كتابة هذه الجملة باستخدام زمن الفعل المضارع لإعطاء حس المباشرة. ويمكن أن تتم كتابة جملة ثانية أو ثالثة، بيد أنها لا يلزم أن تقدم سياقًا للمشاهد. وهذه الجمل عادة ما تُكتب في زمن الفعل الماضي. على أية حال، يجب أن تكون العناوين موجزة ومقدمة للمعلومات المتعلقة بفهم ما تحويه الصورة.)!
-
 يجب أن يكون العنوان مكونًا من جملة واحدة أو اثنتين. في معظم عناوين الصور، توضح الجملة الأولى الأشخاص الموجودين في الصورة ومكان وتاريخ التقاطها. أما الجملة الثانية، فيجب أن تقدم المعلومات السياقية التي تساعد القراء على فهم ما يشاهدونه أمامهم.
+
+Example of How to Write a Caption:
+
+*The first sentence should:*
+
+* Be written in the present tense.
+* Be written in complete sentences
+* Describe What’s in the picture
+* Say exactly when it was taken
+* Say Exactly where it was taken
+
+
+*A second or sometimes third sentence should:*
+
+* Typically be written in the past tense
+* Be written in complete sentences
+* Provide context to allow viewers to better understand the significance of the image.
+
+EXAMPLE: 
+A child severely burned by a car bomb on June 9, 2010, receives care at the Indira Gandi Institute of Child Medicine in Kabul, Afghanistan. Doctors are struggling with limited medicines to treat the growing number of child victims whose injuries are often compounded by other medical problems, such as poor nutrition, that diminish a child's ability to heal. John Smock/SIPA.
+
 
 <hr/>
 

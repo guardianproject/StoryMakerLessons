@@ -8,16 +8,16 @@ h2. ما سمات التقرير الجيد؟ يجب أن يستند إلى حق
 
 h1. خلفية
 
-Reporting begins with answering six basic questions about an issue: 
+يبدأ التقرير بالإجابة على ستة أسئلة أساسية عن الموضوع: 
 
-*Who?* 
-*What?* 
-*Where?* 
-*When?* 
-*Why?* 
-and *How?* 
+*من؟*
+*ماذا؟*
+*أين؟*
+*متى؟*
+*لماذا؟*
+و*كيف؟* 
 
-Good journalists do some background research when they first start working on a story. Different types of story require different types of reporting and emphasize different elements of the story.
+يقوم الصحفي الجيد بإجراء بحث عن الموضوع عندما يبدأ في العمل على موضوع لأول مرة. وتتطلب أنواع القصة المختلفة أنواعاً مختلفة من التقارير وتؤكد على عناصر مختلفة من القصة.
 
 <hr/>
 
@@ -27,32 +27,32 @@ Good journalists do some background research when they first start working on a 
 
 من التحديات الأخرى فصل الحقيقة عن الرأي. يجب أن تحتفظ بمشاعرك الخاصة بعيداً عن الموضوع قيد البحث واحترام قدرة الجمهور على تكوين رأي يستند إلى المعلومات الدقيقة التي تقدمها.
 
-Examples of Fact and Opinion:
+أمثلة على الحقيقة والرأي:
 
-*WHAT*
+*ماذا*
 
-> Good:  Voters in Tripoli took to the polls today in the nation’s first-ever democratic election.
-> Bad: Today is a day of celebration as our great nation ushers in a new, more prosperous era.
+> جيد: توجه الناخبون في طرابلس إلى صناديق الاقتراع اليوم في أول انتخابات ديمقراطية تمر بها البلاد.
+> سيء: تقام اليوم احتفالات حيث يعلن شعبنا العظيم عن حقبة جديدة أكثر ازدهاراً. 
 
-*WHERE*
+*أين*
 
-> Good: The match was played on a makeshift former university football practice field outside of Port Said. 
-> Bad: The game was not played at the normal stadium. 
- 
-*WHEN*
+> جيد: أقيمت المباراة على ملعب بديل مؤقت سابق لكرة القدم للتدريبات تابع للجامعة خارج بورسعيد.
+> سيء: لم تتم إقامة المباراة على الاستاد المعتاد اللعب عليه.
 
-> Good: Originally scheduled for the evening of April 6, 2012, the performance by Aman Halawa has been moved to April 14.
-> Bad: The world-recognized musician’s performance was planned for yesterday but has been moved to next week.
+*متى*
 
-*WHY*
+> جيد: بعد أن كان موعده الأصلي مساء 6 إبريل 2012، تم تغيير موعد العرض الخاص بعمان حلاوة إلى 14 إبريل.
+> سيء: كان من المقرر تقديم العرض الخاص بالموسيقي العالمي بالأمس لكن تم تغيير موعد العرض إلى الأسبوع القادم.
 
-> Good:  The bridge could not withstand the pressure of the rising storm water and collapsed, said a spokesman from the Army Corp of Engineers.
-> Bad:  The bridge was poorly maintained because of government corruption, so it fell apart in the storm.
+*لماذا*
 
-*HOW*
+> جيد: ذكر متحدث باسم الهيئة الهندسية المسلحة أن الجسر  لم يتحمل ضغط المياه الناتجة عن الإعصار وانهار.
+> سيء: كانت أعمال الصيانة الخاصة بالجسر سيئة بسبب الفساد الحكومي لذلك انهار الجسر خلال فترة العاصفة.
 
-> Good: People began gathering early in the day and by evening hundreds had collected at the square chanting, waving signs and demanding the health minister’s resignation following the deaths last week of 13 children due to a tainted flu vaccine. 
-> Bad: Many people came and shouted for the health minister to be fired, blaming him for the children’s deaths.
+*كيف*
+
+> جيد: بدأ الناس التجمع في وقت مبكر بالنهار، وبحلول الليل تجمع المئات في الميدان ينشدون ويلوحون باللافتات ومطالبين بإقالة وزير الصحة عقب وفاة 13 طفل في الأسبوع الماضي بسبب لقاح الأنفلونزا الملوث.
+> سيء: توافد العديد من الأشخاص وطالبوا بإقالة وزير الصحة وتحميله المسؤولية عن وفيات الأطفال.
 
 <hr/>
 
@@ -72,17 +72,17 @@ h1. الحل
 
 عند طرح Five Ws والإجابة عليها على نحو مناسب ستساعد هذه الأسئلة الصحفيين على الحصول على الحقائق الأساسية المطلوبة لإنشاء موضوع قوي. كن محدداً قدر المستطاع. وكلما زادت التفاصيل كان ذلك أفضل. من بين الأمور الكتابة عن وجود قوات أمنية في المظاهرة. ومما يثري المعلومات بصورة أكبر توضيح أن تلك القوات تابعة لوزارة الداخلية مقابل الجيش النظامي.
 
-Examples of properly asked and answered Five Ws:
+أمثلة على أسئلة Five Ws تم طرحها والإجابة عليها على نحو سيء:
 
-*What Happened?* In summary and precisely, explain what took place. Who exactly was involved? How many? What was the outcome? Is property damaged? Who won? Is anyone dead? Be specific.
+*ماذا حدث؟* بشكل موجز ومحدد، اشرح ما حدث. حدد المتورط في الحادث. كم كان عددهم؟ ماذا نتج عن ذلك؟ هل تعرضت العقارات لأضرار؟ من فاز؟ هل توفي أحد؟ كن محدداً.
 
-*Where Did it Happen?* Provide the country, province and city. The political affiliation, ethnicity and religion of people in the area may – or may not – be important. Is it an urban area? A rural area? A military compound? 
+*أين حدث ذلك؟* اذكر الدولة والإقليم والمدينة. قد يكون – أو لا يكون – الانتماء السياسي والعرقي والديانة التي ينتمي إليها سكان المنطقة على قدر من الأهمية. هل هي منطقة حضرية؟ هل هي منطقة ريفية؟ هل هي منطقة عسكرية؟ 
 
-*When Did it happen?* Give the exact date – day of the month, month and year. If season is important or if the fact that it is a holiday or event like a ceasefire is relevant include that information.  Was it day or night?
+*متى حدث ذلك؟* اذكر تاريخ وقوع الحادث – اليوم والشهر. إذا كان الموسم مهماً أو إذا كان التاريخ عطلة رسمية أو حدث مثل وقف إطلاق النار متعلقاً بالحادث اذكر تلك المعلومات. هل وقع الحادث ليلاً أم نهاراً؟
 
-*Why Did it Happen?* What caused the event? What is the background? Avoid speculation. Rely on reported fact. Was there a single thing that set it off or did it build slowly? Was it planned? If so, by who? Who paid for it? Who arranged it?
+* لماذا وقع الحادث؟* ماذا كان سبب الحادث؟ ما أصل الموضوع؟ تجنب التخمين. استند إلى الحقيقة الثابتة. هل كان وراء الحادث أمر واحد تسبب فيه أم وقع بصورة تدريجية؟ هل كان مدبراً؟ إذا كان كذلك، من المدبر؟ من دفع له؟ من رتب للأمر؟
 
-*How Did it Happen?*  Describe the progression of the event – observation is different than opinion. How did it proceed? Did it start slowly and build? Did it happen suddenly? Was there a clear turning point?
+* كيف وقع الحادث؟* صف سير الحدث – الملاحظة تختلف عن الرأي. كيف بدء الأمر؟ هل بدأ الأمر ببطء وتصاعد تدريجياً؟ هل حدث فجأة؟ هل كانت هناك نقطة تحول واضحة؟
 
 <hr/>
 

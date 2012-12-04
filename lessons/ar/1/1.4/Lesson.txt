@@ -44,22 +44,22 @@ h2. جهز بعض الأسئلة الاستهلالية
 
 <hr/>
 
-*Example of well prepared notes for an interview:*
+*مثال لملاحظات معدة جيدًا للمقابلة:*
 
-Intro or warm-up questions (asked early to make the subject comfortable because they are easy and impersonal questions):
-* What is your full name (and title) as you would like it for the article?
-* Where did you study?
-* What are the materials you use and why do you use them?
+الأسئلة الإحمائية (يتم طرحها لجعل الشخص يشعر بالارتياح لأنها أسئلة سهلة وغير شخصية)"
+* ما اسمك بالكامل (ولقبك) كما تحب أن يظهر بالمادة؟
+* أين تلقيت تعليمك؟
+* ما هي المواد التي تستخدمها ولماذا تستخدمها؟
 
-Main interview questions (this is where you collect the most interesting and useful information)
-* How do you describe the purpose of your work to others?
-* What are some of the influences or inspirations for your artwork?
-* How did the revolution influence the themes and subjects that your artwork addresses?
-* What role do artists play in the new Egypt? 
+الأسئلة الرئيسية للمقابلة (حيث تقوم بجمع المعلومات الأكثر إثارة وفائدة)
+* كيف تصف للآخرين الغرض من عملك؟
+* ما هي بعض التأثيرات أو الإلهامات الخاصة بعملك الفني؟
+* كيف أثرت الثورة على الأفكار والموضوعات التي يتناولها عملك الفني؟
+* ما هو الدور الذي يقوم به الفنانون في مصر الجديدة؟ 
 
-Closing questions (This is often where you ask the most difficult or revealing questions, along with the final question below)
-* Your critiques say you are little more than street graffiti artist or simple illustrator. How do you respond to these criticisms?
-* Is there anything else you would like to add or that you think is important for readers to know?
+الأسئلة الختامية (حيث تطرح الأسئلة الأصعب أو الأكثر دهشة بالإضافة إلى السؤال النهائي أدناه)
+* يقول نقادك إنك تفوق بقليل وصف رسام الجرافيتي في الشارع أو المصور البسيط. كيف تفاعلت مع هذه الانتقادات؟
+* هل هناك أي شيء آخر تود إضافته أو تعتقد أهمية أن يعرفه القراء؟
 
 <hr/>
 

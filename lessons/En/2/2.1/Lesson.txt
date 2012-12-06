@@ -19,11 +19,7 @@ fn1. Committee to Protect Journalists, http://www.cpj.org/killed/
 
 h1. Solution
 
-(
 !2.1.3.a.png!
-!2.1.3.b.png!
-!2.1.3.c.png!
-)
 
 The first step to understand whether you are threatened is to assess your risk. If your story covers a subject with a high chance of risk, it is likely you our your sources will be threatened.
 

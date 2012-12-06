@@ -46,8 +46,6 @@ I,i,l,t =1   o,O=0   s,S=5,2   four,for,fore=4   two,to,too=2  Are you happy tod
 
 <hr/>
 
-!2.5.6.a.png!
-
 You may find these methods difficult to remember. Some theorists posit that these passwords are not as secure as a much simpler method. If you cannot remember your password, its no protection to you or your sources. If you find the previous methods too difficult, consider a random assortment of at least four words, longer is better. For example: http://xkcd.com/936/
 
 These are but basic examples, and you can always create your own method of coding numbers and words. It is advisable that you do so.
@@ -71,8 +69,6 @@ For any site that you simply need a password to register, such as news sites, us
 <hr/>
 
 h2. Protected Passwords
-
-!2.5.9.a.png(Example of a protected password)!
 
 For any site that requires identifying information, use a protected password. This password should be sure to meet the standards mentioned above. Use a protected password, with a strong password and keep any copy of the password secure, if the account requires identifying information, such as credit card numbers, or is tied to a personal social media account, such as Facebook or Twitter. You may share some of these passwords with specific individuals such as family or colleagues in case you are unable to access your account personally and need to send verifiable information or close the account suddenly.
 

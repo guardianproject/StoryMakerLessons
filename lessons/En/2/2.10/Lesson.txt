@@ -10,7 +10,7 @@ h1. Background
 
 h2. Information Destruction 
 
-[1] Two important issues to consider when working with information are how to duplicate it and how to destroy it. Computers allow these two processes to be performed quickly and efficiently, human error and carelessness are the most common causes of system malfunctions. This lesson will explain how to delete unnecessary or sensitive information without the possibility of recovery. It will also describe good practice in this area.
+Two important issues to consider when working with information are how to duplicate it and how to destroy it. Computers allow these two processes to be performed quickly and efficiently, human error and carelessness are the most common causes of system malfunctions. This lesson will explain how to delete unnecessary or sensitive information without the possibility of recovery. It will also describe good practice in this area. [1] 
 
 fn1. Frontline Defenders, www.frontlinedefenders.org/manuals/protection
 
@@ -39,8 +39,6 @@ h2. Removable Devices
 It is not only hard drives that store our digital information. CDs, USB memory sticks, and SD cards are used frequently for file storage and transfer. These media also hold on to information after you delete it. CDs can contain recoverable information after they are cut into pieces.
 
 <hr/>
-
-!2.11.6.a.mp4(How to destroy media)!
 
 Apart from burning the device to ashes, data can still be recovered. [1] Some system administrators have the task of destroying their company’s old hard drives with a hammer. Others tried to erase the contents of CDs by putting them in a microwave for several seconds. There are certain tools that will prevent the majority of intruders from retrieving your deleted information, without resorting to heavy machinery and kitchen appliances. These do not make the recovery process totally impossible, yet in most cases they will make the task prohibitively expensive.
 
@@ -73,8 +71,6 @@ If you are not using a smartphone with Full Disk Encryption be aware that any in
 If you are dealing with sensitive media or sources under threat you should ALWAYS use a phone capable of Full Disk Encryption.
 
 <hr/>
-
-!2.11.10.a.mp4(how to set up a full disk encryption)!
 
 Full disk encryption is only possible on Android OS 4.0+ devices. To initiate full disk encryption follow these steps:
 

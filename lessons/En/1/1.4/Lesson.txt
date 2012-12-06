@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. What are some basic techniques for getting the most out of an interview?
 
-!1.4.1.png!
+!1.4.1.a.png!
 
 <hr/>
 
@@ -22,7 +22,7 @@ The type of story you are doing and the circumstances of the interview will impa
 
 h1. Solution
 
-!1.4.5.png!
+!1.4.5.a.png!
 
 Remember: the type of sources you are interviewing and the role they will play in your coverage will impact the kinds of questions you ask. The amount of time you have will also affect how you conduct your interview.
 

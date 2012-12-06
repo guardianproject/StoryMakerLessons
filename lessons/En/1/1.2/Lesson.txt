@@ -10,12 +10,12 @@ h1. Background
 
 Reporting begins with answering six basic questions about an issue: 
 
-*Who?* 
-*What?* 
-*Where?* 
-*When?* 
-*Why?* 
-and *How?* 
+* Who? 
+* What? 
+* Where? 
+* When?
+* Why? 
+* and How? 
 
 Good journalists do some background research when they first start working on a story. Different types of story require different types of reporting and emphasize different elements of the story.
 
@@ -67,8 +67,6 @@ When reporting a story ask yourself if you have collected the information common
 * Why did it happen?
 
 <hr/>
-
-!1.2.6.a.png!
 
 Properly asked and answered the Five Ws will help journalists to collect the basic facts required to build a solid story. Be as specific as possible. The more detail the better. It’s one thing to write that there were security forces at the demonstration. It may be more informative to make it clear they were interior ministry troops as opposed to regular army.
 

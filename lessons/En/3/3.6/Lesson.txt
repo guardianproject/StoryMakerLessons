@@ -53,12 +53,6 @@ Hold the microphone a bit under the mouth of the interviewee so that the airstre
 
 <hr/>
 
-!3.6.8.a.png!
-
-Remember to monitor your recording using headphones, they will help you notice any disruptive sounds that you may not have considered before.
-
-<hr/>
-
 h2. Backup and Store Files
 
 !3.6.9.a.png!

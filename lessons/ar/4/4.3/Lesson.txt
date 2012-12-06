@@ -46,25 +46,25 @@ h2. كتابة العناوين
 
 يجب أن يكون العنوان مكونًا من جملة واحدة أو اثنتين. في معظم عناوين الصور، توضح الجملة الأولى الأشخاص الموجودين في الصورة ومكان وتاريخ التقاطها. أما الجملة الثانية، فيجب أن تقدم المعلومات السياقية التي تساعد القراء على فهم ما يشاهدونه أمامهم.
 
-Example of How to Write a Caption:
+أمثلة على كيفية كتابة عنوان:
 
-*The first sentence should:*
+* الجملة الأولى يجب:*
 
-* Be written in the present tense.
-* Be written in complete sentences
-* Describe What’s in the picture
-* Say exactly when it was taken
-* Say Exactly where it was taken
+* أن تكتب باستخدام زمن الفعل المضارع.
+* أن تكتب في جمل تامة.
+* أن تصف مضمون الصورة.
+* أن تحدد وقت التقاط الصورة.
+* أن تحدد مكان التقاط الصورة.
 
 
-*A second or sometimes third sentence should:*
+* الجملة الثانية وأحياناً الجملة الثالثة يجب:*
 
-* Typically be written in the past tense
-* Be written in complete sentences
-* Provide context to allow viewers to better understand the significance of the image.
+* أن تكتب بشكل عام في زمن المضارع البسيط
+* أن تكتب في جمل تامة
+* أن تحتوي على ما يسمح للمشاهدين بفهم أفضل لمغزى الصورة.
 
-EXAMPLE: 
-A child severely burned by a car bomb on June 9, 2010, receives care at the Indira Gandi Institute of Child Medicine in Kabul, Afghanistan. Doctors are struggling with limited medicines to treat the growing number of child victims whose injuries are often compounded by other medical problems, such as poor nutrition, that diminish a child's ability to heal. John Smock/SIPA.
+مثال:
+طفل محترق بشكل حاد نتيجة انفجار قنبلة في سيارة في 9 يونيو 2010، يتلقى الرعاية في مؤسسة أنديرا غاندي لطب الأطفال في كابول، أفغانستان. ويجاهد الأطباء بأدوية محدودة لعلاج العدد المتزايد للأطفال الضحايا الذين ترتبط إصاباتهم غالباً بمشاكل صحية أخرى، مثل سوء التغذية، مما يقلل من قدرة الطفل على الشفاء. جون سموك / مؤسسة سيبا للصحافة.
 
 
 <hr/>

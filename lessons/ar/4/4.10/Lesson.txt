@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. What are the technical requirements and ethical limitations when editing my photos to ensure high quality, useable images?
+h2. ما المتطلبات الفنية والقيود الأخلاقية عند تحرير صوري لكي أضمن الحصول على صور عالية الجودة ويمكن استخدامها؟
 
 !4.5.1.a.png!
 
@@ -8,134 +8,134 @@ h2. What are the technical requirements and ethical limitations when editing my 
 
 h1. خلفية
 
-Your initial photo is a rough draft of a written story. Images can be dramatically improved by how they are cropped, sized, color corrected and captioned.
+إن صورتك الأولى عبارة عن مسودة غير نهائية لقصة مكتوبة. ويمكن تحسين الصور بشكل درامي عن طريق قصها وضبط حجمها وتصحيح ألوانها وكتابة تعليق عليها.
 
 <hr/>
 
 (
-!4.5.3.a.png(Example of a properly exposed and focused photo)!
-!4.5.3.b.png(Example of a photo that's been enlarged and pixelated)!
+!4.5.3.a.png (مثال لصورة تم تعريضها بشكل مناسب وبؤرتها مناسبة.)!
+!4.5.3.b.png (مثال لصورة تم تكبيرها و بكسلتها)!
 )
 
-Editing well begins with shooting well. Always shoot on the largest file size available. You can always make images smaller to send more quickly but you can’t enlarge them. Make sure that your images are properly exposed and focused. Images that are technically strong to begin with are easier to edit.
+يبدأ التحرير الجيد بالتصوير الجيد. عليك دائمًا أن تقوم بالتصوير بأكبر حجم ممكن لملف الصورة. ويمكنك دائمًا أن تجعل حجم الصور أصغر لكي تستطيع إرسالها بسرعة أكبر ولكنك لا تستطيع تكبيرها. احرص على تعريض صورتك وضبط بؤرتها بشكل مناسب. ومن الأسهل البدء بتحرير الصور القوية من الناحية الفنية.
 
 <hr/>
 
-The ability to edit your own work is an unacknowledged but essential part of the job. Sizing, cropping, color correcting and adding text takes time, so you need to plan. Breaking news may be an exception to the usual workflow. If time is very important, publish your best images as-is and go back later with updated versions.
+تعد القدرة على تحرير عملك الخاص جزءً مهما من العمل وإن غفل عنه الكثيرون. وضبط حجم الصور وقصها وتصحيح ألوانها وإضافة نصوص إليها يستغرق وقتًا ولهذا فسوف تحتاج إلى خطة. وربما تكون الأخبار العاجلة استثناءً من سير العمل المعتاد. وإذا كان الوقت مهما للغاية، فقم بنشر أفضل صورك كما هي ثم عد لاحقا بنسخ محدّثة منها.
 
 <hr/>
 
 h1. الحل
 
-h2. Cropping
+h2. القص
 
 (
-!4.5.5.a.png(Before Cropping)!
-!4.5.5.b.png(After Cropping)!
+!4.5.5.a.png (قبل القص)!
+!4.5.5.b.png (بعد القص)!
 )
 
-How an individual image is cropped can turn a mediocre shot into a powerful image. Crop ruthlessly with the rule-of-thirds in mind. Cut excess or meaningless space from the frame. It distracts the viewer and diminishes impact. The entire frame should work to tell the story.
+من الممكن أن تؤدي الطريقة التي يتم بها قص صورة إلى تحويل لقطة عادية إلى صورة قوية. قم بقص الصورة بعزم لا يلين واضعا قاعدة التثليث في اعتبارك. قم بقص المساحات الزائدة أو التي ليس لها معنى من الكادر، فهي تشتت المشاهد وتحد من تأثير الصورة. ويجب أن يعمل الكادر بأكمله على حكاية القصة.
 
 (
-!4.5.5.c.png(Before Cropping)!
-!4.5.5.d.png(After Cropping)!
+!4.5.5.c.png (قبل القص)!
+!4.5.5.d.png (بعد القص)!
 )
 
-Do not amputate. Be careful about cropping people at awkward points, do not cut off hands and feet. Let important shapes complete themselves in the frame. Shapes draw the reader’s eye into the picture, a completed shape helps keep it there.
+لا تبتر. كن حذرا عند قص أجزاء من صور الأفراد عند النقاط المهمة، فلا تقص اليدين أو القدمين. ودع الأشكال المهمة كاملة في الكادر. فالأشكال تجذب عيني المشاهد إلى الصورة وتساعد الأشكال المكتملة على تثبيت العين على الصورة.
 
 <hr/>
 
-h2. Sizing
+h2. ضبط الحجم
 
 !4.5.6.a.png!
 
-Even smart phones are capable of images with resolution so great that they can be published in a magazine. Always shoot on the largest file size available. However, large files take up a lot of space and are slow to send. Size your images to 1000 pixels on the longest edge for web and TV, and 3000 pixels on the longest edge for print. Use a minimum of compression. ALWAYS make a copy of the original images if reducing file size dramatically.
+حتى الهواتف الذكية تستطيع التقاط صور بدقة وضوح كبيرة إلى درجة يمكن معها نشرها في مجلة. قم دائما بالتصوير بأكبر حجم ممكن لملف الصورة؛ لكن الملفات الكبيرة تشغل مساحة كبيرة ولا يمكن إرسالها بسرعة. اضبط حجم صورك على 1000 بكسل للحافة الأطول للويب والتلفزيون وعلى 3000 بكسل للحافة الأطول عند الطباعة. استخدم أقل درجة من ضغط الصور. قم دائما بعمل نسخة من الصور الأصلية إذا قمت بتصغير حجم الملف بدرجة كبيرة جدا.
 
 <hr/>
 
-h2. Exposure correction
+h2. تصحيح التعريض
 
-Editing apps like Photoshop Express will allow you to increase or decrease exposure and correct color problems. Images properly exposed and white balance when shot should require little more than at tweak, but images shot under difficult lighting may be dramatically improved in post-production.
+برامج التحرير مثل فوتوشوب إكسبريس ستمكّنك من زيادة أو إنقاص درجة التعريض وتصحيح مشاكل الألوان. والصور التي يتم تعريضها بشكل مناسب ويتم ضبط توازن الأبيض فيها يجب أن تتطلب أكثر قليلا من بعض التعديلات النهائية البسيطة، لكن الصور التي يتم التقاطها في ظل إضاءة غير جيدة قد يتم تحسينها بدرجة كبيرة في مرحلة ما بعد الإنتاج.
 
 <hr/>
 
-h2. Captions/Keywords
+h2. التعليقات / الكلمات الدلالية
 
-h3. Good Caption & Keywords
+h3. التعليق الجيد والكلمات الدلالية
 
 !4.5.8.a.png!
 
-"New York, NY --  Bubble artist Fan Yang entered the Guinness Book of World Records today for the 13th time with 'The Most Bubble Chamber.' Yang attempted the record as part of his Off-Broadway spectacle, 'The Gazillion Bubble Show.'  Photo credit: John Smock/SIPA Press Key Words: Fan Yang, Guinness Book of World Records, Off-Broadway, New York City Tags: bubbles, performance, children’s show"
+"نيويورك، إن واي – دخل فنان الفقاعة فان يانج موسوعة جينيس للأرقام القياسية اليوم مع المرة 13 مع "أكثر الغرف ذات فقاعات". وقد حاول يانج تسجيل هذا الرقم القياسي ضمن فقرته التي يقدمها خارج برودواي "عرض فقاعات جازيليون". تصوير: جون سموك/سيبا برس؛ الكلمات الدلالية: فان يانج، موسوعة جينيس؛ خارج برودواي؛ مدينة نيويورك  العلامات: فقاعة، أداء، عرض للأطفال"
 
-h3. Bad Caption & No Keywords
+h3. التعليق السيئ ولا كلمات دلالية
 
 !4.5.8.b.png!
 
-"Men smoking shisha. Doctors say smoking is bad for you."
+"رجال يدخنون الشيشة. يقول الأطباء أن التدخين ضار بصحتك."
 
-For specific caption and keyword guidelines, see the caption & key word section. It is essential that you caption images correctly. Be sure and include relevant copyright info and a photo credit – your full name or pseudonym. 
+للاطلاع على إرشادات خاصة بالتعليق على الصور والكلمات الدلالية، انظر قسم "التعليق على الصور والكلمات الدلالية". ومن المهم أن تعلق على الصور بطريقة صحيحة. احرص على إدراج المعلومات الخاصة بحقوق الطبع والنشر ونسبة الصورة إلى مصورها – اسمك بالكامل أو الاسم المستعار. 
 
 <hr/>
 
 h1. أشياء يجب أن تتذكرها
 
-h2. Unethical Manipulation
+h2. التعامل غير الأخلاقي مع الصور
 
 (
-!4.5.9.a.png(Example of an unethical photo manipulation)!
-!4.5.9.b.png(Example of an unethical photo manipulation)!
-!4.5.9.c.png(Example of an unethical photo manipulation)!
+!4.5.9.a.png (مثال للتعامل غير الأخلاقي مع الصور)!
+!4.5.9.b.png (مثال للتعامل غير الأخلاقي مع الصور)!
+!4.5.9.c.png (مثال للتعامل غير الأخلاقي مع الصور)!
 )
 
-Photo editing tools are very powerful. Reporters should not make up facts or quotes, and photojournalists should not alter images. 
+أدوات تحرير الصور قوية للغاية؛ ويجب على المراسلين ألا يختلقوا الحقائق أو الأقوال المقتبسة، ويجب على المصورين الصحفيين ألا يقوموا بتغيير الصور.  
 
 <hr/>
 
-The Associated Press ethical guidelines for post-production of photographs.
+فيما يلي الإرشادات الأخلاقية لوكالة الأسوشيتيد برس بخصوص تحرير الصور الفوتوغرافية بعد إنتاجها
 
-* The content of a photograph must not be altered substantially in PhotoShop or by any other means.
-* No element should be digitally added to or subtracted from any photograph.
-* The faces or identities of individuals must not be obscured by an editing tool.
-* Only retouching or the use of the cloning tool to eliminate dust and scratches are acceptable.
-* Minor adjustments in editing tools are acceptable. These include cropping, dodging and burning, conversion into grayscale, and normal toning and color adjustments that should be limited to those minimally necessary for clear and accurate reproduction (analogous to the burning and dodging often used in darkroom processing of images) and that restore the authentic nature of the photograph.
-* Changes in density, contrast, color and saturation levels that substantially alter the original scene are not acceptable.
-* Backgrounds should not be digitally blurred or eliminated by burning down or by aggressive toning.
+* يتعين عدم تغيير محتوى الصور بصورة ملموسة ببرنامج فوتوشوب أو أية وسيلة أخرى.
+* يجب عدم إضافة أي عنصر أو حذفه رقميا من أي صورة.
+* يجب عدم إخفاء وجه أو هوية أي شخص بواسطة أداة من أدوات التحرير.
+* لا يُقبل إلا إعادة لمس الصور أو استخدام أداة النسخ لحذف الغبار والخدوش.
+* من المقبول عمل تعديلات صغرى باستخدام أدوات التحرير، وتشمل هذه التعديلات القص والمسح بالقطنة والحرق والتحويل إلى تدرج الرمادي واستخدام الدرجات اللونية العادية وتعديلات اللون التي يجب أن تقتصر على الحدود الدنيا الضرورية لنسخ الصور بوضوح ودقة (على نحو يماثل الحرق والمسح بالقطنة الذي يستخدم غالبًا في معالجة الصور في الغرفة المظلمة) والتي تستعيد الطبيعة الأصلية للصورة.
+* ليس من المقبول تغيير مستويات الكثافة ولا التباين ولا اللون والتشبع على نحو يؤدي إلى إحداث تغيير كبير في المشهد الأصلي.
+* يجب عدم تشويش الخلفيات أو حذفها رقميا بحرقها أو باستخدام الدرجات اللونية بإفراط.
 
 <hr/>
 
 h1. امتحان موجز
 
-Question 1
-Question:When shooting which of the following will make post production more effective?
-Answer 1:Make sure your camera is set to the largest file size.
-Answer 2:Make sure the image is properly exposed.
-Answer 3:Make sure the image is properly focused.
-Answer 4:All of the above.
+السؤال 1
+Question: عند التصوير، أي ما يلي يجعل تحرير الصور بعد إنتاجها أكثر فعالية؟
+Answer 1: تأكد من أن الكاميرا مضبوطة على حفظ الصورة بأكبر حجم ممكن للملف.
+Answer 2: تأكد من أن الصورة معرضة بشكل مناسب.
+Answer 3: تأكد من أن بؤرة الصورة مناسبة.
+Answer 4: كل ما سبق
 Correct Answer:4
 
 <hr/>
 
-Question 2
-Question:TRUE or FALSE: 300 dpi (dots per inch) means you should file your images at 300 dots (or pixels) along the longest edge.
-Answer 1:TRUE
-Answer 2:FALSE
+السؤال 2
+Question: صح أم خطأ: 300 دي بي آي (نقطة في البوصة) تعني أنك يجب أن تحفظ الصور بطول 300 نقطة (أو بكسل) بطول الحافة الأطول.
+Answer 1: صح
+Answer 2: خطأ
 Correct Answer:2
 
 <hr/>
 
-Question 3
-Question:Which of the following are ethical?
-Answer 1:Distracting people can be removed from a frame with an airbrush or cloning tool.
-Answer 2:Color and saturation can be made more intense in the interest of making the image emotionally stronger.
-Answer 3:The image can be captioned with information that changes the meaning of a photograph.
-Answer 4:None of the above.
+السؤال 3
+Question: أي مما يلي يعد أخلاقيا؟
+Answer 1: يمكن إزالة الأشخاص الموجودين في الكادر ويمكن أن يتسببوا في تشتيت المشاهد، باستخدام أداة البخاخة أو أداة النسخ.
+Answer 2: يمكن زيادة كثافة اللون أو التشبع لجعل الصورة أقوى من الناحية العاطفية.
+Answer 3: يمكن كتابة تعليق على الصورة يحتوي على معلومات تغير معنى الصورة.
+Answer 4: لا إجابة مما سبق صحيحة
 Correct Answer:4
 
 <hr/>
 
-Question 4
-Question:Which of the three photos is unethically edited?
-Answer 1:!4.5.14.a.png!
-Answer 2:!4.5.14.b.png!
-Answer 3:!4.5.14.c.png!
+السؤال 4
+Question: أي من الصور الثلاث التالية تم تحريرها بطريقة لا أخلاقية؟
+Answer 1: !4.5.14.a.png!
+Answer 2: !4.5.14.b.png!
+Answer 3: !4.5.14.c.png!
 Correct Answer:2,3

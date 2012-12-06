@@ -125,8 +125,8 @@ Question: كيف يمكنك تصحيح توازن اللون الأبيض في �
 
 !4.11.25.a.png!
 
-Answer 1:Change the white balance option to 'fluorescent' when shooting.
-Answer 2:Adjust the exposure
-Answer 3:Adjust the light temperature in post-production by adding yellow.
-Answer 4:All of the above
+Answer 1: غير خيار التوازن الأبيض إلى "فلوريسنت" عند التصوير.
+Answer 2: ضبط التعرض
+Answer 3: ضبط درجة حرارة الإضاءة فيما بعد الإنتاج عن طريق إضافة الأصفر.
+Answer 4: كل ما سبق
 Correct Answer:3

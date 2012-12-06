@@ -1,6 +1,6 @@
 h1. بيان بالمشكلة
 
-h2. What are the advantages of the different content sites available?
+h2. ما مزايا مواقع المحتوى المختلفة المتوفرة؟
 
 !5.13.1.a.png!
 
@@ -8,9 +8,9 @@ h2. What are the advantages of the different content sites available?
 
 h1. خلفية
 
-Distribution platforms vary in their nature, specifications and requirements. It’s important to keep your options in mind when you are deciding where you would like to put your video for the most impact.
+تتباين منصات التوزيع من حيث طبيعتها ومواصفاتها ومتطلباتها. ومن المهم أن تراعي خياراتك عندما تقرر أين ستضع مقطع الفيديو الخاص بك لكي تُحدث أكبر تأثير.
 
-New sites are started and others disappear constantly, so this information is only a guideline to get you going.
+تظهر مواقع جديدة وتختفي أخرى باستمرار، ولهذا فهذه المعلومات ما هي إلا إرشادات تعينك على الوصول.
 
 <hr/>
 
@@ -18,21 +18,21 @@ h1. الحل
 
 !5.13.3.a.png!
 
-There are hundreds of commercial sites which allow you to publish your video online. One of the major disadvantages of many commercial platforms is that ads are placed next to your video. Many of these sites operate as online social networks.
+توجد مئات من المواقع التجارية التي تسمح لك بنشر فيديوهاتك على الإنترنت. ومن أهم مزايا العديد من المنصات التجارية أن الإعلانات تُوضع بجوار الفيديو الخاص بك. ويعمل كثير من هذه المواقع كشبكة اجتماعية على الإنترنت.
 
 <hr/>
 
 !5.13.4.a.png!
 
-There are a number of non-profit video sharing spaces focussed on social justice, environmental or human rights issues.
+يوجد عدد من المواقع غير الربحية لمشاركة الفيديو والتي تركز على قضايا العدالة الاجتماعية أو البيئة أو حقوق الإنسان.
 
 <hr/>
 
-Be aware of security issues not only for yourself, but for anyone in your videos when you publish them. Once you post a file online, you can never be sure you will be able to remove it. If your content is that risky, it is best to wait until a time it’s safer.
+كن واعيا للمشاكل الأمنية، لا التي تخصك أنت وحسب، ولكن كذلك لأي شخص موجود في مقطع الفيديو الذي تقوم بنشره. بمجرد أن تنشر ملفًا على الإنترنت، فلن تستطيع أبدا أن تتأكد من قدرتك على حذفه. وإذا كان المحتوى الذي تضعه على الإنترنت معرضا لهذا الخطر، فمن الأفضل أن تنتظر لفترة إلى أن يصبح في أمان.
 
 <hr/>
 
-h2. Commercial Sites
+h2. مواقع تجارية
 
 !5.13.6.a.png!
 
@@ -72,11 +72,11 @@ If you are already running a campaign using Facebook, then sharing video on the 
 
 Live Leak
 
-A sometimes controversial site that emphasises current events, politics and reality based footage such as war scenes from various parts of the world. [www.liveleak.com]
+من المواقع التي تثير الجدل أحيانا وتؤكد على الأحداث الراهنة والموضوعات السياسية ومقاطع الفيديو الواقعية مثل مشاهد الحروب من مختلف أنحاء العالم [www.liveleak.com]
 
 <hr/>
 
-h2. Non Commercial Sites:
+h2. مواقع غير تجارية
 
 !5.13.11.a.png!
 
@@ -96,21 +96,21 @@ EngageMedia is a non-profit collective providing media tools to activists, campa
 
 <hr/>
 
-h1. Other Useful Sites
+h1. مواقع مفيدة أخرى
 
-Qik - Online streaming service.
+Qik– خدمة بث على الإنترنت
 
-uStream / LiveStream - Online Streaming service
+uStream/LiveStream - خدمة بث على الإنترنت
 
-Transmission cc – International Network of Social Justice Online Video Projects
+Transmission cc– مشروعات فيديو الشبكة الدولية للعدالة الاجتماعية على الإنترنت
 
-Clearer Channel – an online video project which encourages viewers to download and transmit video for social change.
+Clearer Channel– مشروع فيديو على الإنترنت يشجع المشاهدين على تنزيل وبث الفيديوهات من أجل التغيير الاجتماعي
 
-IMC Video – International independent media
+IMC Video– وسائل الإعلام الدولية المستقلة
 
-dotSUB – a site which allows users to translate your videos in different languages using subtitles.
+dotSUB–موقع يسمح للمشاهدين بترجمة فيديوهاتك بلغات مختلفة باستخدام نصوص الترجمة
 
-Amara - a site which allows users to subtitle online videos hosted in a variety of locations 
+Amara– موقع يسمح للمستخدمين بترجمة الأفلام المنشورة على الإنترنت في العديد من المواقع 
 
 <hr/>
 

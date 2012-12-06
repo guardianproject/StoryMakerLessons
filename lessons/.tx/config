@@ -116,8 +116,8 @@ source_lang = en
 type = WIKI
 
 [storymaker.210]
-file_filter = <lang>/2/2.9/Lesson.txt
-source_file = En/2/2.9/Lesson.txt
+file_filter = <lang>/2/2.10/Lesson.txt
+source_file = En/2/2.10/Lesson.txt
 source_lang = en
 type = WIKI
 

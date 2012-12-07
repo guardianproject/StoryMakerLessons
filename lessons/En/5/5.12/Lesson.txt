@@ -63,7 +63,7 @@ Used for shooting outdoors. This setting will give your images a very “cool”
 
 <hr/>
 
-!5.12.8.a.png(A common Cloudy White Balance icon)!
+!5.12.9.a.png(A common Cloudy White Balance icon)!
 
 h2. Cloudy
 
@@ -73,7 +73,7 @@ When shooting indoors, this setting will give your images a strong orange tint.
 
 <hr/>
 
-!5.12.8.a.png(A common Incandescent White Balance icon)!
+!5.12.10.a.png(A common Incandescent White Balance icon)!
 
 h2. Incandescent
 
@@ -81,7 +81,7 @@ Used for shooting indoors, with traditional small light bulbs. When shooting out
 
 <hr/>
 
-!5.12.9.a.png(A common Fluorescent White Balance icon)!
+!5.12.11.a.png(A common Fluorescent White Balance icon)!
 
 h2. Fluorescent
 

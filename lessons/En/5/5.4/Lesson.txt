@@ -93,7 +93,7 @@ The lines now cut the frame into equal squares, but the rule of thirds can still
 
 <hr/>
 
-!5.4.12.b.png!
+!5.4.12.a.png!
 
 h1. Things to Remember
 

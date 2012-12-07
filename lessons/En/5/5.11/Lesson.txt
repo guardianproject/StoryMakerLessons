@@ -100,7 +100,7 @@ Tips
 
 h2. Detail Shot
 
-!5.11.7.a.mp4(Example of a Detail Shot)!
+!5.11.11.a.mp4(Example of a Detail Shot)!
 
 *Goal:* Showcases an interesting detail, often focusing directly on an important action.
 

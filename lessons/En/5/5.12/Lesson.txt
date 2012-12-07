@@ -91,8 +91,6 @@ For shooting indoors, with the long tube fluorescent lights. When shooting outdo
 
 h1. Things to Remember
 
-!5.12.10.a.mp4(How to use a piece of paper to manually set the white balance)!
-
 If you are unsure what setting you should use, you can set the white balance yourself by holding a white piece of paper in front of your camera. A white wall or white material can also work. This will make the camera adjust into the correct white balance for the circumstances and ensure your images have the correct color temperature.
 
 <hr/>

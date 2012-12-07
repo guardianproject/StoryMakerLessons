@@ -24,7 +24,7 @@ h2. Bad Photo and Caption
 
 h2. Good Photo and Caption
 
-!4.3.3.b.png(25 September, 2008 – New York, NY - More than 200 demonstrators gathered outside UN headquarters during its 63rd annual General Assembly meeting to protest what they say is a Security Council slow to act on its own demand for peacekeepers in Darfur. (SIPA Press/John Smock))!
+!4.3.3.b.png(25 September, 2008 – New York, NY - More than 200 demonstrators gathered outside UN headquarters during its 63rd annual General Assembly meeting to protest what they say is a Security Council slow to act on its own demand for peacekeepers in Darfur. -SIPA Press/John Smock)!
 
 Captions should be clear, accurate and complete in the information they provide about the photograph.
 
@@ -103,7 +103,6 @@ Keywords and tags help search engines find images and work identify photos in th
 
 <hr/>
 
-Creative Element On-Screen Captions:
 !4.3.10.a.png(education, Afghanistan, girls, school, English language)!
 !4.3.10.b.png(flag, children, Libya, revolution, Arab spring)!
 !4.3.10.c.png(election, Arab, Arab-American, United States, politics, women, girls, vote, voting)!

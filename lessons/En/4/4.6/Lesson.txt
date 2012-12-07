@@ -8,8 +8,6 @@ h2. How do I photograph fast-moving objects?
 
 h1. Background
 
-!4.9.2.a.png(How a shutter works on a camera)!
-
 From football players to moving vehicles and marching protesters, journalists frequently have to take pictures of moving objects. A camera’s ability to freeze action is controlled by the shutter. If the shutter speed is too slow, it cannot adequately freeze action. The image appears blurry because the sensor is recording the movement. Shutter speeds are typically measured in fractions of a second. The faster the action, the faster the shutter speed needs to be.
 
 <hr/>

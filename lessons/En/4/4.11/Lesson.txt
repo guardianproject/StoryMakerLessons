@@ -137,17 +137,6 @@ Real or implied, you can let time structure your story. A typical way to structu
 
 h2. The Slideshow
 
-(
-!4.6.12.a.png(Example of a slideshow)!
-!4.6.12.b.png(Example of a slideshow)!
-!4.6.12.c.png(Example of a slideshow)!
-!4.6.12.d.png(Example of a slideshow)!
-!4.6.12.e.png(Example of a slideshow)!
-!4.6.12.f.png(Example of a slideshow)!
-!4.6.12.g.png(Example of a slideshow)!
-!4.6.12.h.png(Example of a slideshow)!
-)
-
 News organizations have developed a complex formula for the kinds of shots required for a good photo essay or slideshow. The formula is designed to help photographers avoid sameness and guarantee structure. A good slideshow moves “in” and “out.” As the viewer moves through story the images move from tight to wide and a back, over and over. This kind of rhythm keeps viewers interested and clicking on the next image.
 
 <hr/>

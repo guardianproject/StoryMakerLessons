@@ -50,8 +50,6 @@ Digital sensors can be set at different record levels, increasing or decreasing 
 
 h2. The Shutter
 
-!4.1.8.a.png(How a camera shutter works)!
-
 When you push the shutter button the camera activates the sensor. This controls the length of the time that light is absorbed the sensor. This is called the shutter speed. In photography this is measured in fractions of a second. The shutter allows photographers to freeze action. If the shutter is too slow, the subject’s movement may be recorded by the sensor, making it appear blurry.
 
 When you push the shutter down halfway the camera will both set exposure and focus on the metered spot in the frame.

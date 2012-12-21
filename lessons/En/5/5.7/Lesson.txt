@@ -68,7 +68,7 @@ Answer 1:10 shots
 Answer 2:3 shots
 Answer 3:6 shots
 Answer 4:2 shots
-Correct Answer:4,2
+Correct Answer:4
 
 <hr/>
 

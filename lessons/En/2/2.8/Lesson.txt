@@ -33,8 +33,7 @@ Always be sure you have a secure connection. When connecting to email services, 
 
 !2.8.5.a.png!
 
-Do not open attachments. Use the “view” option instead.
-Always be sure you are communicating with the person you think you are. According to Frontline Defenders, “It is relatively easy to ‘spoof’ an email address. Spoofing means faking the name and email address of the sender to make it appear as a random address or that of someone you know.”
+Do not open attachments. Use the “view” option instead. Always be sure you are communicating with the person you think you are. According to Frontline Defenders, “It is relatively easy to ‘spoof’ an email address. Spoofing means faking the name and email address of the sender to make it appear as a random address or that of someone you know.”
 
 <hr/>
 

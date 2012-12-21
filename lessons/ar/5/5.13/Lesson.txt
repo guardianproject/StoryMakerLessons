@@ -152,4 +152,4 @@ Answer 1:DotSUB
 Answer 2:Amara
 Answer 3:YouTube
 Answer 4:Transmission CC
-Correct Answer:1, 2
+Correct Answer:1,2

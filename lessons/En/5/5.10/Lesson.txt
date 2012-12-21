@@ -95,7 +95,7 @@ Answer 1:Putting the subject’s nose at the bottom of the frame.
 Answer 2:The space between the subject's nose and the camera lens.
 Answer 3:Allowing for space in the frame in the direction the subject is facing, or moving.
 Answer 4:How much room should be between you and the camera.
-Correct Answer:Answer 3
+Correct Answer:3
 
 <hr/>
 

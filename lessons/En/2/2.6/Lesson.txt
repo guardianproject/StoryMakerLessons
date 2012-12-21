@@ -44,7 +44,7 @@ h2. How does my phone show my location?
 
 !2.6.6.a.png!
 
-When your mobile phone is switched on, the network knows your location, triangulated from the cell towers nearby that record your phone’s signal. Your location might be accurate within a few meters in a densely populated area but only to a few hundred meters in a rural area with few cell towers. If you make or receive a call or text message, your location at that time is stored in network records. Note that tThis is a function of the mobile network, not surveillance. All networks triangulate your signal. This is important to remember as this information can be used against you!
+When your mobile phone is switched on, the network knows your location, triangulated from the cell towers nearby that record your phone’s signal. Your location might be accurate within a few meters in a densely populated area but only to a few hundred meters in a rural area with few cell towers. If you make or receive a call or text message, your location at that time is stored in network records. Note that this is a function of the mobile network, not surveillance. All networks triangulate your signal. This is important to remember as this information can be used against you!
 
 <hr/>
 

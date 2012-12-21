@@ -84,7 +84,7 @@ Answer 1:Email + SMS
 Answer 2:Phone calls
 Answer 3:Handwritten notes
 Answer 4:Web browsing
-Correct Answer:1, 2, 4
+Correct Answer:1,2,4
 
 <hr/>
 
@@ -94,4 +94,4 @@ Answer 1:By dialing phone numbers.
 Answer 2:Only when making a phone call.
 Answer 3:Mobile phones engage in passive communication constantly.
 Answer 4:Only when making a phone call or sending an SMS.
-Correct Answer:Answer 3
+Correct Answer:3

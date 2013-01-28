@@ -1,0 +1,78 @@
+h1. Problem Statement
+
+h2. How do I know if I or my sources may be threatened?
+
+!2.1.1.a.png!
+
+<hr/>
+
+h1. Background
+
+!2.1.2.a.png!
+[1]
+
+According to the Committee to Protect Journalists, “On average, more than 30 journalists are murdered every year, and the murderers go unpunished in nearly nine of 10 cases.” Risk can come from many places. Each time you begin a story, you should take a moment to assess potential risks.
+
+fn1. Committee to Protect Journalists, http://www.cpj.org/killed/
+
+<hr/>
+
+h1. Solution
+
+!2.1.3.a.png!
+
+The first step to understand whether you are threatened is to assess your risk. If your story covers a subject with a high chance of risk, it is likely you our your sources will be threatened.
+
+Be mindful of your surroundings and avoid interacting with anyone you don’t trust. There is no checklist for assessing your risk in any situation. Security is a process.
+
+<hr/>
+
+h2. Ask yourself
+
+* Are you living in a dictatorship?
+* Is corruption a problem?
+* Have other journalists faced threats covering this topic?
+* Does your story investigate government officials or criminal groups?
+* Is the subject of your story being intentionally hidden?
+* Are police unresponsive to the concerns of citizens?
+
+If you answered *Yes* to any of these questions, you or your sources are likely to be threatened during the course of your story. Be mindful of the chances you might be taking with your life and your sources.
+
+<hr/>
+
+h1. Things to Remember
+
+Follow this process any time you consider the merits of a story. If you cannot account for these threats, don't do the story. Never begin a story without first making a threat assessment that considers the impact on yourself and your sources.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:Which of these stories may cause my source to be threatened?
+Answer 1:Event story covering grand opening of new religious center.
+Answer 2:Profile of an activist opposing the dictatorship in her country.
+Answer 3:Breaking news about floods in a rural village.
+Answer 4:Vox Pop interviewing locals about completion of a new park
+Correct Answer:2
+
+<hr/>
+
+Question 2
+Question:Which of these stories may cause you to be threatened?
+Answer 1:Vox Pop interviewing locals about candidates in upcoming election.
+Answer 2:Investigative story examining corruption in the local police.
+Answer 3:Profile of a local political candidate.
+Answer 4:Breaking news on the execution of a local journalist by criminal gang.
+Correct Answer:2,4
+
+<hr/>
+
+Question 3
+Question:Which of the following questions will help you to determine whether you or your sources may be threatened?
+Answer 1:Is corruption a problem in my community?
+Answer 2:Will the story take place during a holiday?
+Answer 3:Have other journalists been threatened while covering similar stories?
+Answer 4:Is your story investigative or an expose?
+Correct Answer:1,3,4
+

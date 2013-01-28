@@ -1,0 +1,146 @@
+h1. Problem Statement
+
+h2. What is the rule of thirds?
+
+!5.4.1.a.png!
+
+<hr/>
+
+h1. Background
+
+!5.4.2.a.png!
+
+The rule of thirds is a popular guideline for creating successful compositions. It is a founding principle of photography, painting, and graphic design that dates back to the 18th century.
+
+One way of viewing the rule is as a form of visual grammar. Grammar teaches you how to structure your speech and writing. The rule of thirds will help you shape the elements in your frame.
+
+This rule is a simple guideline for quickly arranging your frame. It is not intended to be strictly accurate or perfect for every situation.
+
+The grid that makes up the rule of thirds is different for different compositions. This means that a rule of thirds grid used for a rectangle frame will not work on a square composition.
+
+<hr/>
+
+h1. Solution
+
+!5.4.3.a.png!
+
+This grid is the rule of thirds.
+
+<hr/>
+
+!5.4.4.a.png!
+
+And here it is applied to a 16x9 composition.
+
+<hr/>
+
+!5.4.5.a.png!
+
+Cutting your frame into thirds vertically and horizontally the grid creates four points of interest. These four points are the ideal place for the important elements of your story when you’re arranging them in your frame.
+
+By using these points, you break the frame up into thirds. The frame is then separated with one third of space to one side, and two thirds to the other. This uneven distribution helps move the eye across the frame, as well as around it.
+
+<hr/>
+
+h2. Vertical Lines
+
+!5.4.6.a.png!
+
+The left and right vertical lines are commonly used to align people or other vertical elements in your frame. The left vertical line and the right vertical line are equally effective at this.
+
+<hr/>
+
+h2. Horizontal Lines
+
+The horizontal lines of the grid are commonly used to align the eyes of your subject in the frame, as well as the horizon.
+
+!5.4.7.a.png!
+
+The top horizontal line is used to align the eyes in the frame. By placing the eyes of your subject in the same place in every shot, you will know the audience is always looking in the same place to connect with the subject.
+
+!5.4.7.b.png!
+
+The bottom horizontal line is used to align the horizon of the frame. This allows two thirds of the frame to frame buildings, vehicles and anything else that is above ground level. If you are standing at ground level, this is the ideal line to use for your horizon.
+
+<hr/>
+
+!5.4.8.a.png!
+
+When shooting from high locations, it’s more effective to use the top horizontal line as your horizon line. The angle of view from this vantage shows the ground more effectively. It’s important to keep the horizon on one of these two lines.
+
+<hr/>
+
+!5.4.9.a.png!
+
+Lets look at this example of a shot that does not follow the rule of thirds.
+
+<hr/>
+
+!5.4.10.a.png!
+!5.4.10.b.png!
+
+Now see the same angle, but by simple shifting the subject to the right, you utilize all four points of interest.
+
+The fruit is now visible in the frame, providing a second visual element in the image, as well as adding context to the interview.
+
+<hr/>
+
+!5.4.11.a.png!
+
+It’s important to note that all of the examples in this lesson have followed a rule of thirds for a 16x9 frame. Depending on the size and shape of your frame the placement of your lines should change. For example, lets look at the rule of thirds in a square frame.
+
+The lines now cut the frame into equal squares, but the rule of thirds can still be followed for an effective composition unique to the frame.
+
+<hr/>
+
+!5.4.12.a.png!
+
+h1. Things to Remember
+
+Don't center everything in your frame. When everything is centered, you are using all four points of interest for one single element.
+
+If you look at a frame and find it boring, uninteresting, or confusing, it’s likely the rule of thirds is not being used.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:How many points of interest does the rule of thirds create?
+Answer 1:9
+Answer 2:20
+Answer 3:3
+Answer 4:4
+Correct Answer:4
+
+<hr/>
+
+Question 2
+Question:Which line in the grid is the eye line?
+Answer 1:The top horizontal line.
+Answer 2:The bottom horizontal line.
+Answer 3:The left vertical line.
+Answer 4:The right vertical line.
+Correct Answer:1
+
+<hr/>
+
+Question 3
+
+Question:Which of the grid lines is the traditional horizon line?
+Answer 1:The top horizontal line.
+Answer 2:The bottom horizontal line.
+Answer 3:The left vertical line.
+Answer 4:The right vertical line.
+Correct Answer:2
+
+<hr/>
+
+Question 4
+
+Question: When the rule of thirds is effective your eye will?
+Answer 1:Move around the entire frame.
+Answer 2:Stay on the center of the frame.
+Answer 3:Stay on the right side of the frame.
+Answer 4:Stay on the bottom of the frame.
+Correct Answer:1

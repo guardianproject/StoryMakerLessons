@@ -1,0 +1,99 @@
+h1. Problem Statement
+
+h2. How can I send email safely?
+
+!2.8.1.a.png!
+
+<hr/>
+
+h1. Background
+
+Email communication uses the same principles as general Internet browsing, except that each message of ours has a specific destination: another person who also connects to the Internet through his or her country’s local provider. [1]
+
+fn1. Frontline Defenders, www.frontlinedefenders.org/manuals/protection
+
+<hr/>
+
+h1. Solution
+
+!2.8.3.a.png(How an email be intercepted or monitored)!
+
+Your email message can be intercepted at all major routing points on its way. If you live in a country with strong legal protection of privacy, its legislation won’t apply when your email reaches the ISP of the recipient in a country with different privacy laws. While your email is in transit from country A to country B, it could pass the routers of several other countries.
+
+<hr/>
+
+!2.8.4.a.png(Using Https vs Http)!
+
+Use email that supports HTTPS secure connections. [2]
+fn2. Small World News Safety Guide, www.smallworldnews.tv/guide/
+
+Always be sure you have a secure connection. When connecting to email services, do not connect via HTTP connect only via HTTPS://. You can set this to the default option in Gmail by going to the settings and selecting “Always use HTTPS”. Make sure anyone you communicate with is doing this.
+
+<hr/>
+
+!2.8.5.a.png!
+
+Do not open attachments. Use the “view” option instead.
+Always be sure you are communicating with the person you think you are. According to Frontline Defenders, “It is relatively easy to ‘spoof’ an email address. Spoofing means faking the name and email address of the sender to make it appear as a random address or that of someone you know.”
+
+<hr/>
+
+!2.8.6.a.png!
+
+For additional anonymity, communicate only between new anonymous email accounts.
+
+You may also share one anonymous email account and save all messages as drafts, so the content never leaves your account.
+
+Use a different browser just for anonymous use and use it only for that. Reset the browser before and after each use (be certain to erase browsing history and remove cookies).
+
+For added security, connect from a different IP address when doing things anonymously. For example, use your regular accounts when at home but use your anonymous accounts only when using wireless at a cafe.
+
+<hr/>
+
+The only way to send email that is truly private and secure is with an encrypted email provider or an email client that enables device-side encryption. Use a device-side encryption if at all possible, and use an encryption option such as PGP that provides an open standard to ensure the encryption does what it claims.
+
+The following set of tools includes a recommended email app for Android phones.
+
+<hr/>
+
+h1. Things to Remember
+
+* Only use email with HTTPS by default.
+* HTTPS assists your email to be secure, but does not ensure your email is secure.
+* Only open attachments after you verify the identity of the sender.
+* Never use your personal email on a mobile device or computer which is not yours.
+* Encrypting your email is the only way to ensure it will not be read by someone other than the receiver"
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:Which of the following will help me read my email safely?
+Answer 1:Always use HTTP
+Answer 2:Share an email account and communicate only via “drafts”
+Answer 3:Use an anonymous email account 
+Answer 4:Always use HTTPS
+Correct Answer:2,3,4
+
+<hr/>
+
+Question 2
+Question:Where can my email be intercepted or read?
+Answer 1:On my own computer
+Answer 2:From my ISP
+Answer 3:From the email provider
+Answer 4:On the recipients computer
+Correct Answer:1,2,3,4
+
+<hr/>
+
+Question 3
+Question:What is it called when someone impersonates your email address or one of your contacts?
+Answer 1:Spotting
+Answer 2:Lying
+Answer 3:Spoofing
+Answer 4:Hacking
+Correct Answer:3
+
+

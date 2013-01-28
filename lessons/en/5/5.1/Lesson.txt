@@ -1,0 +1,139 @@
+h1. Problem Statement
+
+h2. I've never used a camera before, what are the basics I should know?
+
+!5.1.1.a.png!
+
+<hr/>
+
+h1. Background
+
+When new journalists start starts shooting video they often become frustrated when clips they record do not reflect the experiences they had shooting them. The problem they face is understanding cameras see the world very differently than a human. By learning some basic rules, you can learn to record events in ways that allow an audience to focus on the specific elements you want them to.
+
+<hr/>
+
+h1. Solution
+
+h2. Hitchcock's Rule
+
+"The size of an object in the frame should equal it's importance in the story at that moment."
+
+- Alfred Hitchcock
+
+<hr/>
+
+!5.1.4.a.png(The subject matter should be 50% of the screen focus.)!
+
+It seems too simple when you first read it, but one of the most common problems for new shooters is their most important element are lost in the frame. By ensuring that your most important object fills the majority of the frame (as in 50% or more) your audience will see exactly what you want them to in your shot.
+
+<hr/>
+
+!5.1.5.a.mp4!
+
+Lets look at an example. Review this shot and consider what you think the story will be about.
+
+You can see that you're probably going to see a story about a market, but maybe it's the woman shopping. Overall, it's a good shot, but there are a few elements all competing for your attention.
+
+<hr/>
+
+!5.1.6.a.mp4!
+
+Now review this shot, and consider what the story is about.
+
+The apple fills over 50% of the entire frame, so as an audience, you're focused on that. As the story progresses to discuss apples, my audience understands this a story about apples. That makes this shot successful. You can now move onto another shot, and highlight the next important element in your story.
+
+<hr/>
+
+h2. Record Complete Actions
+
+When you are recording an action be sure to have the camera rolling before it begins and let it continue after it ends. Seeing the action in its entirety will allow the audience to understand it.
+
+<hr/>
+
+!5.1.8.a.mp4!
+
+Here's an example of how a complete action looks in a frame.
+
+The subject pulls the bread drawer out, and two people score the bread, they then slide the bread back in and pull out another drawer.
+
+The action taken is scoring the bread before it is baked, and we see the entire process. When we go to use this clip, it will be very easy to cut into a close up of the bread being scored, or a reverse shot of the subject as he is performing this action. This is possible because it contains a complete action.
+
+<hr/>
+
+Before that shot was recorded the videographer framed their shot, and interacted with his subject to explain what he was trying to document. It may be necessary to ask your subjects to repeat an action or recreate it in order to properly document it. This is okay so long as you are not asking someone to misrepresent themselves.
+
+<hr/>
+
+h1. Things to Remember
+
+Hitchcock's Rule: "The size of an object in the frame should equal it's importance in the story at that moment."
+
+<hr/>
+
+!5.1.11.a.mp4(Example of recording a complete action with 5 seconds pre-roll and post-roll)!
+
+When you have finished getting your shot, count to five in your head, then stop recording. This will make sure you have enough of a tail on your clip to use it effectively.
+
+<hr/>
+
+!5.1.12.a.mp4(Example of an entire action being recorded)!
+
+You don’t need to record constantly, but sometimes recording for one, two or even five minutes is necessary to record an action in its entirety.
+
+<hr/>
+
+!5.1.13.a.mp4(Example of breaking up an interview into multiple clips)!
+
+This needs to be balanced with the fact that by shooting too much material, you will create a barrier to sharing your stories quickly. Look for natural breaks to stop recording one clip and move onto recording a second clip if you feel your shot is very long.
+
+<hr/>
+
+!5.1.14.a.mp4(Example of 15 second long clips)!
+
+To be useful, your clips need to be at least 15 seconds long. Regardless of how short the action is you are filming. Any shorter and it’s likely they won’t be useful.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:What should the size of an object in the frame equal?
+Answer 1:It's importance in the world at that moment.
+Answer 2:It's importance in the story at that moment.
+Correct Answer:2
+
+<hr/>
+
+Question 2
+Question:Recording a complete action can tell a story with a single shot?
+Answer 1:True
+Answer 2:False
+Correct Answer:1
+
+<hr/>
+
+Question 3
+Question:How much is the majority of the frame?
+Answer 1:10%
+Answer 2:25%
+Answer 3:33%
+Answer 4:50% or more
+Correct Answer:4
+
+<hr/>
+
+Question 4
+Question:For how many seconds should you expect to record before and after your expected action?
+Answer 1:10 seconds before, 0 seconds after
+Answer 2:0 seconds before, 10 seconds after
+Answer 3:10 seconds before, 10 seconds after
+Answer 4:0 seconds before, 0 seconds after
+Correct Answer:3
+
+<hr/>
+
+Question 5
+Question:Is it acceptable to ask your subjects to repeat an action or recreate it in order to properly document it?
+Answer 1:Yes, so long as you are not asking someone to misrepresent themselves.
+Answer 2:No, you should never communicate with your subject.
+Correct Answer:1

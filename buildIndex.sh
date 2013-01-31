@@ -1,22 +1,37 @@
 #!/bin/bash
 
+die () {
+    echo >&2 "$@"
+    exit 1
+}
+
+[ "$#" -eq 1 ] || die "please enter the path to the lesson locale folder (with trailing slash!) as argument; i.e.; ./buildIndex.sh lessons/en/"
+
 lessonPath="$1"
-indexPath="$2"
+indexFile="lesson.json"
 
 cd $1
 
-rm $2
-rm *.zip
 
-echo "{\"lessons\":[" >> $2
+for folder in `ls .` ; do
+  
+  cd $folder
 
-for file in `ls $lessonPath` ; do
+  rm $indexFile
+  rm *.zip
+
+  echo "{\"lessons\":[" >> $indexFile
+  
+  for file in `ls .` ; do
 	echo "building lesson archive $file"
-	zip -r $file.zip $lessonPath$file
-	echo "{" >> $2
-    	echo "\"title\": \"$file\"," >> $2
-    	echo "\"resource\": { \"url\": \"$file.zip\"  } " >> $2      
-	echo "}," >> $2
+	zip -r $file.zip $file
+	echo "{" >> $indexFile
+    	echo "\"title\": \"$file\"," >> $indexFile
+    	echo "\"resource\": { \"url\": \"$file.zip\"  } " >> $indexFile     
+	echo "}," >> $indexFile
+  done
+  
+  cd ..
 done
 
-echo "]}" >> $2
+echo "]}" >> $indexFile

@@ -30,8 +30,9 @@ for folder in `ls .` ; do
     	echo "\"resource\": { \"url\": \"$file.zip\"  } " >> $indexFile     
 	echo "}," >> $indexFile
   done
+  echo "]}" >> $indexFile
   
   cd ..
+
 done
 
-echo "]}" >> $indexFile

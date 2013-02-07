@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. The Arab region is today experiencing a profound change in its media. You are at the core of a transition that has resulted in more democratic governments and greater media freedom in several countries and various stages of transition in others. Yet media law in the region remains weak at best and at worst has been used as a tool to silence journalists. How should you navigate the ongoing change in media law?
 
-!1.8.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -22,7 +22,7 @@ h2. What should you do to protect themselves from overly restrictive application
 
 h3. Know the law 
 
-!1.8.3.a.png!
+!2.png!
 
 Understand the law in the country or region you work. Just because laws to protect journalists exist doesn’t mean that government, local leadership and security forces will obey the law, but understanding the law can be a first step toward improving it.
 
@@ -30,7 +30,7 @@ Understand the law in the country or region you work. Just because laws to prote
 
 h3. Adhere to professional codes of conduct
 
-!1.8.4.a.png!
+!3.png!
 
 In an earlier lesson there is a professional code of conduct for journalists. Even in countries where media laws are very restrictive, observing the principles outlined may help you avoid accusations of libel or treason.
 
@@ -38,7 +38,7 @@ In an earlier lesson there is a professional code of conduct for journalists. Ev
 
 h3. Advocate for change
 
-!1.8.5.a.png!
+!4.png!
 
 One of the key characteristics of the shift in media throughout the Arab region is the blending of media with media advocacy. Citizen journalists are breaking through barriers in how journalism is defined at the same time they are covering stories. Pool resources with others to create a knowledge base. Seek support from legal organizations within your country. Seek support and information from international organizations like the Committee to Project Journalists.
 
@@ -46,7 +46,7 @@ One of the key characteristics of the shift in media throughout the Arab region 
 
 h3. Protect yourself (and your sources)
 
-!1.8.6.a.png!
+!5.png!
 
 This issue will be addressed more fully in the digital security module. In short, understanding the law, how authorities may ignore or abuse the law or identify you online and being proactive is essential to any journalist working under unsafe conditions. If you are arrested, prosecuted or harassed, contact national and international organizations that provide support for journalists.
 
@@ -54,7 +54,7 @@ This issue will be addressed more fully in the digital security module. In short
 
 h1. Things to Remember
 
-!1.8.7.a.mp4(Interview with an expert of Arabic media law)!
+!6.mp4(Interview with an expert of Arabic media law)!
 
 Inevitably the development of media law in the Arab region and in individual countries will reflect their unique cultures and national interests. Nonetheless, you have to be willing to push boundaries. Even in many countries with fairly liberal laws self-censorship is an issue among journalists. Some journalists are uncomfortable covering highly controversial cultural issues such as the rights of women or tribal disputes. Some journalists are reluctant to cover issues that tarnish national image such as widespread alcohol abuse or corruption within popular institutions. Sunshine is the best disinfectant. If these issues have relevance to the public interest, people need to know and it’s your job to tell them.
 

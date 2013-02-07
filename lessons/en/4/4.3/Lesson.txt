@@ -2,13 +2,13 @@ h1. Problem Statement
 
 h2. How do I write a basic caption to accompany a photograph?
 
-!4.3.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-!4.3.2.a.png(10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match.)!
+!2.png(10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match.)!
 
 h3. Caption: 10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match
 h3. Keywords: Tripoli, Libya, Cameroon, World Cup, sports, Middle East.  
@@ -20,20 +20,20 @@ Every photograph needs a caption and keywords/tags. A good caption provides the 
 
 h2. Bad Photo and Caption
 
-!4.3.3.a.png(Demonstrators outside UN headquarters yesterday protest about peacekeepers in Darfur.)!
+!3.png(Demonstrators outside UN headquarters yesterday protest about peacekeepers in Darfur.)!
 
 h2. Good Photo and Caption
 
-!4.3.3.b.png(25 September, 2008 – New York, NY - More than 200 demonstrators gathered outside UN headquarters during its 63rd annual General Assembly meeting to protest what they say is a Security Council slow to act on its own demand for peacekeepers in Darfur. -SIPA Press/John Smock)!
+!4.png(25 September, 2008 – New York, NY - More than 200 demonstrators gathered outside UN headquarters during its 63rd annual General Assembly meeting to protest what they say is a Security Council slow to act on its own demand for peacekeepers in Darfur. -SIPA Press/John Smock)!
 
 Captions should be clear, accurate and complete in the information they provide about the photograph.
 
 <hr/>
 
 (
-!4.3.4.a.png(27 April, 2006 – Birqash, Egypt --  A camel merchant chases a camel at the camel market in Birqash, an hour northwest of the Cairo. Sale of camel meet is on the rise in Egypt and surrounding countries in response to the bird flu epidemic, which makes chicken unsafe to eat. (John Smock/SIPA Press) )!
-!4.3.4.b.png(27 April, 2006 -- Birqash, Egypt -- A young boy helps load baby camels on to trailers at the Camel Market in Birqash, an hour northwest of the Cairo. Hundreds of animals make the trek from as far away as southern Sudan to what is perhaps oldest and largest remaining camel market in the Middle East. The animals are sold for meat as well as for transportation. (John Smock/SIPA Press))!
-!4.3.4.c.png(27 April 2006 – Birqash, Egypt – Camels loaded on a truck bound for Cairo leave the camel market. Hundreds of camels are sold each week. These camels will be sold to butchers for meat. (John Smock/SIPA Press))!
+!5.png(27 April, 2006 – Birqash, Egypt --  A camel merchant chases a camel at the camel market in Birqash, an hour northwest of the Cairo. Sale of camel meet is on the rise in Egypt and surrounding countries in response to the bird flu epidemic, which makes chicken unsafe to eat. (John Smock/SIPA Press) )!
+!6.png(27 April, 2006 -- Birqash, Egypt -- A young boy helps load baby camels on to trailers at the Camel Market in Birqash, an hour northwest of the Cairo. Hundreds of animals make the trek from as far away as southern Sudan to what is perhaps oldest and largest remaining camel market in the Middle East. The animals are sold for meat as well as for transportation. (John Smock/SIPA Press))!
+!7.png(27 April 2006 – Birqash, Egypt – Camels loaded on a truck bound for Cairo leave the camel market. Hundreds of camels are sold each week. These camels will be sold to butchers for meat. (John Smock/SIPA Press))!
 )
 
 The captions for a photo essay should not repeat the same information over and over. Write captions as short, progressive explanations of the individual image in the context of the entire slideshow. In some cases you may present them as title cards that present short “factoids,” additional information or stats that help provide context.
@@ -70,9 +70,9 @@ A child severely burned by a car bomb on June 9, 2010, receives care at the Indi
 <hr/>
 
 (
-!4.3.8.a.png(3 November, 2011 – Rustavi, Republic of Georgia – Extensive repairs begin on the Baku-Tbilisi-Ceyhan (TBC) pipeline conducted by British Petroleum (BP). When operational the pipeline transports as much as a million gallons a day, providing an alternative to fuel from Russia to countries in the Caucasus. (John Smock/SIPA Press))!
-!4.3.8.b.png(21 October, 2012, -- Cairo, Egypt – Egyptian street artist Gameer opened an exhibit of his artwork this week at a gallery in Cairo. Gameer was arrested for his work during the revolution (Photo: John Smock))!
-!4.3.8.c.png(20 October, 2012 – Giza, Egypt – Vendors normally busy offering camel rides and tours at the pyramids sit idle. Tourism has been down significantly since the revolution. (Photo: John Smock))!
+!8.png(3 November, 2011 – Rustavi, Republic of Georgia – Extensive repairs begin on the Baku-Tbilisi-Ceyhan (TBC) pipeline conducted by British Petroleum (BP). When operational the pipeline transports as much as a million gallons a day, providing an alternative to fuel from Russia to countries in the Caucasus. (John Smock/SIPA Press))!
+!9.png(21 October, 2012, -- Cairo, Egypt – Egyptian street artist Gameer opened an exhibit of his artwork this week at a gallery in Cairo. Gameer was arrested for his work during the revolution (Photo: John Smock))!
+!10.png(20 October, 2012 – Giza, Egypt – Vendors normally busy offering camel rides and tours at the pyramids sit idle. Tourism has been down significantly since the revolution. (Photo: John Smock))!
 )
 
 The exact format for captions vary, but a basic photo captions should:
@@ -85,7 +85,7 @@ The exact format for captions vary, but a basic photo captions should:
 
 h2. Keywords and Tags
 
-!4.3.9.a.png(Tags: tank, Russian Afghanistan. This image is licensed to be reproduce commercially.)!
+!11.png(Tags: tank, Russian Afghanistan. This image is licensed to be reproduce commercially.)!
 
 Keywords and tags help search engines find images and work identify photos in the archive. Typically there will be a field for keywords or tags along with the caption field.
 
@@ -103,9 +103,9 @@ Keywords and tags help search engines find images and work identify photos in th
 
 <hr/>
 
-!4.3.10.a.png(education, Afghanistan, girls, school, English language)!
-!4.3.10.b.png(flag, children, Libya, revolution, Arab spring)!
-!4.3.10.c.png(election, Arab, Arab-American, United States, politics, women, girls, vote, voting)!
+!12.png(education, Afghanistan, girls, school, English language)!
+!13.png(flag, children, Libya, revolution, Arab spring)!
+!14.png(election, Arab, Arab-American, United States, politics, women, girls, vote, voting)!
 
 <hr/>
 
@@ -155,7 +155,7 @@ Correct Answer:4
 Question 4
 Question:What is the best caption for this image? 
 
-!4.3.15.a.png!
+!15.png!
 
 Answer 1:12 September, 2012 – Rustavi, Republic of Georgia -- Interior Ministry troops search cars for suspected terrorists on election day along the main road leading to Tbilisi, the capital of this small Caucasian country.
 Answer 2:Soldiers by the road on election day in the Republic of Georgia.

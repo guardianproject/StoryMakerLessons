@@ -1,98 +1,146 @@
 h1. Problem Statement
 
-h2. How do I shoot to create a sequence?
+h2. What is the rule of thirds?
 
-!5.8.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-!5.8.2.a.png!
+!2.png!
 
-A series of shots assembled together is a sequence. When made up of shots that support each other, an individual sequence can tell a complete story. Each sequence of five shots makes a complete scene.
+The rule of thirds is a popular guideline for creating successful compositions. It is a founding principle of photography, painting, and graphic design that dates back to the 18th century.
+
+One way of viewing the rule is as a form of visual grammar. Grammar teaches you how to structure your speech and writing. The rule of thirds will help you shape the elements in your frame.
+
+This rule is a simple guideline for quickly arranging your frame. It is not intended to be strictly accurate or perfect for every situation.
+
+The grid that makes up the rule of thirds is different for different compositions. This means that a rule of thirds grid used for a rectangle frame will not work on a square composition.
 
 <hr/>
 
 h1. Solution
 
-To shoot for a sequence you need to break down each story element into individual parts. It may be a small number of parts, or it may be many. You need to know all the parts before you can put the sequence together correctly.
+!3.png!
+
+This grid is the rule of thirds.
 
 <hr/>
 
-Let's walk through an example. You are filming a story on a popular fruit stand. You want to show someone buying fruit.
+!4.png!
 
-!5.8.4.a.mp4!
-
-We will need to see a person who will be buying the fruit.
+And here it is applied to a 16x9 composition.
 
 <hr/>
 
-!5.8.5.a.mp4!
+!5.png!
 
-We will need to see the fruit.
+Cutting your frame into thirds vertically and horizontally the grid creates four points of interest. These four points are the ideal place for the important elements of your story when you’re arranging them in your frame.
 
-<hr/>
-
-!5.8.6.a.mp4!
-
-We will need to see the person paying for the fruit.
+By using these points, you break the frame up into thirds. The frame is then separated with one third of space to one side, and two thirds to the other. This uneven distribution helps move the eye across the frame, as well as around it.
 
 <hr/>
 
-!5.8.7.a.mp4!
+h2. Vertical Lines
 
-As a sequence of three shots in that order it tells a simple, but complete story.
+!6.png!
 
-Knowing your story gives you the freedom to record your shots in any order. In the end, you will assemble them to tell your story.
-
-These shots are the beginning, middle, and end of your story. There is a person, there is a piece of fruit, the person paid for the fruit. It’s a very simple story, but it works. You can now add an interview, with the seller or buyer of the fruit. You might also include a wide shot to define the location.
+The left and right vertical lines are commonly used to align people or other vertical elements in your frame. The left vertical line and the right vertical line are equally effective at this.
 
 <hr/>
 
-When you are shooting for your sequences, keep your head in the story and you will be able to tell yourself what shots you still need.
+h2. Horizontal Lines
 
-No matter how complex your story gets, remember to shoot in three parts, beginning, middle, and end. Each of these may have multiple shots, with different elements in the frame. As a whole, your shots must add up to a sequence that includes all three parts. In some stories you have have an entire 5 shot scene(or more!) for each section of the story.
+The horizontal lines of the grid are commonly used to align the eyes of your subject in the frame, as well as the horizon.
+
+!7.png!
+
+The top horizontal line is used to align the eyes in the frame. By placing the eyes of your subject in the same place in every shot, you will know the audience is always looking in the same place to connect with the subject.
+
+!8.png!
+
+The bottom horizontal line is used to align the horizon of the frame. This allows two thirds of the frame to frame buildings, vehicles and anything else that is above ground level. If you are standing at ground level, this is the ideal line to use for your horizon.
 
 <hr/>
 
-A popular technique to use when you might not know the story you are telling is to start with shots that are farther away, working your way into a scene shot by shot. If you record your shots in chronological order they will have a feeling of progression to them. By using the five basic shots, you’ll be able to include different elements of your scene.
+!9.png!
+
+When shooting from high locations, it’s more effective to use the top horizontal line as your horizon line. The angle of view from this vantage shows the ground more effectively. It’s important to keep the horizon on one of these two lines.
 
 <hr/>
+
+!10(5.4.9.a).png!
+
+Lets look at this example of a shot that does not follow the rule of thirds.
+
+<hr/>
+
+!11.png!
+!12.png!
+
+Now see the same angle, but by simple shifting the subject to the right, you utilize all four points of interest.
+
+The fruit is now visible in the frame, providing a second visual element in the image, as well as adding context to the interview.
+
+<hr/>
+
+!13.png!
+
+It’s important to note that all of the examples in this lesson have followed a rule of thirds for a 16x9 frame. Depending on the size and shape of your frame the placement of your lines should change. For example, lets look at the rule of thirds in a square frame.
+
+The lines now cut the frame into equal squares, but the rule of thirds can still be followed for an effective composition unique to the frame.
+
+<hr/>
+
+!14.png!
 
 h1. Things to Remember
 
-* Any successful sequence will answer the six important questions we’ve previously discussed. (The who, what, where, when, why, and the how.)
-* Each question can have more than one answer, but your sequence should answer each question in order to be successful.
-* Creating an effective sequence means shooting different sized shots each containing complementary parts of the story.
-* When you bring several sequences together, you make a more complex story.
+Don't center everything in your frame. When everything is centered, you are using all four points of interest for one single element.
+
+If you look at a frame and find it boring, uninteresting, or confusing, it’s likely the rule of thirds is not being used.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:What makes up a shot list?
-Answer 1:Weather
-Answer 2:Shot Type
-Answer 3:Description
-Answer 4:Story Elements
-Correct Answer:2,3,4
+Question:How many points of interest does the rule of thirds create?
+Answer 1:9
+Answer 2:20
+Answer 3:3
+Answer 4:4
+Correct Answer:4
 
 <hr/>
 
 Question 2
-Question:When writing a shot list I should be?
-Answer 1:As specific as possible
-Answer 2:As vague as possible
-Answer 3:Confused
-Answer 4:Unclear
+Question:Which line in the grid is the eye line?
+Answer 1:The top horizontal line.
+Answer 2:The bottom horizontal line.
+Answer 3:The left vertical line.
+Answer 4:The right vertical line.
 Correct Answer:1
 
 <hr/>
 
 Question 3
-Question:True or False, it’s helpful to write your story out in plain text?
-Answer 1:True
-Answer 2:False
+
+Question:Which of the grid lines is the traditional horizon line?
+Answer 1:The top horizontal line.
+Answer 2:The bottom horizontal line.
+Answer 3:The left vertical line.
+Answer 4:The right vertical line.
+Correct Answer:2
+
+<hr/>
+
+Question 4
+
+Question: When the rule of thirds is effective your eye will?
+Answer 1:Move around the entire frame.
+Answer 2:Stay on the center of the frame.
+Answer 3:Stay on the right side of the frame.
+Answer 4:Stay on the bottom of the frame.
 Correct Answer:1

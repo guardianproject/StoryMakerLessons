@@ -1,140 +1,169 @@
 h1. Problem Statement
 
-h2. How does video tell a story?
+h2. Why are sound and light so important to video?
 
-!5.3.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-The human eye can focus and refocus in real time, effectively framing and reframing the object of interest. In video, different-sized shots are used to create these frames.
-
-<hr/>
-
-!5.3.3.a.png!
-
-A visual story is a series of shots, when presented together over time it’s called a montage. Montage is the primary method for telling a story with video.
+Your video can be perfectly framed, but with bad sound and light your video will not be effective. Good sound and light make your videos professional, and make it more likely to be shared by others. They are necessary components to enable information in your video to be understood.
 
 <hr/>
 
 h1. Solution
 
-Every story, consists of a beginning, middle and end, and is driven by six questions, Who, What, Where, When, Why and How.
+!2.png!
 
-These six questions will give you the essential information you need to tell any story. Each question may have multiple answers, but you should answer each to form your story.
+Know the capabilities of your mobile, each mobile device has its own advantages and problems, experiment with it to understand how to get the best results.
 
-Whether you are creating a news report, dramatic story, advocacy video, or promotion, you must be sure some or all of these questions are answered in each shot to tell an entire visual story.
+h2. Sound
 
-<hr/>
-
-!5.3.5.a.png!
-
-A visual story is prepared with a number of *scenes*. Each scene is a combination of related shots called a *sequence*.
-
-*TIP* Depending on the format of your story, you may need only one scene. For longer and more complex stories, you will likely assemble many scenes.
+Without good sound your images are only telling half the story and improving the quality of the sound in your video is one of the fastest ways to improve the quality of your video.
 
 <hr/>
 
-!5.3.6.a.png!
+h2. Natural Sound
 
-Each scene consists of a sequence of different Shot Types. Shots must be assembled in a complementary fashion so the sequence does not disorient or distract the viewer. 
+!3.mp4(How to use your hand to improve audio in a windy situation)!
 
-Video tells a story well when it combines a sequence of shots of different types and sizes. By combining shots of different sizes or types, you create a complementary sequence.
-
-<hr/>
-
-We recommend using five basic shots to tell your story. Using these five shots in different orders is one of the easiest ways to tell an interesting visual story.
-
-Next is a simple overview of each shot type. In later lessons you will learn about each shot in detail.
+If it’s windy, your sound will not be audible. Point your camera away from the wind, or protect your mic. Shield the mic with your hand or with a card blocking the windy side. Using a natural windbreak such as a wall is effective in some situations.
 
 <hr/>
 
-h2. Wide Shot
+h2. People / Crowds
 
-!5.3.8.a.mp4(Example of an Wide Shot)!
+!4.mp4(Example of how to properly record a subject in a crowd)!
 
-Shows the location / scene of a story. Gives a sense of place.
-
-<hr/>
-
-h2. Long Shot
-
-!5.3.9.a.mp4(Example of a Long Shot)!
-
-Showcases the characters and how they interact with the location.
+Crowds and busy streets make a lot of noise. That may make your desired sound inaudible. Don’t film interviews with large crowds in the background. If you can’t go to a better location, point your camera away from the crowd and have your subject face the crowd.
 
 <hr/>
 
-h2. Medium Shot
+h2. Machines
 
-!5.3.10.a.mp4(Example of a Medium Shot)!
+!5.mp4(Example of machinery noise in a video recording)!
 
-Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
-
-<hr/>
-
-h2. Close Up Shot
-
-!5.3.11.a.mp4(Example of a Close Up Shot)!
-
-Forces the audience to focus entirely on a single character, encourages the emotion of the character.
+Generators, air conditioners, refrigerators, and fluorescent lights are all machines that create harsh audio distractions. Turn off the machines if possible, or change your location if you can- noise from fluorescent lighting is usually unavoidable.
 
 <hr/>
 
-h2. Detail Shot
+h2. Acoustics
 
-!5.3.12.a.mp4(Example of a Detail Shot)!
+!6.mp4(Example of bad audio echo caused by a hallway)!
 
-Showcases an interesting detail, often focusing directly on an important action.
+Be aware of the acoustics of the room or how the sound bounces from the walls. Places like tiled bathrooms or hallways tend to reflect sound and will echo very badly. Rooms with sound absorbent materials in them such as carpets, curtains, or soft furniture are far better.
+
+<hr/>
+
+h2. Headset as Microphones
+
+!7.mp4(How to use a headset as a microphone)!
+
+If your mobile device works with a headset with a microphone for phone calls you may be in luck. The microphone for your calls may function as a plug-in microphone while shooting video. Test this before you want to use it, but it can be an effective way to capture better audio for interviews.
+
+<hr/>
+
+h2. Have Enough Light
+
+Recording Outdoors
+
+!8.mp4(How to use natural light to properly light a subject)!
+
+* Shooting outdoors during daylight hours is the easiest way to ensure success. Even on overcast days it’s a great place to get good light.
+
+* Film your subject with the light source directly on the subject. When the light source is directly behind your subject, the subject will be too dark and difficult to see. This technique may be used to hide a subject’s identity by preventing the camera from recording their face.
+
+!9.mp4(How to use natural light to hide a subjects face in the dark)!
+
+<hr/>
+
+Recording Inside
+
+!10.mp4(How to setup a shot using natural light)!
+
+If you’re shooting indoors try to find a room with plenty of sunlight in it to produce good results. Sit with your back facing the window and sit your interviewee facing the light source so that the sunshine will light their face. If you sit them with their back to the window shooting into the light source, the camera will take its reading from the brightest image in the frame and close down its iris so as not to over-expose the shot. This will result in your interviewee becoming silhouetted in the picture, a good technique if you want your interviewees identity to remain a secret but not if you want them to be seen!
+
+!11.mp4(How to setup a shot to obscure a subject's face)!
+
+<hr/>
+
+Bouncing Light
+
+!12.mp4(How to use a reflector outside)!
+
+* Using anything white, paper, cardboard, or anything that reflects the light can be used to bounce light back onto your subject.
+
+<hr/>
+
+Bouncing Light
+* Low light can produce poor shots. Shooting outside or in a sunny room can give you great light.
+
+<hr/>
+
+Bouncing Light
+
+!13.png(How to light a subject indoors)!
+
+* Lights approximately 3 feet away are most flattering.
 
 <hr/>
 
 h1. Things to Remember
 
-* Every visual medium borrows and steals from others for different effects.
-* Sometimes you will see a big budget movie that has shaky camera work, and sometimes you will see a documentary with intricate and complex camera work.
-* The rules of visual storytelling apply to every medium, regardless of where it is screened, or how many people it took to produce it.
-* These rules are important. Keep them all in mind any time you are telling a visual story.
+h2. Sound
+
+* Sound should always be a consideration when shooting.
+* If your sound is unusable, it’s possible to remove the sound and replace it with different sound or no sound at all.
+* Sound is half of the information in a video, consider it for every shot.
+
+<hr/>
+
+h2. Light
+
+* Shooting outside or in a sunny room can give you great light.
+* Low light can produce poor pictures.
+* Have light shine on subjects – backlit subjects appear silhouetted.
+* Lights approximately 3 feet away are most flattering.
+* Don’t burn yourself – wear gloves to handle lights!
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:The six questions, Who, What, Where, When, Why and How, do what exactly?
-Answer 1:Give you useless information.
-Answer 2:Give you confusing details.
-Answer 3:Take away from the story.
-Answer 4:Give you the essential information you need to tell any story.
-Correct Answer:4
+Question:Without good sound your images
+Answer 1:are better.
+Answer 2:are only telling half the story.
+Answer 3:are confusing.
+Correct Answer:2
 
 <hr/>
 
 Question 2
-Question:What does an effective story have?
-Answer 1:One good shot.
-Answer 2:A beginning, a middle, and an end.
-Answer 3:A good beginning, but no ending.
-Answer 4:All of the above
+Question: Where are you most likely to have the best light?
+Answer 1:Indoors, during daylight.
+Answer 2:Outdoors, during daylight.
+Answer 3:Indoors, at night.
+Answer 4:Outdoors, at night.
 Correct Answer:2
 
 <hr/>
 
 Question 3
-Question:By combining shots of different sizes or types, what do you create?
-Answer 1:a complementary sequence.
-Answer 2:a bad video.
-Answer 3:a confusing sequence.
-Answer 4:None of the above
-Correct Answer:1
+Question:What can you use to shield your microphone?
+Answer 1:Your hand.
+Answer 2:A card.
+Answer 3:A natural windbreak, like a wall.
+Answer 4:All of the above.
+Correct Answer:4
 
 <hr/>
 
 Question 4
-Question:How many shots is a good basis to tell a story?
-Answer 1:1
-Answer 2:3
-Answer 3:5
-Answer 4:12
-Correct Answer:2
+Question: Where should the light source be when filming?
+Answer 1:Directly on the subject.
+Answer 2:Next to the subject.
+Answer 3:Nowhere near the subject.
+Answer 4:Directly behind the subject.
+Correct Answer:1

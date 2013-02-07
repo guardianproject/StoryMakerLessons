@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. What are the best ways to approach an audio interview?
 
-!3.5.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -65,7 +65,7 @@ At the end of the interview, ask them if they have anything else to add. Ask the
 
 h2. Follow-up
 
-!3.5.6.a.png!
+!2.png!
 
 Some journalists stay in touch with the person they have interviewed throughout the process of producing the story, or they show them a final version of their part before the full story is published. This is true in audio like in text or any other form of media production, making sure the person you have featured is aware of what you're doing and will not later be offended, angry, or out to stop you somehow. Some stories do not allow for this type of open-ness, especially of the person being interviewed is trying to cover up some truth that has been exposed during your conversation. In those cases followup is less useful or even possible. But when it is possible, it can be very good to followup with interviewees during or after the audio production process.
 

@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. How do I communicate with anonymous sources safely?
 
-!2.2.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -14,7 +14,7 @@ Anytime you communicate with a threatened source, you put them at risk. Ensure y
 
 h1. Solution
 
-!2.2.3.a.png!
+!2.png!
 
 As soon as you decide to work with a source whose safety necessitates anonymity you are responsible for that safety. If you cannot meet that requirement, *DO NOT INVOLVE* them in your story.
 
@@ -26,7 +26,7 @@ Store as little information as possible about the source, in case the storage be
 
 <hr/>
 
-!2.2.5.a.png(Example of a good and bad password)!
+!3.png(Example of a good and bad password)!
 
 
 If you store the data on a computer, be sure that computer has a strong password, and is encrypted.
@@ -37,7 +37,7 @@ If your data is stored online, be aware of the host’s policies. Your source wi
 
 <hr/>
 
-!2.2.7.a.png!
+!4.png!
 
 Never store information about an anonymous source on your mobile phone. Mobile Phones are impossible to completely secure and easily lost or stolen. Never communicate with an anonymous source via your primary phone.
 
@@ -45,7 +45,7 @@ See Lessons 2.6, 2.7, and 2.11 for more details on safer mobile phone communicat
 
 <hr/>
 
-!2.2.8.a.png(Monitoring email at the ISP and national gateway)!
+!5.png(Monitoring email at the ISP and national gateway)!
 
 Email communication with anonymous sources should be kept to a minimum and only over a secure connection. Any electronic communication is outside your control once it leaves your device.
 

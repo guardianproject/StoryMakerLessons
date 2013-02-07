@@ -2,19 +2,19 @@ h1. Problem Statement
 
 h2. You are dependent almost exclusively on mobile devices, Internet contacts and social networks such as Twitter, Facebook and YouTube for communication of information. How do you best leverage your unique tools and skills to reach the broadest possible audience with information about important issues?
 
-!1.1.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-!1.1.2.a.png!
+!2.png!
 
 Social platforms can reach an unprecedented international audience. In the Middle East and elsewhere during last few years several significant stories appeared on Twitter, Facebook and YouTube before they reach television outlet such as Al Jazeera, CNN or the BBC. The combination of a viral story online and television coverage can quickly make an issue a leading news story and force a response from the institutions involved.
 
 <hr/>
 
-!1.1.3.a.png!
+!3.png!
 
 Top news organizations cull social media for coverage. They are looking for compelling stories that are well-presented and that they can verify. Citizen journalists who understand what large news organizations are looking for - and what their concerns are -- can build long-standing relationships and an unparalleled chance to get their story viewed by those who influence policy both nationally and internationally.
 
@@ -46,7 +46,7 @@ h2. Tips
 
 h1. Things to Remember
 
-!1.1.6.a.png(Example of a seamless content on Twitter)!
+!4.png(Example of a seamless content on Twitter)!
 
 It is important to have a seamless web of content through what ever social platforms you use. This will help you build a single, consistent presence that will advance your profile and build credibility. However, safety as it relates to your identity can be a huge issue when using social media (see the security section).
 

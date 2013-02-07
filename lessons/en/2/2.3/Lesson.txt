@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. How do my communications put me at risk?
 
-!2.3.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -16,7 +16,7 @@ Understanding your communications trail is the first step to ensure those who th
 
 h1. Solution
 
-!2.3.3.a.png!
+!2.png!
 
 All standard methods of electronic communication leave trails. Electronic communication consists of a broad variety of methods:
 
@@ -29,7 +29,7 @@ All standard methods of electronic communication leave trails. Electronic commun
 
 <hr/>
 
-!2.3.4.a.png(Communication System)!
+!3.png(Communication System)!
 
 All electronic communications rely on a similar framework. Communication is initiated by one individual, routes through a network, and is received by a second individual.
 
@@ -37,7 +37,7 @@ The nature of the threat posed by the communication depends on the system being 
 
 <hr/>
 
-!2.3.5.a.png(Monitoring email at the ISP and national gateway)!
+!4.png(Monitoring email at the ISP and national gateway)!
 
 Mobile phone network communication relies on a passive system, where the user’s device is, by default, connected to the network.
 
@@ -47,7 +47,7 @@ Web browsing, email, VoIP, and social network communication have traditionally r
 
 <hr/>
 
-!2.3.6.a.png!
+!5.png!
 
 As more users rely on their mobile for all data and communication services, all of these communications begin to rely on passive communication. Although you must take an action to communicate with a social network or receive email on a computer, your phone will receive these communications by default, once initiated.
 
@@ -59,7 +59,7 @@ If you believe you are under threat, surveillance of your communications may hap
 
 <hr/>
 
-!2.3.7.a.png!
+!6.png!
 
 See this list of tools for maintaining privacy and anonymity when engaged in electronic communication. Later lessons will explain best practices for each type of communication.
 
@@ -84,7 +84,7 @@ Answer 1:Email + SMS
 Answer 2:Phone calls
 Answer 3:Handwritten notes
 Answer 4:Web browsing
-Correct Answer:1, 2, 4
+Correct Answer:1,2,4
 
 <hr/>
 
@@ -94,4 +94,4 @@ Answer 1:By dialing phone numbers.
 Answer 2:Only when making a phone call.
 Answer 3:Mobile phones engage in passive communication constantly.
 Answer 4:Only when making a phone call or sending an SMS.
-Correct Answer:Answer 3
+Correct Answer:3

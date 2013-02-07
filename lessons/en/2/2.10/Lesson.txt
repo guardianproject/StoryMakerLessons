@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. How can I manage my mobile data safely?
 
-!2.11.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -24,7 +24,7 @@ Data recovery is a growing industry, many firms and government agencies have bec
 
 h2. Data deletion
 
-!2.11.4.a.png(How data deletion works)!
+!2.png(How data deletion works)!
 
 There is no computer function that can delete information. 
 
@@ -34,7 +34,7 @@ Computers only write new information to the hard drive. When you choose to delet
 
 h2. Removable Devices
 
-!2.11.5.a.png(How data stores on non-mechanical storage devices)!
+!3.png(How data stores on non-mechanical storage devices)!
 
 It is not only hard drives that store our digital information. CDs, USB memory sticks, and SD cards are used frequently for file storage and transfer. These media also hold on to information after you delete it. CDs can contain recoverable information after they are cut into pieces.
 
@@ -46,7 +46,7 @@ Apart from burning the device to ashes, data can still be recovered. [1] Some sy
 
 h2. Wiping
 
-!2.11.7.a.png(How wiping works on a drive)!
+!4.png(How wiping works on a drive)!
 
 The non-violent solution to destroying old data on your hard drive is overwriting it with other random data. This method is known as wiping. You can wipe a single file (and all previous instances) or wipe the ‘empty’ space on your hard drive. The latter action will find all unallocated space (space not used by current files) and overwrite it with random data. Experts agree that at least one random pass is necessary to prevent recovery of your information. You must not only wipe your documents, but all files used by your operating system and collected while you use the computer.
 
@@ -62,7 +62,7 @@ On a magnetic disk this is generally not of concern, because the device usually 
 
 h2. Full Disk Encryption
 
-!2.11.9.a.png!
+!5.png!
 
 If you need to ensure your smartphone data is secure, the only option Small World News recommends currently is to use a smartphone running Android 4.0+ and initiate Full Disk Encryption.
 

@@ -1,109 +1,92 @@
 h1. Problem Statement
 
-h2. There is a color shift to many of my pictures. Many are too yellow. Some are too blue. What is the problem and what can I do about it?
+h2. How do I photograph fast-moving objects?
 
-!4.11.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-Your eye in combination with your brain does an excellent job of calibrating how you perceive color. You will recognize a color as red even if the light source illuminating it is very yellow, making the apparent color orange. You will recognize fleshtones even if the light illuminating the subject is a very greenish-blue fluorescent.
-
-A digital camera can’t do that. It has to be calibrated to adjust for different light source’s color temperature. This calibration is measured against absolute white. That’s why it is called white balance.
+From football players to moving vehicles and marching protesters, journalists frequently have to take pictures of moving objects. A camera’s ability to freeze action is controlled by the shutter. If the shutter speed is too slow, it cannot adequately freeze action. The image appears blurry because the sensor is recording the movement. Shutter speeds are typically measured in fractions of a second. The faster the action, the faster the shutter speed needs to be.
 
 <hr/>
 
-(
-!4.11.13.a.png(Example of a subject lit by a tungesten bulb)!
-!4.11.13.b.png(Example of a subject lit outdoors when it's cloudy)!
-!4.11.13.b.png(Example of a subject lit outdoors in the sun)!
-!4.11.13.b.png(Example of a subject lit by a fluorescent bulb)!
-)
+!2.png(Shutter Priority Icon)!
 
-Small tungsten bulbs have a very warm temperature, coloring the image more yellow. Daylight on an overcast, cloudy day has a very high light temperature coloring the image blue. Other light sources -- sunlight, fluorescent light, shade -- all fall in the middle. Color temperature has nothing to do with the amount of light.
-
-<hr/>
-
-(
-!4.11.14.a.png(Example of a professional colored photo)!
-!4.11.14.b.png(Example of an unacceptable colored photo)!
-)
-
-Good color management is very important. It makes image much more professional in appearance. dSLRs and many point-and-shoots will allow you calibrate the white balance manually. Many smartphones provide a variety of presets for white balance.
+Some smartphones have settings that tells the camera to favor a faster shutter speed in its exposure equation. The icon for this is a profile of a man running. For smart phones without this feature there are several things you can do to help freeze action. This begins with knowing the limitations of the camera and being realistic about your choices.
 
 <hr/>
 
 h1. Solution
 
-!4.11.15.a.png(Icons for the common white balance options)!
+h2. Light
 
-If your camera allows you to set the white balance manually, do it. Your smartphone may have a button or menu option for white balance. It will offer several icons representing- five or six- common light sources. Pick the one that most represents the shooting conditions you are working under.
+(
+!3.png(Example of using daylight to light a subject)!
+!4.png(Example of using an external source to light a subject)!
+!5.png(Example of using an external source to light a subject)!
+)
 
-<hr/>
-
-If your smartphone cannot control white balance manually, you can correct color with post-production apps (for more on this, see the section on post-production). If the color temperature is way off, it is VERY IMPORTANT to make adjustments before publishing your images.
-
-<hr/>
-
-h1. Things to Remember
-
-h2. AWB (Auto White Balance)
-
-!4.11.17.a.png(A common Auto White Balance icon)!
-
-Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you’re unsure of which of these is the best to go with.
+The most common challenge when trying to photograph motion is inadequate light. There is not enough light to allow the camera to properly expose your picture AND have a high enough shutter speed to freeze action. You can’t make the camera do the impossible. If you know you need to freeze action, plan your assignment so there will be enough light. This can mean choosing a time of day when there is sunlight. It might also mean choosing a location where there will be the most light possible – near a street light, stage light or in the headlights of a car.
 
 <hr/>
 
-h2. Daylight
+h2. Stabilize the Camera
 
-!4.11.18.a.png(A common Daylight White Balance icon)!
+!6.png(Proper holding stances for a camera)!
 
-Used for shooting outdoors. This setting will give your images a very “cool” or a slight blue tint to them. When shooting indoors, images will have an orange tint.
-
-<hr/>
-
-h2. Cloudy
-
-!4.11.19.a.png(A common Cloudy White Balance icon)!
-
-Used for shooting outdoors. This setting will give your images a slightly “warmer” color to them. While the daylight option is technically the more correct white balance, using the cloudy setting gives a very appealing image.
-
-When shooting indoors, this setting will give your images a strong orange tint.
+Camera shake – the movement of your own hands while holding the camera -- can cause or contribute to blurry images and not only when shooting fast moving objects.- Always hold a camera close to your body. This is will make it easier to stabilize than if your arm is fully extended. It may help to rest the elbow of your camera hand on your knee or another object to stabilize your camera.
 
 <hr/>
 
-h2. Incandescent
+h2. Flash
 
-!4.11.20.a.png(A common Incandescent White Balance icon)!
+(
+!7.png(Example of a photo taken with a camera phone flash)!
+)
 
-Used for shooting indoors, with traditional small light bulbs. When shooting outdoors, images will have a strong blue tint.
+Many smartphones come with a built-in flash. The burst of light can help you freeze motion. Most phone flashes are only effective for about three meters.
 
 <hr/>
 
-h2. Fluorescent
+h2. Pick your Moment
 
-!4.11.21.a.png(A common Fluorescent White Balance icon)!
+(
+!8.png(Example of capturing a moment)!
+!9.png(Example of capturing a moment)!
+)
 
-For shooting indoors, with the long tube fluorescent lights. When shooting outdoors, images will have a blue tint.
+In many cases your subject will move at varying speeds. Footballers move more slowly as a play is being set up. Cars slow at corners or in traffic. Demonstrators are stationary for speeches. Choose a moment when things movie more slowly. If you combine this with a good location for light, you can often get sharp pictures of difficult subjects even at night -- demonstrators chanting under a streetlight, for example.
+
+<hr/>
+
+h2. Angle to Movement
+
+!10.png(How to select the action feature on a mobile device)!
+
+The most difficult movement for the camera is when the subject is moving across the frame from right to left or left to right. A common technique for handling this situation is called panning. Point your camera and follow the subject as it goes by, twisting your body if you have to. This reduces the relative speed of the movement to the camera. You may change your angle so the subject comes at the camera on an angle. This will allow the camera to track the object better and freeze the action. Many smart phones have a scene selection feature with an 'action' option.
+
+<hr/>
+
+At least the main subject of your photo should always be sharp. Remember and manage the limitations of your equipment and the lighting conditions. Football players, vehicles and other moving objects may vary their speed. They may move into and out of greater light sources. position yourself for the most advantageous moment to get your photo when the subject is well illuminated and moving comparatively slowly.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:Which best describes what white balance means?
-Answer 1:The amount of light that strikes the sensor.
-Answer 2:The color temperature of the light striking the sensor, ranging from very warm (yellow) to cool (blue).
-Answer 3:The text color of the caption.
-Answer 4:None of the above.
-Correct Answer: 2
+Question:What causes blurry images when photographing fast-moving objects?
+Answer 1:Too large and aperture.
+Answer 2:A slow shutter speed.
+Answer 3:Accidentally switching the camera to video mode.
+Answer 4:Too high an ISO.
+Correct Answer:2
 
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: Whenever possible you should always adjust the white balance in the camera or in post production.
+Question:TRUE or FALSE: Blurriness can be caused by handshake. It is important to stabilize the camera when trying to freeze action.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2
@@ -111,22 +94,12 @@ Correct Answer:2
 <hr/>
 
 Question 3
-Question:How can you control the white balance with your android smartphone or point and shoot camera? (t can be more than one):
-Answer 1 Manually set the white balance to the icon that best represents the light color conditions under which you are shooting.
-Answer 2:It is a good idea to calibrate with a white piece of paper as video journalists do. 
-Answer 3:Adjust the white balance in post production.
-Answer 4:All of the above.
+Question:How might you improve the sharpness of this image? 
+
+!11.png!
+
+Answer 1:Wait for a moment when the subject is moving more slowly.
+Answer 2:Zoom to a more telephoto setting.
+Answer 3:Wait for a moment when the subject is in more light.
+Answer 4:Ask the fast-moving subject to take a photo of himself.
 Correct Answer:1,3
-
-<hr/>
-
-Question 4
-Question:How might you correct the white balance in the image shown here?
-
-!4.11.25.a.png!
-
-Answer 1:Change the white balance option to 'fluorescent' when shooting.
-Answer 2:Adjust the exposure
-Answer 3:Adjust the light temperature in post-production by adding yellow.
-Answer 4:All of the above
-Correct Answer:3

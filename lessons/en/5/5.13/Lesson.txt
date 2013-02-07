@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. What are the advantages of the different content sites available?
 
-!5.13.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -16,13 +16,13 @@ New sites are started and others disappear constantly, so this information is on
 
 h1. Solution
 
-!5.13.3.a.png!
+!2.png!
 
 There are hundreds of commercial sites which allow you to publish your video online. One of the major disadvantages of many commercial platforms is that ads are placed next to your video. Many of these sites operate as online social networks.
 
 <hr/>
 
-!5.13.4.a.png!
+!3.png!
 
 There are a number of non-profit video sharing spaces focussed on social justice, environmental or human rights issues.
 
@@ -34,7 +34,7 @@ Be aware of security issues not only for yourself, but for anyone in your videos
 
 h2. Commercial Sites
 
-!5.13.6.a.png!
+!4.png!
 
 YouTube
 
@@ -44,7 +44,7 @@ Some of the problems with YouTube: it can be hard to link people back to your si
 
 <hr/>
 
-!5.13.7.a.png!
+!5.png!
 
 Blip.tv
 
@@ -52,7 +52,7 @@ blip.tv is the most flexible of all the commercial platforms, and has the fewest
 
 <hr/>
 
-!5.13.8.a.png!
+!6.png!
 
 Vimeo
 
@@ -60,7 +60,7 @@ Vimeo has a slick user interface and does a great job of streaming higher qualit
 
 <hr/>
 
-!5.13.9.a.png!
+!7.png!
 
 Facebook
 
@@ -68,7 +68,7 @@ If you are already running a campaign using Facebook, then sharing video on the 
 
 <hr/>
 
-!5.13.10.a.png!
+!8.png!
 
 Live Leak
 
@@ -78,7 +78,7 @@ A sometimes controversial site that emphasises current events, politics and real
 
 h2. Non Commercial Sites:
 
-!5.13.11.a.png!
+!9.png!
 
 Archive.org
 
@@ -88,7 +88,7 @@ Archive.org doesn't focus specifically on social change issues but it is a key s
 
 <hr/>
 
-!5.13.12.a.png!
+!10.png!
 
 EngageMedia
 
@@ -97,6 +97,8 @@ EngageMedia is a non-profit collective providing media tools to activists, campa
 <hr/>
 
 h1. Other Useful Sites
+
+!11.png!
 
 Qik - Online streaming service.
 
@@ -152,4 +154,4 @@ Answer 1:DotSUB
 Answer 2:Amara
 Answer 3:YouTube
 Answer 4:Transmission CC
-Correct Answer:1, 2
+Correct Answer:1,2

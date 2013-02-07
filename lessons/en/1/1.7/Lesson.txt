@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. Text is a powerful tool when used with other media elements. How is text best used for mobile devices?
 
-!1.7.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -46,12 +46,12 @@ Some stories are simply not very visual. Others are not easily produced as audio
 <hr/>
 
 ( 
-!1.7.5.a.png(11 Sept '03 -- USMC Lt. Jeff Colvin (L) discusses firing range practice with his Georgian Army counterpart. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
-!1.7.5.b.png(11 Sept '03 -- USMC Sgt. Luis Gines, from New York City, helps a Georgian soldier with the his shooting posture. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
-!1.7.5.c.png(11 Sept '03 -- USMC  Staff Sgt.Joe Duenas from Guam oversees the firing range training for new recruits Georgians. The approximately 100 American Advisors stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
-!1.7.5.d.png(11 Sept '03 -- USMC Sgt. Domonic Tino from Quantico, VA explains sighting on a rifle to a Georgian soldier. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
-!1.7.5.e.png(11 Sept '03 -- USMC Sgt. Luis Gines, from New York City, helps a Georgian soldier with the sight on his AK-47. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
-!1.7.5.f.png(11 Sept '03 -- USMC Sgt. Domonic Tino from Quantico, VA, gives the thumbs up to a Georgian soldier on the range. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!2.png(11 Sept '03 -- USMC Lt. Jeff Colvin (L) discusses firing range practice with his Georgian Army counterpart. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!3.png(11 Sept '03 -- USMC Sgt. Luis Gines, from New York City, helps a Georgian soldier with the his shooting posture. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!4.png(11 Sept '03 -- USMC  Staff Sgt.Joe Duenas from Guam oversees the firing range training for new recruits Georgians. The approximately 100 American Advisors stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!5.png(11 Sept '03 -- USMC Sgt. Domonic Tino from Quantico, VA explains sighting on a rifle to a Georgian soldier. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!6.png(11 Sept '03 -- USMC Sgt. Luis Gines, from New York City, helps a Georgian soldier with the sight on his AK-47. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
+!7.png(11 Sept '03 -- USMC Sgt. Domonic Tino from Quantico, VA, gives the thumbs up to a Georgian soldier on the range. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
 )
 
 When writing photo captions, the same principles of good writing apply. A photo caption should be no more than two sentences and include the following information:
@@ -65,12 +65,12 @@ When writing photo captions, the same principles of good writing apply. A photo 
 h2. Key words and tags
 
 ( 
-!1.7.5.a.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
-!1.7.5.b.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
-!1.7.5.c.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
-!1.7.5.d.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
-!1.7.5.e.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
-!1.7.5.f.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!8.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!9.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!10.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!11.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!12.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
+!13.png(Keywords: Republic of Georgia, United States Marines, military training, terrorism, oil region, army)!
 )
 
 Search engines and the web crawlers that support them can’t yet analyse video or photo or an audio recording very well. Your text choices for headlines, captions, keywords, tags and story are an important part of being seen even if your story is almost exclusively video or audio This is called search engine optimization (SEO). To maximize SEO text in general and key words/tags in particular should:

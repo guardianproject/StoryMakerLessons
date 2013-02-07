@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. Finding a good topic is the key part of any audio story. But what is the best way to choose a topic and present that story?
 
-!3.2.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -19,7 +19,7 @@ Before you begin to produce an audio piece, there are a few questions you should
 
 h1. Solution
 
-!3.2.3.a.png!
+!2.png!
 
 Plan your audio segment before you start recording. Your plan should include:
 
@@ -34,13 +34,13 @@ Remember to ask yourself, why are you making this program? Is there a specific a
 
 <hr/>
 
-!3.2.4.a.mp3(Example of an interview)!
+!3.mp3(Example of an interview)!
 
 Once your plan is written, you must make necessary arrangements and preparation. Agree on recording times with your subjects. Plan where to record and ensure there is a suitable recording environment.
 
 <hr/>
 
-!3.2.5.a.mp3(Example of a first person audio report)!
+!4.mp3(Example of a first person audio report)!
 
 Leave sufficient time within your plan for editing and publishing. It is possible you will change your mind or have to change your plan based on what you have, once you have put together and assembled your clips.
 

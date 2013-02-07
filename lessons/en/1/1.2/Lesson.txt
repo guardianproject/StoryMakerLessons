@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. What makes good reporting? It must to be fact-based rather than based on opinion, rumor or personal interest.
 
-!1.2.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -94,7 +94,7 @@ For short dispatches it is often helpful to think in terms of collecting “fact
 
 <hr/>
 
-!1.2.8.a.mp4(Example of a longer story with a wider variety of sources)!
+!2.mp4(Example of a longer story with a wider variety of sources)!
 
 More involved or longer stories may require more reporting with a wider variety of sources before and after an event.
 

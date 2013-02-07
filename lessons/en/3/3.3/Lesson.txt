@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. I know how to record but Im not sure what kind of story style to use for my project.
 
-!3.3.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -18,7 +18,7 @@ h1. Solution
 
 h2. Breaking News
 
-!3.3.3.a.mp3(Example of a breaking news report)!
+!2.mp3(Example of a breaking news report)!
 
 A breaking news report (hard news) requires a piece of audio that explains what is happening, summarizing the key points, the main actors, and any information that is known so far. Because such reports are about something that may still be going on, sometimes there will be unanswered questions that will be addressed in follow-up reports. Breaking news stories may feature a reporter at the location of the action, with his/her voice explaining what is known so far as well as what can be seen on the ground for that vantage point. In some cases a breaking news story can/must be introduced from a remote location based on second hand reports when it is not possible to be there. It's crucial that you will at least cover the following questions: Who, What, Where, Why, When and How.
 
@@ -26,7 +26,7 @@ A breaking news report (hard news) requires a piece of audio that explains what 
 
 h2. Events
 
-!3.3.4.a.mp3(Example of an event report)!
+!3.mp3(Example of an event report)!
 
 Unlike breaking news stories, events are usually scheduled which allows a reporter to prepare how they want to tell a story beforehand. An audio report about an event should highlight the who, what, and why information. It is also useful to have interviews or comments from participants who can give additional information or observations. Events often have main participants in the form of honored guests or keynote speakers, whom you can contact before the event to schedule an interview. Even if you decide not to use the audio from those interviews, it is good to do them and have that audio as an option for your final production piece.
 
@@ -36,7 +36,7 @@ As with most types of stories, to report on an event you can use one voice as th
 
 h2. Feature
 
-!3.3.5.a.mp3(Example of a featured story)!
+!4.mp3(Example of a featured story)!
 
 A feature story means dedicating more time to focus on one topic. It also means doing more research and presenting as much background information as possible to further tell a story. That story should also include audio from key actors related to the topic. Have multiple sources and a cross section of voices speaking on that topic based on experience and observations can also increase the quality of a feature story.
 
@@ -46,7 +46,7 @@ Features can be carried out in a few different styles, which include the use of 
 
 h1. Things to Remember
 
-!3.3.6.a.mp3(Example of a story using multiple contributors)!
+!5.mp3(Example of a story using multiple contributors)!
 
 * Be sure to have first hand observations and interviews whenever possible.
 * It is good to have more than one voice in a story.

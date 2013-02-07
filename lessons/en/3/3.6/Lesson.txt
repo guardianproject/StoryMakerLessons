@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. I have my mobile phone and I'm ready to record, what can I do to make sure the recording comes out well?
 
-!3.6.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -16,15 +16,15 @@ h1. Solution
 
 h2. Handling Noise and Grip
 
-!3.6.3.b.png!
+!2.png!
 
-!3.6.3.a.mp3(Example of handling noise)!
+!3.mp3(Example of handling noise)!
 
 When preparing to record, hold your device in a way that is comfortable and natural. Hold the device without applying much pressure, a manner that you can hold for an extended period of time.
 
 <hr/>
 
-!3.6.4.a.png!
+!4.png!
 
 If you must hold the recording device up to the person throughout the interview, rest your elbow on a solid surface. It is best to sit down, rest your elbow on the table and extend your arm toward the audio source.
 
@@ -32,7 +32,7 @@ If there is a table between you and the person you are interviewing, you can set
 
 <hr/>
 
-!3.6.5.a.png!
+!5.png!
 
 There are several types of stands that fit handheld recorders or even smart phones, to hold them in place during the interview. You can make your own using materials you have anything you can rest the recorder on that keeps it as face level with your audio source will do.
 
@@ -40,13 +40,13 @@ There are several types of stands that fit handheld recorders or even smart phon
 
 h2. Hums and Background Noise
 
-!3.6.6.a.mp3(Example of air conditioning sound)!
+!6.mp3(Example of air conditioning sound)!
 
 Detecting air conditioning sounds and other machine sounds that can ruin your audio recording should be done before you press record. When you arrive at the location, take notice of any and all sounds even those that seem harmless. Ask if machines causing noise can be turned off, or suggest a change of location for the sake of the audio quality. Most people will understand and trust your expertise on the subject.
 
 <hr/>
 
-!3.6.7.a.png!
+!7.png!
 
 Hold the microphone a bit under the mouth of the interviewee so that the airstream coming out of his or her mouth will not create HISS or POP sounds in the recording.
 
@@ -55,13 +55,13 @@ Hold the microphone a bit under the mouth of the interviewee so that the airstre
 
 h2. Backup and Store Files
 
-!3.6.9.a.png!
+!8.png!
 
 Once you have your audio recorded, unless you upload it immediately to the internet, there is always a risk that your audio files will get lost, damaged or deleted. It is therefore very important to offload your recordings as soon as possible to your computer and even better, store a copy on an external hard drive. Professional media makers often have multiple backups of their content just in case their computer or one of their backup drives is damaged.
 
 <hr/>
 
-!3.6.10.a.png!
+!9.png!
 
 Remember to also keep your audio files labeled and organized. StoryMaker allows you to make notes on individual clips, this function can help you remember important details. Choose a name that includes the title of the project and some other identifiable label that tells you what part of the project it is.
 

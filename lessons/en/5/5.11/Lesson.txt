@@ -1,171 +1,98 @@
 h1. Problem Statement
 
-h2. My shots are well composed, but when I watch them together they're repetitive and do not tell me a complete story. What am I missing?
+h2. What is a shot / reverse shot?
 
-!5.11.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-A successful shot is more than a well composed image. A shot with a goal progresses the story and provides specific information that supports the goal of the sequence.
+You can only point it in one direction at a time. If you want to show an action occurring from different angles at the same time you must film them separately. This is known as a shot / reverse shot.
 
 <hr/>
 
 h1. Solution
 
-!5.11.3.a.png(Example of a wide shot providing a clear location)!
-
-Each shot type has specific goals it's best suited to achieve. You may be able to explain your location with other shot types, but the wide shot is the easiest option to do it successfully. For example, wide shots are filmed far away from a subject. This distance often provides a clear image of the area around the subject, which is why it's effective to depict the location.
+To create a shot / reverse shot you record two shots with both in mind. As an example, we will walk through constructing a basic shot / reverse shot of someone typing on their keyboard.
 
 <hr/>
 
-(
-!5.11.4.a.png(Example of using different shot types to tell a story)!
-!5.11.4.b.png(Example of using different shot types to tell a story)!
-!5.11.4.c.png(Example of using different shot types to tell a story)!
-!5.11.4.d.png(Example of using different shot types to tell a story)!
-!5.11.4.e.png(Example of using different shot types to tell a story)!
-)
+!2.mp4!
 
-Every shot type's goal also answers a specific question about the story as well. By shooting a complete set of shot types, you can allow yourself to focus on a separate part of the story with each shot, and as a group they will tell a complete story.
-
-Only try to accomplish one goal per shot when you're first learning. A sequence is more successful with two shots that each do a good job of achieving one goal, than to have one shot that does a bad job of achieving two goals.
+The first shot is your subject's face in a medium shot while they’re performing an action.
 
 <hr/>
 
-It's best to experiment with this at first, and expect to fail more often then it works. Don't get discouraged. It is a challenging skill and each goal you add to a shot makes it significantly harder to be successful.
+!3.mp4!
+
+The second shot, the reverse shot in this sequence, is a shot of whatever the subject is doing in the first shot. In this case, it’s typing on their computer.
 
 <hr/>
 
-Now that we understand why we have shot goals lets review some examples of the shot types. What goal they're best suited to, and give you some tips to help you be successful.
+!4.mp4!
+
+When you cut these two shots together, it will appear as if the subject is typing on their keyboard. While we used a medium shot in the first shot, it could also be a close up. This is a matter of style on your part, but the other shots in your video will help you make that decision.
+
+That’s it. You have enough shots to construct a shot / reverse shot.
 
 <hr/>
 
-h2. Wide Shot
+This technique also works to show what a subject may be looking at. Either an object, or potentially another person. For instance, if you want to show someone on their phone.
 
-!5.11.7.a.mp4(Example of a Wide Shot)!
-
-*Goal:* Shows the location / scene of a story.
-
-Tips
-
-* Typically used once in a scene, usually at the beginning.
-* Has a sense of the feel of the location.
-* To use multiple times you should be showing a dramatic change to the location. For example, an empty town square to a full town square is a successful use of two location shots.
+Film their face while they use their phone and then film the phone they’re using.
 
 <hr/>
 
-h2. Long Shot
+!5.mp4!
 
-!5.11.8.a.mp4(Example of a Long Shot)!
-
-*Goal:* Showcases the characters and how they interact with the location.
-
-Tips
-
-* Best used to highlight a subject's actions.
-* Effective for including multiple subjects.
-* It’s common to allow for more headroom than in either medium or close up shots.
-
-<hr/>
-
-h2. Medium Shot
-
-!5.11.9.a.mp4(Example of a Medium Shot)!
-
-*Goal:* Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
-
-Tips
-
-* Headroom is very important to being successful.
-* Eye line is very important to being successful.
-* Good at showing a subject's body language.
-
-<hr/>
-
-h2. Close up Shot
-
-!5.11.10.a.mp4(Example of a Close Up Shot)!
-
-*Goal:* Forces the audience to focus entirely on a single character, encourages the emotion of the character.
-
-Tips
-
-* Capturing emotion and feeling is your primary objective.
-* Pay close attention to the eyes of your subject.
-* Don't worry about incorporating the environment in this shot.
-
-<hr/>
-
-h2. Detail Shot
-
-!5.11.11.a.mp4(Example of a Detail Shot)!
-
-*Goal:* Showcases an interesting detail, often focusing directly on an important action.
-
-Tips
-
-* A subjects hands are usually good to start with, especially when performing an action.
-* Best used to highlight details lost in wider shots.
-* Focus and frame for the specific details you want, cut out everything else.
+You are not limited to using only two shots. Adding more shots allows you to show how the process of the action changes over time. If a task is becoming more difficult, you might show a second shot of the subject appearing interested while writing an email, and end with a look of satisfaction when they send the email.
 
 <hr/>
 
 h1. Things to Remember
 
-!5.11.12.a.png(The subject matter should be 50% of the screen focus)!
+!6.mp4!
 
-Consider the Hitchcock rule from video basics when you're considering your goal. Ask yourself if the most important element,  the primary goal of your shot is clearly visible.
-
-<hr/>
-
-!5.11.13.a.png(Rule of Thirds)!
-
-The rule of thirds is there to help you arrange the elements in your frame so that they're successful. Use the four point system from it to ensure your goals are clear.
-
-<hr/>
-
-* Often times, when you're first recording shots with single goals they will feel "obvious" or "simple". When you watch them with the rest of your shots though, you'll see how each shot having a specific purpose builds to tell a complete story.
+* They help create the appearance of continuous action in your video.
+* They are popular to use in interviews with a specific interviewee.
+* Good technique to use for getting good b roll.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:How do I help ensure my shots are successful?
-Answer 1:Move the shot around a lot. 
-Answer 2:Make every shot look the same.
-Answer 3:Any shot that looks good is successful.
-Answer 4:Give your shot a goal.
+Question:What’s the smallest number of shots you need to create a shot / reverse shot?
+Answer 1:10 shots
+Answer 2:3 shots
+Answer 3:6 shots
+Answer 4:2 shots
 Correct Answer:4
 
 <hr/>
 
 Question 2
-Question:How many goals should I try to accomplish in a shot?
-Answer 1:0
-Answer 2:1
-Answer 3:4
-Answer 4:12
+Question:This technique only works to show what a subject is looking at?
+Answer 1:True, it can only show what they’re looking at.
+Answer 2:False, it can also show what they’re doing.
 Correct Answer:2
 
 <hr/>
 
 Question 3
-Question:What is the goal of a long shot?
-Answer 1:Highlight the characters cool shoes.
-Answer 2:Showcases the characters and how they interact with the location.
-Answer 3:Depict the characters haircut.
-Answer 4:Showcase the country the subject is from.
-Correct Answer:2
+
+Question:What types of shots work best in a shot / reverse shot?
+Answer 1:Long Shot
+Answer 2:Medium Shot
+Answer 3:Establishing Shot
+Answer 4:Detail Shot
+Correct Answer:2,4
 
 <hr/>
 
 Question 4
-Question:What shot should you pay particular close attention to the eyes of your subject?
-Answer 1:Long
-Answer 2:Medium
-Answer 3:Close Up
-Answer 4:Detail
-Correct Answer:3
+Question:True or false: Adding more shots allows you to show how the process of the action being performed changes over time.
+Answer 1:True, each shot can show a different step in the process.
+Answer 2:False, adding shots only confuses the audience.
+Correct Answer:1

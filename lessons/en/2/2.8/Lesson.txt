@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. How can I send email safely?
 
-!2.8.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -16,13 +16,13 @@ fn1. Frontline Defenders, www.frontlinedefenders.org/manuals/protection
 
 h1. Solution
 
-!2.8.3.a.png(How an email be intercepted or monitored)!
+!2.png(How an email be intercepted or monitored)!
 
 Your email message can be intercepted at all major routing points on its way. If you live in a country with strong legal protection of privacy, its legislation won’t apply when your email reaches the ISP of the recipient in a country with different privacy laws. While your email is in transit from country A to country B, it could pass the routers of several other countries.
 
 <hr/>
 
-!2.8.4.a.png(Using Https vs Http)!
+!3.png(Using Https vs Http)!
 
 Use email that supports HTTPS secure connections. [2]
 fn2. Small World News Safety Guide, www.smallworldnews.tv/guide/
@@ -31,14 +31,13 @@ Always be sure you have a secure connection. When connecting to email services, 
 
 <hr/>
 
-!2.8.5.a.png!
+!4.png!
 
-Do not open attachments. Use the “view” option instead.
-Always be sure you are communicating with the person you think you are. According to Frontline Defenders, “It is relatively easy to ‘spoof’ an email address. Spoofing means faking the name and email address of the sender to make it appear as a random address or that of someone you know.”
+Do not open attachments. Use the “view” option instead. Always be sure you are communicating with the person you think you are. According to Frontline Defenders, “It is relatively easy to ‘spoof’ an email address. Spoofing means faking the name and email address of the sender to make it appear as a random address or that of someone you know.”
 
 <hr/>
 
-!2.8.6.a.png!
+!5.png!
 
 For additional anonymity, communicate only between new anonymous email accounts.
 

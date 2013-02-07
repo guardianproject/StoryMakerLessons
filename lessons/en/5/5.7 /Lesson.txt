@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. How do you shoot interviews well?
 
-!5.6.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -16,7 +16,7 @@ When you’re making your story, include diverse participants in your story. Pro
 
 h1. Solution
 
-!5.6.3.a.png!
+!2.png!
 
 Interviews are difficult because you must handle two things at once. You need to make sure your shot looks good. But you also need to make the interview itself interesting. Failing to perform either one will greatly reduce the quality of your interview.
 
@@ -26,9 +26,9 @@ Lets look at what technical challenges you need to keep in mind first.
 
 h2. Shooting your interview
 
-!5.6.4.a.mp4(Example of an interview using a Medium Shot)!
+!3.mp4(Example of an interview using a Medium Shot)!
 
-!5.6.4.b.mp4(Example of an interview using a Close Up Shot)!
+!4.mp4(Example of an interview using a Close Up Shot)!
 
 Framing
 
@@ -36,25 +36,25 @@ Framing
 
 <hr/>
 
-!5.6.5.a.mp4(Example of changing composition after a question)!
+!5.mp4(Example of changing composition after a question)!
 
 Choose a Frame and hold it. Once you’ve decided which side of the frame the subject will be on, hold it there. Hold it until the subject has finished answering a question. Only change the composition of the frame in between questions.
 
 <hr/>
 
-!5.6.6.a.mp4(How to setup good head room in your shot)!
+!6.mp4(How to setup good head room in your shot)!
 
 Keep good head space, if you’re unsure please take the the head space lesson.
 
 <hr/>
 
-!5.6.7.a.mp4(Example of not panning away, but adding a shot in later)!
+!7.mp4(Example of not panning away, but adding a shot in later)!
 
 Don’t pan or move the camera if the subject points at something or is discussing something outside of the frame. After they finish answering the question on camera, record a shot of the action they were pointing at.
 
 <hr/>
 
-!5.6.8.a.mp4(How to keep camera at eye level)!
+!8.mp4(How to keep camera at eye level)!
 
 Keep the camera’s lens at eye level with the interview subject. If they’re standing, you should be standing. If they’re sitting, you should be as well.
 
@@ -62,7 +62,7 @@ Keep the camera’s lens at eye level with the interview subject. If they’re s
 
 h2. Location
 
-!5.6.9.a.mp4(Example of a bad interview location vs a good location)!
+!9.mp4(Example of a bad interview location vs a good location)!
 
 * Your location should improve, not degrade, the impact of your interview.
 * Think about what the location says about the subject.
@@ -71,7 +71,7 @@ h2. Location
 
 h2. Sound Quality
 
-!5.6.10.a.mp4(Example of an interview with bad audio vs good audio)!
+!10.mp4(Example of an interview with bad audio vs good audio)!
 
 * Sound is critical to your interview. If your audience can’t hear the interview, it’s not an interview.
 * Hold your shot. It’s essential to keep he camera pointed at the subject for the entire interview in order to get good sound.
@@ -82,7 +82,7 @@ With these technical tips in mind let's look at what you can do to perform an in
 
 h2. Performing your interview
 
-!5.6.12.a.mp4(Example of a longer interview)!
+!11.mp4(Example of a longer interview)!
 
 h3. Ask open-ended questions
 
@@ -153,9 +153,9 @@ Correct Answer:1
 
 Question 5
 Question:Which of these videos demonstrates good framing for an interview?
-Answer 1:!5.6.18.a.mp4!
-Answer 2:!5.6.18.b.mp4!
-Answer 3:!5.6.18.c.mp4!
+Answer 1:!12.mp4!
+Answer 2:!13.mp4!
+Answer 3:!14.mp4!
 Correct Answer:1
 
 <hr/>
@@ -163,7 +163,7 @@ Correct Answer:1
 Question 6
 Question:How can I improve this shot?
 
-!5.6.18.a.mp4!
+!15.mp4!
 
 Answer 1:Use a wide shot.
 Answer 2:Move to a quiet location.

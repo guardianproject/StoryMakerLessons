@@ -1,73 +1,116 @@
 h1. Problem Statement
 
-h2. How do I effectively use pseudonyms?
+h2. How does my mobile phone put me at risk?
 
-!2.4.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-If you or a source are threatened, you must take additional steps to protect the identity of the threatened individual. At-risk journalists and threatened sources often use pseudonyms to protect their true identity. When you communicate digitally you may leave clues to your true identity.
+!2.png!
+
+Both your SIM card and your mobile phone itself can identify who you are. Any communication your phone has with the mobile network - whether placing or receiving a call, sending a message, browsing the web or just remaining connected - includes identifying information about the phone and the SIM card.
 
 <hr/>
 
 h1. Solution
 
-!2.4.3.a.png!
+h2. How can a SIM card compromise me?
 
-Those who maintain (or contribute to) a blog or an Internet forum need to be aware that their anonymity will not be guaranteed merely by signing with a pseudonym. Every blog entry records the IP address (http://en.wikipedia.org/wiki/IP_address) of the computer it was sent from, and many ISPs (http://en.wikipedia.org/wiki/ISP) record all traffic that has passed through them. Therefore, if you are publishing sensitive information on a website, you must take precautions not to be found out. There are a variety of methods to disguise your browsing. These will be explained in Lesson 2.9. If you must maintain anonymity online, be sure to use the Tor anonymity network to access your site and publish your content.
+!3.png!
+
+The Subscriber Identity Module (SIM) card stores information about the mobile service subscriber. It is what your service provider uses to identify who you are, based on personal information or documents that you submitted.
 
 <hr/>
 
-h2. Timestamps
+h2. How can my mobile phone compromise me?
 
-!2.4.4.a.png!
+!4.png(Example of a IMEI number)!
 
-If you publish media to a website about government activity in your country by using the Tor network, the authorities won’t see that you were sending this information to a particular blog, but they may notice whenever you enter an Internet café a new post appears on the site. This may be linked to you, especially if your Internet café owner writes down your name and the time of your visit. To overcome this difficulty, ask a colleague from another country to post the blog for you. Use a secure webmail service (or encryption) to send the article to them and ask them to wait for a while before publishing it on your blog.
+A SIM card identifies you, but your mobile phone can get you into trouble. Each mobile phone has a unique number, the International Mobile Equipment Identity (IMEI). This number can be tracked at all times.
 
-Your identity can be determined not only by the name you choose for yourself or your source. Your identity may also be determined by the trail you leave through your online activity.
+Check your mobile phone for the IMEI (often located behind the battery) or dial *#06# from your phone to find out your mobile phone’s unique number.
+
+<hr/>
+
+You may assume your SIM card is the only way for a mobile service provider or authorities to identify you or track your location. Many people change their SIM cards frequently, but continue to use the same phone. This is a mistake! The combination of your SIM card (which identifies you) and IMEI number (which identifies your phone) allows you to be identified and tracked constantly.
+
+Your mobile phone constantly registers your location on every cell tower it connects to. Take out your battery or leave your phone at home if you don’t want to be tracked.
+
+<hr/>
+
+h2. How does my phone show my location?
+
+!5.png!
+
+When your mobile phone is switched on, the network knows your location, triangulated from the cell towers nearby that record your phone’s signal. Your location might be accurate within a few meters in a densely populated area but only to a few hundred meters in a rural area with few cell towers. If you make or receive a call or text message, your location at that time is stored in network records. Note that this is a function of the mobile network, not surveillance. All networks triangulate your signal. This is important to remember as this information can be used against you!
+
+<hr/>
+
+h2. Can my phone be used to eavesdrop on me? 
+
+!6.png!
+
+Even when you are not using your mobile phone, it can be used as a secret microphone for others to listen to you. Take out your battery (don’t just turn the phone off ) or keep your phone far away while having private conversations.
+
+<hr/>
+
+In normal use, your text messages and phone calls can be monitored by your network operator. Calls can be listened in to and recorded, and recordings can be passed (legally or illegally) to someone else.
+
+<hr/>
+
+A few things to remember to help you stay safer:
+
+* Buy prepaid SIM cards, and if at all possible avoid registering the SIM in your name.
+* Buy a cheap, low-tech mobile phone that you don’t mind throwing away if necessary.
+* If you are concerned about being monitored, don’t just change your SIM card, get rid of your mobile phone too.
+* Always try to avoid sharing sensitive information over your mobile phone.
 
 <hr/>
 
 h1. Things to Remember
 
-* Be sure to delete your browsing history.
-* Use an incognito window in Chrome or “private browsing” in Firefox.
-* Be sure to disable cookies.
-* Have a colleague who is not threatened publish your media.
-* Set your media to publish automatically at a randomly assigned delay.
-* Install HTTPS Everywhere on Firefox or Chrome.
-* Use an anonymity service whenever you access the internet.
+* Your SIM card and your mobile phone can identify you.
+* Your mobile phone can track you.
+* Your mobile phone can eavesdrop on you.
+* Carry extra SIM cards from other mobile network operators that you can switch with your regular SIM. If possible, carry more than one phone.
+* Take your battery out of your phone during and when travelling to and from group meetings to avoid cell phone triangulation and location tracking.
+* If you are concerned that you are being tracked by authorities, get rid of both the SIM card and the phone that you have been using.
+* Airplane mode is not a failsafe option to avoid tracking, your phone may still enable the manufacturer to access it via a backdoor.
+
+<hr/>
+
+The content for this lesson is primarily taken from content produced by http://SaferMobile.org and the Tibet Action Institute http://tibetaction.net
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:Why should I use a pseudonym?
-Answer 1:Because its cooler than my real name.
-Answer 2:To protect the identity of myself or my source.
-Answer 3:Flash Gordon. 
-Answer 4:Because my name is already taken on Facebook.
-Correct Answer:2
+Question:What is the best way to avoid being tracked by my mobile phone?
+Answer 1:Change my SIM card
+Answer 2:Get rid of my mobile phone
+Answer 3:Take out my battery
+Answer 4:Buy prepaid SIM cards
+Correct Answer:1,2,4
 
 <hr/>
 
 Question 2
-Question:How may I prevent digital communications trails from revealing my true identity?
-Answer 1:By always using incognito windows.
-Answer 2:By asking colleagues to publish media when I am not online.
-Answer 3:Use Tor to connect to the internet.
-Answer 4:Use two email addresses.
-Correct Answer:1,2,3
+Question:What can I do to prevent my phone from eavesdropping on me?
+Answer 1:Change my SIM card
+Answer 2:Turn my phone off
+Answer 3:Put me phone on airplane mode
+Answer 4:Take out my battery
+Correct Answer:4
 
 <hr/>
 
 Question 3
-Question:If I use a pseudonym my identity will be
-Answer 1:Completely protected.
-Answer 2:Whatever I tell people it is.
-Answer 3:Only protected if I prevent my communications trails from revealing my identity or location.
-Answer 4:Protected against cursory review.
-Correct Answer:3,4
+Question:How is my phone identified?
+Answer 1:By the SIM card registration
+Answer 2:By the phone number
+Answer 3:By the IMEI registration
+Answer 4:By cellular towers
+Correct Answer:1,3

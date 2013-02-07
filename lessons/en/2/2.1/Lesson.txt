@@ -2,13 +2,13 @@ h1. Problem Statement
 
 h2. How do I know if I or my sources may be threatened?
 
-!2.1.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-!2.1.2.a.png!
+!2.png!
 [1]
 
 According to the Committee to Protect Journalists, “On average, more than 30 journalists are murdered every year, and the murderers go unpunished in nearly nine of 10 cases.” Risk can come from many places. Each time you begin a story, you should take a moment to assess potential risks.
@@ -19,7 +19,7 @@ fn1. Committee to Protect Journalists, http://www.cpj.org/killed/
 
 h1. Solution
 
-!2.1.3.a.png!
+!3.png!
 
 The first step to understand whether you are threatened is to assess your risk. If your story covers a subject with a high chance of risk, it is likely you our your sources will be threatened.
 

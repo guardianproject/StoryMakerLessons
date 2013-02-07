@@ -1,128 +1,100 @@
 h1. Problem Statement
 
-h2. How do you use space in the frame?
+h2. How do I shoot to create a sequence?
 
-!5.10.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-The rule of thirds and the five basic shots provide a great foundation to start making your shots better with. They’re not the only rules to learn however. Nose space and Head space are two important rules that will help you arrange the rest of the space in your frame to support your story.
+!2.png!
+
+A series of shots assembled together is a sequence. When made up of shots that support each other, an individual sequence can tell a complete story. Each sequence of five shots makes a complete scene.
 
 <hr/>
 
 h1. Solution
 
-h2. Nose Space
-
-!5.10.3.a.png!
-
-Well composed shots have space in the direction the subject is facing, or moving.
+To shoot for a sequence you need to break down each story element into individual parts. It may be a small number of parts, or it may be many. You need to know all the parts before you can put the sequence together correctly.
 
 <hr/>
 
-!5.10.4.a.png!
+Let's walk through an example. You are filming a story on a popular fruit stand. You want to show someone buying fruit.
 
-In this medium shot, the subject is on the right rule of third line. He is facing the left hand side of the frame. You can see, the direction he is facing is where the remaining two thirds of the frame are.
+!3.mp4!
 
-<hr/>
-
-!5.10.5.a.png!
-
-If he was facing the opposite direction you could either ask him to shift the direction he is facing and follow the same example, or adjust your frame and your frame would look like this.
-
-You can see, everything is framed on the right, now that he is facing the opposite direction.
-
-Following this guideline will ensure your subject has appropriate room in front of them. You may also hear this rule referred to as “looking space” or “lead room”. It’s the same concept though.
+We will need to see a person who will be buying the fruit.
 
 <hr/>
 
-h2. Head Space
+!4.mp4!
 
-!5.10.6.a.png!
-
-Head space is the distance between the top of a subject’s head, and the top of the frame. It is a guideline to make sure your subjects head does not appear to high or too low in the frame. 
+We will need to see the fruit.
 
 <hr/>
 
-(
-!5.10.7.a.png!
-!5.10.7.b.png!
-!5.10.7.c.png!
-)
+!5.mp4!
 
-This amount of space changes depending on what shot size you are using. 
-
-These three different shots all have very different head room. But in all of them the focal point of the subject rests on the top line. This means headspace is really a balance of the rule of thirds and the top of the frame.
+We will need to see the person paying for the fruit.
 
 <hr/>
 
-You should always keep these rules in mind to effectively use the space in your frame. Follow these rules to keep your audience focused on the story.
+!6.mp4!
+
+As a sequence of three shots in that order it tells a simple, but complete story.
+
+Knowing your story gives you the freedom to record your shots in any order. In the end, you will assemble them to tell your story.
+
+These shots are the beginning, middle, and end of your story. There is a person, there is a piece of fruit, the person paid for the fruit. It’s a very simple story, but it works. You can now add an interview, with the seller or buyer of the fruit. You might also include a wide shot to define the location.
 
 <hr/>
 
-!5.10.9.a.png(Example of bad nose space)!
+When you are shooting for your sequences, keep your head in the story and you will be able to tell yourself what shots you still need.
 
-If you do not allow for nose space, your subject may appear to be speaking to someone else.
-
-In general, if you do not follow this rule your subject appears cramped in the frame, and the audience will be distracted.
-
+No matter how complex your story gets, remember to shoot in three parts, beginning, middle, and end. Each of these may have multiple shots, with different elements in the frame. As a whole, your shots must add up to a sequence that includes all three parts. In some stories you have have an entire 5 shot scene(or more!) for each section of the story.
 
 <hr/>
 
-(
-!5.10.10.a.png(Example of someones head sitting too low)!
-!5.10.10.b.png(Example of someones head sitting too high)!
+!7.mp4!
 
-)
-
-If you do not allow for proper headspace your subject’s head will be cut off, or their head will sit very low in the frame. Both of these are very distracting to an audience as well.
+A popular technique to use when you might not know the story you are telling is to start with shots that are farther away, working your way into a scene shot by shot. If you record your shots in chronological order they will have a feeling of progression to them. By using the five basic shots, you’ll be able to include different elements of your scene.
 
 <hr/>
 
 h1. Things to Remember
 
-A well balanced shot will feel right to you, these rules will help you find the right look faster.
+* Any successful sequence will answer the six important questions we’ve previously discussed. (The who, what, where, when, why, and the how.)
+* Each question can have more than one answer, but your sequence should answer each question in order to be successful.
+* Creating an effective sequence means shooting different sized shots each containing complementary parts of the story.
+* When you bring several sequences together, you make a more complex story.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:Nose room is?
-Answer 1:Putting the subject’s nose at the bottom of the frame.
-Answer 2:The space between the subject's nose and the camera lens.
-Answer 3:Allowing for space in the frame in the direction the subject is facing, or moving.
-Answer 4:How much room should be between you and the camera.
-Correct Answer:Answer 3
+Question:What makes up a shot list?
+Answer 1:Weather
+Answer 2:Shot Type
+Answer 3:Description
+Answer 4:Story Elements
+Correct Answer:2,3,4
 
 <hr/>
 
 Question 2
-Question:What is Head Space?
-Answer 1:The distance between a subject’s arms, and the side of the frame.
-Answer 2:The space between your head and the camera.
-Answer 3:The space where you put the subject's head
-Answer 4:The distance between the top of a subject’s head, and the top of the frame.
-Correct Answer:3
+Question:When writing a shot list I should be?
+Answer 1:As specific as possible
+Answer 2:As vague as possible
+Answer 3:Confused
+Answer 4:Unclear
+Correct Answer:1
 
 <hr/>
 
 Question 3
-Question:Which of these shots is a good example of Head Room?
-Answer 1:!5.10.14.a.png!
-Answer 2:!5.10.14.b.png!
-Answer 3:!5.10.14.c.png!
-Answer 4:None of the above.
-Correct Answer:2
-
-<hr/>
-
-Question 4
-Question:Which of these shots is a good example of Nose Room?
-Answer 1:!5.10.15.a.png!
-Answer 2:!5.10.15.b.png! 
-Answer 3:!5.10.15.c.png! 
-Answer 4:All of the above.
+Question:True or False, it’s helpful to write your story out in plain text?
+Answer 1:True
+Answer 2:False
 Correct Answer:1

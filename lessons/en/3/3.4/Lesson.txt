@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. I have a topic, but what is the best way to organize my audio story?
 
-!3.4.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -22,7 +22,7 @@ Any story, including an audio story, needs an introduction. The beginning is cal
 
 h3. Professional Introduction
 
-!3.4.4.a.mp3(Example of a professional introduction to a story)!
+!2.mp3(Example of a professional introduction to a story)!
 
 Whether its your voice or someone else's, you need a statement explaining the topic, why it should be of interest to the audience, and how this particular segment is going to tell that story. The introduction is also where you can give some background about the topic, some history and  relevant recent developments. You may wish to outline of what will happen during the segment, mentioning if you will use interviews or sounds from an event. This preview may spark the interest of the listener and encourage them to keep listening in anticipation.
 
@@ -30,7 +30,7 @@ Whether its your voice or someone else's, you need a statement explaining the to
 
 h3. Personal Introduction
 
-!3.4.5.a.mp3(Example of a personal introduction to a story)!
+!3.mp3(Example of a personal introduction to a story)!
 
 Some introductions can be more personal, explaining who is talking and some background about that person. Then there can a personal explanation as to why this topic is interesting or came to the attention of the person doing the introduction. The most basic way of doing this, if you are doing your own introduction, is to greet the audience, introduce yourself, and go on to tell the audience what the topic or focus of this story will be.
 
@@ -44,7 +44,7 @@ Before you conduct an audio interview that will be part of your story, always ha
 
 h2. Additional Audio
 
-!3.4.7.a.mp3(Example of using background audio)!
+!4.mp3(Example of using background audio)!
 
 When outlining how your story will be told, besides considering what voices you want to hear from, you should also consider what audio would help paint a picture in the mind of the audience. You will probably need background sounds to add color to the story, as well as some voice overs and introductions. If it is an event, you'll want to plan what event audio to use, how/when/where you can capture it, or if it already exists how you can get it. Just like introducing a guest or an interviewee, you can also introduce a piece of audio that illustrates the story. Unlike pictures or video, audio can be misleading so it is useful to have a voice that explains what is being heard, when it took place, and where. You can choose how to do that explanation when planning your story, perhaps you want to first let the audience hear the sounds of a protest or a celebration and then explain what they just heard. Or explain what they are about to hear, and then play the audio.
 
@@ -52,7 +52,7 @@ When outlining how your story will be told, besides considering what voices you 
 
 h2. Conclusion
 
-!3.4.8.a.mp3(Example of a story conclusion)!
+!5.mp3(Example of a story conclusion)!
 
 Any good story needs a beginning, a middle and then end. So a conclusion is necessary. A summary of the points made within the entire piece and some of the ideas that may come out of those points. Sometimes a conclusion can actually include new questions for a future report or story. The important thing is to briefly remind the audience what took place in this story and some of the more memorable points from the entire audio segment. If there is to be a followup, the conclusion can also make reference to the continuation or future audio report that is to come based on issues raised in this particular segment.
 

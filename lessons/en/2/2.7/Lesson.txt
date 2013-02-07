@@ -2,13 +2,13 @@ h1. Problem Statement
 
 h2. How can I send SMS Safely?
 
-!2.7.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-!2.7.2.a.png(How an SMS can be intercepted)!
+!2.png(How an SMS can be intercepted)!
 
 SMS is a highly convenient method of sending a message, but is not “secure.” SMS messages are saved by the service provider and may be intercepted by those with access to the cell tower transmitting the message. Your SMS messages may be accessed from your phone, or by anyone with access to the provider's records or records stored at the cell tower used for transmission.
 
@@ -22,7 +22,7 @@ fn1. Small World News Safety Guides http://smallworldnews.tv/guide/
 
 <hr/>
 
-!2.7.4.a.png!
+!3.png!
 
 To send encrypted SMS you must use a specific app for this purpose. Both you and your source must use the same app. Send your source a message via your app of choice in order to initiate a key exchange. Once you've exchanged keys, you may communicate with your source via encrypted texts. 
 
@@ -30,7 +30,7 @@ To send encrypted SMS you must use a specific app for this purpose. Both you and
 
 <hr/>
 
-!2.7.5.a.png!
+!4.png!
 
 Before you communicate with a source by SMS, determine whether they have access to an encrypted SMS application. Also make sure they are aware that their SMS may be read by authorities and tied to them if they are not using an anonymous phone.
 
@@ -38,7 +38,7 @@ Do not transmit sensitive information via SMS unless you are willing to have it 
 
 <hr/>
 
-!2.7.6.a.png!
+!5.png!
 
 A simple system to avoid security breaches is to create a coded communication system with trusted colleagues. Build up a collection of codes to relay basic information.
 
@@ -54,7 +54,7 @@ See this list of tools for maintaining privacy and anonymity when engaged in SMS
 
 <hr/>
 
-!2.7.8.a.png!
+!6.png!
 
 You should always delete SMS from your phone’s sent folder. There is nothing worse than creating an indexed archive of information that is waiting for the authorities to review in the event you are detained.
 

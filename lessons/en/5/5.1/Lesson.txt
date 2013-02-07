@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. I've never used a camera before, what are the basics I should know?
 
-!5.1.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -22,13 +22,13 @@ h2. Hitchcock's Rule
 
 <hr/>
 
-!5.1.4.a.png(The subject matter should be 50% of the screen focus.)!
+!2.png(The subject matter should be 50% of the screen focus.)!
 
 It seems too simple when you first read it, but one of the most common problems for new shooters is their most important element are lost in the frame. By ensuring that your most important object fills the majority of the frame (as in 50% or more) your audience will see exactly what you want them to in your shot.
 
 <hr/>
 
-!5.1.5.a.mp4!
+!3.mp4!
 
 Lets look at an example. Review this shot and consider what you think the story will be about.
 
@@ -36,7 +36,7 @@ You can see that you're probably going to see a story about a market, but maybe 
 
 <hr/>
 
-!5.1.6.a.mp4!
+!4.mp4!
 
 Now review this shot, and consider what the story is about.
 
@@ -50,7 +50,7 @@ When you are recording an action be sure to have the camera rolling before it be
 
 <hr/>
 
-!5.1.8.a.mp4!
+!5.mp4!
 
 Here's an example of how a complete action looks in a frame.
 
@@ -70,25 +70,25 @@ Hitchcock's Rule: "The size of an object in the frame should equal it's importan
 
 <hr/>
 
-!5.1.11.a.mp4(Example of recording a complete action with 5 seconds pre-roll and post-roll)!
+!6.mp4(Example of recording a complete action with 5 seconds pre-roll and post-roll)!
 
 When you have finished getting your shot, count to five in your head, then stop recording. This will make sure you have enough of a tail on your clip to use it effectively.
 
 <hr/>
 
-!5.1.12.a.mp4(Example of an entire action being recorded)!
+!7.mp4(Example of an entire action being recorded)!
 
 You don’t need to record constantly, but sometimes recording for one, two or even five minutes is necessary to record an action in its entirety.
 
 <hr/>
 
-!5.1.13.a.mp4(Example of breaking up an interview into multiple clips)!
+!8.mp4(Example of breaking up an interview into multiple clips)!
 
 This needs to be balanced with the fact that by shooting too much material, you will create a barrier to sharing your stories quickly. Look for natural breaks to stop recording one clip and move onto recording a second clip if you feel your shot is very long.
 
 <hr/>
 
-!5.1.14.a.mp4(Example of 15 second long clips)!
+!9.mp4(Example of 15 second long clips)!
 
 To be useful, your clips need to be at least 15 seconds long. Regardless of how short the action is you are filming. Any shorter and it’s likely they won’t be useful.
 

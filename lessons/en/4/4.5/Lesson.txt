@@ -1,113 +1,141 @@
 h1. Problem Statement
 
-h2. Why are my images overexposed (too light) or underexposed (too dark) and how do I fix it?
+h2. What are the technical requirements and ethical limitations when editing my photos to ensure high quality, useable images?
 
-!4.8.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-Inside every digital camera there is a light meter. This meter takes a light reading in the instant before you take a picture and tells the camera how to set the ISO, Aperture and Shutter (see section one).- With point-and-shoots and dSLRs this meter is more sophisticated and it is up to the photographer to set the exposure in whole or part based on the reading.
-
-<hr/>
-
-!4.8.3.a.png(Example of common problems with light metering)!
-
-These meters are easily confused. They take an overall reading of light coming into the lens and averaging to set the exposure. The camera will have difficulty estimating exposure if there is a lot of variation in the available light.
-
-<hr/>
-
-Insufficient light is the most common problem photographers confront. A camera, is a poor light-gathering device compared to the human eye. One of the biggest challenges photographers have when shooting in low light is recognizing the problem and methodically solving it rather than taking a bunch of images and hoping that one will work out.
+Your initial photo is a rough draft of a written story. Images can be dramatically improved by how they are cropped, sized, color corrected and captioned.
 
 <hr/>
 
 (
-!4.8.5.a.png(Example of a photo taken with a camera phone)!
-!4.8.5.b.png(Example of a photo taken with a point and shoot camera)!
-!4.8.5.c.png(Example of a photo taken with a DSLR camera)!
+!2.png(Example of a properly exposed and focused photo)!
+!3.png(Example of a photo that's been enlarged and pixelated)!
 )
 
-In low light situations there is not enough light striking the sensor to properly expose it. Smartphones have smaller lenses and much smaller maximum apertures as a result (see the camera basics section) than professional cameras. Because the aperture is so small, they simply can’t let as much light in as larger cameras with larger lenses operating at the same shutter speed.
+Editing well begins with shooting well. Always shoot on the largest file size available. You can always make images smaller to send more quickly but you can’t enlarge them. Make sure that your images are properly exposed and focused. Images that are technically strong to begin with are easier to edit.
 
 <hr/>
 
-(
-!4.8.6.a.png(Example of a backlit photo)!
-!4.8.6.b.png(Example of light bouncing off a highly reflective surface)!
-)
-
-Another common issue is backlighting. You are shooting a subject in relative shadow with bright lights or sunshine behind the subject. The camera is meter based in part on the bright light and the subject will appear too dark. Another common problem is light bouncing off a highly reflective surface such as white tent canvas or snow or sand. Other exposure problems may arise when shooting in low light conditions because the camera tries to make the scene appear lighter than it actually is.
-
+The ability to edit your own work is an unacknowledged but essential part of the job. Sizing, cropping, color correcting and adding text takes time, so you need to plan. Breaking news may be an exception to the usual workflow. If time is very important, publish your best images as-is and go back later with updated versions.
 
 <hr/>
 
 h1. Solution
 
-!4.8.7.a.png(Example of an over exposed photo composition)!
-!4.8.7.b.png(Example of how to properly expose a dark arear with a smartphone)!
+h2. Cropping
 
+(
+!4.png(Before Cropping)!
+!5.png(After Cropping)!
+)
 
-Many touch-screen smartphone cameras allow the photographer to touch a place on-screen to tell the camera where to draw its exposure value from. You can also point the camera at a shadowy area in the frame, touch the screen and reframe the shot. The camera will retain the lower exposure value. This is true of most cameras. Point the camera at spot that has exposure values closer to what you need and push the shutter halfway down. You MUST CONTINUE TO HOLD THE SHUTTER DOWN as you reframe the shot.
+How an individual image is cropped can turn a mediocre shot into a powerful image. Crop ruthlessly with the rule-of-thirds in mind. Cut excess or meaningless space from the frame. It distracts the viewer and diminishes impact. The entire frame should work to tell the story.
+
+(
+!6.png(Before Cropping)!
+!7.png(After Cropping)!
+)
+
+Do not amputate. Be careful about cropping people at awkward points, do not cut off hands and feet. Let important shapes complete themselves in the frame. Shapes draw the reader’s eye into the picture, a completed shape helps keep it there.
 
 <hr/>
 
-(
-!4.8.8.a.png(Example of how to properly adjust a photo)!
-!4.8.8.b.png(Example of how to properly adjust a photo)!
-)
+h2. Sizing
 
-Images that are slightly overexposed or underexposed can sometime be fixed with built-in photo software apps or apps like Adobe Photoshop Express. Adobe Photoshop Express is an app that allows you to manage exposure in your picture. You could touch the face of a person strongly backlight and the camera will reset exposure for his face.
+!8.png!
+
+Even smart phones are capable of images with resolution so great that they can be published in a magazine. Always shoot on the largest file size available. However, large files take up a lot of space and are slow to send. Size your images to 1000 pixels on the longest edge for web and TV, and 3000 pixels on the longest edge for print. Use a minimum of compression. ALWAYS make a copy of the original images if reducing file size dramatically.
+
+<hr/>
+
+h2. Exposure correction
+
+Editing apps like Photoshop Express will allow you to increase or decrease exposure and correct color problems. Images properly exposed and white balance when shot should require little more than at tweak, but images shot under difficult lighting may be dramatically improved in post-production.
+
+<hr/>
+
+h2. Captions/Keywords
+
+h3. Good Caption & Keywords
+
+!9.png!
+
+"New York, NY --  Bubble artist Fan Yang entered the Guinness Book of World Records today for the 13th time with 'The Most Bubble Chamber.' Yang attempted the record as part of his Off-Broadway spectacle, 'The Gazillion Bubble Show.'  Photo credit: John Smock/SIPA Press Key Words: Fan Yang, Guinness Book of World Records, Off-Broadway, New York City Tags: bubbles, performance, children’s show"
+
+h3. Bad Caption & No Keywords
+
+!10.png!
+
+"Men smoking shisha. Doctors say smoking is bad for you."
+
+For specific caption and keyword guidelines, see the caption & key word section. It is essential that you caption images correctly. Be sure and include relevant copyright info and a photo credit – your full name or pseudonym. 
 
 <hr/>
 
 h1. Things to Remember
 
-* It is essential that your images be properly exposed.
-* Smartphone cameras simply aren’t capable taking well exposed images under tough lighting conditions.
-* Managing the exposure within the range that the camera is capable can help a lot.
-* Always take a few practice pictures to check the exposure and make adjustments if necessary.
+h2. Unethical Manipulation
+
+(
+!11.png(Example of an unethical photo manipulation)!
+!12.png(Example of an unethical photo manipulation)!
+!13.png(Example of an unethical photo manipulation)!
+)
+
+Photo editing tools are very powerful. Reporters should not make up facts or quotes, and photojournalists should not alter images. 
+
+<hr/>
+
+The Associated Press ethical guidelines for post-production of photographs.
+
+* The content of a photograph must not be altered substantially in PhotoShop or by any other means.
+* No element should be digitally added to or subtracted from any photograph.
+* The faces or identities of individuals must not be obscured by an editing tool.
+* Only retouching or the use of the cloning tool to eliminate dust and scratches are acceptable.
+* Minor adjustments in editing tools are acceptable. These include cropping, dodging and burning, conversion into grayscale, and normal toning and color adjustments that should be limited to those minimally necessary for clear and accurate reproduction (analogous to the burning and dodging often used in darkroom processing of images) and that restore the authentic nature of the photograph.
+* Changes in density, contrast, color and saturation levels that substantially alter the original scene are not acceptable.
+* Backgrounds should not be digitally blurred or eliminated by burning down or by aggressive toning.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:What three things control exposure?
-Answer 1:ISO
-Answer 2:Aperture
-Answer 3:Zoom setting
-Answer 4:Shutter
-Correct Answer:1,2,4
+Question:When shooting which of the following will make post production more effective?
+Answer 1:Make sure your camera is set to the largest file size.
+Answer 2:Make sure the image is properly exposed.
+Answer 3:Make sure the image is properly focused.
+Answer 4:All of the above.
+Correct Answer:4
 
 <hr/>
 
 Question 2
-Question:True or False: The shutter controls the amount of time the shutter is exposed to light.
+Question:TRUE or FALSE: 300 dpi (dots per inch) means you should file your images at 300 dots (or pixels) along the longest edge.
 Answer 1:TRUE
 Answer 2:FALSE
-Correct Answer:1
-
-<hr/>
-
-Question 3
-Question:When shooting with a smartphone you can do which of the following if the image is overexposed.
-Answer 1:Nothing. Smartphones offer no manual control of exposure.
-Answer 2:Many smartphone cameras now let you select the area of the frame that will be properly exposed by touching it. The camera will recalibrate exposure based on the spot you select.
-Answer 3:Set the smartphone to manual camera mode.
-Answer 4:None of the above.
 Correct Answer:2
 
 <hr/>
 
+Question 3
+Question:Which of the following are ethical?
+Answer 1:Distracting people can be removed from a frame with an airbrush or cloning tool.
+Answer 2:Color and saturation can be made more intense in the interest of making the image emotionally stronger.
+Answer 3:The image can be captioned with information that changes the meaning of a photograph.
+Answer 4:None of the above.
+Correct Answer:4
+
+<hr/>
+
 Question 4
-Question:How might you correct the exposure in this example image? 
-
-!4.8.13.a.png!
-
-Answer 1:Increase the ISO.
-Answer 2:Adjust the exposure slightly in post-production.
-Answer 3:Open the aperture (if possible).
-Answer 4:Slow shutter speed being careful not to slow it so much that the image becomes blurry.
-Answer 5:All of the above.
-Correct Answer:5
+Question:Which of the three photos is unethically edited?
+Answer 1:!14.png!
+Answer 2:!15.png!
+Answer 3:!16.png!
+Correct Answer:2,3

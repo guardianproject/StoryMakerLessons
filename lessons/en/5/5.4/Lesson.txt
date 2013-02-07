@@ -1,146 +1,171 @@
 h1. Problem Statement
 
-h2. What is the rule of thirds?
+h2. My shots are well composed, but when I watch them together they're repetitive and do not tell me a complete story. What am I missing?
 
-!5.4.1.a.png!
+!1).png!
 
 <hr/>
 
 h1. Background
 
-!5.4.2.a.png!
-
-The rule of thirds is a popular guideline for creating successful compositions. It is a founding principle of photography, painting, and graphic design that dates back to the 18th century.
-
-One way of viewing the rule is as a form of visual grammar. Grammar teaches you how to structure your speech and writing. The rule of thirds will help you shape the elements in your frame.
-
-This rule is a simple guideline for quickly arranging your frame. It is not intended to be strictly accurate or perfect for every situation.
-
-The grid that makes up the rule of thirds is different for different compositions. This means that a rule of thirds grid used for a rectangle frame will not work on a square composition.
+A successful shot is more than a well composed image. A shot with a goal progresses the story and provides specific information that supports the goal of the sequence.
 
 <hr/>
 
 h1. Solution
 
-!5.4.3.a.png!
+!2.png(Example of a wide shot providing a clear location)!
 
-This grid is the rule of thirds.
-
-<hr/>
-
-!5.4.4.a.png!
-
-And here it is applied to a 16x9 composition.
+Each shot type has specific goals it's best suited to achieve. You may be able to explain your location with other shot types, but the wide shot is the easiest option to do it successfully. For example, wide shots are filmed far away from a subject. This distance often provides a clear image of the area around the subject, which is why it's effective to depict the location.
 
 <hr/>
 
-!5.4.5.a.png!
+(
+!3.png(Example of using different shot types to tell a story)!
+!4.png(Example of using different shot types to tell a story)!
+!5.png(Example of using different shot types to tell a story)!
+!6.png(Example of using different shot types to tell a story)!
+!7.png(Example of using different shot types to tell a story)!
+)
 
-Cutting your frame into thirds vertically and horizontally the grid creates four points of interest. These four points are the ideal place for the important elements of your story when you’re arranging them in your frame.
+Every shot type's goal also answers a specific question about the story as well. By shooting a complete set of shot types, you can allow yourself to focus on a separate part of the story with each shot, and as a group they will tell a complete story.
 
-By using these points, you break the frame up into thirds. The frame is then separated with one third of space to one side, and two thirds to the other. This uneven distribution helps move the eye across the frame, as well as around it.
-
-<hr/>
-
-h2. Vertical Lines
-
-!5.4.6.a.png!
-
-The left and right vertical lines are commonly used to align people or other vertical elements in your frame. The left vertical line and the right vertical line are equally effective at this.
+Only try to accomplish one goal per shot when you're first learning. A sequence is more successful with two shots that each do a good job of achieving one goal, than to have one shot that does a bad job of achieving two goals.
 
 <hr/>
 
-h2. Horizontal Lines
-
-The horizontal lines of the grid are commonly used to align the eyes of your subject in the frame, as well as the horizon.
-
-!5.4.7.a.png!
-
-The top horizontal line is used to align the eyes in the frame. By placing the eyes of your subject in the same place in every shot, you will know the audience is always looking in the same place to connect with the subject.
-
-!5.4.7.b.png!
-
-The bottom horizontal line is used to align the horizon of the frame. This allows two thirds of the frame to frame buildings, vehicles and anything else that is above ground level. If you are standing at ground level, this is the ideal line to use for your horizon.
+It's best to experiment with this at first, and expect to fail more often then it works. Don't get discouraged. It is a challenging skill and each goal you add to a shot makes it significantly harder to be successful.
 
 <hr/>
 
-!5.4.8.a.png!
-
-When shooting from high locations, it’s more effective to use the top horizontal line as your horizon line. The angle of view from this vantage shows the ground more effectively. It’s important to keep the horizon on one of these two lines.
+Now that we understand why we have shot goals lets review some examples of the shot types. What goal they're best suited to, and give you some tips to help you be successful.
 
 <hr/>
 
-!5.4.9.a.png!
+h2. Wide Shot
 
-Lets look at this example of a shot that does not follow the rule of thirds.
+!8.mp4(Example of a Wide Shot)!
 
-<hr/>
+*Goal:* Shows the location / scene of a story.
 
-!5.4.10.a.png!
-!5.4.10.b.png!
+Tips
 
-Now see the same angle, but by simple shifting the subject to the right, you utilize all four points of interest.
-
-The fruit is now visible in the frame, providing a second visual element in the image, as well as adding context to the interview.
-
-<hr/>
-
-!5.4.11.a.png!
-
-It’s important to note that all of the examples in this lesson have followed a rule of thirds for a 16x9 frame. Depending on the size and shape of your frame the placement of your lines should change. For example, lets look at the rule of thirds in a square frame.
-
-The lines now cut the frame into equal squares, but the rule of thirds can still be followed for an effective composition unique to the frame.
+* Typically used once in a scene, usually at the beginning.
+* Has a sense of the feel of the location.
+* To use multiple times you should be showing a dramatic change to the location. For example, an empty town square to a full town square is a successful use of two location shots.
 
 <hr/>
 
-!5.4.12.a.png!
+h2. Long Shot
+
+!9.mp4(Example of a Long Shot)!
+
+*Goal:* Showcases the characters and how they interact with the location.
+
+Tips
+
+* Best used to highlight a subject's actions.
+* Effective for including multiple subjects.
+* It’s common to allow for more headroom than in either medium or close up shots.
+
+<hr/>
+
+h2. Medium Shot
+
+!10.mp4(Example of a Medium Shot)!
+
+*Goal:* Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
+
+Tips
+
+* Headroom is very important to being successful.
+* Eye line is very important to being successful.
+* Good at showing a subject's body language.
+
+<hr/>
+
+h2. Close up Shot
+
+!11.mp4(Example of a Close Up Shot)!
+
+*Goal:* Forces the audience to focus entirely on a single character, encourages the emotion of the character.
+
+Tips
+
+* Capturing emotion and feeling is your primary objective.
+* Pay close attention to the eyes of your subject.
+* Don't worry about incorporating the environment in this shot.
+
+<hr/>
+
+h2. Detail Shot
+
+!12.mp4(Example of a Detail Shot)!
+
+*Goal:* Showcases an interesting detail, often focusing directly on an important action.
+
+Tips
+
+* A subjects hands are usually good to start with, especially when performing an action.
+* Best used to highlight details lost in wider shots.
+* Focus and frame for the specific details you want, cut out everything else.
+
+<hr/>
 
 h1. Things to Remember
 
-Don't center everything in your frame. When everything is centered, you are using all four points of interest for one single element.
+!13.png(The subject matter should be 50% of the screen focus)!
 
-If you look at a frame and find it boring, uninteresting, or confusing, it’s likely the rule of thirds is not being used.
+Consider the Hitchcock rule from video basics when you're considering your goal. Ask yourself if the most important element,  the primary goal of your shot is clearly visible.
+
+<hr/>
+
+!14.png(Rule of Thirds)!
+
+The rule of thirds is there to help you arrange the elements in your frame so that they're successful. Use the four point system from it to ensure your goals are clear.
+
+<hr/>
+
+* Often times, when you're first recording shots with single goals they will feel "obvious" or "simple". When you watch them with the rest of your shots though, you'll see how each shot having a specific purpose builds to tell a complete story.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:How many points of interest does the rule of thirds create?
-Answer 1:9
-Answer 2:20
-Answer 3:3
-Answer 4:4
+Question:How do I help ensure my shots are successful?
+Answer 1:Move the shot around a lot. 
+Answer 2:Make every shot look the same.
+Answer 3:Any shot that looks good is successful.
+Answer 4:Give your shot a goal.
 Correct Answer:4
 
 <hr/>
 
 Question 2
-Question:Which line in the grid is the eye line?
-Answer 1:The top horizontal line.
-Answer 2:The bottom horizontal line.
-Answer 3:The left vertical line.
-Answer 4:The right vertical line.
-Correct Answer:1
+Question:How many goals should I try to accomplish in a shot?
+Answer 1:0
+Answer 2:1
+Answer 3:4
+Answer 4:12
+Correct Answer:2
 
 <hr/>
 
 Question 3
-
-Question:Which of the grid lines is the traditional horizon line?
-Answer 1:The top horizontal line.
-Answer 2:The bottom horizontal line.
-Answer 3:The left vertical line.
-Answer 4:The right vertical line.
+Question:What is the goal of a long shot?
+Answer 1:Highlight the characters cool shoes.
+Answer 2:Showcases the characters and how they interact with the location.
+Answer 3:Depict the characters haircut.
+Answer 4:Showcase the country the subject is from.
 Correct Answer:2
 
 <hr/>
 
 Question 4
-
-Question: When the rule of thirds is effective your eye will?
-Answer 1:Move around the entire frame.
-Answer 2:Stay on the center of the frame.
-Answer 3:Stay on the right side of the frame.
-Answer 4:Stay on the bottom of the frame.
-Correct Answer:1
+Question:What shot should you pay particular close attention to the eyes of your subject?
+Answer 1:Long
+Answer 2:Medium
+Answer 3:Close Up
+Answer 4:Detail
+Correct Answer:3

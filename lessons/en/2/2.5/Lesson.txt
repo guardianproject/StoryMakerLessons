@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. What makes a strong password?
 
-!2.5.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -18,7 +18,7 @@ h1. Solution
 
 h2. How are Passwords Cracked?
 
-!2.5.3.a.png!
+!2.png!
 
 How do passwords get compromised? The authorities might observe you typing your password from a distance. They might install a spyware program that records all keystrokes typed into the computer and transmits them to the observer. Observe your surroundings carefully and update anti-spyware and anti-virus software frequently. [2]
 
@@ -62,7 +62,7 @@ According to a recent study, the average internet user has 25 password protected
 
 h2. Throwaway Passwords
 
-!2.5.8.a.png(Example of a throwaway password)!
+!3.png(Example of a throwaway password)!
 
 For any site that you simply need a password to register, such as news sites, use a throwaway password. Combine your throwaway password with a throwaway email for added protection. Never use a throwaway password for an account that requires identifying information. This password should not be similar to your higher security passwords.
 
@@ -76,7 +76,7 @@ For any site that requires identifying information, use a protected password. Th
 
 h2. Confidential Password
 
-!2.5.10.a.png(Example of a confidential password)!
+!4.png(Example of a confidential password)!
 
 Your confidential password should be known only to you. This password should be used for your primary email account. Any account which is tied to social media accounts or capable of closing or modifying other accounts must have a confidential password. If you protect securely only one password, it must be this one. Your primary email account is of utmost importance for your personal safety and that of your sources and colleagues.
 

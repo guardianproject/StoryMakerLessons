@@ -1,107 +1,132 @@
 h1. Problem Statement
 
-h2. Photographing an event well is one thing. Editing the pictures well is another. What are some tips and concepts to think about when editing pictures for publication?
+h2. There is a color shift to many of my pictures. Many are too yellow. Some are too blue. What is the problem and what can I do about it?
 
-!4.4.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-!4.4.2.a.png!
+Your eye in combination with your brain does an excellent job of calibrating how you perceive color. You will recognize a color as red even if the light source illuminating it is very yellow, making the apparent color orange. You will recognize fleshtones even if the light illuminating the subject is a very greenish-blue fluorescent.
 
-No matter if you are photographing an event to produce a single image or shooting to produce a more elaborate slideshow, you will shoot many more images than you use. You need to edit your images to select the few that best illustrate the story.
+A digital camera can’t do that. It has to be calibrated to adjust for different light source’s color temperature. This calibration is measured against absolute white. That’s why it is called white balance.
 
 <hr/>
 
-Editing images can take time and requires skill and self-discipline. Editing photos well is about divorcing yourself from your feelings or investment in the work and selecting only the images that convey the story best to your viewer. Just because you worked hard to get a photograph doesn’t make it a good photograph. Just because you recognize the importance of its content doesn’t mean the viewer will see the same thing. If its not in the picture for the viewer to see it’s not a picture at all.
+(
+!2.png(Example of a subject lit by a tungesten bulb)!
+!3.png(Example of a subject lit outdoors when it's cloudy)!
+!4.png(Example of a subject lit outdoors in the sun)!
+!5.png(Example of a subject lit by a fluorescent bulb)!
+)
+
+Small tungsten bulbs have a very warm temperature, coloring the image more yellow. Daylight on an overcast, cloudy day has a very high light temperature coloring the image blue. Other light sources -- sunlight, fluorescent light, shade -- all fall in the middle. Color temperature has nothing to do with the amount of light.
+
+<hr/>
+
+(
+!6.png(Example of a professional colored photo)!
+!7.png(Example of an unacceptable colored photo)!
+)
+
+Good color management is very important. It makes image much more professional in appearance. dSLRs and many point-and-shoots will allow you calibrate the white balance manually. Many smartphones provide a variety of presets for white balance.
 
 <hr/>
 
 h1. Solution
 
-Editing images is often a process of elimination. Select images that are ‘maybes’ and then, based on what you need the photos to do, winnow down to the best. 
+!8.png(Icons for the common white balance options)!
 
-* Do not edit into a vacuum. Ask yourself some key questions:
-** How many images do you need?
-** Who is the audience?
-** What does the editor want?
-
-These questions will limit the criteria by which you choose and make editing easier.
+If your camera allows you to set the white balance manually, do it. Your smartphone may have a button or menu option for white balance. It will offer several icons representing- five or six- common light sources. Pick the one that most represents the shooting conditions you are working under.
 
 <hr/>
 
-h2. Three-step approach to editing pictures
-
-* Step 1 - Identify
-* Step 2 - Script
-* Step 3 - Sequence & Process
-
-
-<hr/>
-
-h2. Step 1 - Identify
-
-!4.4.5.a.png!
-
-A first round that includes your strongest images -- Don’t worry about the specifics of your story. Pick images that convey core emotional and graphic strength. Think most about the eye-grabbing qualities of the images. The number should relate loosely to how you will use the images. If you are looking for a single, final image, select fewer than if you plan to assemble a slideshow. You may have several images of the same subject from different angles. You may have an assortment of images that illustrate the same idea. That’s OK for now.
-
-
-<hr/>
-
-h2. Step 2 - Script
-
-!4.4.6.a.png!
-
-Think the story through -- Now that you have a narrower assortment of images, begin to decide HOW you will use the photos. If you are looking for a single image, identify a photo that conveys the most information -- and the most drama -- to illustrate your specific story. You may opt for a portrait of someone quoted in an accompanying text. You may opt for a photo that symbolizes the emotion of an event, a person waving a flag and shouting. You may opt for a photo that is a literal summary, a person casting a ballot. If you are editing for slideshow, you will want an assortment of images based on the kind of slideshow you want to do (see the photo essay section). Remove images that convey the same information -- and choose only the best one. If you have several similar images, choose only the best -- the one that most clearly visualizes subject, context and emotion in a clear and understandable way.
-
-<hr/>
-
-h2. Step 3 - Sequence & Process
-
-!4.4.7.a.png!
-
-If you are editing for a single image (or a handful of images from which an editor will choose). You need to crop, size, color correct and caption these images. The specifics of this are covered in the section on post production. If you are building a slideshow you need to sequence the final images. Remember: if an image isn’t advancing your story, it’s hurting it. Select images around the important elements of the story, archive images that either do not advance the story or repeat other, stronger images. Sequence the images in a way that is chronological -- do not move from night to day and back in an unnatural order. Be conscious of the ‘flow’ of images, letting color move the viewer from one image to the next, move from a tight shot to wide shot and then back to a tight shot. Like the single image, these images must be cropped, sized, color corrected and captioned.
+If your smartphone cannot control white balance manually, you can correct color with post-production apps (for more on this, see the section on post-production). If the color temperature is way off, it is VERY IMPORTANT to make adjustments before publishing your images.
 
 <hr/>
 
 h1. Things to Remember
 
-!4.4.8.a.png!
+h2. AWB (Auto White Balance)
 
-The editing techniques outlined above assumes the luxury of time to edit. With some breaking news events or last-minute deadline assignments, you may have to edit on the fly. Meaning, make a quick selection and post the image(s) on the spot. You can always replace these images later with a more carefully selected and processed image.
+!9.a.png(A common Auto White Balance icon)!
+
+Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you’re unsure of which of these is the best to go with.
 
 <hr/>
 
-When covering stories about disaster or conflict you should be sensitive to how you use images of violence, injury, death or people grieving. Images of children require special care. Images need to be graphic enough to tell a story truthfully. At the same time, they should not be gratuitous. Photographers should not shy away from shooting graphic images if they accurately tell the story. However, publishing them can be another issue. Photographers and the publications they shoot for need to consider the audience, the importance of the story and the impact the images will have when publishing graphic images. When confronted with scenes of violence or death, good photographers will shoot images that are both graphic as well as more symbolic to give editors a choices about what to publish.
+h2. Daylight
+
+!10.png(A common Daylight White Balance icon)!
+
+Used for shooting outdoors. This setting will give your images a very “cool” or a slight blue tint to them. When shooting indoors, images will have an orange tint.
+
+<hr/>
+
+h2. Cloudy
+
+!11.png(A common Cloudy White Balance icon)!
+
+Used for shooting outdoors. This setting will give your images a slightly “warmer” color to them. While the daylight option is technically the more correct white balance, using the cloudy setting gives a very appealing image.
+
+When shooting indoors, this setting will give your images a strong orange tint.
+
+<hr/>
+
+h2. Incandescent
+
+!12.png(A common Incandescent White Balance icon)!
+
+Used for shooting indoors, with traditional small light bulbs. When shooting outdoors, images will have a strong blue tint.
+
+<hr/>
+
+h2. Fluorescent
+
+!13.png(A common Fluorescent White Balance icon)!
+
+For shooting indoors, with the long tube fluorescent lights. When shooting outdoors, images will have a blue tint.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:Which of the following are characteristics of good editing?
-Answer 1:You should pick the images you want to use all at once to save time.
-Answer 2:Caption everything and then select only the images you want.
-Answer 3:The literal information in each image is more important than its emotional or graphic value and more important than how the image might work as part of a slideshow.
+Question:Which best describes what white balance means?
+Answer 1:The amount of light that strikes the sensor.
+Answer 2:The color temperature of the light striking the sensor, ranging from very warm (yellow) to cool (blue).
+Answer 3:The text color of the caption.
 Answer 4:None of the above.
-Correct Answer:4
+Correct Answer: 2
 
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: When photographing a breaking news event, you may not have time initially to edit your images. Post one or two and then replace them later with better images.
+Question:TRUE or FALSE: Whenever possible you should always adjust the white balance in the camera or in post production.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2
 
-
 <hr/>
 
 Question 3
-Question:Editing is a process of elimination. Which of the things below should you be thinking about when editing (it can be more than one)
-Answer 1:Which are my strongest images irrespective of the specific story?
-Answer 2:Are there any redundant images in my slideshow -- images that don’t advance the story or show the viewer something new?
-Answer 3:Is there a nice ‘flow’ to the images as the viewer clicks from one to the next?
+Question:How can you control the white balance with your android smartphone or point and shoot camera? (It can be more than one):
+Answer 1:Manually set the white balance to the icon that best represents the light color conditions under which you are shooting.
+Answer 2:It is a good idea to calibrate with a white piece of paper as video journalists do. 
+Answer 3:Adjust the white balance in post production.
 Answer 4:All of the above.
-Correct Answer:4
+Correct Answer:1,3
+
+<hr/>
+
+Question 4
+Question:How might you correct the white balance in the image shown here?
+
+!14.png!
+
+Answer 1:Change the white balance option to 'fluorescent' when shooting.
+Answer 2:Adjust the exposure
+Answer 3:Adjust the light temperature in post-production by adding yellow.
+Answer 4:All of the above
+Correct Answer:3

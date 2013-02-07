@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. What are some basic principles of good photo composition?
 
-!4.2.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -12,8 +12,8 @@ Photography, borrows a lot from painting. The best photos are composed so the su
 
 <hr/>
 
-!4.2.3.a.png(Example of a photo that provides context and action)!
-!4.2.3.b.png(Example of a photo that provides context and action)!
+!2.png(Example of a photo that provides context and action)!
+!3.png(Example of a photo that provides context and action)!
 
 When taking photographs of a news event it’s important to remember that the viewer of photos can’t see the totality of the scene as you can. They can’t know what you don’t show them. The world can look very different in a photograph. Strong photojournalists capture not just the drama and action of an event in their images, but include visual elements that provide context as to location and the causes of the event being photographed. This requires you to ‘think visually,’ which can be a challenge for even the best journalists.
 
@@ -23,16 +23,16 @@ h1. Solution
 
 Rule of Thirds
 
-!4.2.4.a.png(Rule of Thirds)!
+!4.png(Rule of Thirds)!
 
 The foundation of good composition is the rule of thirds (see illustration). The rule of thirds breaks down the frame into nine equal rectangles. Many smartphones will allow you to display the rule of thirds grid over the camera display.
 
 <hr/>
 
-!4.2.5.a.png!
-!4.2.5.b.png!
-!4.2.5.c.png!
-!4.2.5.d.png!
+!5.png!
+!6.png!
+!7.png!
+!8.png!
 
 Good photographers compose along the intersections of lines in the frame and work to use each of the nine rectangles to tell their story. Amateurs tend to place the subject in the middle of the frame and ignore the remaining space rather than use it to make a more compelling image.
 
@@ -40,13 +40,13 @@ Good photographers compose along the intersections of lines in the frame and wor
 
 Layering 
 
-!4.2.6.a.png(Example of a photo with a clear foreground, middleground and background)!
+!9.png(Example of a photo with a clear foreground, middleground and background)!
 
 Another important principle for good composition is called layering. Creating distinct layers in your frame: foreground, middleground and background helps you tell clearer, more complex visual stories with your photography. You might chose to place your subject, a farmer whose fields are barren because of drought, frame left in the foreground and his dried up empty field in the background. This will give the image a clear subject layer (foreground) and context (background layer).
 
 <hr/>
 
-!4.2.7.a.png(Example of a photo using edges)!
+!10.png(Example of a photo using edges)!
 
 In a well-composed photograph important shapes or information complete themselves in the frame. The cook’s hands are not cut off awkwardly. The personnel carrier that provides context to the picture in the background layer isn’t chopped in half at the edge of the frame. Photographers call this working the edges. Shapes like door frames or trees or objects of strong color are used to define the edge of the frame by allowing them to resolve within it.
 
@@ -54,7 +54,7 @@ In a well-composed photograph important shapes or information complete themselve
 
 Peak Action 
 
-!4.2.8.a.mp4(Interview with a photographer who discusses using composition on assignment)!
+!11.mp4(Interview with a photographer who discusses using composition on assignment)!
 
 A final key element to good photography is timing. The most powerful photographs are taken at the split second when all the compositional elements come together and the action in the scene is at its most dramatic. This is called the moment of peak action. The best photographers have great anticipation. They will often set up to take advantage of key compositional elements and then wait for the moment of peak action. 
 
@@ -68,7 +68,7 @@ Perhaps the biggest thing to remember for citizen journalists is learning to thi
 
 <hr/>
 
-!4.2.10.a.png!
+!12.png!
 
 Another thing to remember is safety. A reporter can stand at the edge of a potentially dangerous scene. A photographer needs to get close to take a good picture. News photographer are always balancing safety against the need to make very compelling images.
 
@@ -106,7 +106,7 @@ Correct Answer:4
 
 Question 4
 Question:Which of these images is properly exposed?
-Answer 1:!4.2.13.a.png!
-Answer 2:!4.2.13.b.png!
-Answer 3:!4.2.13.c.png!
+Answer 1:!13.png!
+Answer 2:!14.png!
+Answer 3:!15.png!
 Correct Answer:2

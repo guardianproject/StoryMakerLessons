@@ -1,134 +1,104 @@
 h1. Problem Statement
 
-h2. How can I learn to cover an issue professionally and ethically?
+h2. How do I adapt my coverage as the story changes?
 
-!1.5.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-!1.5.2.a.mp4(Interview with a journalist who has experience ethical issues in the field)!
+Some stories are like bright flares. They burn intensely but shortly. Other stories build slowly, growing in intensity as they go. Still other stories are short-lived but illustrate ongoing social issues that warrant continued coverage.
 
-From the outset we have discussed professional standards and journalism ethics. Many news organizations publish professional and ethical guidelines, called a code of ethics, for their staff. Sometimes journalism associations or professional organizations do the same thing. No matter how strongly you feel about an issue or an injustice, your opinion should not influence your story. Report the facts and let the audience judge for themselves. You will be much better journalist as a result.
+<hr/>
+
+!2.png!
+
+News organizations think in terms of distinct categories for coverage. These categories help journalists take advantage of the availability of more information as time goes on. They help journalists maintain the attention of readers and viewers by providing variety in their coverage. Understanding this progression and what’s expected of you will make you a better journalist.
+
+<hr/>
+
+Much online news coverage is short, no longer than Tweets, Facebook or microblog posts. The text is often accompanied by photos, audio or video. Still, what you post and when should be influenced by these principles. 
 
 <hr/>
 
 h1. Solution
 
-h2. 10 Professional and Ethical Standards for Journalists:
+h2. The breaking news story
 
-!1.5.3.a.png!
+!3.mp4(Example of a breaking news story)!
 
-h3. Fact-based
-
-Good journalism is based on verifiable facts collected through good reporting rather than hearsay, opinion or speculation. No matter how strongly you feel about a story, let the facts speak for themselves in your reporting and trust in the audience’s ability to draw its own conclusions.
+From fires to demonstrations to plane crashes, breaking news events are unplanned and require a fast response. Breaking news stories are often succinct dispatches that provide little more than basic information: who, what, where, when, why and how. Think in terms of reporting the basic facts and interviewing sources in your coverage that get to the key information immediately. Breaking news stories are sometimes referred to as first-day stories if there will be follow up coverage as the event unfolds.
 
 <hr/>
 
-!1.5.4.a.png!
+h2. The event story
 
-h3. Citizen-based
+!4.mp4(Example of a general assignment story)!
 
-As a citizen journalist you are a guardian of the public interest not a spokesperson for political or business interests. Your coverage should be about issues important to the lives of ordinary people. The presentation of information in your reporting should be clear and easy-to-read.
-
-<hr/>
-
-!1.5.5.a.png!
-
-h3. Balanced
-
-The best journalism seek to represent all sides of an issue, not just the one most allied to the journalist’s views. Journalists should interview the best sources to represent a variety of informed perspectives. Sources should always be given an opportunity to respond to criticism and allegations of wrongdoing. This may mean representing people or views with which you strongly disagree. That is all part of good journalism.
+This may be a press conference, planned demonstration, opening of a new hospital, or an election. Some follow a breaking news event. One key difference from breaking stories is that journalists have the opportunity to do pre-reporting. This allows you to present more background information in your story or as links. It might also allow you time to talk to more people, perhaps including an expert voice or someone with an opposing viewpoint. Ask yourself what information and sources will help the reader better understand the relevance of the issue.
 
 <hr/>
 
-!1.5.6.a.png!
+h2. The feature story
 
-h3. Fair 
+!5.mp4(Example of a feature story)!
 
-Be honest with yourself about your own cultural values and do not allow them to bias your reporting about others. Avoid stereotyping by race, religion, ethnicity, gender, age, occupation, physical appearance or social status.
-
-<hr/>
-
-!1.5.7.a.png!
-
-h3. Accurate
-
-The facts and details of a story must be confirmed as correct to the best of the journalist’s ability. Never distort the facts to make them better support your story. Never omit important information because it doesn’t support your story. Never manipulate a quote or use it out of context.
+Feature stories are about broader trends rather than specific events. They can be about important issues such as water shortages or more light-hearted events such as holiday festivals or a story about an unusual artist. Features favor a more artful presentation than news stories. Feature stories include some description, presentations of detailed information about how the event looked or sounded or how people react.
 
 <hr/>
 
-!1.5.8.a.png!
+h2. The profile story
 
-h3. Relevant
+!6.mp4(Example of a profile story)!
 
-Citizen journalism should be of immediate value to the audience. If your stories are not of immediate relevance to people’s lives, you will lose them as readers. Equally important is whether or not coverage of the topic may result in greater knowledge and discussion about an important social issue and perhaps meaningful change to public policy.
-
-<hr/>
-
-!1.5.9.a.png!
-
-h3. Timely 
-
-Your coverage should be timely. Coverage that is timely is more valuable to people in their daily lives and more likely change in related public policy. It is important to get the news out and get it out quickly. News that is late is not news at all.
-
-<hr/>
-
-!1.5.10.a.png!
-
-h3. Independent 
-
-Journalists should not be affiliated with a specific political party, agenda or interest group. You should never be paid or receive gifts from organizations or individuals to report -- or not report -- on a particular issue. Always be aware of the motivations of sources in your coverage. Avoid conflicts of interest, real or perceived. Avoid membership in organizations or attending events in your personal life that may compromise your integrity.
-
-<hr/>
-
-!1.5.11.a.png!
-
-h3. Transparent
-
-Journalists need to be open about their coverage techniques, sources and interests related to the story. Disclose unavoidable potential conflicts of interest. Never take information from other news organizations without attributing it. Admit mistakes in or limitations to your coverage. Clarify conditions attached to any promise made in exchange for information. Avoid surreptitious methods of gathering information except when more open methods will not produce information important to the public. Encourage public discourse about your coverage.
-
-<hr/>
-
-!1.5.12.a.png!
-
-h3. Minimizes Harm
-
-You must always be sensitive to the impact your reporting will have on those covered. Be sensitive when seeking or using interviews or visual content of those affected by tragedy or grief, especially when dealing with children and people inexperienced with the media. Private people have a greater right to privacy than do public officials and others who seek power, influence or attention. Only an overriding public need can justify intrusion into anyone’s privacy. People accused of but not tried for crimes or wrongdoing should not be tried in the media.
+A profile is a story about a person. He or she could be a politician or an athlete or a celebrity. Profile stories give us a window into the world of that person. Like features, profiles often contain description as well as quotes from the subject him or herself and perhaps from friends, family members and associates.
 
 <hr/>
 
 h1. Things to Remember
 
-The main thing to remember when writing is to keep it short and keep it informative. This is not an environment for ponderous statements of opinion. Text should provide viewers with the information they need to understand the basic facts of the story as well as a connection with other information about the story through links to social sites. It should also provide the information that search engines need to find your work.
+It should be clear from the different story types presented in this section how journalists and news organizations can present a compelling variety of coverage over time that encourages public understanding and dialogue about an issue. It should also be clear how the different types of stories can apply to longer stories, microblogging or be used with photo, video and audio journalism.
+
+<hr/>
+
+!7.mp4(Interview with a journalist who has experience creating a news "package")!
+
+Together these stories and other accompanying media elements make up what is called a “package.” Understanding what elements to include in a package and when to present them is an important part of good journalism and news management.
+
+<hr/>
+
+!8.mp4(Example of a breaking news story)!
+!9.mp4(Example of a following story)!
+
+The most important thing to remember is to present you information in a logical order for the reader -- analysis about the causes of a power outage in the capitol should not precede breaking news coverage of its immediate impact on the public. But, as the storyline evolves, it is important to continue to make basic, background or contextual information available.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:Which of the following are examples of ethical journalistic practices
-Answer 1:Advocating in your reporting for a opposition political party that is clearly better than a current, openly corrupt government
-Answer 2:Pretending to be a member of a political party at a rally when you are there to cover it as a journalist
-Answer 3:Reporting and writing on issues that interest you but have no immediate value to your audience
-Answer 4:None of the above
-Correct Answer:4
-
+Question:Which of the following are characteristics of a good news analysis story (it can be more than one)?
+Answer 1:The journalist’s opinion is clear
+Answer 2:The presentation of information shows only one point of view, one side of the story
+Answer 3:While the presentation may present a point of view, it makes a fact-based argument for that point of view
+Answer 4:The reader does not realize that it is an analysis/opinion piece rather than hard news
+Correct Answer:1,3
 
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: If your working environment is unusually challenging or complicated in a way that makes it hard to adhere to professional standards, it’s OK to not apply the code rather than exercise good professional judgement to navigate an acceptable compromise
+Question:TRUE of FALSE: As a story from first-day coverage to deeper, more investigative coverage, it is important to provide contextual information in your presentation that reminds readers of the basic facts of the issue.
 Answer 1:TRUE
 Answer 2:FALSE
-Correct Answer:2
+Correct Answer:1
 
 <hr/>
 
 Question 3
-Question:In reality, journalists can sometimes become celebrities or recognized experts with strong opinions and a following of readers. This kind of power can be very seductive and can lead to compromises in professional ethics. To avoid this journalists who become public figures should:
-Answer 1:Be transparent about their professional affiliations
-Answer 2:Seek to minimize the appearance of too close a relationship with high power political and business leaders
-Answer 3:Reaffirm their commitment to reporting in the interest of citizens rather than the elite in their coverage
+Question:The categories of stories presented here are important because.
+Answer 1:They are a roadmap for how journalists can present more information as a story evolves over time
+Answer 2:The provide variety of presentation that helps keep a reader interested in topic over time
+Answer 3:Clear categories give reporters and news organization a way to talk about stories and plan long-term coverage
 Answer 4:All of the above
 Correct Answer:4

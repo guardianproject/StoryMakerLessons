@@ -2,13 +2,11 @@ h1. Problem Statement
 
 h2. My audio file is ready, but how do I get my work listed on itunes, or embedded on my blog, and other important spaces online?
 
-!3.7.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
-
-!3.7.2.a.png(Example of a website with an embedded player)!
 
 If you have an audio program or report finalized and exported to your desired quality, you may now want your work to be found by your audience. If you’re publishing it via your own website, you need to make sure it appears correctly so that people can click and play or download.
 
@@ -16,11 +14,11 @@ If you have an audio program or report finalized and exported to your desired qu
 
 h1. Solution
 
-!3.7.3.a.png(Apple iTunes)!
+!2.png(Apple iTunes)!
 
-!3.7.3.b.png(SoundCloud)!
+!3.png(SoundCloud)!
 
-!3.7.3.c.png(Archive.org)!
+!4.png(Archive.org)!
 
 If you’re planning to do more audio programs or a podcast, then it would be a good idea to be listed on some of the more commonly used podcast catalogue tools . One of the largest in the world is apple’s itunes listings. There are also alternatives like soundcloud and archive.org, each of which have their own options for listening back to, downloading, and embedding audio on your website. The reason for using any or all of these is the goal of being found, heard, and shared among different communities online.
 
@@ -28,15 +26,11 @@ If you’re planning to do more audio programs or a podcast, then it would be a 
 
 h2. Hosting Your Audio
 
-!3.7.4.a.png(Example of an uploaded audio clip with description, embedded player and direct download link)!
-
 First thing to do when your audio project is ready, is to choose where to host it. This could be on your own server, on the server where you have your website, or on a free 3rd party site like Archive.Org. The great advantage of using a site like ‘archive’ is that they host your audio file, and provide embed codes and download links for you to use wherever you wish. That means you can have a site where you place their easy to use player so that people can click to hear your program. It also means if your program is extremely popular, you won’t have to worry about the strain or extra cost of providing more bandwidth - archive will handle it. Please note that at present, using soundcloud as a third party host gives you a player but does not allow for direct downloads which are an essential part of having a working podcast.
 
 <hr/>
 
 h2. iTunes Podcast Directory
-
-!3.7.5.a.png(Uploading a new podcast on iTunes)!
 
 Once you have your site working properly with embedded audio and downloadable programs, it is ready to be listed on podcast directories.
 
@@ -46,7 +40,7 @@ To submit a podcast to iTunes you can simply go to iTunes (free to install and u
 
 h1. Things to Remember
 
-!3.7.6.a.png(Promoting your project on Twitter)!
+!5.png(Promoting your project on Twitter)!
 
 * If you have a limited budget and you want a host that can handle large demand, upload your audio project to archive.org.
 * If you have a site where you want your audio projects to be featured and available for listening, use embed codes from 3rd party sites like soundcloud or archive.

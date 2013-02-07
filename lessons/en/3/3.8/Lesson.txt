@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. I have recorded an interview in one language but I want to have audio translation in my story.
 
-!3.8.1.a.png!
+!1.png!
 
 <hr/>
 
@@ -18,7 +18,7 @@ h1. Solution
 
 h2. Voice Over Translation
 
-!3.8.3.a.mp3(Example of a voice over translation)!
+!2.mp3(Example of a voice over translation)!
 
 One successful style of voice over translation allows the first 3 to 6 seconds of the original voice to play on its own. After this, the producer lowers the volume (during the editing process) and adds in the translation audio in a different but clear voice.
 
@@ -28,7 +28,7 @@ Voice Over Translation uses your program time more efficiently and assist the au
 
 h2. On the Spot
 
-!3.8.4.a.mp3(Example of an on the spot translator)!
+!3.mp3(Example of an on the spot translator)!
 
 Another style of translation is immediate, on the spot translation. This involves having someone on location with you as you record the interview. The translators voice should appear periodically throughout the conversation. You must be sure the interviewee pauses often to allow phrases and sentences to be translated.
 
@@ -40,13 +40,13 @@ If you are not sure you can get a voice over translation that can be used during
 
 h1. Things to Remember
 
-!3.8.6.a.mp3(Example of an interviewee that talks for too long before a translation starts)!
+!4.mp3(Example of an interviewee that talks for too long before a translation starts)!
 
 Is it best NOT to allow statements in different languages to run on for long without any kind of translation.
 
 <hr/>
 
-!3.8.7.a.png!
+!5.png!
 
 Whenever possible include at least some of the original audio in order to harness any emotion or meaning that can be communicated from the tone and energy of that voice.
 

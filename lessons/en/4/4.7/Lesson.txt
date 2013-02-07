@@ -1,111 +1,107 @@
 h1. Problem Statement
 
-h2. What do I do if someone is reluctant to be photographed or the circumstances are emotionally difficult for the subject or myself?
+h2. Photographing an event well is one thing. Editing the pictures well is another. What are some tips and concepts to think about when editing pictures for publication?
 
-!4.10.1.a.png!
+!1.png!
 
 <hr/>
 
 h1. Background
 
-People are very sensitive to having their photo taken. The more difficult the circumstance of the story the more difficult it is to get a photograph. Our own biases and emotional investment in a story may result in making good choices about shooting photos difficult.
+!2.png!
+
+No matter if you are photographing an event to produce a single image or shooting to produce a more elaborate slideshow, you will shoot many more images than you use. You need to edit your images to select the few that best illustrate the story.
+
+<hr/>
+
+Editing images can take time and requires skill and self-discipline. Editing photos well is about divorcing yourself from your feelings or investment in the work and selecting only the images that convey the story best to your viewer. Just because you worked hard to get a photograph doesn’t make it a good photograph. Just because you recognize the importance of its content doesn’t mean the viewer will see the same thing. If its not in the picture for the viewer to see it’s not a picture at all.
 
 <hr/>
 
 h1. Solution
 
-For journalists who live in the communities they cover there are some unique challenges.
+Editing images is often a process of elimination. Select images that are ‘maybes’ and then, based on what you need the photos to do, winnow down to the best. 
 
-* Should I take photographs of people if they don’t want you to?
-* Should I publish very graphic images of violence and death? 
-* Should I help someone who is injured or photograph them?
-* Should I publish images that might cast a favored individual or institution in an unfavorable light even if the image is 
-truthful? 
-* Should I publish images that may in some way may humanize and support a person or idea with which I strongly disagree?
+* Do not edit into a vacuum. Ask yourself some key questions:
+** How many images do you need?
+** Who is the audience?
+** What does the editor want?
 
-Every photojournalist must make these choices- for him or herself- within the professional and ethical boundaries that journalism allows.
+These questions will limit the criteria by which you choose and make editing easier.
 
 <hr/>
 
-h2. Make People Comfortable
+h2. Three-step approach to editing pictures
 
-!4.10.4.a.mp4(Example of how to warm up a subject and get them comfortable)!
+* Step 1 - Identify
+* Step 2 - Script
+* Step 3 - Sequence & Process
 
-In breaking news situations journalists are typically working frantically and have little time to build rapport. But, when shooting general news events, features, or portraits, you need to warm people up. Explain how the photo will be used.- It also goes a long way to- tell people a bit about yourself. Speak to them conversationally. All of these things may help you convince people who are reluctant to be photographed. How the image might be shot and used can involve a bit of persuasion and negotiation.
-
-<hr/>
-
-h2. Minimizes Harm
-
-!4.10.5.a.mp4(Interview with a photographer who experienced photographing those affected by tragedy or grief)!
-!4.10.5.b.mp4(Interview with a photographer who experienced photographing those affected by tragedy or grief)!
-
-You must always be sensitive to the impact publishing images of people will have on those portrayed. Be sensitive when shooting those affected by tragedy or grief, especially when dealing with children and people inexperienced with the media. Private people have a greater right to privacy than do public officials and others who seek power, influence or attention.
 
 <hr/>
 
-h2. Shoot for Options
+h2. Step 1 - Identify
 
-Even if a single image is going to be presented with a story or post, you will want a variety of images from which to choose. In the case of difficult subject matter, Images need to be graphic enough to tell a story truthfully. They should not be gratuitous, when publishing graphic images, photographers need to consider the audience, the importance of the story and the impact the images will have.
+!3.png!
 
-<hr/>
+A first round that includes your strongest images -- Don’t worry about the specifics of your story. Pick images that convey core emotional and graphic strength. Think most about the eye-grabbing qualities of the images. The number should relate loosely to how you will use the images. If you are looking for a single, final image, select fewer than if you plan to assemble a slideshow. You may have several images of the same subject from different angles. You may have an assortment of images that illustrate the same idea. That’s OK for now.
 
-h2. Manage your Bias
-
-!4.10.7.a.mp4(Interview with a photographer who found them self bias on an assignment)!
-
-Know yourself, be aware of your biases and do not let them influence how you portray a situation or issue. Good photojournalists seek to capture the universal human elements of stories. Humanity is not defined by national boundary, tribe, politics or province.
 
 <hr/>
 
-h2. Your own safety
+h2. Step 2 - Script
 
-!4.10.8.a.mp4(Interview with a photographer about shooting in unsafe situations)!
+!4.png!
 
-Some situations are difficult to shoot because they are unsafe for the citizen journaliss. No photograph is worth life or injury. When shooting in dangerous situations always have an exit strategy. Be aware that soldiers and security forces may not wish to be photographed. Be smart about the risks. Mental health is part of safety too. Only you can decide your limitations. Only you can decide if and when you should put down your camera and help. You will make a much better decisions if you think through your values before you find yourself in a high-pressure situation requiring you to make a decision on the spot.
+Think the story through -- Now that you have a narrower assortment of images, begin to decide HOW you will use the photos. If you are looking for a single image, identify a photo that conveys the most information -- and the most drama -- to illustrate your specific story. You may opt for a portrait of someone quoted in an accompanying text. You may opt for a photo that symbolizes the emotion of an event, a person waving a flag and shouting. You may opt for a photo that is a literal summary, a person casting a ballot. If you are editing for slideshow, you will want an assortment of images based on the kind of slideshow you want to do (see the photo essay section). Remove images that convey the same information -- and choose only the best one. If you have several similar images, choose only the best -- the one that most clearly visualizes subject, context and emotion in a clear and understandable way.
+
+<hr/>
+
+h2. Step 3 - Sequence & Process
+
+!5.png!
+
+If you are editing for a single image (or a handful of images from which an editor will choose). You need to crop, size, color correct and caption these images. The specifics of this are covered in the section on post production. If you are building a slideshow you need to sequence the final images. Remember: if an image isn’t advancing your story, it’s hurting it. Select images around the important elements of the story, archive images that either do not advance the story or repeat other, stronger images. Sequence the images in a way that is chronological -- do not move from night to day and back in an unnatural order. Be conscious of the ‘flow’ of images, letting color move the viewer from one image to the next, move from a tight shot to wide shot and then back to a tight shot. Like the single image, these images must be cropped, sized, color corrected and captioned.
 
 <hr/>
 
 h1. Things to Remember
 
-Below are the ethical guidelines published by National Press Photographers Association in the United States. It is much like professional and ethical guidelines published internationally by similar organizations.
+!6.png!
 
-* Be accurate and comprehensive in the representation of subjects.
-* Resist being manipulated by staged photo opportunities.
-* Be complete and provide context when photographing or recording subjects. Avoid stereotyping individuals and groups. Recognize and work to avoid presenting one’s own biases in the work.
-* Treat all subjects with respect and dignity. Give special consideration to vulnerable subjects and compassion to victims of crime or tragedy. Intrude on private moments of grief only when the public has an overriding and justifiable need to see.
-* While photographing subjects do not intentionally contribute to, alter, or seek to alter or influence events.
-* Editing should maintain the integrity of the photographic images’ content and context. Do not manipulate images or add or alter sound in any way that can mislead viewers or misrepresent subjects.
-* Do not pay sources or subjects or reward them materially for information or participation.
-* Do not accept gifts, favors, or compensation from those who might seek to influence coverage.
-* Do not intentionally sabotage the efforts of other journalists.
+The editing techniques outlined above assumes the luxury of time to edit. With some breaking news events or last-minute deadline assignments, you may have to edit on the fly. Meaning, make a quick selection and post the image(s) on the spot. You can always replace these images later with a more carefully selected and processed image.
+
+<hr/>
+
+When covering stories about disaster or conflict you should be sensitive to how you use images of violence, injury, death or people grieving. Images of children require special care. Images need to be graphic enough to tell a story truthfully. At the same time, they should not be gratuitous. Photographers should not shy away from shooting graphic images if they accurately tell the story. However, publishing them can be another issue. Photographers and the publications they shoot for need to consider the audience, the importance of the story and the impact the images will have when publishing graphic images. When confronted with scenes of violence or death, good photographers will shoot images that are both graphic as well as more symbolic to give editors a choices about what to publish.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:What are some thing you can do to make subjects who are reluctant to be photographed more comfortable with the idea?
-Answer 1:Explain to them how the photos are to be used.
-Answer 2:Point out that it is an opportunity for them to speak out on a issue that might be important to them.
-Answer 3:Negotiate a bit about how the photo will be taken and perhaps used.
-Answer 4:All of the above.
+Question:Which of the following are characteristics of good editing?
+Answer 1:You should pick the images you want to use all at once to save time.
+Answer 2:Caption everything and then select only the images you want.
+Answer 3:The literal information in each image is more important than its emotional or graphic value and more important than how the image might work as part of a slideshow.
+Answer 4:None of the above.
 Correct Answer:4
 
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: It is OK to have an agenda based on your own political and personal views when deciding how to cover an event.
+Question:TRUE or FALSE: When photographing a breaking news event, you may not have time initially to edit your images. Post one or two and then replace them later with better images.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2
 
+
 <hr/>
 
 Question 3
-Question:Which of the following are important to keep in mind when shooting under difficult circumstances (it can be more than one).
-Answer 1:A photographer needs to be sensitive to the rights of private citizens when taking their photograph.
-Answer 2:You should be aware of your own personal safety.
-Answer 3:Don’t take pictures that are graphic and might upset someone.
+Question:Editing is a process of elimination. Which of the things below should you be thinking about when editing (it can be more than one)
+Answer 1:Which are my strongest images irrespective of the specific story?
+Answer 2:Are there any redundant images in my slideshow -- images that don’t advance the story or show the viewer something new?
+Answer 3:Is there a nice ‘flow’ to the images as the viewer clicks from one to the next?
 Answer 4:All of the above.
-Correct Answer:1,2
+Correct Answer:4

@@ -99,8 +99,8 @@ Question:Which of the following a basic principles of photography for good compo
 Answer 1:The rule of thirds.
 Answer 2:Working the edges.
 Answer 3:Working the Layers.
-Answer 4:All of the above.
-Correct Answer:4
+Answer 4:None of the above.
+Correct Answer:1,2,3
 
 <hr/>
 

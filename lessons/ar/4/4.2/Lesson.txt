@@ -100,8 +100,8 @@ Question: أي مما يلي يعد مفهومًا أساسيًا لالتقاط
 Answer 1: قاعدة التثليث 
 Answer 2: ضبط الحواف
 Answer 3: ضبط الطبقات
-Answer 4: كل ما سبق
-Correct Answer:4
+Answer 4: لا إجابة مما سبق صحيحة.
+Correct Answer:1,2,3
 
 <hr/>
 

@@ -46,7 +46,7 @@ I,i,l,t =1   o,O=0   s,S=5,2   four,for,fore=4   two,to,too=2  Are you happy tod
 
 <hr/>
 
-!5.png!
+!5.png(Illustration from xkcd: http://xkcd.com/936/)!
 
 You may find these methods difficult to remember. Some theorists posit that these passwords are not as secure as a much simpler method. If you cannot remember your password, its no protection to you or your sources. If you find the previous methods too difficult, consider a random assortment of at least four words, longer is better.
 

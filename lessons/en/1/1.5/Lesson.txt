@@ -62,9 +62,16 @@ It should be clear from the different story types presented in this section how 
 
 <hr/>
 
-!7.mp4(Interview with a journalist who has experience creating a news "package")!
-
 Together these stories and other accompanying media elements make up what is called a “package.” Understanding what elements to include in a package and when to present them is an important part of good journalism and news management.
+
+A checklist for producing the perfect news package:
+ 
+* What’s new and what’s now –  Mobile news and microblog  posts need to be short and informative. Get to the point and get to them quickly.  Your post should include the basic facts and most current information.
+* Show and tell – Fundamentally phones are a visual medium. While some stories are tough to visualize others may lend themselves to photos, video or audio.  Choose the right media – or combination of media – to tell your story. Do not forget to keyword and tag multimedia content.
+* Dateline – Be sure to present exactly where and when the post and story covered were produced.
+* Links to more information – This can be a Twitter feed or a YouTube video or a link to a previous posts or links to coverage from other news outlets.
+* Cite you sources – Let viewers know where your information is coming from: eyewitness accounts, an official spokesperson, your own observation or other news sources. Transparency is key.
+* Cultivate contribution – Encourage people to contribute to your reporting.  Make it easy for them to comment. Promote more discussion with the goal of better information for all.
 
 <hr/>
 

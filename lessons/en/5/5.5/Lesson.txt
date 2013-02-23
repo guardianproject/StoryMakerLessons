@@ -1,6 +1,6 @@
 h1. Problem Statement
 
-h2. How does video tell a story?
+h2. How does VIDEO tell a story?
 
 !1.png!
 

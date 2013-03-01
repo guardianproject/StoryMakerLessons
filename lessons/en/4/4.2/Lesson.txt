@@ -109,13 +109,13 @@ Correct Answer:1,2,3
 <hr/>
 Question 4
 (
-!4.2.13.a.png(image one)!
-!4.2.13.b.png(image two)!
-!4.2.13.c.png(image three)!
+!13.png(image one)!
+!14.png(image two)!
+!15.png(image three)!
 )
 
 Question:Which of these images is properly exposed?
-Answer 1:!13.png!
-Answer 2:!14.png!
-Answer 3:!15.png!
+Answer 1:Image One
+Answer 2:Image Two
+Answer 3:Image Three
 Correct Answer:2

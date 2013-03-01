@@ -50,7 +50,7 @@ h1. Things to Remember
 
 h2. AWB (Auto White Balance)
 
-!9.a.png(A common Auto White Balance icon)!
+!9.png(A common Auto White Balance icon)!
 
 Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you’re unsure of which of these is the best to go with.
 

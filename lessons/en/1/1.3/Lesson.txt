@@ -79,10 +79,6 @@ The more controversial the issue, the more difficult it is to find good sources.
 
 h2. Transparency is key
 
-!9.mp4(Example of safely identifying a source)!
-
-!10.mp4(Example of explaining why you can't identify a source)!
-
 Your sources should be clearly and completely identified. For safety reasons some sources should not be identified, but this is a last resort. Be sure and explain why a source is anonymous if you are forced to use one. Sources should never be made up or a composite of two or more real sources.
 
 <hr/>

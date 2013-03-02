@@ -26,7 +26,7 @@ fn1. Small World News Safety Guides http://smallworldnews.tv/guide/
 
 To send encrypted SMS you must use a specific app for this purpose. Both you and your source must use the same app. Send your source a message via your app of choice in order to initiate a key exchange. Once you've exchanged keys, you may communicate with your source via encrypted texts. 
 
-*REMEMBER:* You must use the encrypted text app in order to send encrypted texts. Your standard messaging app will not send encrypted texts.
+REMEMBER: You must use the encrypted text app in order to send encrypted texts. Your standard messaging app will not send encrypted texts.
 
 <hr/>
 

@@ -8,7 +8,7 @@ h2. Why are my images overexposed (too light) or underexposed (too dark) and how
 
 h1. Background
 
-Inside every digital camera there is a light meter. This meter takes a light reading in the instant before you take a picture and tells the camera how to set the ISO, Aperture and Shutter (see section one).- With point-and-shoots and dSLRs this meter is more sophisticated and it is up to the photographer to set the exposure in whole or part based on the reading.
+Inside every digital camera there is a light meter. This meter takes a light reading in the instant before you take a picture and tells the camera how to set the ISO, Aperture and Shutter (see section one).With point-and-shoots and dSLRs this meter is more sophisticated and it is up to the photographer to set the exposure in whole or part based on the reading.
 
 <hr/>
 

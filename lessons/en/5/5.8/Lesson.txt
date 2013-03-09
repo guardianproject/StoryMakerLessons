@@ -93,11 +93,11 @@ The lines now cut the frame into equal squares, but the rule of thirds can still
 
 <hr/>
 
-!14.png!
-
 h1. Things to Remember
 
 Don't center everything in your frame. When everything is centered, you are using all four points of interest for one single element.
+
+!14.png!
 
 If you look at a frame and find it boring, uninteresting, or confusing, it’s likely the rule of thirds is not being used.
 

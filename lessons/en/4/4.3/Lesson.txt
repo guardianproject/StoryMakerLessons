@@ -8,9 +8,9 @@ h2. How do I write a basic caption to accompany a photograph?
 
 h1. Background
 
-!2.png(10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match.)!
+!2.png!
 
-h3. Caption: 10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match
+h3. Caption: 10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match.
 h3. Keywords: Tripoli, Libya, Cameroon, World Cup, sports, Middle East.  
 h3. Tags: Sports, celebration, flags, World Cup, fans
 
@@ -46,9 +46,9 @@ h2. Writing Captions
 
 A caption should be one or two sentences. In most photo captions the first sentence identifies the people and location of the photograph and date where it was taken. The second should provide contextual information to help readers understand what they are looking at.
 
-Example of How to Write a Caption:
+h3. Example of How to Write a Caption:
 
-*The first sentence should:*
+The first sentence should:
 
 * Be written in the present tense.
 * Be written in complete sentences
@@ -57,7 +57,7 @@ Example of How to Write a Caption:
 * Say Exactly where it was taken
 
 
-*A second or sometimes third sentence should:*
+A second or sometimes third sentence should:
 
 * Typically be written in the past tense
 * Be written in complete sentences
@@ -91,7 +91,7 @@ Keywords and tags help search engines find images and work identify photos in th
 
 <hr/>
 
-*TIPS*
+TIPS
 
 * Include specific geographic information.
 * Avoid abbreviations.

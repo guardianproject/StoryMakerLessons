@@ -134,8 +134,13 @@ Correct Answer:4
 <hr/>
 
 السؤال 4
+(
+!14.png(image one)!
+!15.png(image two)!
+!16.png(image three)!
+)
 Question: أي من الصور الثلاث التالية تم تحريرها بطريقة لا أخلاقية؟
-Answer 1: !14.png!
-Answer 2: !15.png!
-Answer 3: !16.png!
+Answer 1:Image One
+Answer 2:Image Two
+Answer 3:Image Three
 Correct Answer:2,3

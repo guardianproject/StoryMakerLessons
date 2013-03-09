@@ -72,7 +72,7 @@ Suggested Tools:
 * Chat: Gibberbot
 * Email: K9Mail
 * Notes: NoteCipher
-* Passwords: KeePassDroid"
+* Passwords: KeePassDroid
 
 <hr/>
 

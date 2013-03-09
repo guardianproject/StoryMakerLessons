@@ -110,19 +110,33 @@ Correct Answer:3
 <hr/>
 
 Question 3
+
+(
+!12.png!
+!13.png!
+!14.png!
+)
+
 Question:Which of these shots is a good example of Head Room?
-Answer 1:!12.png!
-Answer 2:!13.png!
-Answer 3:!14.png!
+Answer 1:Image one
+Answer 2:Image two
+Answer 3:Image three
 Answer 4:None of the above.
 Correct Answer:2
 
 <hr/>
 
 Question 4
+
+(
+!15.png!
+!16.png!
+!17.png!
+)
+
 Question:Which of these shots is a good example of Nose Room?
-Answer 1:!15.png!
-Answer 2:!16.png! 
-Answer 3:!17.png! 
+Answer 1:Image one
+Answer 2:Image two
+Answer 3:Image three
 Answer 4:All of the above.
 Correct Answer:1

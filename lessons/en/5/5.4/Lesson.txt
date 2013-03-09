@@ -2,7 +2,7 @@ h1. Problem Statement
 
 h2. My shots are well composed, but when I watch them together they're repetitive and do not tell me a complete story. What am I missing?
 
-!1).png!
+!1.png!
 
 <hr/>
 
@@ -46,7 +46,7 @@ h2. Wide Shot
 
 !8.mp4(Example of a Wide Shot)!
 
-*Goal:* Shows the location / scene of a story.
+Goal: Shows the location / scene of a story.
 
 Tips
 
@@ -60,7 +60,7 @@ h2. Long Shot
 
 !9.mp4(Example of a Long Shot)!
 
-*Goal:* Showcases the characters and how they interact with the location.
+Goal: Showcases the characters and how they interact with the location.
 
 Tips
 
@@ -74,7 +74,7 @@ h2. Medium Shot
 
 !10.mp4(Example of a Medium Shot)!
 
-*Goal:* Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
+Goal: Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
 
 Tips
 
@@ -88,7 +88,7 @@ h2. Close up Shot
 
 !11.mp4(Example of a Close Up Shot)!
 
-*Goal:* Forces the audience to focus entirely on a single character, encourages the emotion of the character.
+Goal: Forces the audience to focus entirely on a single character, encourages the emotion of the character.
 
 Tips
 
@@ -102,7 +102,7 @@ h2. Detail Shot
 
 !12.mp4(Example of a Detail Shot)!
 
-*Goal:* Showcases an interesting detail, often focusing directly on an important action.
+Goal: Showcases an interesting detail, often focusing directly on an important action.
 
 Tips
 

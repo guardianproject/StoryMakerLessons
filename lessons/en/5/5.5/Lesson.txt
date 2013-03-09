@@ -32,7 +32,7 @@ Whether you are creating a news report, dramatic story, advocacy video, or promo
 
 A visual story is prepared with a number of *scenes*. Each scene is a combination of related shots called a *sequence*.
 
-*TIP* Depending on the format of your story, you may need only one scene. For longer and more complex stories, you will likely assemble many scenes.
+TIP: Depending on the format of your story, you may need only one scene. For longer and more complex stories, you will likely assemble many scenes.
 
 <hr/>
 

@@ -134,8 +134,14 @@ Correct Answer:4
 <hr/>
 
 Question 4
+(
+!14.png(image one)!
+!15.png(image two)!
+!16.png(image three)!
+)
+
 Question:Which of the three photos is unethically edited?
-Answer 1:!14.png!
-Answer 2:!15.png!
-Answer 3:!16.png!
+Answer 1:Image One
+Answer 2:Image Two
+Answer 3:Image Three
 Correct Answer:2,3

@@ -111,6 +111,13 @@ Correct Answer:3
 <hr/>
 
 السؤال 3
+
+(
+!12.png!
+!13.png!
+!14.png!
+)
+
 Question: أي من هذه اللقطات مثال جيد لمساحة الرأس؟
 Answer 1: !12.png!
 Answer 2: !13.png!
@@ -121,9 +128,16 @@ Correct Answer:2
 <hr/>
 
 السؤال 4
+
+(
+!15.png!
+!16.png!
+!17.png!
+)
+
 Question: أي من هذه اللقطات مثال جيد لمساحة الأنف؟
-Answer 1: !15.png!
-Answer 2: !16.png!
-Answer 3: !17.png!
+Answer 1:Image one
+Answer 2:Image two
+Answer 3:Image three
 Answer 4: كل ما سبق.
 Correct Answer:1

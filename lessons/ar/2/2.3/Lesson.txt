@@ -72,7 +72,7 @@ h1. أشياء يجب أن تتذكرها
 * الدردشة: Gibberbot
 * البريد الإلكتروني: K9Mail
 * الملاحظات: NoteCipher
-* كلمات المرور: KeePassDroid"
+* كلمات المرور: KeePassDroid
 
 <hr>
 

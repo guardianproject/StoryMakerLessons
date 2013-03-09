@@ -42,9 +42,7 @@ Camera shake – the movement of your own hands while holding the camera -- can 
 
 h2. Flash
 
-(
 !7.png(Example of a photo taken with a camera phone flash)!
-)
 
 Many smartphones come with a built-in flash. The burst of light can help you freeze motion. Most phone flashes are only effective for about three meters.
 

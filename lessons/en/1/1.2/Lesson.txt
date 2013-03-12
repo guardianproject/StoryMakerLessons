@@ -1,8 +1,8 @@
 h1. Problem Statement
 
-h2. What makes good reporting? It must to be fact-based rather than based on opinion, rumor or personal interest.
-
 !1.png!
+
+h2. What makes good reporting? It must to be fact-based rather than based on opinion, rumor or personal interest.
 
 <hr/>
 
@@ -27,26 +27,46 @@ Accurate information can be hard to collect, but a few solid facts can go a long
 
 Another challenge is separating fact from opinion. You need to keep your own feelings about an issue in check and respect the audience’s ability to form an opinion based on the accurate information you present.
 
+<hr/>
+
 Examples of Fact and Opinion:
 
-* WHAT
-Good:  Voters in Tripoli took to the polls today in the nation’s first-ever democratic election.
+h2. WHAT
+
+Good: Voters in Tripoli took to the polls today in the nation’s first-ever democratic election.
+
 Bad: Today is a day of celebration as our great nation ushers in a new, more prosperous era.
 
-* WHERE
+<hr/>
+
+h2. WHERE
+
 Good: The match was played on a makeshift former university football practice field outside of Port Said. 
+
 Bad: The game was not played at the normal stadium. 
- 
-* WHEN
+
+<hr/>
+
+h2. WHEN
+
 Good: Originally scheduled for the evening of April 6, 2012, the performance by Aman Halawa has been moved to April 14.
+
 Bad: The world-recognized musician’s performance was planned for yesterday but has been moved to next week.
 
-* WHY
-Good:  The bridge could not withstand the pressure of the rising storm water and collapsed, said a spokesman from the Army Corp of Engineers.
-Bad:  The bridge was poorly maintained because of government corruption, so it fell apart in the storm.
+<hr/>
 
-* HOW
-Good: People began gathering early in the day and by evening hundreds had collected at the square chanting, waving signs and demanding the health minister’s resignation following the deaths last week of 13 children due to a tainted flu vaccine. 
+h2. WHY
+
+Good: The bridge could not withstand the pressure of the rising storm water and collapsed, said a spokesman from the Army Corp of Engineers.
+
+Bad: The bridge was poorly maintained because of government corruption, so it fell apart in the storm.
+
+<hr/>
+
+h2. HOW
+
+Good: People began gathering early in the day and by evening hundreds had collected at the square chanting, waving signs and demanding the health minister’s resignation following the deaths last week of 13 children due to a tainted flu vaccine.
+
 Bad: Many people came and shouted for the health minister to be fired, blaming him for the children’s deaths.
 
 <hr/>
@@ -65,21 +85,36 @@ When reporting a story ask yourself if you have collected the information common
 
 Properly asked and answered the Five Ws will help journalists to collect the basic facts required to build a solid story. Be as specific as possible. The more detail the better. It’s one thing to write that there were security forces at the demonstration. It may be more informative to make it clear they were interior ministry troops as opposed to regular army.
 
-Examples of properly asked and answered Five Ws:
+<hr/>
 
-* What Happened? 
+h2. Examples of properly asked and answered Five Ws:
+
+h2. What Happened?
+
 In summary and precisely, explain what took place. Who exactly was involved? How many? What was the outcome? Is property damaged? Who won? Is anyone dead? Be specific.
 
-* Where Did it Happen? 
+<hr/>
+
+h2. Where Did it Happen? 
+
 Provide the country, province and city. The political affiliation, ethnicity and religion of people in the area may – or may not – be important. Is it an urban area? A rural area? A military compound? 
 
-* When Did it happen? 
+<hr/>
+
+h2. When Did it happen? 
+
 Give the exact date – day of the month, month and year. If season is important or if the fact that it is a holiday or event like a ceasefire is relevant include that information.  Was it day or night?
 
-* Why Did it Happen? 
+<hr/>
+
+h2. Why Did it Happen? 
+
 What caused the event? What is the background? Avoid speculation. Rely on reported fact. Was there a single thing that set it off or did it build slowly? Was it planned? If so, by who? Who paid for it? Who arranged it?
 
-* How Did it Happen?  
+<hr/>
+
+h2. How Did it Happen?  
+
 Describe the progression of the event – observation is different than opinion. How did it proceed? Did it start slowly and build? Did it happen suddenly? Was there a clear turning point?
 
 <hr/>
@@ -87,10 +122,14 @@ Describe the progression of the event – observation is different than opinion.
 For short dispatches it is often helpful to think in terms of collecting “factoids.” Factoids are the backbone of good reporting. Factoids are tidbits of factual information that you can use to make sure you are answering who, what, where, when and why to best of your ability.
 
 * Numbers and stats are factoids: How many? What time did it start?
+
 * Details about the issue are factoids. Describe briefly of how it – whatever it may be – works. Where did it start? When will it take effect? Who is involved? Who opposes it? Who supports it?
+
+<hr/>
+
 * Observations are factoids. Physical descriptions are an often- overlooked but powerful type of factoid. What does the room look like? What is he wearing? What is the scene?
+
 * Quotes are factoids: Quotes dramatize and personalize your point. Quotes should typically be statements of opinion – how the source feels -- rather than fact (it’s the FACT that it was said that’s valuable to the journalist).
-* More involved or longer stories may require more reporting with a wider variety of sources before and after an event.
 
 <hr/>
 

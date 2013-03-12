@@ -1,8 +1,8 @@
 h1. Problem Statement
 
-h2. What are some basic techniques for getting the most out of an interview?
-
 !1.png!
+
+h2. What are some basic techniques for getting the most out of an interview?
 
 <hr/>
 
@@ -44,20 +44,27 @@ It is always a good idea to have some basic questions prepared. It saves time an
 
 <hr/>
 
-*Example of well prepared notes for an interview:*
+h2. Example of well prepared notes for an interview:
 
-Intro or warm-up questions (asked early to make the subject comfortable because they are easy and impersonal questions):
+h2. Intro or warm-up questions (asked early to make the subject comfortable because they are easy and impersonal questions):
+
 * What is your full name (and title) as you would like it for the article?
 * Where did you study?
 * What are the materials you use and why do you use them?
 
-Main interview questions (this is where you collect the most interesting and useful information)
+<hr/>
+
+h2. Main interview questions (this is where you collect the most interesting and useful information)
+
 * How do you describe the purpose of your work to others?
 * What are some of the influences or inspirations for your artwork?
 * How did the revolution influence the themes and subjects that your artwork addresses?
 * What role do artists play in the new Egypt? 
 
-Closing questions (This is often where you ask the most difficult or revealing questions, along with the final question below)
+<hr/>
+
+h2. Closing questions (This is often where you ask the most difficult or revealing questions, along with the final question below)
+
 * Your critiques say you are little more than street graffiti artist or simple illustrator. How do you respond to these criticisms?
 * Is there anything else you would like to add or that you think is important for readers to know?
 

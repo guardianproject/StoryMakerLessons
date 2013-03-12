@@ -1,8 +1,8 @@
 h1. Problem Statement
 
-h2. How can I learn to cover an issue professionally and ethically?
-
 !1.png!
+
+h2. How can I learn to cover an issue professionally and ethically?
 
 <hr/>
 
@@ -10,7 +10,7 @@ h1. Background
 
 !2.mp4(Interview with a journalist who has experienced ethical issues in the field)!
 
-From the outset we have discussed professional standards and journalism ethics. Many news organizations publish professional and ethical guidelines, called a code of ethics, for their staff. Sometimes journalism associations or professional organizations do the same thing. No matter how strongly you feel about an issue or an injustice, your opinion should not influence your story. Report the facts and let the audience judge for themselves. You will be much better journalist as a result.
+From the outset we have discussed professional standards and journalism ethics. Many news organizations publish professional and ethical guidelines, called a code of ethics, for their staff. Sometimes journalism associations or professional organizations do the same thing. No matter how strongly you feel about an issue or an injustice, your opinion should not influence your story. Report the facts and let the audience judge for themselves. You will be_ ( "a")_ much better journalist as a result.
 
 <hr/>
 
@@ -18,85 +18,63 @@ h1. Solution
 
 h2. 10 Professional and Ethical Standards for Journalists:
 
-!3.png!
-
-h3. Fact-based
+h3. 1 - Fact-based
 
 Good journalism is based on verifiable facts collected through good reporting rather than hearsay, opinion or speculation. No matter how strongly you feel about a story, let the facts speak for themselves in your reporting and trust in the audience’s ability to draw its own conclusions.
 
 <hr/>
 
-!4.png!
-
-h3. Citizen-based
+h3. 2 - Citizen-based
 
 As a citizen journalist you are a guardian of the public interest not a spokesperson for political or business interests. Your coverage should be about issues important to the lives of ordinary people. The presentation of information in your reporting should be clear and easy-to-read.
 
 <hr/>
 
-!5.png!
-
-h3. Balanced
+h3. 3 - Balanced
 
 The best journalism seek to represent all sides of an issue, not just the one most allied to the journalist’s views. Journalists should interview the best sources to represent a variety of informed perspectives. Sources should always be given an opportunity to respond to criticism and allegations of wrongdoing. This may mean representing people or views with which you strongly disagree. That is all part of good journalism.
 
 <hr/>
 
-!6.png!
-
-h3. Fair 
+h3. 4 - Fair 
 
 Be honest with yourself about your own cultural values and do not allow them to bias your reporting about others. Avoid stereotyping by race, religion, ethnicity, gender, age, occupation, physical appearance or social status.
 
 <hr/>
 
-!7.png!
+h3. 5 - Accurate
 
-h3. Accurate
-
-The facts and details of a story must be confirmed as correct to the best of the journalist’s ability. Never distort the facts to make them better support your story. Never omit important information because it doesn’t support your story. Never manipulate a quote or use it out of context.
+The facts and details of a story must be confirmed as correct to the best of the journalist’s ability. Never distort the facts to make them better support your story. Never omit important information because it doesn’t _("does not")_ support your story. Never manipulate a quote or use it out of context.
 
 <hr/>
 
-!8.png!
-
-h3. Relevant
+h3. 6 - Relevant
 
 Citizen journalism should be of immediate value to the audience. If your stories are not of immediate relevance to people’s lives, you will lose them as readers. Equally important is whether or not coverage of the topic may result in greater knowledge and discussion about an important social issue and perhaps meaningful change to public policy.
 
 <hr/>
 
-!9.png!
+h3. 7 - Timely 
 
-h3. Timely 
-
-Your coverage should be timely. Coverage that is timely is more valuable to people in their daily lives and more likely change in related public policy. It is important to get the news out and get it out quickly. News that is late is not news at all.
+Your coverage should be timely. Coverage that is timely is more valuable to people in their daily lives and more likely _("to")_ change in related public policy. It is important to get the news out and get it out quickly. News that is late is not news at all.
 
 <hr/>
 
-!10.png!
-
-h3. Independent 
+h3. 8 - Independent 
 
 Journalists should not be affiliated with a specific political party, agenda or interest group. You should never be paid or receive gifts from organizations or individuals to report -- or not report -- on a particular issue. Always be aware of the motivations of sources in your coverage. Avoid conflicts of interest, real or perceived. Avoid membership in organizations or attending events in your personal life that may compromise your integrity.
 
 <hr/>
 
-!11.png!
-
-h3. Transparent
+h3. 9 - Transparent
 
 Journalists need to be open about their coverage techniques, sources and interests related to the story. Disclose unavoidable potential conflicts of interest. Never take information from other news organizations without attributing it. Admit mistakes in or limitations to your coverage. Clarify conditions attached to any promise made in exchange for information. Avoid surreptitious methods of gathering information except when more open methods will not produce information important to the public. Encourage public discourse about your coverage.
 
 <hr/>
 
-!12.png!
-
-h3. Minimizes Harm
+h3. 10 - Minimizes Harm
 
 You must always be sensitive to the impact your reporting will have on those covered. Be sensitive when seeking or using interviews or visual content of those affected by tragedy or grief, especially when dealing with children and people inexperienced with the media. Private people have a greater right to privacy than do public officials and others who seek power, influence or attention. Only an overriding public need can justify intrusion into anyone’s privacy. People accused of but not tried for crimes or wrongdoing should not be tried in the media.
-
-<hr/>
 
 h1. Things to Remember
 
@@ -107,7 +85,7 @@ The main thing to remember when writing is to keep it short and keep it informat
 h1. Quiz
 
 Question 1
-Question:Which of the following are examples of ethical journalistic practices
+Question:Which of the following are examples of ethical journalistic practices _("?")_
 Answer 1:Advocating in your reporting for a opposition political party that is clearly better than a current, openly corrupt government
 Answer 2:Pretending to be a member of a political party at a rally when you are there to cover it as a journalist
 Answer 3:Reporting and writing on issues that interest you but have no immediate value to your audience
@@ -118,7 +96,7 @@ Correct Answer:4
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: If your working environment is unusually challenging or complicated in a way that makes it hard to adhere to professional standards, it’s OK to not apply the code rather than exercise good professional judgement to navigate an acceptable compromise
+Question:TRUE or FALSE: If your working environment is unusually challenging or complicated in a way that makes it hard to adhere to professional standards, it’s  _("it is")_ OK to not apply the code rather than exercise good professional judgement to navigate an acceptable compromise _(".")_
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2

@@ -1,8 +1,8 @@
 h1. Problem Statement
 
-h2. The Arab region is today experiencing a profound change in its media. You are at the core of a transition that has resulted in more democratic governments and greater media freedom in several countries and various stages of transition in others. Yet media law in the region remains weak at best and at worst has been used as a tool to silence journalists. How should you navigate the ongoing change in media law?
-
 !1.png!
+
+h2. The Arab region is today experiencing a profound change in its media. You are at the core of a transition that has resulted in more democratic governments and greater media freedom in several countries and various stages of transition in others. Yet media law in the region remains weak at best and at worst has been used as a tool to silence journalists. How should you navigate the ongoing change in media law?
 
 <hr/>
 

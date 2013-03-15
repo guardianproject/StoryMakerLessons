@@ -106,13 +106,14 @@ Correct Answer:1,2,3
 <hr/>
 
 السؤال 4
-أي من الصور التالية تم تعريضها على نحو سليم؟ Question‪:‬  
+
 (
 !13.png(image one)!
 !14.png(image two)!
 !15.png(image three)!
 )
 
+أي من الصور التالية تم تعريضها على نحو سليم؟ Question‪:‬  
 Answer 1:Image One
 Answer 2:Image Two
 Answer 3:Image Three

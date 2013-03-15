@@ -73,7 +73,7 @@ Answer 1: استخدم HTTP دائماً
 Answer 2: شارك بحساب بريد إلكتروني والاتصال إلا عبر "المسودات"
 Answer 3: استخدم حساب بريد إلكتروني مستتر
 Answer 4: استخدم HTTPS دائماً
-Correct Answer: 2, 3, 4
+Correct Answer:2,3,4
 
 <hr/>
 
@@ -83,7 +83,7 @@ Answer 1: على حاسوبي الشخصي
 Answer 2: من مزود خدمة الإنترنت الخاص بي
 Answer 3: من مزود البريد الإلكتروني
 Answer 4: على حاسوب المستلم
-Correct Answer: 1, 2, 3, 4
+Correct Answer:1,2,3,4
 
 <hr/>
 
@@ -93,6 +93,6 @@ Answer 1: الملاحظة
 Answer 2: الكذب
 Answer 3: اختراق الأجهزة
 Answer 4: اختراق المعلومات
-Correct Answer: 3
+Correct Answer:3
 
 

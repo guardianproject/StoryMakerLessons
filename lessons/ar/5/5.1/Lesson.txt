@@ -117,7 +117,7 @@ Question: كم يبلغ حجم أغلب أجزاء الكادر؟
 Answer 1: 10%
 Answer 2: 25%
 Answer 3: 33%
- 50% أو أكثر Answer 4: 
+Answer 4: 50% أو أكثر 
 Correct Answer: 4
 
 <hr>

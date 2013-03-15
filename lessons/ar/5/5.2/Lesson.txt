@@ -73,8 +73,8 @@ h2. مساحة الرأس
 <hr/>
 
 (
-!10.png (مثال لرأس شخص يوجد منخفضًا جدا في الكادر)!
-!11.png (مثال لرأس شخص يوجد مرتفعًا جدا في الكادر)!
+!10.png(مثال لرأس شخص يوجد منخفضًا جدا في الكادر)!
+!11.png(مثال لرأس شخص يوجد مرتفعًا جدا في الكادر)!
 
 )
 
@@ -113,15 +113,15 @@ Correct Answer:3
 السؤال 3
 
 (
-!12.png!
-!13.png!
-!14.png!
+!12.png(Image One)!
+!13.png(Image Two)!
+!14.png(Image Three)!
 )
 
 Question: أي من هذه اللقطات مثال جيد لمساحة الرأس؟
-Answer 1: !12.png!
-Answer 2: !13.png!
-Answer 3: !14.png!
+Answer 1: Image One
+Answer 2: Image Two
+Answer 3: Image Three
 Answer 4: لا إجابة مما سبق صحيحة.
 Correct Answer:2
 
@@ -130,9 +130,9 @@ Correct Answer:2
 السؤال 4
 
 (
-!15.png!
-!16.png!
-!17.png!
+!15.png(Image one)!
+!16.png(Image two)!
+!17.png(Image three)!
 )
 
 Question: أي من هذه اللقطات مثال جيد لمساحة الأنف؟

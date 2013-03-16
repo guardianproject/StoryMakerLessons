@@ -8,7 +8,7 @@ h2. How does my mobile phone put me at risk?
 
 h1. Background
 
-!2.png!
+!2.jpg!
 
 Both your SIM card and your mobile phone itself can identify who you are. Any communication your phone has with the mobile network - whether placing or receiving a call, sending a message, browsing the web or just remaining connected - includes identifying information about the phone and the SIM card.
 
@@ -18,7 +18,7 @@ h1. Solution
 
 h2. How can a SIM card compromise me?
 
-!3.png!
+!3.jpg!
 
 The Subscriber Identity Module (SIM) card stores information about the mobile service subscriber. It is what your service provider uses to identify who you are, based on personal information or documents that you submitted.
 
@@ -26,7 +26,7 @@ The Subscriber Identity Module (SIM) card stores information about the mobile se
 
 h2. How can my mobile phone compromise me?
 
-!4.png(Example of a IMEI number)!
+!4.jpg(Example of a IMEI number)!
 
 A SIM card identifies you, but your mobile phone can get you into trouble. Each mobile phone has a unique number, the International Mobile Equipment Identity (IMEI). This number can be tracked at all times.
 

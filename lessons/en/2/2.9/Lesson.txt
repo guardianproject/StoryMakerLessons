@@ -48,7 +48,7 @@ Removing your history is only the first step to browsing more safely. Most sites
 
 HTTPS is a more secure alternative to HTTP. HTTPS encrypts pages, and attempts to ensure three things: (1) that third parties cannot see the contents of the page; (2) that the page cannot be modified by third parties; (3) that the page was really sent by the web server listed in the URL bar.
 
-Unfortunately, a web server must be configured to support HTTPS properly before you can use it. If there is a site you were planning to send sensitive information to, ensure that you are using HTTPS. If a site doesn't support HTTPS, don't send sensitive information to it.
+Unfortunately, a web server must be configured to support HTTPS properly before you can use it. If there is a site you were planning to send sensitive information to, ensure that you are using HTTPS. If a site does not support HTTPS, do not send sensitive information to it.
 
 [2]
 
@@ -58,9 +58,9 @@ Unfortunately, a web server must be configured to support HTTPS properly before 
 
 h2. Some Notes on Using HTTPS
 
-Check three indicators to ensure that you're at an HTTPS page: (1) the URL begins with https://; (2) there is a lock icon in the corner of the browser; and (3) the URL/location bar is colored.
+Check three indicators to ensure that you are at an HTTPS page: (1) the URL begins with https://; (2) there is a lock icon in the corner of the browser; and (3) the URL/location bar is colored.
 
-If you receive a warning about certificates, or a see broken lock icon, you should assume that any of the security properties of the page could be broken. Contact the site's webmaster and have them fix the problem before sending any sensitive information to the site.
+If you receive a warning about certificates, or see a broken lock icon, you should assume that any of the security properties of the page could be broken. Contact the site's webmaster and have them fix the problem before sending any sensitive information to the site.
 
 <hr/>
 
@@ -70,7 +70,7 @@ h2. Anonymity Networks
 
 Anonymity networks are used to circumvent blocking of websites by your ISP or government. They enable you to browse with a level of privacy and anonymity that HTTPS alone does not provide.
 
-Imagine you send a letter to a friend and package it in several envelopes, writing a different address on each. The letter will circulate around these addresses in a secret order, none of the addressees will know its origin or final destination, but only the previous address it came from and the next one it will go to.
+Imagine you send a letter to a friend and package it in several envelopes, writing a different address on each. The letter will circulate around these addresses in a secret order.  None of the addressees will know its origin or final destination, but only the previous address it came from and the next one it will go to.
 
 The TOR network is a similar system. It will anonymize your online presence and browsing requests. Surveillance agents at your ISP or a country gateway will not know the final destination of your browsing query and the website you visit will not know where your request came from.
 

@@ -8,8 +8,6 @@ h2. Some stories are best told through multiple photographs as a photo essay.. W
 
 h1. Background
 
-
-
 Most stories are accompanied by a single photograph. That photograph needs to summarize the event in a single frame.
 
 !2.png(New York City Police Officers check subway cars at Columbus Circle on Friday, Oct. 7, 2008. Security in the city's mass transit system has been increased following yesterday's announcement of a specific terrorist threat to the subway system.  (AP Photo/John Smock))!
@@ -54,7 +52,7 @@ Example of a bad photo essay:
 !23.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
 !24.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
 )
-A good photo essay can be a remarkably strong tool to document and dramatize a news event. However, a bad photo essay can be very bad. The most common problem is sameness from image to image. If there is no variety in the images the essay will be very boring, especially in combination with the second most common problem: essays that have no narrative structure. They don’t tell a story or make a point. They are little more than an assortment of random snapshots.
+A good photo essay can be a remarkably strong tool to document and dramatize a news event. However, a bad photo essay can be very bad. The most common problem is sameness from image to image. If there is no variety in the images the essay will be very boring, especially in combination with the second most common problem: essays that have no narrative structure. They do not tell a story or make a point. They are little more than an assortment of random snapshots.
 
 <hr/>
 
@@ -165,7 +163,7 @@ h2. Close-up
 
 !53.png(Example of a close-up photo)!
 
-A detail shot to highlight a specific element of the story. Close-up, sometimes called detail shots don’t do a lot to inform the viewer but they do a great deal to dramatize a story. ALWAYS shoot lots of close-ups.
+A detail shot to highlight a specific element of the story. Close-up, sometimes called detail shots do not do a lot to inform the viewer but they do a great deal to dramatize a story. ALWAYS shoot lots of close-ups.
 
 
 <hr/>
@@ -224,7 +222,7 @@ The series is a set of similar images designed to illustrate a comparative point
 
 <hr/>
 
-You don't need to make every image in series EXACTLY like the others. Sometimes it’s just not possible. But here are a few things to keep in mind:
+You do not need to make every image in series EXACTLY like the others. Sometimes it is just not possible. But here are a few things to keep in mind:
 
 * Angle of View - When possible, try and keep the angle of view consistent in a series. Example: if one picture is taken from eye-level, take them all from eye-level.
 
@@ -265,7 +263,7 @@ Correct Answer:2
 Question 3
 Question:Good stories typically have the following characteristic (it can be more than one).
 Answer 1:The final project will be between 8 and 20 images.
-Answer 2:If it’s a narrative story, there will be visual variety.
+Answer 2:If it is a narrative story, there will be visual variety.
 Answer 3:Stories about broad issues are always better then highly focused stories.
 Answer 4:All of the above.
 Correct Answer:1,2

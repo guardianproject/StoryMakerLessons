@@ -8,7 +8,7 @@ h2. How does my mobile phone put me at risk?
 
 h1. Background
 
-!2.jpg!
+!2.png!
 
 Both your SIM card and your mobile phone itself can identify who you are. Any communication your phone has with the mobile network - whether placing or receiving a call, sending a message, browsing the web or just remaining connected - includes identifying information about the phone and the SIM card.
 
@@ -18,7 +18,7 @@ h1. Solution
 
 h2. How can a SIM card compromise me?
 
-!3.jpg!
+!3.png!
 
 The Subscriber Identity Module (SIM) card stores information about the mobile service subscriber. It is what your service provider uses to identify who you are, based on personal information or documents that you submitted.
 
@@ -26,7 +26,7 @@ The Subscriber Identity Module (SIM) card stores information about the mobile se
 
 h2. How can my mobile phone compromise me?
 
-!4.jpg(Example of a IMEI number)!
+!4.png(Example of a IMEI number)!
 
 A SIM card identifies you, but your mobile phone can get you into trouble. Each mobile phone has a unique number, the International Mobile Equipment Identity (IMEI). This number can be tracked at all times.
 
@@ -36,7 +36,7 @@ Check your mobile phone for the IMEI (often located behind the battery) or dial 
 
 You may assume your SIM card is the only way for a mobile service provider or authorities to identify you or track your location. Many people change their SIM cards frequently, but continue to use the same phone. This is a mistake! The combination of your SIM card (which identifies you) and IMEI number (which identifies your phone) allows you to be identified and tracked constantly.
 
-Your mobile phone constantly registers your location on every cell tower it connects to. Take out your battery or leave your phone at home if you don’t want to be tracked.
+Your mobile phone constantly registers your location on every cell tower it connects to. Take out your battery or leave your phone at home if you do not want to be tracked.
 
 <hr/>
 
@@ -52,7 +52,7 @@ h2. Can my phone be used to eavesdrop on me?
 
 !6.png!
 
-Even when you are not using your mobile phone, it can be used as a secret microphone for others to listen to you. Take out your battery (don’t just turn the phone off ) or keep your phone far away while having private conversations.
+Even when you are not using your mobile phone, it can be used as a secret microphone for others to listen to you. Take out your battery (do not just turn the phone off ) or keep your phone far away while having private conversations.
 
 <hr/>
 
@@ -63,8 +63,8 @@ In normal use, your text messages and phone calls can be monitored by your netwo
 A few things to remember to help you stay safer:
 
 * Buy prepaid SIM cards, and if at all possible avoid registering the SIM in your name.
-* Buy a cheap, low-tech mobile phone that you don’t mind throwing away if necessary.
-* If you are concerned about being monitored, don’t just change your SIM card, get rid of your mobile phone too.
+* Buy a cheap, low-tech mobile phone that you do not mind throwing away if necessary.
+* If you are concerned about being monitored, do not just change your SIM card, get rid of your mobile phone too.
 * Always try to avoid sharing sensitive information over your mobile phone.
 
 <hr/>

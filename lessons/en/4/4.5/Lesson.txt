@@ -14,10 +14,10 @@ Your initial photo is a rough draft of a written story. Images can be dramatical
 
 (
 !2.png(Example of a properly exposed and focused photo)!
-!3.png(Example of a photo that's been enlarged and pixelated)!
+!3.png(Example of a photo that has been enlarged and pixelated)!
 )
 
-Editing well begins with shooting well. Always shoot on the largest file size available. You can always make images smaller to send more quickly but you can’t enlarge them. Make sure that your images are properly exposed and focused. Images that are technically strong to begin with are easier to edit.
+Editing well begins with shooting well. Always shoot on the largest file size available. You can always make images smaller to send more quickly but you cannot enlarge them. Make sure that your images are properly exposed and focused. Images that are technically strong to begin with are easier to edit.
 
 <hr/>
 
@@ -41,7 +41,7 @@ How an individual image is cropped can turn a mediocre shot into a powerful imag
 !7.png(After Cropping)!
 )
 
-Do not amputate. Be careful about cropping people at awkward points, do not cut off hands and feet. Let important shapes complete themselves in the frame. Shapes draw the reader’s eye into the picture, a completed shape helps keep it there.
+Do not amputate. Be careful about cropping people at awkward points, do not cut off hands and feet. Let important shapes complete themselves in the frame. Shapes draw the reader’s eye into the picture,("and") a completed shape helps keep it there.
 
 <hr/>
 
@@ -55,7 +55,7 @@ Even smart phones are capable of images with resolution so great that they can b
 
 h2. Exposure correction
 
-Editing apps like Photoshop Express will allow you to increase or decrease exposure and correct color problems. Images properly exposed and white balance when shot should require little more than at tweak, but images shot under difficult lighting may be dramatically improved in post-production.
+Editing apps like Photoshop Express will allow you to increase or decrease exposure and correct color problems. Images properly exposed and white balance when shot should require little more than a-t- tweak, but images shot under difficult lighting may be dramatically improved in post-production.
 
 <hr/>
 

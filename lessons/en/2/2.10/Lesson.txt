@@ -28,7 +28,7 @@ h2. Data deletion
 
 There is no computer function that can delete information. 
 
-Computers only write new information to the hard drive. When you choose to delete a file, you are simply telling the computer that this space is now available to be overwritten with new data (we will call it unallocated space). Your operating system will remove the file and name reference from your screen, making you believe the file is no longer there. It does not remove the actual data from the hard drive. . Until you overwrite the exact physical space on the hard drive with new data, the information is still there and visible with the help of software.
+Computers only write new information to the hard drive. When you choose to delete a file, you are simply telling the computer that this space is now available to be overwritten with new data (we will call it unallocated space). Your operating system will remove the file and name reference from your screen, making you believe the file is no longer there. It does not remove the actual data from the hard drive. Until you overwrite the exact physical space on the hard drive with new data, the information is still there and visible with the help of software.
 
 <hr/>
 
@@ -109,7 +109,7 @@ Correct Answer:3
 <hr/>
 
 Question 2
-Question:My files have been safely deleted if...
+Question:My files have been safely deleted if:
 Answer 1:I use a program such as Eraser or BC Wipe.
 Answer 2:I put them in the “trash can.”
 Answer 3:My computer has written new data over them.

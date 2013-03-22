@@ -1,14 +1,14 @@
 h1. Problem Statement
 
-!1.png!
-
 h2. Text is a powerful tool when used with other media elements. How is text best used for mobile devices?
+
+!1.png!
 
 <hr/>
 
 h1. Background
 
-The Internet in general and mobile devices in particular are visual environments. Images, hyperlinks, graphics and an assortment of interactive elements are all powerful storytelling tools on their own or working together. No matter how these media elements used, each requires some text.
+The Internet in general and mobile devices in particular are visual environments. Images, hyperlinks, graphics and an assortment of interactive elements are all powerful storytelling tools on their own or working together. No matter how these media elements are used, each requires some text.
 
 The written word plays several essential roles online. It can come in the form of a short, descriptive “explainer,” a photo caption, or titles and keywords/tags for other media content. No matter how it is used it needs to be succinct, clear and informative.
 
@@ -25,18 +25,18 @@ h2. Text in the lead role
 Some stories are simply not very visual. Others are not easily produced as audio pieces. These can be dry policy stories, visually uninteresting press conferences or stories that are challenging because of lighting, noise, access or they are reported after the fact. If text is going to play a lead role in your presentation, it should have the following news dispatch-like characteristics:
 
 * Sentences should be short: 25-35 words. Use simple, declarative sentences rather than compound or complex sentences.
-* Get to the point quickly. The basic facts of the story should be in the first sentence or two. Draw your reader into the story with solid information up top. Don't save the best for last.
+* Get to the point quickly. The basic facts of the story should be in the first sentence or two. Draw your reader into the story with solid information up top. Do not save the best for last.
 * Think factoids (see the reporting lesson) provide essential, basic information: who, what, where, when and why.
 * Think “info-chunk” -- limit the post to only a few, very short paragraphs. One paragraph, one idea.
 * Avoid inflammatory or biased language.
-* Include relevant links Twitter hash tags when possible
+* Include relevant links and Twitter hash tags when possible
 
 <hr/>
 
 Examples of text in the lead role:
 
 * Dhaka, Bangladesh- November 25, 2012  — More than 100 people died Saturday and Sunday in a fire at a garment factory outside Dhaka, Bangladesh. 
-* It took firefighters more than 17 hours to put out the blaze at the factory, Tazreen Fashions, after it started Saturday evening, said Salim Nawaj Bhuiyan, a retired fire official by telephone from Dhaka, Bangladesh’s capital. 
+* "It took firefighters more than 17 hours to put out the blaze at the factory, Tazreen Fashions, after it started Saturday evening, said Salim Nawaj Bhuiyan, a retired fire official by telephone from Dhaka, Bangladesh’s capital." 
 * At least 111 people were killed and many more workers were taken to several local hospitals and clinics with burns and smoke inhalation injuries.  
 * “The main difficulty was to put out the fire. Sufficient approach road was not there,” said Salim Nawaj Bhuiyan, who now runs a fire safety company in Dhaka. “The fire service had to take great trouble to approach the factory.”
 * Bangladesh’s garment industry is the second largest exporter of clothing after China. The industry employs more than three million workers in Bangladesh, mostly women. 
@@ -45,45 +45,34 @@ Examples of text in the lead role:
 
 <hr/>
 
+( 
 !2.jpg(11 Sept '03 -- USMC Lt. Jeff Colvin L discusses firing range practice with his Georgian Army counterpart. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
 !3.jpg(11 Sept '03 -- USMC Sgt. Luis Gines, from New York City, helps a Georgian soldier with the his shooting posture. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
 !4.jpg(11 Sept '03 -- USMC  Staff Sgt.Joe Duenas from Guam oversees the firing range training for new recruits Georgians. The approximately 100 American Advisors stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
 !5.jpg(11 Sept '03 -- USMC Sgt. Domonic Tino from Quantico, VA explains sighting on a rifle to a Georgian soldier. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
 !6.jpg(11 Sept '03 -- USMC Sgt. Luis Gines, from New York City, helps a Georgian soldier with the sight on his AK-47. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
 !7.jpg(11 Sept '03 -- USMC Sgt. Domonic Tino from Quantico, VA, gives the thumbs up to a Georgian soldier on the range. The approximately  50 Marines stationed in Georgia  last week began training 111th Georgian Mountain Division as part of the 2 year, $64 million Georgia Train and Equip Program. The program is scheduled to finish in June of '04.)!
-
-<hr/>
+)
 
 When writing photo captions, the same principles of good writing apply. A photo caption should be no more than two sentences and include the following information:
 
 * Clearly identify the people and location that appear in the photo. Professional titles should be included as well as the formal name of the location. SPELL NAMES CORRECTLY.
-
 * Include the date and day the photograph was taken. This is essential information for a news publication. The more current a photo is the better. If an archive photograph or photograph taken prior to the event being illustrated is used, the caption should make it clear that it is a “file photo” or say when the photo was taken.
-
 * Provide some context or background to the reader so he or she can understand the news value of the photograph. A sentence is usually sufficient.
 
 <hr/>
 
 h2. Key words and tags
 
-Search engines and the web crawlers that support them can’t yet analyse video or photo or an audio recording very well. Your text choices for headlines, captions, keywords, tags and story are an important part of being seen even if your story is almost exclusively video or audio This is called search engine optimization (SEO). To maximize SEO text in general and key words/tags in particular should:
+Search engines and the web crawlers that support them cannot yet analyse video or photo or an audio recording very well. Your text choices for headlines, captions, keywords, tags and story are an important part of being seen even if your story is almost exclusively video or audio. This is called search engine optimization (SEO). To maximize SEO text in general and key words/tags in particular should:
 
 * Include full names of people, especially if they are famous or in the news.
-
 * Include specific geographic information.
-
 * Spell out words completely–no abbreviations -- United Nations rather than UN.
-
-<hr/>
-
 * Keywords with photos should say what kind of photo it is (portrait, demonstration, economy).
-
 * Consider word choice: Would someone use another word more naturally to do a search?
-
 * Think about related words to your topic that help narrow the topic. For example, an image of a forest fire might be keyworded with ‘environmental impact’
-
 * Use common words that reflect specific subjects: Computer security: hacking, hackers, security, firewall, attack, network, flaw.
-
 * The order of the keywords/tags is important, with the first couple of words weighed more heavily.
 
 <hr/>
@@ -107,7 +96,7 @@ Correct Answer:4
 <hr/>
 
 Question #2
-Question: TRUE of FALSE: Good writers don’t have to be good reporters. After all, if you write well its OK to make ideas appear as reported facts.
+Question: TRUE of FALSE: Good writers do not have to be good reporters. After all, if you write well its OK to make ideas appear as reported facts.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2
@@ -115,8 +104,8 @@ Correct Answer:2
 <hr/>
 
 Question #3
-Question:Which best describe characteristics of news writing or microbloggin that distinguish it from scholarly writing or literature
-Answer 1:News writing and microbloggin features thoughtful introductions that provide context before getting to the most current development in the story or idea
+Question:Which best describe characteristics of news writing or microblogging that distinguish it from scholarly writing or literature?
+Answer 1:News writing and microblogging features thoughtful introductions that provide context before getting to the most current development in the story or idea
 Answer 2:It should have long sentence written in an almost poetic style
 Answer 3:News writing should include lots of obscure references, abbreviations and jargon that assume the reader is informed about the background of the story
 Answer 4:None of the above

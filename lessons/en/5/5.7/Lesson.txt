@@ -10,7 +10,7 @@ h1. Background
 
 Interviews are important opportunities for adding context to your story. They humanize and provide multiple sources to increase the reliability of your story.
 
-When you’re making your story, include diverse participants in your story. Provide the audience a broader understanding of the events by including different perspectives. Interviews should add a variety of elements to the story. See Interviewing lesson for more details.
+When you are making your story, include diverse participants in your story. Provide the audience a broader understanding of the events by including different perspectives. Interviews should add a variety of elements to the story. See Interviewing lesson for more details.
 
 <hr/>
 
@@ -38,25 +38,25 @@ Framing
 
 !5.mp4(Example of changing composition after a question)!
 
-Choose a Frame and hold it. Once you’ve decided which side of the frame the subject will be on, hold it there. Hold it until the subject has finished answering a question. Only change the composition of the frame in between questions.
+Choose a Frame and hold it. Once you have decided which side of the frame the subject will be on, hold it there. Hold it until the subject has finished answering a question. Only change the composition of the frame in between questions.
 
 <hr/>
 
 !6.mp4(How to setup good head room in your shot)!
 
-Keep good head space, if you’re unsure please take the the head space lesson.
+Keep good head space, if you are unsure please take the the head space lesson.
 
 <hr/>
 
 !7.mp4(Example of not panning away, but adding a shot in later)!
 
-Don’t pan or move the camera if the subject points at something or is discussing something outside of the frame. After they finish answering the question on camera, record a shot of the action they were pointing at.
+Do not pan or move the camera if the subject points at something or is discussing something outside of the frame. After they finish answering the question on camera, record a shot of the action they were pointing at.
 
 <hr/>
 
 !8.mp4(How to keep camera at eye level)!
 
-Keep the camera’s lens at eye level with the interview subject. If they’re standing, you should be standing. If they’re sitting, you should be as well.
+Keep the camera’s lens at eye level with the interview subject. If they are standing, you should be standing. If they are sitting, you should be as well.
 
 <hr/>
 
@@ -73,8 +73,8 @@ h2. Sound Quality
 
 !10.mp4(Example of an interview with bad audio vs good audio)!
 
-* Sound is critical to your interview. If your audience can’t hear the interview, it’s not an interview.
-* Hold your shot. It’s essential to keep he camera pointed at the subject for the entire interview in order to get good sound.
+* Sound is critical to your interview. If your audience cannot hear the interview, it is not an interview.
+* Hold your shot. It is essential to keep he camera pointed at the subject for the entire interview in order to get good sound.
 
 With these technical tips in mind let's look at what you can do to perform an interview well.
 
@@ -92,7 +92,7 @@ h3. Ask open-ended questions
 
 h3. Changing your approach
 
-* If your questions don’t provide a satisfactory answer, change your approach.
+* If your questions do not provide a satisfactory answer, change your approach.
 
 h3. Following up
 

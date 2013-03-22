@@ -1,6 +1,6 @@
 h1. Problem Statement
 
-h2. My shots are well composed, but when I watch them together they're repetitive and do not tell me a complete story. What am I missing?
+h2. My shots are well composed, but when I watch them together they are repetitive and do not tell me a complete story. What am I missing?
 
 !1.png!
 
@@ -16,7 +16,7 @@ h1. Solution
 
 !2.png(Example of a wide shot providing a clear location)!
 
-Each shot type has specific goals it's best suited to achieve. You may be able to explain your location with other shot types, but the wide shot is the easiest option to do it successfully. For example, wide shots are filmed far away from a subject. This distance often provides a clear image of the area around the subject, which is why it's effective to depict the location.
+Each shot type has specific goals it is best suited to achieve. You may be able to explain your location with other shot types, but the wide shot is the easiest option to do it successfully. For example, wide shots are filmed far away from a subject. This distance often provides a clear image of the area around the subject, which is why it is effective to depict the location.
 
 <hr/>
 
@@ -28,17 +28,17 @@ Each shot type has specific goals it's best suited to achieve. You may be able t
 !7.png(Example of using different shot types to tell a story)!
 )
 
-Every shot type's goal also answers a specific question about the story as well. By shooting a complete set of shot types, you can allow yourself to focus on a separate part of the story with each shot, and as a group they will tell a complete story.
+-Every shot type's goal-  Each type of shot has a goal that also answers a specific question about the story as well. By shooting a complete set of shot types, you can allow yourself to focus on a separate part of the story with each shot, and as a group they will tell a complete story.
 
-Only try to accomplish one goal per shot when you're first learning. A sequence is more successful with two shots that each do a good job of achieving one goal, than to have one shot that does a bad job of achieving two goals.
-
-<hr/>
-
-It's best to experiment with this at first, and expect to fail more often then it works. Don't get discouraged. It is a challenging skill and each goal you add to a shot makes it significantly harder to be successful.
+Only try to accomplish one goal per shot when you are first learning. A sequence is more successful with two shots that each do a good job of achieving one goal, than to have one shot that does a bad job of achieving two goals.
 
 <hr/>
 
-Now that we understand why we have shot goals lets review some examples of the shot types. What goal they're best suited to, and give you some tips to help you be successful.
+It is best to experiment with this at first, and expect to fail more often than it works. Do not get discouraged. It is a challenging skill and each goal you add to a shot makes it significantly harder to be successful.
+
+<hr/>
+
+Now that we understand why we have shot goals lets review some examples of the shot types. What goal they are best suited to, and give you some tips to help you be successful.
 
 <hr/>
 
@@ -66,7 +66,7 @@ Tips
 
 * Best used to highlight a subject's actions.
 * Effective for including multiple subjects.
-* It’s common to allow for more headroom than in either medium or close up shots.
+* It is common to allow for more headroom than in either medium or close up shots.
 
 <hr/>
 
@@ -74,7 +74,7 @@ h2. Medium Shot
 
 !10.mp4(Example of a Medium Shot)!
 
-Goal: Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
+*Goal:* Directs the audience to focus entirely on one or two characters, may not provide an understanding of the location.
 
 Tips
 
@@ -94,7 +94,7 @@ Tips
 
 * Capturing emotion and feeling is your primary objective.
 * Pay close attention to the eyes of your subject.
-* Don't worry about incorporating the environment in this shot.
+* Do not worry about incorporating the environment in this shot.
 
 <hr/>
 
@@ -116,17 +116,17 @@ h1. Things to Remember
 
 !13.png(The subject matter should be 50% of the screen focus)!
 
-Consider the Hitchcock rule from video basics when you're considering your goal. Ask yourself if the most important element,  the primary goal of your shot is clearly visible.
+Consider the Hitchcock rule from video basics when you are considering your goal. Ask yourself if the most important element,  the primary goal of your shot is clearly visible.
 
 <hr/>
 
 !14.png(Rule of Thirds)!
 
-The rule of thirds is there to help you arrange the elements in your frame so that they're successful. Use the four point system from it to ensure your goals are clear.
+The rule of thirds is there to help you arrange the elements in your frame so that they are successful. Use the four point system from it to ensure your goals are clear.
 
 <hr/>
 
-* Often times, when you're first recording shots with single goals they will feel "obvious" or "simple". When you watch them with the rest of your shots though, you'll see how each shot having a specific purpose builds to tell a complete story.
+* Often times, when you are first recording shots with single goals they will feel "obvious" or "simple". When you watch them with the rest of your shots though, you will see how each shot having a specific purpose builds to tell a complete story.
 
 <hr/>
 

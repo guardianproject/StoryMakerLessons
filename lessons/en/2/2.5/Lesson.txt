@@ -28,7 +28,7 @@ fn2. Frontline Defenders, www.frontlinedefenders.org/manuals/protection
 
 h2. How Do I Make a Strong Password?
 
-There exist various methods for creating passwords which are difficult to break and easy for us to remember. A popular one is mnemonics (a method or system for improving the memory, such as a rhyme or acronym20). Lets take a common phrase:
+There exist various methods for creating passwords which are difficult to break and easy for us to remember. A popular one is mnemonics (a method or system for improving the memory, such as a rhyme or acronym). Lets take a common phrase:
 
 To be or not to be? That is the question (Hamlet, Shakespeare)
 
@@ -129,5 +129,4 @@ Answer 2:Keeping a single copy of the password in writing in a secure location
 Answer 3:Only save a copy of your password on your computer
 Answer 4:Use different passwords for different accounts
 Correct Answer:2,4
-
 

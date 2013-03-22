@@ -1,6 +1,6 @@
 h1. Problem Statement
 
-h2. I have my mobile phone and I'm ready to record, what can I do to make sure the recording comes out well?
+h2. I have my mobile phone and I am ready to record, what can I do to make sure the recording comes out well?
 
 !1.png!
 
@@ -20,7 +20,7 @@ h2. Handling Noise and Grip
 
 !3.mp3(Example of handling noise)!
 
-When preparing to record, hold your device in a way that is comfortable and natural. Hold the device without applying much pressure, a manner that you can hold for an extended period of time.
+When preparing to record, hold your device in a way that is comfortable and natural. Hold the device without applying much pressure, in a manner that you can hold for an extended period of time.
 
 <hr/>
 
@@ -28,13 +28,13 @@ When preparing to record, hold your device in a way that is comfortable and natu
 
 If you must hold the recording device up to the person throughout the interview, rest your elbow on a solid surface. It is best to sit down, rest your elbow on the table and extend your arm toward the audio source.
 
-If there is a table between you and the person you are interviewing, you can set the recorder on a table, but take care no one touches, taps, or bangs the table, this may cause contact noise.
+If there is a table between you and the person you are interviewing, you can set the recorder on a table, but take care no one touches, taps, or bangs the table, as this may cause contact noise.
 
 <hr/>
 
 !5.png!
 
-There are several types of stands that fit handheld recorders or even smart phones, to hold them in place during the interview. You can make your own using materials you have anything you can rest the recorder on that keeps it as face level with your audio source will do.
+There are several types of stands that fit handheld recorders or even smart phones, to hold them in place during the interview. You can make your own using materials you have. Anything you can rest the recorder on that keeps it at face level with your audio source will do.
 
 <hr/>
 

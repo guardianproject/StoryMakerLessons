@@ -22,7 +22,7 @@ h2. Voice Over Translation
 
 One successful style of voice over translation allows the first 3 to 6 seconds of the original voice to play on its own. After this, the producer lowers the volume (during the editing process) and adds in the translation audio in a different but clear voice.
 
-Voice Over Translation uses your program time more efficiently and assist the audio segment to remain within your allotted time. However, the audience will lose the impact that an original, unmodified voice can have.
+Voice Over Translation uses your program time more efficiently and assists  the audio segment to remain within your allotted time. However, the audience will lose the impact that an original, unmodified voice can have.
 
 <hr/>
 
@@ -32,7 +32,7 @@ h2. On the Spot
 
 Another style of translation is immediate, on the spot translation. This involves having someone on location with you as you record the interview. The translators voice should appear periodically throughout the conversation. You must be sure the interviewee pauses often to allow phrases and sentences to be translated.
 
-Immediate, On the Spot Translation enables your audience to hear the original and complete comments from the interviewee. This method create less work during the editing process. Long lengths of time with content in a language the audience doesn't understand may cause the audience to lose focus or interest.
+Immediate, on the spot translation enables your audience to hear the original and complete comments from the interviewee. This method creates less work during the editing process. Long lengths of time with content in a language the audience does not understand may cause the audience to lose focus or interest.
 
 If you are not sure you can get a voice over translation that can be used during the editing process, it might be best to have an on the spot translator who you record as part of the interview.
 
@@ -71,7 +71,7 @@ Correct Answer:2
 <hr/>
 
 Question 3
-Question:True or False; Good audio translations can be in different tones than the originals. (for example, a female voice translating the words of a male voice)
+Question:True or False; Good audio translations can be in different tones than the originals. (For example, a female voice translating the words of a male voice)
 Answer 1:True
 Answer 2:False
 Correct Answer:1

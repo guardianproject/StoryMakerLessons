@@ -8,7 +8,7 @@ h2. What are the advantages of the different content sites available?
 
 h1. Background
 
-Distribution platforms vary in their nature, specifications and requirements. It’s important to keep your options in mind when you are deciding where you would like to put your video for the most impact.
+Distribution platforms vary in their nature, specifications and requirements. It is important to keep your options in mind when you are deciding where you would like to put your video for the most impact.
 
 New sites are started and others disappear constantly, so this information is only a guideline to get you going.
 
@@ -28,7 +28,7 @@ There are a number of non-profit video sharing spaces focussed on social justice
 
 <hr/>
 
-Be aware of security issues not only for yourself, but for anyone in your videos when you publish them. Once you post a file online, you can never be sure you will be able to remove it. If your content is that risky, it is best to wait until a time it’s safer.
+Be aware of security issues not only for yourself, but for anyone in your videos when you publish them. Once you post a file online, you can never be sure you will be able to remove it. If your content is that risky, it is best to wait until a time it is safer.
 
 <hr/>
 
@@ -38,7 +38,7 @@ h2. Commercial Sites
 
 YouTube
 
-YouTube is the biggest video sharing site in the world. It's a fantastic way of reaching a large audience. Ensure you have a promotional campaign to direct people to watch your video. Additionally, remember that as there are so many videos on YouTube, it may be harder to reach and engage an audience there than in other spaces.
+YouTube is the biggest video sharing site in the world. It is a fantastic way of reaching a large audience. Ensure you have a promotional campaign to direct people to watch your video. Additionally, remember that as there are so many videos on YouTube, it may be harder to reach and engage an audience there than in other spaces.
 
 Some of the problems with YouTube: it can be hard to link people back to your site, and YouTube have used their Terms of Service to remove campaigning videos. In some countries YouTube is blocked.
 
@@ -64,7 +64,7 @@ Vimeo has a slick user interface and does a great job of streaming higher qualit
 
 Facebook
 
-If you are already running a campaign using Facebook, then sharing video on the site can be very powerful. The videos you post on Facebook are, however, largely limited in availability to the groups or campaigns you're connected with on the site.
+If you are already running a campaign using Facebook, then sharing video on the site can be very powerful. The videos you post on Facebook are, however, largely limited in availability to the groups or campaigns you are connected with on the site.
 
 <hr/>
 
@@ -82,9 +82,9 @@ h2. Non Commercial Sites:
 
 Archive.org
 
-Archive.org contains thousands of digital movies which range from classic full-length films, to daily alternative news broadcasts, to videos of every genre uploaded by Archive.org users. All of these movies are available for download, often in very high resolution, and are freely licensed, so it's also a great place to find footage for use in production.
+Archive.org contains thousands of digital movies which range from classic full-length films, to daily alternative news broadcasts, to videos of every genre uploaded by Archive.org users. All of these movies are available for download, often in very high resolution, and are freely licensed, so it is also a great place to find footage for use in production.
 
-Archive.org doesn't focus specifically on social change issues but it is a key space used by many advocates and free culture enthusiasts.
+Archive.org does not focus specifically on social change issues but it is a key space used by many advocates and free culture enthusiasts.
 
 <hr/>
 
@@ -132,7 +132,7 @@ Question 2
 Question:Videos on Facebook are?
 Answer 1:Not watched by anyone
 Answer 2:Only shown to your family
-Answer 3:Limited in availability to the groups or campaigns you’re connected with on the site
+Answer 3:Limited in availability to the groups or campaigns you are connected with on the site
 Answer 4:Going to be liked a lot
 Correct Answer:3
 

@@ -28,7 +28,7 @@ h2. Light
 !5.png(Example of using an external source to light a subject)!
 )
 
-The most common challenge when trying to photograph motion is inadequate light. There is not enough light to allow the camera to properly expose your picture AND have a high enough shutter speed to freeze action. You can’t make the camera do the impossible. If you know you need to freeze action, plan your assignment so there will be enough light. This can mean choosing a time of day when there is sunlight. It might also mean choosing a location where there will be the most light possible – near a street light, stage light or in the headlights of a car.
+The most common challenge when trying to photograph motion is inadequate light. There is not enough light to allow the camera to properly expose your picture AND have a high enough shutter speed to freeze action. You cannot make the camera do the impossible. If you know you need to freeze action, plan your assignment so there will be enough light. This can mean choosing a time of day when there is sunlight. It might also mean choosing a location where there will be the most light possible – near a street light, stage light or in the headlights of a car.
 
 <hr/>
 
@@ -42,7 +42,9 @@ Camera shake – the movement of your own hands while holding the camera -- can 
 
 h2. Flash
 
+(
 !7.png(Example of a photo taken with a camera phone flash)!
+)
 
 Many smartphones come with a built-in flash. The burst of light can help you freeze motion. Most phone flashes are only effective for about three meters.
 

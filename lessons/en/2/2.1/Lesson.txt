@@ -21,9 +21,9 @@ h1. Solution
 
 !3.png!
 
-The first step to understand whether you are threatened is to assess your risk. If your story covers a subject with a high chance of risk, it is likely you our your sources will be threatened.
+The first step to understand whether you are threatened is to assess your risk. If your story covers a subject with a high chance of risk, it is likely you or your sources will be threatened.
 
-Be mindful of your surroundings and avoid interacting with anyone you don’t trust. There is no checklist for assessing your risk in any situation. Security is a process.
+Be mindful of your surroundings and avoid interacting with anyone you do not trust. There is no checklist for assessing your risk in any situation. Security is a process.
 
 <hr/>
 
@@ -42,7 +42,7 @@ If you answered *Yes* to any of these questions, you or your sources are likely 
 
 h1. Things to Remember
 
-Follow this process any time you consider the merits of a story. If you cannot account for these threats, don't do the story. Never begin a story without first making a threat assessment that considers the impact on yourself and your sources.
+Follow this process any time you consider the merits of a story. If you cannot account for these threats, do not do the story. Never begin a story without first making a threat assessment that considers the impact on yourself and your sources.
 
 <hr/>
 
@@ -75,4 +75,3 @@ Answer 2:Will the story take place during a holiday?
 Answer 3:Have other journalists been threatened while covering similar stories?
 Answer 4:Is your story investigative or an expose?
 Correct Answer:1,3,4
-

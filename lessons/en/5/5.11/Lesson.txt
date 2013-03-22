@@ -20,13 +20,13 @@ To create a shot / reverse shot you record two shots with both in mind. As an ex
 
 !2.mp4!
 
-The first shot is your subject's face in a medium shot while they’re performing an action.
+The first shot is your subject's face in a medium shot while they are performing an action.
 
 <hr/>
 
 !3.mp4!
 
-The second shot, the reverse shot in this sequence, is a shot of whatever the subject is doing in the first shot. In this case, it’s typing on their computer.
+The second shot, the reverse shot in this sequence, is a shot of whatever the subject is doing in the first shot. In this case, it is typing on their computer.
 
 <hr/>
 
@@ -34,13 +34,13 @@ The second shot, the reverse shot in this sequence, is a shot of whatever the su
 
 When you cut these two shots together, it will appear as if the subject is typing on their keyboard. While we used a medium shot in the first shot, it could also be a close up. This is a matter of style on your part, but the other shots in your video will help you make that decision.
 
-That’s it. You have enough shots to construct a shot / reverse shot.
+That is it. You have enough shots to construct a shot / reverse shot.
 
 <hr/>
 
 This technique also works to show what a subject may be looking at. Either an object, or potentially another person. For instance, if you want to show someone on their phone.
 
-Film their face while they use their phone and then film the phone they’re using.
+Film their face while they use their phone and then film the phone they are using.
 
 <hr/>
 
@@ -63,7 +63,7 @@ h1. Things to Remember
 h1. Quiz
 
 Question 1
-Question:What’s the smallest number of shots you need to create a shot / reverse shot?
+Question:What is the smallest number of shots you need to create a shot / reverse shot?
 Answer 1:10 shots
 Answer 2:3 shots
 Answer 3:6 shots
@@ -74,8 +74,8 @@ Correct Answer:4
 
 Question 2
 Question:This technique only works to show what a subject is looking at?
-Answer 1:True, it can only show what they’re looking at.
-Answer 2:False, it can also show what they’re doing.
+Answer 1:True, it can only show what they are looking at.
+Answer 2:False, it can also show what they are doing.
 Correct Answer:2
 
 <hr/>

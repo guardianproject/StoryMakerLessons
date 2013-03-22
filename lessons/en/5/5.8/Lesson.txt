@@ -36,7 +36,7 @@ And here it is applied to a 16x9 composition.
 
 !5.png!
 
-Cutting your frame into thirds vertically and horizontally the grid creates four points of interest. These four points are the ideal place for the important elements of your story when you’re arranging them in your frame.
+Cutting your frame into thirds vertically and horizontally the grid creates four points of interest. These four points are the ideal place for the important elements of your story when you are arranging them in your frame.
 
 By using these points, you break the frame up into thirds. The frame is then separated with one third of space to one side, and two thirds to the other. This uneven distribution helps move the eye across the frame, as well as around it.
 
@@ -66,11 +66,11 @@ The bottom horizontal line is used to align the horizon of the frame. This allow
 
 !9.png!
 
-When shooting from high locations, it’s more effective to use the top horizontal line as your horizon line. The angle of view from this vantage shows the ground more effectively. It’s important to keep the horizon on one of these two lines.
+When shooting from high locations, it is more effective to use the top horizontal line as your horizon line. The angle of view from this vantage shows the ground more effectively. It is important to keep the horizon on one of these two lines.
 
 <hr/>
 
-!10.png!
+!10(5.4.9.a).png!
 
 Lets look at this example of a shot that does not follow the rule of thirds.
 
@@ -87,19 +87,20 @@ The fruit is now visible in the frame, providing a second visual element in the 
 
 !13.png!
 
-It’s important to note that all of the examples in this lesson have followed a rule of thirds for a 16x9 frame. Depending on the size and shape of your frame the placement of your lines should change. For example, lets look at the rule of thirds in a square frame.
+It is important to note that all of the examples in this lesson have followed a rule of thirds for a 16x9 frame. Depending on the size and shape of your frame the placement of your lines should change. For example, lets look at the rule of thirds in a square frame.
 
 The lines now cut the frame into equal squares, but the rule of thirds can still be followed for an effective composition unique to the frame.
 
 <hr/>
 
+
 h1. Things to Remember
 
-Don't center everything in your frame. When everything is centered, you are using all four points of interest for one single element.
+Do not center everything in your frame. When everything is centered, you are using all four points of interest for one single element.
 
 !14.png!
 
-If you look at a frame and find it boring, uninteresting, or confusing, it’s likely the rule of thirds is not being used.
+If you look at a frame and find it boring, uninteresting, or confusing, it is likely the rule of thirds is not being used.
 
 <hr/>
 

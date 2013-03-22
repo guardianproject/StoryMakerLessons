@@ -86,7 +86,7 @@ The biggest thing to remember for many journalists with smartphone cameras is th
 !12.png(Example of a usable photo)!
 )
 
-Understanding these limitations and working within them is the key to getting the most out of your smartphone camera. Remember, if you have a smartphone and you need photos for your story, plan your coverage around time of day or lighting conditions if possible. Additionally, while the image of ambulances speeding by might be a great one for your story, you may opt to also take a more static picture of the front the hospital to make sure you have a usable image in case the ambulance photo doesn’t work out.
+Understanding these limitations and working within them is the key to getting the most out of your smartphone camera. Remember, if you have a smartphone and you need photos for your story, plan your coverage around time of day or lighting conditions if possible. Additionally, while the image of ambulances speeding by might be a great one for your story, you may opt to also take a more static picture of the front the hospital to make sure you have a usable image in case the ambulance photo does not work out.
 
 <hr/>
 
@@ -115,7 +115,7 @@ Correct Answer:1
 <hr/>
 
 Question 3
-Question:What happens when you push the shutter on a smartphone camera
+Question:What happens when you push the shutter on a smartphone camera?
 Answer 1:It takes the picture.
 Answer 2:It focuses the image.
 Answer 3:It decides the exposure.

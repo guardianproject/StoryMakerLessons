@@ -1,8 +1,8 @@
 h1. Problem Statement
 
-!1.png!
-
 h2. The Arab region is today experiencing a profound change in its media. You are at the core of a transition that has resulted in more democratic governments and greater media freedom in several countries and various stages of transition in others. Yet media law in the region remains weak at best and at worst has been used as a tool to silence journalists. How should you navigate the ongoing change in media law?
+
+!1.png!
 
 <hr/>
 
@@ -10,7 +10,7 @@ h1. Background
 
 Journalists everywhere work under at least some small degree of legal restrictions over what they produce. Most commonly these are issues of national security, information deemed to be obscene and language that might incite violence or put people in danger.
 
-In countries with well-developed media laws criticism of government and presentation of unpopular ideas is permitted. Some degree of public access to government records is also guaranteed.
+In countries with well-developed media laws, criticism of government and presentation of unpopular ideas is permitted. Some degree of public access to government records is also guaranteed.
 
 Several countries in the Middle East are now drafting new media laws as they overhaul their constitutions. Advocacy organizations such as the Committee to Protect Journalists are concerned vague language in emerging laws may be used against journalists.
 
@@ -18,13 +18,13 @@ Several countries in the Middle East are now drafting new media laws as they ove
 
 h1. Solution
 
-h2. What should you do to protect themselves from overly restrictive application of media laws?
+h2. What should you do to protect yourself from overly restrictive application of media laws?
 
 h3. Know the law 
 
 !2.png!
 
-Understand the law in the country or region you work. Just because laws to protect journalists exist doesn’t mean that government, local leadership and security forces will obey the law, but understanding the law can be a first step toward improving it.
+Understand the law in the country or region you work. Just because laws to protect journalists exist does not mean that government, local leadership and security forces will obey the law, but understanding the law can be a first step toward improving it.
 
 <hr/>
 
@@ -54,7 +54,7 @@ This issue will be addressed more fully in the digital security module. In short
 
 h1. Things to Remember
 
-Inevitably the development of media law in the Arab region and in individual countries will reflect their unique cultures and national interests. Nonetheless, you have to be willing to push boundaries. Even in many countries with fairly liberal laws self-censorship is an issue among journalists. Some journalists are uncomfortable covering highly controversial cultural issues such as the rights of women or tribal disputes. Some journalists are reluctant to cover issues that tarnish national image such as widespread alcohol abuse or corruption within popular institutions. Sunshine is the best disinfectant. If these issues have relevance to the public interest, people need to know and it’s your job to tell them.
+Inevitably the development of media law in the Arab region and in individual countries will reflect their unique cultures and national interests. Nonetheless, you have to be willing to push boundaries. Even in many countries with fairly liberal laws self-censorship is an issue among journalists. Some journalists are uncomfortable covering highly controversial cultural issues such as the rights of women or tribal disputes. Some journalists are reluctant to cover issues that tarnish national image such as widespread alcohol abuse or corruption within popular institutions. Sunshine is the best disinfectant. If these issues have relevance to the public interest, people need to know and it is your job to tell them.
 
 <hr/>
 
@@ -71,7 +71,7 @@ Correct Answer:4
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: Self-censorship can be an issue for many journalists even if government censorship is not. Good journalists need to be willing to give fair coverage to ideas with which they do not agree, unpopular topics that are relevant to public interest and subject matter that is culturally uncomfortable but important
+Question:TRUE or FALSE: Self-censorship can be an issue for many journalists even if government censorship is not. Good journalists need to be willing to give fair coverage to ideas with which they do not agree, unpopular topics that are relevant to public interest and subject matter that is culturally uncomfortable but important.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:1

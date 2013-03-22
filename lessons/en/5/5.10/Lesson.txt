@@ -46,7 +46,7 @@ As a sequence of three shots in that order it tells a simple, but complete story
 
 Knowing your story gives you the freedom to record your shots in any order. In the end, you will assemble them to tell your story.
 
-These shots are the beginning, middle, and end of your story. There is a person, there is a piece of fruit, the person paid for the fruit. It’s a very simple story, but it works. You can now add an interview, with the seller or buyer of the fruit. You might also include a wide shot to define the location.
+These shots are the beginning, middle, and end of your story. There is a person, there is a piece of fruit, the person paid for the fruit. It is a very simple story, but it works. You can now add an interview, with the seller or buyer of the fruit. You might also include a wide shot to define the location.
 
 <hr/>
 
@@ -58,13 +58,13 @@ No matter how complex your story gets, remember to shoot in three parts, beginni
 
 !7.mp4!
 
-A popular technique to use when you might not know the story you are telling is to start with shots that are farther away, working your way into a scene shot by shot. If you record your shots in chronological order they will have a feeling of progression to them. By using the five basic shots, you’ll be able to include different elements of your scene.
+A popular technique to use when you might not know the story you are telling is to start with shots that are farther away, working your way into a scene shot by shot. If you record your shots in chronological order they will have a feeling of progression to them. By using the five basic shots, you will be able to include different elements of your scene.
 
 <hr/>
 
 h1. Things to Remember
 
-* Any successful sequence will answer the six important questions we’ve previously discussed. (The who, what, where, when, why, and the how.)
+* Any successful sequence will answer the six important questions we have previously discussed. (The who, what, where, when, why, and the how.)
 * Each question can have more than one answer, but your sequence should answer each question in order to be successful.
 * Creating an effective sequence means shooting different sized shots each containing complementary parts of the story.
 * When you bring several sequences together, you make a more complex story.
@@ -94,7 +94,7 @@ Correct Answer:1
 <hr/>
 
 Question 3
-Question:True or False, it’s helpful to write your story out in plain text?
+Question:True or False, it is helpful to write your story out in plain text?
 Answer 1:True
 Answer 2:False
 Correct Answer:1

@@ -28,7 +28,7 @@ h2. Natural Sound
 
 !3.mp4(How to use your hand to improve audio in a windy situation)!
 
-If it’s windy, your sound will not be audible. Point your camera away from the wind, or protect your mic. Shield the mic with your hand or with a card blocking the windy side. Using a natural windbreak such as a wall is effective in some situations.
+If it is windy, your sound will not be audible. Point your camera away from the wind, or protect your mic. Shield the mic with your hand or with a card blocking the windy side. Using a natural windbreak such as a wall is effective in some situations.
 
 <hr/>
 
@@ -36,7 +36,7 @@ h2. People / Crowds
 
 !4.mp4(Example of how to properly record a subject in a crowd)!
 
-Crowds and busy streets make a lot of noise. That may make your desired sound inaudible. Don’t film interviews with large crowds in the background. If you can’t go to a better location, point your camera away from the crowd and have your subject face the crowd.
+Crowds and busy streets make a lot of noise. That may make your desired sound inaudible. Do not film interviews with large crowds in the background. If you cannot go to a better location, point your camera away from the crowd and have your subject face the crowd.
 
 <hr/>
 
@@ -70,7 +70,7 @@ Recording Outdoors
 
 !8.mp4(How to use natural light to properly light a subject)!
 
-* Shooting outdoors during daylight hours is the easiest way to ensure success. Even on overcast days it’s a great place to get good light.
+* Shooting outdoors during daylight hours is the easiest way to ensure success. Even on overcast days it is a great place to get good light.
 
 * Film your subject with the light source directly on the subject. When the light source is directly behind your subject, the subject will be too dark and difficult to see. This technique may be used to hide a subject’s identity by preventing the camera from recording their face.
 
@@ -82,7 +82,7 @@ Recording Inside
 
 !10.mp4(How to setup a shot using natural light)!
 
-If you’re shooting indoors try to find a room with plenty of sunlight in it to produce good results. Sit with your back facing the window and sit your interviewee facing the light source so that the sunshine will light their face. If you sit them with their back to the window shooting into the light source, the camera will take its reading from the brightest image in the frame and close down its iris so as not to over-expose the shot. This will result in your interviewee becoming silhouetted in the picture, a good technique if you want your interviewees identity to remain a secret but not if you want them to be seen!
+If you are shooting indoors try to find a room with plenty of sunlight in it to produce good results. Sit with your back facing the window and sit your interviewee facing the light source so that the sunshine will light their face. If you sit them with their back to the window shooting into the light source, the camera will take its reading from the brightest image in the frame and close down its iris so as not to over-expose the shot. This will result in your interviewee becoming silhouetted in the picture, a good technique if you want your interviewees identity to remain a secret but not if you want them to be seen!
 
 !11.mp4(How to setup a shot to obscure a subject's face)!
 
@@ -114,7 +114,7 @@ h1. Things to Remember
 h2. Sound
 
 * Sound should always be a consideration when shooting.
-* If your sound is unusable, it’s possible to remove the sound and replace it with different sound or no sound at all.
+* If your sound is unusable, it is possible to remove the sound and replace it with different sound or no sound at all.
 * Sound is half of the information in a video, consider it for every shot.
 
 <hr/>
@@ -125,7 +125,7 @@ h2. Light
 * Low light can produce poor pictures.
 * Have light shine on subjects – backlit subjects appear silhouetted.
 * Lights approximately 3 feet away are most flattering.
-* Don’t burn yourself – wear gloves to handle lights!
+* Do not burn yourself – wear gloves to handle lights!
 
 <hr/>
 

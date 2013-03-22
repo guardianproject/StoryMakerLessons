@@ -8,7 +8,7 @@ h2. How do I get a good shot?
 
 h1. Background
 
-When you are in the middle of shooting your video it may be difficult to know exactly what you should record. This is particularly true when you are starting out. It’s easy to get frustrated, confused, and be unsure of yourself.
+When you are in the middle of shooting your video it may be difficult to know exactly what you should record. This is particularly true when you are starting out. It is easy to get frustrated, confused, and be unsure of yourself.
 
 Every videographer has gone through this. You will get better with practice. Do your best to remain calm, focus on the task at hand, and you will find success.
 
@@ -64,9 +64,9 @@ h2. Have Confidence
 !6.png!
 
 Have a goal for your shot
-* Knowing what you’re trying to record before you begin will allow you to know when you’ve completed the shot.
+* Knowing what you are trying to record before you begin will allow you to know when you have completed the shot.
 
-Don’t stop recording until actions have completed
+Do not stop recording until actions have completed
 
 <hr/>
 
@@ -97,7 +97,7 @@ Correct Answer:1,2,3
 
 Question 2
 Question:What should I do to record another action?
-Answer 1:Pan over to it from the shot you’re recording.
+Answer 1:Pan over to it from the shot you are recording.
 Answer 2:Stop recording, change your frame, and start recording the action in new shot.
 Answer 3:Keep recording while moving to it as fast as possible.
 Answer 4:Pass the camera to someone closer.
@@ -109,7 +109,7 @@ Question 3
 Question:Why is it important to hold your position when recording?
 Answer 1:There is only one right angle to film from.
 Answer 2:Motion confuses people.
-Answer 3:The camera doesn’t record when moving.
+Answer 3:The camera does not record when moving.
 Answer 4:Allowing the action within your frame to be the source of motion will make it easier to see.
 Correct Answer:4
 

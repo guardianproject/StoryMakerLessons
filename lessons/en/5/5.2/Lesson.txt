@@ -8,7 +8,7 @@ h2. How do you use space in the frame?
 
 h1. Background
 
-The rule of thirds and the five basic shots provide a great foundation to start making your shots better with. They’re not the only rules to learn however. Nose space and Head space are two important rules that will help you arrange the rest of the space in your frame to support your story.
+The rule of thirds and the five basic shots provide a great foundation to start making better shots. They are not the only rules to learn however. Nose space and head space are two important rules that will help you arrange the rest of the space in your frame to support your story.
 
 <hr/>
 
@@ -34,7 +34,7 @@ If he was facing the opposite direction you could either ask him to shift the di
 
 You can see, everything is framed on the right, now that he is facing the opposite direction.
 
-Following this guideline will ensure your subject has appropriate room in front of them. You may also hear this rule referred to as “looking space” or “lead room”. It’s the same concept though.
+Following this guideline will ensure your subject has appropriate room in front of them. You may also hear this rule referred to as “looking space” or “lead room."
 
 <hr/>
 
@@ -90,7 +90,7 @@ A well balanced shot will feel right to you, these rules will help you find the 
 h1. Quiz
 
 Question 1
-Question:Nose room is?
+Question:Nose room is:
 Answer 1:Putting the subject’s nose at the bottom of the frame.
 Answer 2:The space between the subject's nose and the camera lens.
 Answer 3:Allowing for space in the frame in the direction the subject is facing, or moving.
@@ -103,7 +103,7 @@ Question 2
 Question:What is Head Space?
 Answer 1:The distance between a subject’s arms, and the side of the frame.
 Answer 2:The space between your head and the camera.
-Answer 3:The space where you put the subject's head
+Answer 3:The space where you put the subject's head (".")
 Answer 4:The distance between the top of a subject’s head, and the top of the frame.
 Correct Answer:3
 
@@ -111,11 +111,13 @@ Correct Answer:3
 
 Question 3
 
+
 (
 !12.png(Image one)!
 !13.png(Image two)!
 !14.png(Image three)!
 )
+
 
 Question:Which of these shots is a good example of Head Room?
 Answer 1:Image one

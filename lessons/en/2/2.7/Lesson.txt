@@ -24,9 +24,9 @@ fn1. Small World News Safety Guides http://smallworldnews.tv/guide/
 
 !3.png!
 
-To send encrypted SMS you must use a specific app for this purpose. Both you and your source must use the same app. Send your source a message via your app of choice in order to initiate a key exchange. Once you've exchanged keys, you may communicate with your source via encrypted texts. 
+To send encrypted SMS you must use a specific app. Both you and your source must use the same app. Send your source a message via your app of choice in order to initiate a key exchange. Once you've exchanged keys, you may communicate with your source via encrypted texts. 
 
-REMEMBER: You must use the encrypted text app in order to send encrypted texts. Your standard messaging app will not send encrypted texts.
+*REMEMBER:* You must use the encrypted text app in order to send encrypted texts. Your standard messaging app will not send encrypted texts.
 
 <hr/>
 
@@ -46,9 +46,9 @@ For example, “X” could mean you’re in danger, and “Z” could mean you�
 
 <hr/>
 
-It’s up to you to figure out a system that is easy for you and your sources to remember.
+It is up to you to figure out a system that is easy for you and your sources to remember.
 
-There are third party software solutions for secure texting, but they’re not as easy to control as a personal SMS code.
+There are third party software solutions for secure texting, but they are not as easy to control as a personal SMS code.
 
 See this list of tools for maintaining privacy and anonymity when engaged in SMS.
 

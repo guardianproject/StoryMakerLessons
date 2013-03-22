@@ -8,7 +8,7 @@ h2. Why are my images overexposed (too light) or underexposed (too dark) and how
 
 h1. Background
 
-Inside every digital camera there is a light meter. This meter takes a light reading in the instant before you take a picture and tells the camera how to set the ISO, Aperture and Shutter (see section one).With point-and-shoots and dSLRs this meter is more sophisticated and it is up to the photographer to set the exposure in whole or part based on the reading.
+Inside every digital camera there is a light meter. This meter takes a light reading in the instant before you take a picture and tells the camera how to set the ISO, Aperture and Shutter (see section one). With point-and-shoots and dSLRs this meter is more sophisticated and it is up to the photographer to set the exposure in whole or part based on the reading.
 
 <hr/>
 
@@ -28,7 +28,7 @@ Insufficient light is the most common problem photographers confront. A camera, 
 !5.png(Example of a photo taken with a DSLR camera)!
 )
 
-In low light situations there is not enough light striking the sensor to properly expose it. Smartphones have smaller lenses and much smaller maximum apertures as a result (see the camera basics section) than professional cameras. Because the aperture is so small, they simply can’t let as much light in as larger cameras with larger lenses operating at the same shutter speed.
+In low light situations there is not enough light striking the sensor to properly expose it. Smartphones have smaller lenses and much smaller maximum apertures as a result (see the camera basics section) than professional cameras. Because the aperture is so small, they simply cannot let as much light in as larger cameras with larger lenses operating at the same shutter speed.
 
 <hr/>
 
@@ -64,7 +64,7 @@ Images that are slightly overexposed or underexposed can sometime be fixed with 
 h1. Things to Remember
 
 * It is essential that your images be properly exposed.
-* Smartphone cameras simply aren’t capable taking well exposed images under tough lighting conditions.
+* Smartphone cameras simply are not capable taking well exposed images under tough lighting conditions.
 * Managing the exposure within the range that the camera is capable can help a lot.
 * Always take a few practice pictures to check the exposure and make adjustments if necessary.
 

@@ -18,7 +18,7 @@ h1. Solution
 
 !2.png(How an email be intercepted or monitored)!
 
-Your email message can be intercepted at all major routing points on its way. If you live in a country with strong legal protection of privacy, its legislation won’t apply when your email reaches the ISP of the recipient in a country with different privacy laws. While your email is in transit from country A to country B, it could pass the routers of several other countries.
+Your email message can be intercepted at all major routing points on its way. If you live in a country with strong legal protection of privacy, the legislation will not apply when your email reaches the ISP of the recipient in a country with different privacy laws. While your email is in transit from country A to country B, it could pass the routers of several other countries.
 
 <hr/>
 
@@ -61,7 +61,7 @@ h1. Things to Remember
 * HTTPS assists your email to be secure, but does not ensure your email is secure.
 * Only open attachments after you verify the identity of the sender.
 * Never use your personal email on a mobile device or computer which is not yours.
-* Encrypting your email is the only way to ensure it will not be read by someone other than the receiver"
+* Encrypting your email is the only way to ensure it will not be read by someone other than the receiver.
 
 <hr/>
 
@@ -94,5 +94,4 @@ Answer 2:Lying
 Answer 3:Spoofing
 Answer 4:Hacking
 Correct Answer:3
-
 

@@ -8,7 +8,7 @@ h2. How do I create shot lists?
 
 h1. Background
 
-Only rarely is video edited together in the same order in which it was recorded. To more effectively use time and keep yourself organized, it’s best to have a clear plan before you begin recording your story. A list of all the shots you need in order to assemble your story is a great way to organize this plan.
+Only rarely is video edited together in the same order in which it was recorded. To more effectively use time and keep yourself organized, it is best to have a clear plan before you begin recording your story. A list of all the shots you need in order to assemble your story is a great way to organize this plan.
 
 <hr/>
 
@@ -18,7 +18,7 @@ h1. Solution
 
 Think of the shot list functioning the same as a grocery list when you go to the market.
 
-It’s quite helpful to write out your story in plain text. Imagine all of the the different subjects, what actions will occur, and any other elements you think are important to record to completely show your story. It’s important to be as specific as possible.
+It is quite helpful to write out your story in plain text. Imagine all of the the different subjects, what actions will occur, and any other elements you think are important to record to completely show your story. It is important to be as specific as possible.
 
 <hr/>
 
@@ -40,7 +40,7 @@ h2. Fill In the details
 
 !4.png!
 
-Fill in all the shots you think you need. Be specific, but do not hesitate to write down a lot of shots. This is a guideline to help you focus when you are recording. Sometimes what you write down will not be possible, that’s quite alright.
+Fill in all the shots you think you need. Be specific, but do not hesitate to write down a lot of shots. This is a guideline to help you focus when you are recording. Sometimes what you write down will not be possible, that is quite alright.
 
 Now, for every shot, list out the specific shot type you think will work best. Fill in as much description you can think of, and decide what story elements you need in that frame.
 
@@ -52,8 +52,8 @@ Write all of this information as if you are not the person filming it. If someon
 
 h1. Things to Remember
 
-* Shot lists are like an artists notebook, you keep your ideas in them, but when you're shooting they often change.
-* Don't get stuck making your descriptions perfect.
+* Shot lists are like an artists notebook, you keep your ideas in them, but when you are shooting they often change.
+* Do not get stuck making your descriptions perfect.
 * More ideas are often better for a shot list.
 * As you have more and more practice shooting stories, shot lists will become easier to develop.
 
@@ -82,7 +82,7 @@ Correct Answer:1
 <hr/>
 
 Question 3
-Question:True or False, it’s helpful to write your story out in plain text?
+Question:True or False, it is helpful to write your story out in plain text?
 Answer 1:True
 Answer 2:False
 Correct Answer:1

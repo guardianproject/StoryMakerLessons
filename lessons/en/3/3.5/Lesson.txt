@@ -16,7 +16,7 @@ h1. Solution
 
 When you plan the interview, answer the following questions:
 
-* What do I want out of the interview? (What's the point of the interview?)
+* What do I want out of the interview? (What is the point of the interview?)
 * What does the interviewee likely want? (Will they want to tell me, if they know?)
 * What do I know (about the subject & interviewee)?
 * What does he/she know?
@@ -24,7 +24,7 @@ When you plan the interview, answer the following questions:
 * In what order shall I put my questions?
 * How do I begin?
 * How do I end?
-* Is there a ‘golden nugget’ I’m looking for?
+* Is there a ‘golden nugget’ I am looking for?
 * How do I find it?
 
 <hr/>
@@ -41,15 +41,15 @@ Ask 'who', 'where', 'when', 'what', 'how' questions – and most importantly, 'w
 
 Ask simple questions that keep the conversation moving. (“Why?” “What happened next?” “What do you mean?” “What makes you say that?” “How do you know that?”)
 
-Show you're listening: Eye-contact, nodding, etc.
+Show you are listening: Eye-contact, nodding, etc.
 
-Ask one question at a time, and make sure it's a question. Don't try to steal the spotlight.
+Ask one question at a time, and make sure it is a question. Do not try to steal the spotlight.
 
 <hr/>
 
 h2. Be Polite
 
-Don't be afraid to interrupt when you don't understand or when the interviewee is talking too long. 
+Do not be afraid to interrupt when you do not understand or when the interviewee is talking too long. 
 
 You can interrupt by:
 
@@ -57,9 +57,9 @@ You can interrupt by:
 * A light touch on the arm.
 * Wait till the interviewee takes a breath and then jump in firmly.
 
-Always be polite even in hostile situations. (Being polite doesn't mean you can't ask tough questions – it means doing so politely.)
+Always be polite even in hostile situations. (Being polite does not mean you can not ask tough questions – it means doing so politely.)
 
-At the end of the interview, ask them if they have anything else to add. Ask them who else you might talk to, too.
+At the end of the interview, ask them if they have anything else to add. Ask them who else you might talk to-,- too.
 
 <hr/>
 
@@ -67,15 +67,15 @@ h2. Follow-up
 
 !2.png!
 
-Some journalists stay in touch with the person they have interviewed throughout the process of producing the story, or they show them a final version of their part before the full story is published. This is true in audio like in text or any other form of media production, making sure the person you have featured is aware of what you're doing and will not later be offended, angry, or out to stop you somehow. Some stories do not allow for this type of open-ness, especially of the person being interviewed is trying to cover up some truth that has been exposed during your conversation. In those cases followup is less useful or even possible. But when it is possible, it can be very good to followup with interviewees during or after the audio production process.
+Some journalists stay in touch with the person they have interviewed throughout the process of producing the story, or they show them a final version of their part before the full story is published. This is true in audio like in text or any other form of media production, making sure the person you have featured is aware of what you are  doing and will not later be offended, angry, or out to stop you somehow. Some stories do not allow for this type of openness, especially if the person being interviewed is trying to cover up some truth that has been exposed during your conversation. In those cases follow (space)up is less useful or even possible. But when it is possible, it can be very good to follow up with interviewees during or after the audio production process.
 
 <hr/>
 
 h1. Things to Remember
 
-* Planned interviews offer the distinct advantage of allowing you to fully prepare questions and research before you speak with someone. 
+* Planned interviews offer the distinct advantage of allowing you to fully prepare questions and research before you speak with someone. 
 * Unplanned interviews are challenging.
-* Small courtesies and actions can help establish trust and therefore improve interviews. 
+* Small courtesies and actions can help establish trust and therefore improve interviews. 
 * If it is possible, do some follow-up with the people you interview and send them the final item.
 
 <hr/>

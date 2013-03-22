@@ -1,6 +1,6 @@
 h1. Problem Statement
 
-h2. Finding a good topic is the key part of any audio story. But what is the best way to choose a topic and present that story?
+h2. Finding a good topic is the key part of any audio story, but what is the best way to choose a topic and present that story?
 
 !1.png!
 
@@ -12,7 +12,7 @@ Before you begin to produce an audio piece, there are a few questions you should
 
 * What is the most compelling way to tell your story? Is it a news story, a feature story, news analysis or an investigative story? You need to determine whether the issue is a recent event, or whether you might focus on the impact of an event of society, or a story about an interesting person.
 * What is your angle? A good way to think about how to interestingly approach a topic is thinking how it actually affects ordinary people.
-* What audience are you aiming at? What are they interested in? If you're making a item for children, it's a very different way of producing a story then when you are making a human rights story. Can you present the story in an engaging, clear, and interesting manner? What different parts does you item consist of? What audio do you need?
+* What audience are you aiming at? What are they interested in? If you are making an item for children, it is a very different way of producing a story than when you are making a human rights story. Can you present the story in an engaging, clear, and interesting manner? What different parts does your item consist of? What audio do you need?
 * What kind of time frame will you need in order to produce the item and do you have enough time?
 
 <hr/>
@@ -28,7 +28,7 @@ Plan your audio segment before you start recording. Your plan should include:
 * Who should be involved
 * Timeframe for completion
 * Intended length of the program
-* If you're doing an interview: prepare at least 15 questions
+* If you are doing an interview: prepare at least 15 questions
 
 Remember to ask yourself, why are you making this program? Is there a specific audience you want to reach?
 
@@ -48,7 +48,7 @@ Leave sufficient time within your plan for editing and publishing. It is possibl
 
 h1. Things to Remember 
 
-* If time is limited and you’re not sure what type of recording you’re going to do, do not go out and just record everything.
+* If time is limited and you are not sure what type of recording you are going to do, do not go out and just record everything.
 * Sketch a plan or a script for yourself, that you can fall back on during interviews or while recording a monologue/report.
 * Contact potential interviewees in advance and give them options for where and when you can meet.
 * Think about what audience you would like to reach when considering what kind of program to record.

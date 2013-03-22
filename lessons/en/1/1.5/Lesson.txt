@@ -1,8 +1,8 @@
 h1. Problem Statement
 
-!1.png!
-
 h2. How do I adapt my coverage as the story changes?
+
+!1.png!
 
 <hr/>
 
@@ -14,7 +14,7 @@ Some stories are like bright flares. They burn intensely but shortly. Other stor
 
 !2.png!
 
-News organizations think in terms of distinct categories for coverage. These categories help journalists take advantage of the availability of more information as time goes on. They help journalists maintain the attention of readers and viewers by providing variety in their coverage. Understanding this progression and what’s expected of you will make you a better journalist.
+News organizations think in terms of distinct categories for coverage. These categories help journalists take advantage of the availability of more information as time goes on. They help journalists maintain the attention of readers and viewers by providing variety in their coverage. Understanding this progression and what is expected of you will make you a better journalist.
 
 <hr/>
 
@@ -64,36 +64,28 @@ It should be clear from the different story types presented in this section how 
 
 Together these stories and other accompanying media elements make up what is called a “package.” Understanding what elements to include in a package and when to present them is an important part of good journalism and news management.
 
-<hr/>
-
 A checklist for producing the perfect news package:
- 
-* What’s new and what’s now –  Mobile news and microblog  posts need to be short and informative. Get to the point and get to them quickly.  Your post should include the basic facts and most current information.
-
-* Show and tell – Fundamentally phones are a visual medium. While some stories are tough to visualize others may lend themselves to photos, video or audio.  Choose the right media – or combination of media – to tell your story. Do not forget to keyword and tag multimedia content.
-
-<hr/>
-
+ 
+* What’s new and what’s now –  Mobile news and microblog  posts need to be short and informative. Get to the point and get to them quickly.  Your post should include the basic facts and most current information.
+* Show and tell – Fundamentally phones are a visual medium. While some stories are tough to visualize others may lend themselves to photos, video or audio.  Choose the right media – or combination of media – to tell your story. Do not forget to keyword and tag multimedia content.
 * Dateline – Be sure to present exactly where and when the post and story covered were produced.
-
 * Links to more information – This can be a Twitter feed or a YouTube video or a link to a previous posts or links to coverage from other news outlets.
-
-<hr/>
-
 * Cite you sources – Let viewers know where your information is coming from: eyewitness accounts, an official spokesperson, your own observation or other news sources. Transparency is key.
-
-* Cultivate contribution – Encourage people to contribute to your reporting.  Make it easy for them to comment. Promote more discussion with the goal of better information for all.
+* Cultivate contribution – Encourage people to contribute to your reporting.  Make it easy for them to comment. Promote more discussion with the goal of better information for all.
 
 <hr/>
 
-The most important thing to remember is to present you information in a logical order for the reader -- analysis about the causes of a power outage in the capitol should not precede breaking news coverage of its immediate impact on the public. But, as the storyline evolves, it is important to continue to make basic, background or contextual information available.
+!8.mp4(Example of a breaking news story)!
+!9.mp4(Example of a following story)!
+
+The most important thing to remember is to present your information in a logical order for the reader -- analysis about the causes of a power outage in the capitol should not precede breaking news coverage of its immediate impact on the public. But, as the storyline evolves, it is important to continue to make basic, background or contextual information available.
 
 <hr/>
 
 h1. Quiz
 
 Question 1
-Question:Which of the following are characteristics of a good news analysis story (it can be more than one)?
+Question:Which of the following are characteristics of a good news analysis story? (It can be more than one.)
 Answer 1:The journalist’s opinion is clear
 Answer 2:The presentation of information shows only one point of view, one side of the story
 Answer 3:While the presentation may present a point of view, it makes a fact-based argument for that point of view
@@ -103,7 +95,7 @@ Correct Answer:1,3
 <hr/>
 
 Question 2
-Question:TRUE of FALSE: As a story from first-day coverage to deeper, more investigative coverage, it is important to provide contextual information in your presentation that reminds readers of the basic facts of the issue.
+Question:TRUE of FALSE: As a story moves from first-day coverage to deeper, more investigative coverage, it is important to provide contextual information in your presentation that reminds readers of the basic facts of the issue.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:1
@@ -111,7 +103,7 @@ Correct Answer:1
 <hr/>
 
 Question 3
-Question:The categories of stories presented here are important because.
+Question:The categories of stories presented here are important because:
 Answer 1:They are a roadmap for how journalists can present more information as a story evolves over time
 Answer 2:The provide variety of presentation that helps keep a reader interested in topic over time
 Answer 3:Clear categories give reporters and news organization a way to talk about stories and plan long-term coverage

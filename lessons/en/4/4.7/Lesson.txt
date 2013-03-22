@@ -14,7 +14,7 @@ No matter if you are photographing an event to produce a single image or shootin
 
 <hr/>
 
-Editing images can take time and requires skill and self-discipline. Editing photos well is about divorcing yourself from your feelings or investment in the work and selecting only the images that convey the story best to your viewer. Just because you worked hard to get a photograph doesn’t make it a good photograph. Just because you recognize the importance of its content doesn’t mean the viewer will see the same thing. If its not in the picture for the viewer to see it’s not a picture at all.
+Editing images can take time and requires skill and self-discipline. Editing photos well is about divorcing yourself from your feelings or investment in the work and selecting only the images that convey the story best to your viewer. Just because you worked hard to get a photograph does not make it a good photograph. Just because you recognize the importance of its content does not mean the viewer will see the same thing. If its not in the picture for the viewer to see it is not a picture at all.
 
 <hr/>
 
@@ -44,7 +44,7 @@ h2. Step 1 - Identify
 
 !3.png!
 
-A first round that includes your strongest images -- Don’t worry about the specifics of your story. Pick images that convey core emotional and graphic strength. Think most about the eye-grabbing qualities of the images. The number should relate loosely to how you will use the images. If you are looking for a single, final image, select fewer than if you plan to assemble a slideshow. You may have several images of the same subject from different angles. You may have an assortment of images that illustrate the same idea. That’s OK for now.
+A first round that includes your strongest images -- Do not worry about the specifics of your story. Pick images that convey core emotional and graphic strength. Think most about the eye-grabbing qualities of the images. The number should relate loosely to how you will use the images. If you are looking for a single, final image, select fewer than if you plan to assemble a slideshow. You may have several images of the same subject from different angles. You may have an assortment of images that illustrate the same idea. That is OK for now.
 
 
 <hr/>
@@ -61,7 +61,7 @@ h2. Step 3 - Sequence & Process
 
 !5.png!
 
-If you are editing for a single image (or a handful of images from which an editor will choose). You need to crop, size, color correct and caption these images. The specifics of this are covered in the section on post production. If you are building a slideshow you need to sequence the final images. Remember: if an image isn’t advancing your story, it’s hurting it. Select images around the important elements of the story, archive images that either do not advance the story or repeat other, stronger images. Sequence the images in a way that is chronological -- do not move from night to day and back in an unnatural order. Be conscious of the ‘flow’ of images, letting color move the viewer from one image to the next, move from a tight shot to wide shot and then back to a tight shot. Like the single image, these images must be cropped, sized, color corrected and captioned.
+If you are editing for a single image (or a handful of images from which an editor will choose). You need to crop, size, color correct and caption these images. The specifics of this are covered in the section on post production. If you are building a slideshow you need to sequence the final images. Remember: if an image is not advancing your story, it is hurting it. Select images around the important elements of the story, archive images that either do not advance the story or repeat other, stronger images. Sequence the images in a way that is chronological -- do not move from night to day and back in an unnatural order. Be conscious of the ‘flow’ of images, letting color move the viewer from one image to the next, move from a tight shot to wide shot and then back to a tight shot. Like the single image, these images must be cropped, sized, color corrected and captioned.
 
 <hr/>
 
@@ -101,7 +101,7 @@ Correct Answer:2
 Question 3
 Question:Editing is a process of elimination. Which of the things below should you be thinking about when editing (it can be more than one)
 Answer 1:Which are my strongest images irrespective of the specific story?
-Answer 2:Are there any redundant images in my slideshow -- images that don’t advance the story or show the viewer something new?
+Answer 2:Are there any redundant images in my slideshow -- images that do not advance the story or show the viewer something new?
 Answer 3:Is there a nice ‘flow’ to the images as the viewer clicks from one to the next?
 Answer 4:All of the above.
 Correct Answer:4

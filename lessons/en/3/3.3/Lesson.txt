@@ -1,6 +1,6 @@
 h1. Problem Statement
 
-h2. I know how to record but Im not sure what kind of story style to use for my project.
+h2. I know how to record, but I am not sure what kind of story style to use for my project.
 
 !1.png!
 
@@ -8,9 +8,9 @@ h2. I know how to record but Im not sure what kind of story style to use for my 
 
 h1. Background
 
-Depending on what your story is about and how you want to approach it, there are different styles of audio production and presentation that you can make use of. Sometimes you may find yourself in the middle of an event or a breaking story, which would mean a specific style of audio reporting would be most useful for that situation. Alternatively perhaps you are doing a profile piece or a human interest story involving different witnesses and different voices, which would again call for another approach.
+Depending on what your story is about and how you want to approach it, there are different styles of audio production and presentation that you can make use of. Sometimes you may find yourself in the middle of an event or a breaking story, which would mean a specific style of audio reporting would be most useful for that situation. Alternatively, perhaps you are doing a profile piece or a human interest story involving different witnesses and different voices, which would again call for another approach.
 
-While each situation could be approached in more than 1 way, there is a short list of specific steps and guidelines you can follow in order to best present a specific type of story.
+While each situation could be approached in more than one way, there is a short list of specific steps and guidelines you can follow in order to best present a specific type of story.
 
 <hr/>
 
@@ -20,7 +20,7 @@ h2. Breaking News
 
 !2.mp3(Example of a breaking news report)!
 
-A breaking news report (hard news) requires a piece of audio that explains what is happening, summarizing the key points, the main actors, and any information that is known so far. Because such reports are about something that may still be going on, sometimes there will be unanswered questions that will be addressed in follow-up reports. Breaking news stories may feature a reporter at the location of the action, with his/her voice explaining what is known so far as well as what can be seen on the ground for that vantage point. In some cases a breaking news story can/must be introduced from a remote location based on second hand reports when it is not possible to be there. It's crucial that you will at least cover the following questions: Who, What, Where, Why, When and How.
+A breaking news report (hard news) requires a piece of audio that explains what is happening, summarizing the key points, the main actors, and any information that is known so far. Because such reports are about something that may still be going on, sometimes there will be unanswered questions that will be addressed in follow-up reports. Breaking news stories may feature a reporter at the location of the action, with his/her voice explaining what is known so far and what can be seen on the ground for that vantage point. In some cases a breaking news story can/must be introduced from a remote location based on second hand reports when it is not possible to be there. It is crucial that you will at least cover the following questions: Who, What, Where, Why, When and How.
 
 <hr/>
 
@@ -59,7 +59,7 @@ h1. Things to Remember
 h1. Quiz
 
 Question 1 
-Question:The main purpose of a breaking news story is
+Question:The main purpose of a breaking news story is:
 Answer 1:To make a long detailed audio report including extensive research and many interviews.
 Answer 2:To present an honored guest who is speaking at a special conference.
 Answer 3:To summarize what information is available regarding something that is happening now and who's outcome is still not completely known and will require followup reports.
@@ -69,7 +69,7 @@ Correct Answer:3
 <hr/>
 
 Question 2 
-Question:The advantage of producing an audio report about an event is.
+Question:The advantage of producing an audio report about an event is:
 Answer 1:You can prepare in advance, doing research and scheduling interviews related to the event.
 Answer 2:You have no time to do research, just say what you know.
 Answer 3:It is not possible to do interviews at an event.

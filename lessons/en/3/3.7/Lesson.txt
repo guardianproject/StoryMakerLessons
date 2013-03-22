@@ -8,7 +8,7 @@ h2. My audio file is ready, but how do I get my work listed on itunes, or embedd
 
 h1. Background
 
-If you have an audio program or report finalized and exported to your desired quality, you may now want your work to be found by your audience. If you’re publishing it via your own website, you need to make sure it appears correctly so that people can click and play or download.
+If you have an audio program or report finalized and exported to your desired quality, you may now want your work to be found by your audience. If you are publishing it via your own website, you need to make sure it appears correctly so that people can click and play or download.
 
 <hr/>
 
@@ -20,13 +20,13 @@ h1. Solution
 
 !4.png(Archive.org)!
 
-If you’re planning to do more audio programs or a podcast, then it would be a good idea to be listed on some of the more commonly used podcast catalogue tools . One of the largest in the world is apple’s itunes listings. There are also alternatives like soundcloud and archive.org, each of which have their own options for listening back to, downloading, and embedding audio on your website. The reason for using any or all of these is the goal of being found, heard, and shared among different communities online.
+If you are planning to do more audio programs or a podcast, then it would be a good idea to be listed on some of the more commonly used podcast catalogue tools . One of the largest in the world is Apple's iTunes listings. There are also alternatives like Soundcloud and Archive.org, each of which have their own options for listening back to, downloading, and embedding audio on your website. The reason for using any or all of these tools is the goal of being found, heard, and shared among different communities online.
 
 <hr/>
 
 h2. Hosting Your Audio
 
-First thing to do when your audio project is ready, is to choose where to host it. This could be on your own server, on the server where you have your website, or on a free 3rd party site like Archive.Org. The great advantage of using a site like ‘archive’ is that they host your audio file, and provide embed codes and download links for you to use wherever you wish. That means you can have a site where you place their easy to use player so that people can click to hear your program. It also means if your program is extremely popular, you won’t have to worry about the strain or extra cost of providing more bandwidth - archive will handle it. Please note that at present, using soundcloud as a third party host gives you a player but does not allow for direct downloads which are an essential part of having a working podcast.
+First thing to do when your audio project is ready, is to choose where to host it. This could be on your own server, on the server where you have your website, or on a free third party site like Archive.Org. The great advantage of using a site like ‘archive’ is that they host your audio file, and provide embed codes and download links for you to use wherever you wish. That means you can have a site where you place their easy to use player so that people can click to hear your program. It also means if your program is extremely popular, you will not have to worry about the strain or extra cost of providing more bandwidth - archive will handle it. Please note that at present, using Soundcloud as a third party host gives you a player but does not allow for direct downloads which are an essential part of having a working podcast.
 
 <hr/>
 
@@ -43,8 +43,8 @@ h1. Things to Remember
 !5.png(Promoting your project on Twitter)!
 
 * If you have a limited budget and you want a host that can handle large demand, upload your audio project to archive.org.
-* If you have a site where you want your audio projects to be featured and available for listening, use embed codes from 3rd party sites like soundcloud or archive.
-* Note that at present, soundcloud is not a good choice for hosting your recordings for a podcast, they do not allow unrestricted direct downloads.
+* If you have a site where you want your audio projects to be featured and available for listening, use embed codes from 3rd party sites like Soundcloud or archive.
+* Note that at present, Soundcloud is not a good choice for hosting your recordings for a podcast, they do not allow unrestricted direct downloads.
 * Use social media networks to share links to your work and help these links be passed on to others.
 
 <hr/>
@@ -52,7 +52,7 @@ h1. Things to Remember
 h1. Quiz
 
 Question 1
-Question:What is the advantage of using 3rd party media hosts?
+Question:What is the advantage of using third party media hosts?
 Answer 1:They can handle big bandwidth demands.
 Answer 2:They offer embed and sharing options for your audio.
 Answer 3:They are free.
@@ -73,7 +73,7 @@ Correct Answer:3
 
 Question 3
 Question:How do I take an audio project that I have uploaded to archive.org and put it on my site so that people can play it?
-Answer 1:You can’t.
+Answer 1:You cannot..
 Answer 2:Use the “embed” code and (cut/paste) insert it into a new post on your website.
 Answer 3:Write to archive.org and ask them to do it.
 Answer 4:Paste a link to the url of my archive.org page.

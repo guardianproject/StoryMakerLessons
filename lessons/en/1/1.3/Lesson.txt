@@ -1,8 +1,8 @@
 h1. Problem Statement
 
-!1.png!
-
 h2. How do you develop and think about sources?
+
+!1.png!
 
 <hr/>
 
@@ -18,7 +18,7 @@ In addition to sources journalists identify at the scene of a news story, good j
 
 h1. Solution
 
-The most common source is a person you interview for a specific story. These sources come in five general categories as. Good news stories have at least two of the five, sometimes all five.
+The most common source is a person you interview for a specific story. These sources come in five general categories. Good news stories have at least two of the five, sometimes all five.
 
 <hr/>
 
@@ -91,7 +91,7 @@ Other sources may choose to give you information only on background. That means 
 
 h2. Attribution
 
-Attribute to the source whenever you use someone else’s words or ideas, whether printed or spoken unless it is common knowledge. Attribute information taken from news organization and provide a link if doing so would give the readers additional valuable information. Do not use exact copy from a press release without attribution. Strive to go beyond the press release by relying on other sources. Do not use material from obscure website or encyclopedia sites such as Wikipedia without confirming the information at the original source.
+Attribute to the source whenever you use someone else’s words or ideas, whether printed or spoken unless it is common knowledge. Attribute information taken from news organizations and provide a link if doing so . This will give the readers additional valuable information. Do not use exact copy from a press release without attribution. Strive to go beyond the press release by relying on other sources. Do not use material from obscure websites or encyclopedia sites such as Wikipedia without confirming the information at the original source.
 
 The viewer should be able to immediately identify the source of any information provided. Information taken directly from or paraphrased from other news sources is no exception.
 
@@ -105,17 +105,17 @@ The viewer should be able to immediately identify the source of any information 
 h1. Quiz
 
 Question 1
-Question:If you want to know how many people were injured in an earthquake you might ask which of the following types of sources
-Answer 1:A reactionary source: A father whose house was destroyed
-Answer 2:An authorative source: A plate tectonics expert who specializes in the causes of earthquakes
-Answer 3:An informational source: a Red Crescent Society doctor or provincial police chief
-Answer 4:None of the above
+Question:If you want to know how many people were injured in an earthquake you might ask which of the following types of sources?
+Answer 1:A reactionary source: A father whose house was destroyed.
+Answer 2:An authorative source: A plate tectonics expert who specializes in the causes of earthquakes.
+Answer 3:An informational source: a Red Crescent Society doctor or provincial police chief.
+Answer 4:None of the above.
 Correct Answer:3
 
 <hr/>
 
 Question 2
-Question:TRUE or FALSE: A background source is someone who agrees to speak to you off the record. Meaning, his or her name will not appear in the story. To be truthful, it’s OK to publish the name.
+Question:TRUE or FALSE: A background source is someone who agrees to speak to you off the record. Meaning, his or her name will not appear in the story. To be truthful, it is OK to publish the name.
 Answer 1:TRUE
 Answer 2:FALSE
 Correct Answer:2
@@ -123,7 +123,7 @@ Correct Answer:2
 <hr/>
 
 Question 3
-Question:In addition to talking to people, research and source documents are an important part of good journalism. Which are good sources for this kind of reporting
+Question:In addition to talking to people, research and source documents are an important part of good journalism. Which are good sources for this kind of reporting?
 Answer 1:RSS feeds
 Answer 2:Studies produced by non-profit organizations or government
 Answer 3:Social sites, especially those that produce statistics about readers and viewers

@@ -1,8 +1,8 @@
 h1. Problem Statement
 
-!1.png!
-
 h2. What are some basic techniques for getting the most out of an interview?
+
+!1.png!
 
 <hr/>
 
@@ -34,7 +34,7 @@ Do some research before the interview when possible. You will ask better, more r
 
 h2. Identify yourself as a journalist
 
-In many situations this will be obvious, but not in all situations. This is especially true online. It is ethically and professionally very important to do this, though there are some exceptions (more on this see section 8 on professional standards and ethics).
+In many situations this will be obvious, but not in all situations. This is especially true online. It is ethically and professionally very important to do this, though there are some exceptions. (For more on this see section 8 on professional standards and ethics).
 
 Let the subject know if you or another journalist will be using a camera to record photos or video - The subject should not be caught surprised or unprepared.
 
@@ -44,28 +44,21 @@ It is always a good idea to have some basic questions prepared. It saves time an
 
 <hr/>
 
-h2. Example of well prepared notes for an interview:
+*Example of well prepared notes for an interview:*
 
-h2. Intro or warm-up questions (asked early to make the subject comfortable because they are easy and impersonal questions):
-
+Intro or warm-up questions (Ask early to make the subject comfortable because they are easy and impersonal questions):
 * What is your full name (and title) as you would like it for the article?
 * Where did you study?
 * What are the materials you use and why do you use them?
 
-<hr/>
-
-h2. Main interview questions (this is where you collect the most interesting and useful information)
-
+Main interview questions (This where you collect the most interesting and useful information)
 * How do you describe the purpose of your work to others?
 * What are some of the influences or inspirations for your artwork?
 * How did the revolution influence the themes and subjects that your artwork addresses?
 * What role do artists play in the new Egypt? 
 
-<hr/>
-
-h2. Closing questions (This is often where you ask the most difficult or revealing questions, along with the final question below)
-
-* Your critiques say you are little more than street graffiti artist or simple illustrator. How do you respond to these criticisms?
+Closing questions (This is often where you ask the most difficult or revealing questions, along with the final question below)
+* Your critiques say you are little more than a street graffiti artist or simple illustrator. How do you respond to these criticisms?
 * Is there anything else you would like to add or that you think is important for readers to know?
 
 <hr/>
@@ -98,9 +91,9 @@ h2. Control the interview
 
 Sometimes people have expectations for your interview that are different than your own. Politicians frequently try to turn an interview to subjects important to them. Private citizens unfamiliar with the interview process often talk about things irrelevant to the topic. You need to be polite but firm in controlling the interview. Monologues are never as informative as interviews consisting of questions and short, relevant answers.
 
-h2. Don’t rush the answer
+h2. Do not rush the answer
 
-While it is important to control the pace of the interview, it’s important to let people complete a thought. People will sometimes try and fill an awkward silence by saying more -- sometimes more than they should!
+While it is important to control the pace of the interview, it is important to let people complete a thought. People will sometimes try and fill an awkward silence by saying more -- sometimes more than they should!
 
 h2. Probe and clarify
 
@@ -122,7 +115,7 @@ The most common challenge to a good interview is time and a reluctant or difficu
 
 * Prioritize your questions and identify the single, most essential bit of information you need from a subject.
 * Get to the most important question quickly in the interview.
-* If the subject is difficult because they are uncomfortable or difficult because there is something they don’t want to tell you, an interview can sometimes become a negotiation.
+* If the subject is difficult because they are uncomfortable or difficult because there is something they don’t_ ("do not")_ want to tell you, an interview can sometimes become a negotiation.
 * As a reporter you have to be tough but fair.
 * Sometimes sources recognize that a “no comment” response or vague response to question will make them look worse in the press than a straight answer. You may choose to point this out. 
 * Your story will be more interesting if your interviews for it include people with opposing points of view.

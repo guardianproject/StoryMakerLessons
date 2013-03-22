@@ -12,12 +12,10 @@ Photography, borrows a lot from painting. The best photos are composed so the su
 
 <hr/>
 
-(
 !2.png(Example of a photo that provides context and action)!
 !3.png(Example of a photo that provides context and action)!
-)
 
-When taking photographs of a news event it’s important to remember that the viewer of photos can’t see the totality of the scene as you can. They can’t know what you don’t show them. The world can look very different in a photograph. Strong photojournalists capture not just the drama and action of an event in their images, but include visual elements that provide context as to location and the causes of the event being photographed. This requires you to ‘think visually,’ which can be a challenge for even the best journalists.
+When taking photographs of a news event it’s important to remember that the viewer of photos cannot see the totality of the scene as you can. They cannot know what you do not show them. The world can look very different in a photograph. Strong photojournalists capture not just the drama and action of an event in their images, but include visual elements that provide context as to location and the causes of the event being photographed. This requires you to ‘think visually,’ which can be a challenge for even the best journalists.
 
 <hr/>
 
@@ -31,12 +29,10 @@ The foundation of good composition is the rule of thirds (see illustration). The
 
 <hr/>
 
-(
 !5.png!
 !6.png!
 !7.png!
 !8.png!
-)
 
 Good photographers compose along the intersections of lines in the frame and work to use each of the nine rectangles to tell their story. Amateurs tend to place the subject in the middle of the frame and ignore the remaining space rather than use it to make a more compelling image.
 
@@ -68,7 +64,7 @@ A little care in composition and thoughtfulness about the information you need t
 
 h1. Things to Remember
 
-Perhaps the biggest thing to remember for citizen journalists is learning to think visually. This is about more than just composition. It is about thinking through how to give strong visual expression to your story. This begins with investing yourself in taking better photographs. Many reporters who take photos and citizen journalists tend to think of the photography as an afterthought. They report their story and then snap a couple pictures at the end. Good photography takes time. You need to plan for it and think through how you will get the kinds of images that really capture the essence of a story and move viewers emotionally.
+Perhaps the biggest thing to remember for citizen journalists is learning to think visually. This is about more than just composition. It is about thinking through how to give strong visual expression to your story. This begins with investing yourself in taking better photographs. Many citizen journalists and pro reporters who take photographs tend to think of the photography as an afterthought. They report their story and then snap a couple pictures at the end. Good photography takes time. You need to plan for it and think through how you will get the kinds of images that really capture the essence of a story and move viewers emotionally.
 
 <hr/>
 
@@ -81,7 +77,7 @@ Another thing to remember is safety. A reporter can stand at the edge of a poten
 h1. Quiz
 
 Question 1
-Question:What does thinking visually mean (it can be more than one)?
+Question:What does thinking visually mean? (It can be more than one.)
 Answer 1:Planning your story from the outset for good visual content.
 Answer 2:Devoting time to getting good images.
 Answer 3:Understanding how telling visual stories is more than merely translating what you would report and write.
@@ -99,7 +95,7 @@ Correct Answer:2
 <hr/>
 
 Question 3
-Question:Which of the following a basic principles of photography for good composition?
+Question:Which of the following a basic principles of photography for good composition.
 Answer 1:The rule of thirds.
 Answer 2:Working the edges.
 Answer 3:Working the Layers.
@@ -107,6 +103,7 @@ Answer 4:None of the above.
 Correct Answer:1,2,3
 
 <hr/>
+
 Question 4
 
 (

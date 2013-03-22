@@ -24,7 +24,7 @@ h2. Timestamps
 
 !3.png!
 
-If you publish media to a website about government activity in your country by using the Tor network, the authorities won’t see that you were sending this information to a particular blog, but they may notice whenever you enter an Internet café a new post appears on the site. This may be linked to you, especially if your Internet café owner writes down your name and the time of your visit. To overcome this difficulty, ask a colleague from another country to post the blog for you. Use a secure webmail service (or encryption) to send the article to them and ask them to wait for a while before publishing it on your blog.
+If you publish media to a website about government activity in your country by using the Tor network, the authorities will not see that you were sending this information to a particular blog, but they may notice whenever you enter an Internet café a new post appears on the site. This may be linked to you, especially if your Internet café owner writes down your name and the time of your visit. To overcome this difficulty, ask a colleague from another country to post the blog for you. Use a secure webmail service (or encryption) to send the article to them and ask them to wait for a while before publishing it on your blog.
 
 Your identity can be determined not only by the name you choose for yourself or your source. Your identity may also be determined by the trail you leave through your online activity.
 
@@ -65,7 +65,7 @@ Correct Answer:1,2,3
 <hr/>
 
 Question 3
-Question:If I use a pseudonym my identity will be
+Question:If I use a pseudonym my identity will be:
 Answer 1:Completely protected.
 Answer 2:Whatever I tell people it is.
 Answer 3:Only protected if I prevent my communications trails from revealing my identity or location.

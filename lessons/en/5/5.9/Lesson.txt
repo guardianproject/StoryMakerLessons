@@ -10,7 +10,7 @@ h1. Background
 
 (
 !2.png(Example of a subject lit by a tungesten bulb)!
-!3.png(Example of a subject lit outdoors when it's cloudy)!
+!3.png(Example of a subject lit outdoors when it is cloudy)!
 !4.png(Example of a subject lit outdoors in the sun)!
 )
 
@@ -49,7 +49,7 @@ Remember to to reset the white balance option if the lighting conditions change.
 
 h2. AWB (Auto White Balance)
 
-Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you’re unsure of which of these is the best to go with.
+Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you are unsure of which of these is the best to go with.
 
 This setting may be the most effective if you have strong artificial and natural light sources in your frame.
 
@@ -126,7 +126,7 @@ Correct Answer:1
 <hr/>
 
 Question 3
-Question:If I don’t know what setting to use, what should I do?
+Question:If I do not know what setting to use, what should I do?
 Answer 1:Ignore it
 Answer 2:Use Auto White Balance
 Answer 3:Use Incandescent
@@ -152,6 +152,6 @@ Question: The white balance setting is wrong in this shot. Which setting should 
 
 Answer 1:Cloudy
 Answer 2:Daylight
-Answer 3:It's actually set correctly.
+Answer 3:It is actually set correctly.
 Answer 4:Fluorescent
 Correct Answer:4

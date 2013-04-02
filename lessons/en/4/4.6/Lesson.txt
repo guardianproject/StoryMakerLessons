@@ -10,19 +10,19 @@ h1. Background
 
 Most stories are accompanied by a single photograph. That photograph needs to summarize the event in a single frame.
 
-!2.png(New York City Police Officers check subway cars at Columbus Circle on Friday, Oct. 7, 2008. Security in the city's mass transit system has been increased following yesterday's announcement of a specific terrorist threat to the subway system.  (AP Photo/John Smock))!
+!2.jpg(New York City Police Officers check subway cars at Columbus Circle on Friday, Oct. 7, 2008. Security in the city's mass transit system has been increased following yesterday's announcement of a specific terrorist threat to the subway system.  (AP Photo/John Smock))!
 
 A photo essay that include several images can be a very powerful visual storytelling tool, on its own or with other story element in a package. Photo essays are among the most popular online content and engage large numbers of viewers.
 
 (
-!3.png(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
-!4.png(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
-!5.png(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
-!6.png(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
-!7.png(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
-!8.png(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
-!9.png(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
-!10.png(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
+!3.jpg(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
+!4.jpg(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
+!5.jpg(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
+!6.jpg(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
+!7.jpg(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
+!8.jpg(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
+!9.jpg(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
+!10.jpg(About 20 students attend a course on market  at the DISC NGO school in Cairo Egypt on Oct. 22, 2012. The school offers media training and software development courses.)!
 )
 
 <hr/>
@@ -33,26 +33,26 @@ There are some key difference between photo essays and video. Viewers typically 
 
 Example of a good photo essay:
 (
-!11.png(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
-!12.png(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
-!13.png(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
-!14.png(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
-!15.png(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
-!16.png(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
-!17.png(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
+!11.jpg(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
+!12.jpg(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
+!13.jpg(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
+!14.jpg(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
+!15.jpg(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
+!16.jpg(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
+!17.jpg(Students attend course at the all-boys Eagle Academy for Young Men in Queens, New York City, on April 12, 2006. The school is one of several small schools in the city public school system that is working to combat high drop out rates through smaller class size and a more tightly focused curriculum.)!
 )
 
 Example of a bad photo essay:
 (
-!18.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
-!19.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
-!20.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
-!21.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
-!22.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
-!23.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
-!24.png(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
+!18.jpg(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
+!19.jpg(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
+!20.jpg(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
+!21.jpg(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
+!22.jpg(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
+!23.jpg(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
+!24.jpg(Vendors at the Pyramids at Giza in Egypt sit idle due to so little business on Oct. The number of daily visitors recently is a sliver of the roughly 5000 that arrived each day prior to the revolution)!
 )
-A good photo essay can be a remarkably strong tool to document and dramatize a news event. However, a bad photo essay can be very bad. The most common problem is sameness from image to image. If there is no variety in the images the essay will be very boring, especially in combination with the second most common problem: essays that have no narrative structure. They do not tell a story or make a point. They are little more than an assortment of random snapshots.
+A good photo essay can be a remarkably strong tool to document and dramatize a news event. However, a bad photo essay can be very bad. The most common problem is sameness from image to image. If there is no variety in the images the essay will be very boring, especially in combination with the second most common problem: essays that have no narrative structure. They don’t tell a story or make a point. They are little more than an assortment of random snapshots.
 
 <hr/>
 
@@ -65,12 +65,12 @@ Every photo essay needs structure and a clear point. An essay can be structured 
 h2. Narrative Story
 
 (
-!25.png(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
-!26.png(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
-!27.png(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
-!28.png(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
-!29.png(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
-!30.png(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
+!25.jpg(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
+!26.jpg(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
+!27.jpg(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
+!28.jpg(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
+!29.jpg(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
+!30.jpg(Piece of pipe 10 metere in length for the Baku-Tblisi-Ceyan oil pipeline are manufactured in the Republic of Georgia and then shipped for assembly to locations along the pipeline's path.)!
 )
 
 When planning a narrative story you should create a narrative arc -- beginning, middle and end. Think issue and resolution. Think cause and effect. Your slideshow should Tell the story visually as thoroughly as a written story tells it in words.
@@ -89,13 +89,13 @@ There are several conventional ways to structure the narrative of a story. Have 
 h2. Highlights
 
 (
-!31.png(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
-!32.png(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
-!33.png(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
-!34.png(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
-!35.png(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
-!36.png(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
-!37.png(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
+!31.jpg(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
+!32.jpg(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
+!33.jpg(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
+!34.jpg(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
+!35.jpg(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
+!36.jpg(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
+!37.jpg(Georgian celebrate the offical transfer of power from former President Eduard Shevardnadze to the new goverment on November 23, 2003 in Tbilisi, Georgia.)!
 )
 
 All photo stories are highlights stories, the photographer should always seek to relay the most important visual elements of a story. But some stories are structured less to illustrate a clear story line and more to show the peak moments or most dramatic aspects of the topic.
@@ -105,12 +105,12 @@ All photo stories are highlights stories, the photographer should always seek to
 h2. Process
 
 (
-!38.png(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
-!39.png(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
-!40.png(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
-!41.png(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
-!42.png(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
-!43.png(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
+!38.jpg(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
+!39.jpg(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
+!40.jpg(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
+!41.jpg(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
+!42.jpg(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
+!43.jpg(George Tanner mends close and makes suits as he as done for more than 30 years at his shop in Flatbush, New York, on Sept. 22, 2011.)!
 )
 
 Essentially the photographer is showing how something is done from beginning to end. How a sculpture is made. An election. Even an arrest and court case.
@@ -120,13 +120,13 @@ Essentially the photographer is showing how something is done from beginning to 
 h2. Chronology
 
 (
-!44.png(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
-!45.png(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
-!46.png(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
-!47.png(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
-!48.png(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
-!49.png(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
-!50.png(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
+!44.jpg(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
+!45.jpg(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
+!46.jpg(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
+!47.jpg(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
+!48.jpg(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
+!49.jpg(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
+!50.jpg(Mohammed Assul spends his evening operating a faluka on the Nile River in Cairo, Egypt on Oct. 24, 2012. Business has been off, he says, since the revolution last year.)!
 )
 
 Real or implied, you can let time structure your story. A typical way to structure a story through time is as a ‘day in the life’ piece.
@@ -145,7 +145,7 @@ Here is the formula for the different types of images that make a good slideshow
 
 h2. Signature photo
 
-!51.png(Example of a signature photo)!
+!51.jpg(Example of a signature photo)!
 
 A photo that summarizes the entire issue and illustrates essential elements of the story. If only one photo were to run, this would be the photo.
 
@@ -153,7 +153,7 @@ A photo that summarizes the entire issue and illustrates essential elements of t
 
 h2. Establishing shot
 
-!52.png(Example of an Establishing photo)!
+!52.jpg(Example of an Establishing photo)!
 
 a wide-angle shot to establish the scene. When you do a photo story you are taking viewers on a journey. Use this shot to give them a sense of where they are going, an image that allows them to understand the rest of the story in a geographic context.
 
@@ -161,16 +161,16 @@ a wide-angle shot to establish the scene. When you do a photo story you are taki
 
 h2. Close-up
 
-!53.png(Example of a close-up photo)!
+!53.jpg(Example of a close-up photo)!
 
-A detail shot to highlight a specific element of the story. Close-up, sometimes called detail shots do not do a lot to inform the viewer but they do a great deal to dramatize a story. ALWAYS shoot lots of close-ups.
+A detail shot to highlight a specific element of the story. Close-up, sometimes called detail shots don’t do a lot to inform the viewer but they do a great deal to dramatize a story. ALWAYS shoot lots of close-ups.
 
 
 <hr/>
 
 h2. Portrait
 
-!54.png(Example of a portrait photo)!
+!54.jpg(Example of a portrait photo)!
 
 This can be either a tight head shot or an environmental portrait in a context relevant to the story. Photo essays are build around characters. You need to have good portrait that introduces viewers to the character. Always shoot a variety of portraits, some candids, meaning people behaving naturally, and some posed. 
 
@@ -178,7 +178,7 @@ This can be either a tight head shot or an environmental portrait in a context r
 
 h2. Interaction
 
-!55.png(Example of an interaction photo)!
+!55.jpg(Example of an interaction photo)!
 
 Focuses on the subject in a group during an activity. Images of your character interacting with others helps give a human dimension to your character.
 
@@ -186,7 +186,7 @@ Focuses on the subject in a group during an activity. Images of your character i
 
 h2. The Clincher
 
-!56.png(Example of a clincher photo)!
+!56.jpg(Example of a clincher photo)!
 
 A photo that can be used to close the story, one that says “the end.” This might be an image of shopkeeper closing his store, the setting sun as election observers go home or a child in a hospital sleeping after surgery.
 
@@ -208,21 +208,21 @@ Many slideshows are accompanied by audio (more on audio in the audio module). Au
 
 h2. The Series
 
-!57.png(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!58.png(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!59.png(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!60.png(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!61.png(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!62.png(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!63.png(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!64.png(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!57.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!58.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!59.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!60.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!61.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!62.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!63.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!64.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
 
 
 The series is a set of similar images designed to illustrate a comparative point: for example a series of portraits or of destroyed buildings or a particularly fashionable type of sunglasses. Images in a series should be stylistically similar to further illustrate the comparison. A series can be a great way to illustrate an idea on its own or as a sidebar element to a video, audio or print story.
 
 <hr/>
 
-You do not need to make every image in series EXACTLY like the others. Sometimes it is just not possible. But here are a few things to keep in mind:
+You don't need to make every image in series EXACTLY like the others. Sometimes it’s just not possible. But here are a few things to keep in mind:
 
 * Angle of View - When possible, try and keep the angle of view consistent in a series. Example: if one picture is taken from eye-level, take them all from eye-level.
 
@@ -263,7 +263,7 @@ Correct Answer:2
 Question 3
 Question:Good stories typically have the following characteristic (it can be more than one).
 Answer 1:The final project will be between 8 and 20 images.
-Answer 2:If it is a narrative story, there will be visual variety.
+Answer 2:If it’s a narrative story, there will be visual variety.
 Answer 3:Stories about broad issues are always better then highly focused stories.
 Answer 4:All of the above.
 Correct Answer:1,2

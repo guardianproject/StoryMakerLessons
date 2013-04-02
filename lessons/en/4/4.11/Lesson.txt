@@ -16,7 +16,7 @@ h1. Solution
 
 For journalists who live in the communities they cover there are some unique challenges.
 
-* Should I take photographs of people if they do not want you to?
+* Should I take photographs of people if they don’t want you to?
 * Should I publish very graphic images of violence and death? 
 * Should I help someone who is injured or photograph them?
 * Should I publish images that might cast a favored individual or institution in an unfavorable light even if the image is 
@@ -104,6 +104,6 @@ Question 3
 Question:Which of the following are important to keep in mind when shooting under difficult circumstances (it can be more than one).
 Answer 1:A photographer needs to be sensitive to the rights of private citizens when taking their photograph.
 Answer 2:You should be aware of your own personal safety.
-Answer 3:Do not take pictures that are graphic and might upset someone.
+Answer 3:Don’t take pictures that are graphic and might upset someone.
 Answer 4:All of the above.
 Correct Answer:1,2

@@ -8,32 +8,32 @@ h2. How do I write a basic caption to accompany a photograph?
 
 h1. Background
 
-!2.png!
+!2.jpg!
 
 h3. Caption: 10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match.
 h3. Keywords: Tripoli, Libya, Cameroon, World Cup, sports, Middle East.  
 h3. Tags: Sports, celebration, flags, World Cup, fans
 
-Every photograph needs a caption and keywords/tags. A good caption provides the reader basic information and context to understand a photograph and its relevance to the news: where the photo was taken, when it was taken, and a very brief description of what is in the photo. Search engines and search fields on sites like YouTube cannot recognize images. They can only recognize text associated with the image. Keywords and tags, along with the caption, help viewers find the images through search engines.
+Every photograph needs a caption and keywords/tags. A good caption provides the reader basic information and context to understand a photograph and its relevance to the news: where the photo was taken, when it was taken, and a very brief description of what's in the photo. Search engines and search fields on sites like YouTube can't recognize images. They can only recognize text associated with the image. Keywords and tags, along with the caption, help viewers find the images through search engines.
 
 <hr/>
 
 h2. Bad Photo and Caption
 
-!3.png(Demonstrators outside UN headquarters yesterday protest about peacekeepers in Darfur.)!
+!3.jpg(Demonstrators outside UN headquarters yesterday protest about peacekeepers in Darfur.)!
 
 h2. Good Photo and Caption
 
-!4.png(25 September, 2008 – New York, NY - More than 200 demonstrators gathered outside UN headquarters during its 63rd annual General Assembly meeting to protest what they say is a Security Council slow to act on its own demand for peacekeepers in Darfur. -SIPA Press/John Smock)!
+!4.jpg(25 September, 2008 – New York, NY - More than 200 demonstrators gathered outside UN headquarters during its 63rd annual General Assembly meeting to protest what they say is a Security Council slow to act on its own demand for peacekeepers in Darfur. -SIPA Press/John Smock)!
 
 Captions should be clear, accurate and complete in the information they provide about the photograph.
 
 <hr/>
 
 (
-!5.png(27 April, 2006 – Birqash, Egypt --  A camel merchant chases a camel at the camel market in Birqash, an hour northwest of the Cairo. Sale of camel meet is on the rise in Egypt and surrounding countries in response to the bird flu epidemic, which makes chicken unsafe to eat. (John Smock/SIPA Press) )!
-!6.png(27 April, 2006 -- Birqash, Egypt -- A young boy helps load baby camels on to trailers at the Camel Market in Birqash, an hour northwest of the Cairo. Hundreds of animals make the trek from as far away as southern Sudan to what is perhaps oldest and largest remaining camel market in the Middle East. The animals are sold for meat as well as for transportation. (John Smock/SIPA Press))!
-!7.png(27 April 2006 – Birqash, Egypt – Camels loaded on a truck bound for Cairo leave the camel market. Hundreds of camels are sold each week. These camels will be sold to butchers for meat. (John Smock/SIPA Press))!
+!5.jpg(27 April, 2006 – Birqash, Egypt --  A camel merchant chases a camel at the camel market in Birqash, an hour northwest of the Cairo. Sale of camel meet is on the rise in Egypt and surrounding countries in response to the bird flu epidemic, which makes chicken unsafe to eat. (John Smock/SIPA Press) )!
+!6.jpg(27 April, 2006 -- Birqash, Egypt -- A young boy helps load baby camels on to trailers at the Camel Market in Birqash, an hour northwest of the Cairo. Hundreds of animals make the trek from as far away as southern Sudan to what is perhaps oldest and largest remaining camel market in the Middle East. The animals are sold for meat as well as for transportation. (John Smock/SIPA Press))!
+!7.jpg(27 April 2006 – Birqash, Egypt – Camels loaded on a truck bound for Cairo leave the camel market. Hundreds of camels are sold each week. These camels will be sold to butchers for meat. (John Smock/SIPA Press))!
 )
 
 The captions for a photo essay should not repeat the same information over and over. Write captions as short, progressive explanations of the individual image in the context of the entire slideshow. In some cases you may present them as title cards that present short “factoids,” additional information or stats that help provide context.
@@ -52,7 +52,7 @@ The first sentence should:
 
 * Be written in the present tense.
 * Be written in complete sentences
-* Describe What is in the picture
+* Describe What’s in the picture
 * Say exactly when it was taken
 * Say Exactly where it was taken
 
@@ -70,9 +70,9 @@ A child severely burned by a car bomb on June 9, 2010, receives care at the Indi
 <hr/>
 
 (
-!8.png(3 November, 2011 – Rustavi, Republic of Georgia – Extensive repairs begin on the Baku-Tbilisi-Ceyhan (TBC) pipeline conducted by British Petroleum (BP). When operational the pipeline transports as much as a million gallons a day, providing an alternative to fuel from Russia to countries in the Caucasus. (John Smock/SIPA Press))!
-!9.png(21 October, 2012, -- Cairo, Egypt – Egyptian street artist Gameer opened an exhibit of his artwork this week at a gallery in Cairo. Gameer was arrested for his work during the revolution (Photo: John Smock))!
-!10.png(20 October, 2012 – Giza, Egypt – Vendors normally busy offering camel rides and tours at the pyramids sit idle. Tourism has been down significantly since the revolution. (Photo: John Smock))!
+!8.jpg(3 November, 2011 – Rustavi, Republic of Georgia – Extensive repairs begin on the Baku-Tbilisi-Ceyhan (TBC) pipeline conducted by British Petroleum (BP). When operational the pipeline transports as much as a million gallons a day, providing an alternative to fuel from Russia to countries in the Caucasus. (John Smock/SIPA Press))!
+!9.jpg(21 October, 2012, -- Cairo, Egypt – Egyptian street artist Gameer opened an exhibit of his artwork this week at a gallery in Cairo. Gameer was arrested for his work during the revolution (Photo: John Smock))!
+!10.jpg(20 October, 2012 – Giza, Egypt – Vendors normally busy offering camel rides and tours at the pyramids sit idle. Tourism has been down significantly since the revolution. (Photo: John Smock))!
 )
 
 The exact format for captions vary, but a basic photo captions should:
@@ -85,7 +85,7 @@ The exact format for captions vary, but a basic photo captions should:
 
 h2. Keywords and Tags
 
-!11.png(Tags: tank, Russian Afghanistan. This image is licensed to be reproduce commercially.)!
+!11.jpg(Tags: tank, Russian Afghanistan. This image is licensed to be reproduce commercially.)!
 
 Keywords and tags help search engines find images and work identify photos in the archive. Typically there will be a field for keywords or tags along with the caption field.
 
@@ -103,9 +103,9 @@ TIPS
 
 <hr/>
 
-!12.png(education, Afghanistan, girls, school, English language)!
-!13.png(flag, children, Libya, revolution, Arab spring)!
-!14.png(election, Arab, Arab-American, United States, politics, women, girls, vote, voting)!
+!12.jpg(education, Afghanistan, girls, school, English language)!
+!13.jpg(flag, children, Libya, revolution, Arab spring)!
+!14.jpg(election, Arab, Arab-American, United States, politics, women, girls, vote, voting)!
 
 <hr/>
 
@@ -118,7 +118,7 @@ Basic caption and keywords should always be included. Here are some things to wa
 * Photojournalism is journalism.
 * If a photo is manipulated digitally beyond simple sizing and color control, it should be labeled as a “photo illustration” in the caption or in the photo credit. If unusual photo techniques are used, such as high dynamic range (HDR) effects, it should be noted in the caption.
 * Do not editorialize or make assumptions about what someone in a picture is thinking: “an unhappy voter...” or “A fortunate survivor...” The reader should be given the facts and allowed to decide for herself or himself what the feelings or emotions are.
-* Do not characterize the content of a picture as beautiful, dramatic, horrifying or in any other such descriptive terms that should be evident in the photograph. If it is not evident in the photograph, you telling the reader will not make it happen.
+* Do not characterize the content of a picture as beautiful, dramatic, horrifying or in any other such descriptive terms that should be evident in the photograph. If it's not evident in the photograph, you telling the reader won't make it happen.
 
 <hr/>
 
@@ -155,7 +155,7 @@ Correct Answer:4
 Question 4
 Question:What is the best caption for this image? 
 
-!15.png!
+!15.jpg!
 
 Answer 1:12 September, 2012 – Rustavi, Republic of Georgia -- Interior Ministry troops search cars for suspected terrorists on election day along the main road leading to Tbilisi, the capital of this small Caucasian country.
 Answer 2:Soldiers by the road on election day in the Republic of Georgia.

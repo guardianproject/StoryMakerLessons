@@ -13,11 +13,11 @@ Your initial photo is a rough draft of a written story. Images can be dramatical
 <hr/>
 
 (
-!2.png(Example of a properly exposed and focused photo)!
-!3.png(Example of a photo that has been enlarged and pixelated)!
+!2.jpg(Example of a properly exposed and focused photo)!
+!3.jpg(Example of a photo that's been enlarged and pixelated)!
 )
 
-Editing well begins with shooting well. Always shoot on the largest file size available. You can always make images smaller to send more quickly but you cannot enlarge them. Make sure that your images are properly exposed and focused. Images that are technically strong to begin with are easier to edit.
+Editing well begins with shooting well. Always shoot on the largest file size available. You can always make images smaller to send more quickly but you can’t enlarge them. Make sure that your images are properly exposed and focused. Images that are technically strong to begin with are easier to edit.
 
 <hr/>
 
@@ -30,18 +30,18 @@ h1. Solution
 h2. Cropping
 
 (
-!4.png(Before Cropping)!
-!5.png(After Cropping)!
+!4.jpg(Before Cropping)!
+!5.jpg(After Cropping)!
 )
 
 How an individual image is cropped can turn a mediocre shot into a powerful image. Crop ruthlessly with the rule-of-thirds in mind. Cut excess or meaningless space from the frame. It distracts the viewer and diminishes impact. The entire frame should work to tell the story.
 
 (
-!6.png(Before Cropping)!
-!7.png(After Cropping)!
+!6.jpg(Before Cropping)!
+!7.jpg(After Cropping)!
 )
 
-Do not amputate. Be careful about cropping people at awkward points, do not cut off hands and feet. Let important shapes complete themselves in the frame. Shapes draw the reader’s eye into the picture,("and") a completed shape helps keep it there.
+Do not amputate. Be careful about cropping people at awkward points, do not cut off hands and feet. Let important shapes complete themselves in the frame. Shapes draw the reader’s eye into the picture, a completed shape helps keep it there.
 
 <hr/>
 
@@ -55,7 +55,7 @@ Even smart phones are capable of images with resolution so great that they can b
 
 h2. Exposure correction
 
-Editing apps like Photoshop Express will allow you to increase or decrease exposure and correct color problems. Images properly exposed and white balance when shot should require little more than a-t- tweak, but images shot under difficult lighting may be dramatically improved in post-production.
+Editing apps like Photoshop Express will allow you to increase or decrease exposure and correct color problems. Images properly exposed and white balance when shot should require little more than at tweak, but images shot under difficult lighting may be dramatically improved in post-production.
 
 <hr/>
 
@@ -63,13 +63,13 @@ h2. Captions/Keywords
 
 h3. Good Caption & Keywords
 
-!9.png!
+!9.jpg!
 
 "New York, NY --  Bubble artist Fan Yang entered the Guinness Book of World Records today for the 13th time with 'The Most Bubble Chamber.' Yang attempted the record as part of his Off-Broadway spectacle, 'The Gazillion Bubble Show.'  Photo credit: John Smock/SIPA Press Key Words: Fan Yang, Guinness Book of World Records, Off-Broadway, New York City Tags: bubbles, performance, children’s show"
 
 h3. Bad Caption & No Keywords
 
-!10.png!
+!10.jpg!
 
 "Men smoking shisha. Doctors say smoking is bad for you."
 
@@ -82,9 +82,9 @@ h1. Things to Remember
 h2. Unethical Manipulation
 
 (
-!11.png(Example of an unethical photo manipulation)!
-!12.png(Example of an unethical photo manipulation)!
-!13.png(Example of an unethical photo manipulation)!
+!11.jpg(Example of an unethical photo manipulation)!
+!12.jpg(Example of an unethical photo manipulation)!
+!13.jpg(Example of an unethical photo manipulation)!
 )
 
 Photo editing tools are very powerful. Reporters should not make up facts or quotes, and photojournalists should not alter images. 
@@ -135,9 +135,9 @@ Correct Answer:4
 
 Question 4
 (
-!14.png(image one)!
-!15.png(image two)!
-!16.png(image three)!
+!14.jpg(image one)!
+!15.jpg(image two)!
+!16.jpg(image three)!
 )
 
 Question:Which of the three photos is unethically edited?

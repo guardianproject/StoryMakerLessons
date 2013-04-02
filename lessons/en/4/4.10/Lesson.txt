@@ -17,8 +17,8 @@ h1. Solution
 h2. Breaking News
 
 (
-!2.png(Example of a breaking news photos)!
-!3.png(Example of a breaking news photos)!
+!2.jpg(Example of a breaking news photos)!
+!3.jpg(Example of a breaking news photos)!
 (
 
 Breaking news events are unplanned events of social importance or interest. This is often reflected in the images we see. A breaking news event can be a bombing or a natural disaster or the unplanned announcement of a political candidate's run for office. The photographer should try to illustrate the key dramatic and narrative elements of the event. Think foreground (subject) and background (context). Often coverage is after the event has happened. Reaction shots --how people are responding to the event or its aftermath -- can make for very powerful images. People sweeping after an earthquake. Celebrating a victory following a battle.
@@ -28,8 +28,8 @@ Breaking news events are unplanned events of social importance or interest. This
 h2. Events
 
 (
-!4.png(Example of an event photo)!
-!5.png(Example of an event photo)!
+!4.jpg(Example of an event photo)!
+!5.jpg(Example of an event photo)!
 )
 
 From elections to trials to political rallies, news events are the bulk of what photographers do. Good photo coverage does more than document a news event, it captures its energy and importance. Ask yourself what visual element of the event best symbolizes the overall story, that is likely your photograph.
@@ -43,8 +43,8 @@ From elections to trials to political rallies, news events are the bulk of what 
 h2. Features
 
 (
-!6.png(Example of a feature photo)!
-!7.png(Example of a feature photo)!
+!6.jpg(Example of a feature photo)!
+!7.jpg(Example of a feature photo)!
 )
 
 Feature stories and photographs are stories that are not tied to a specific news event. A feature can be about a trend -- growing numbers of women learning to drive -- or about something lighthearted and unusual -- a dance theater for children. Features are where news photographers are expected to be creative in their approach to what they shoot. Ask yourself what will best illustrate the event on an emotional level. Think context in your images and think human emotion. What elements -- and what moment -- tell the story in an interesting way?
@@ -54,8 +54,8 @@ Feature stories and photographs are stories that are not tied to a specific news
 h2. Portraits
 
 (
-!8.png(Example of a portrait photo)!
-!9.png(Example of a portrait photo)!
+!8.jpg(Example of a portrait photo)!
+!9.jpg(Example of a portrait photo)!
 )
 
 Photographers frequently shoot portraits to illustrate a profile story about the person pictured or because the person figures heavily in a broader story. Portraits fall into two categories: posed and candids. Posed portraits are set up with the subject looking into the camera or just off camera. Good posed portraits take advantage of nice lighting and capture the subject’s expression in a way that is revealing related to the story. Candid portraits typically show the subject in action doing that thing for which he or she is in the news. Many photographers will shoot both when assigned to do a portrait. It is a good idea to include some contextual elements in the image that provide a hint in the picture as to who the subject is.
@@ -65,8 +65,8 @@ Photographers frequently shoot portraits to illustrate a profile story about the
 h1. Things to Remember
 
 (
-!10.png(Example of an arranged photo)!
-!11.png(Example of an arranged photo)!
+!10.jpg(Example of an arranged photo)!
+!11.jpg(Example of an arranged photo)!
 )
 
 These guidelines are designed to make shooting easier. They should not inhibit you. It is important to note that in some cases photographers are allowed to arrange a shot. This is NEVER permitted with breaking news or general news. Occasionally with feature assignments and more frequently with portraits a photographer can arrange the photograph -- ask the subject to move to better light, introduce contextual elements, or reenact something.

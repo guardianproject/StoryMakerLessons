@@ -10,13 +10,13 @@ h1. Background
 
 Your eye in combination with your brain does an excellent job of calibrating how you perceive color. You will recognize a color as red even if the light source illuminating it is very yellow, making the apparent color orange. You will recognize fleshtones even if the light illuminating the subject is a very greenish-blue fluorescent.
 
-A digital camera can not do that. It has to be calibrated to adjust for different light source’s color temperature. This calibration is measured against absolute white. That is why it is called white balance.
+A digital camera can’t do that. It has to be calibrated to adjust for different light source’s color temperature. This calibration is measured against absolute white. That’s why it is called white balance.
 
 <hr/>
 
 (
 !2.png(Example of a subject lit by a tungesten bulb)!
-!3.png(Example of a subject lit outdoors when it is cloudy)!
+!3.png(Example of a subject lit outdoors when it's cloudy)!
 !4.png(Example of a subject lit outdoors in the sun)!
 !5.png(Example of a subject lit by a fluorescent bulb)!
 )
@@ -26,8 +26,8 @@ Small tungsten bulbs have a very warm temperature, coloring the image more yello
 <hr/>
 
 (
-!6.png(Example of a professional colored photo)!
-!7.png(Example of an unacceptable colored photo)!
+!6.jpg(Example of a professional colored photo)!
+!7.jpg(Example of an unacceptable colored photo)!
 )
 
 Good color management is very important. It makes image much more professional in appearance. dSLRs and many point-and-shoots will allow you calibrate the white balance manually. Many smartphones provide a variety of presets for white balance.
@@ -50,9 +50,9 @@ h1. Things to Remember
 
 h2. AWB (Auto White Balance)
 
-!9.a.png(A common Auto White Balance icon)!
+!9.png(A common Auto White Balance icon)!
 
-Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you are unsure of which of these is the best to go with.
+Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you’re unsure of which of these is the best to go with.
 
 <hr/>
 
@@ -123,7 +123,7 @@ Correct Answer:1,3
 Question 4
 Question:How might you correct the white balance in the image shown here?
 
-!14.png!
+!14.jpg!
 
 Answer 1:Change the white balance option to 'fluorescent' when shooting.
 Answer 2:Adjust the exposure

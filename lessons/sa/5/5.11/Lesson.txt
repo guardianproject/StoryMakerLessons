@@ -1,0 +1,98 @@
+h1. Problem Statement
+
+h2. What is a shot / reverse shot?
+
+!1.png!
+
+<hr/>
+
+h1. Background
+
+You can only point it in one direction at a time. If you want to show an action occurring from different angles at the same time you must film them separately. This is known as a shot / reverse shot.
+
+<hr/>
+
+h1. Solution
+
+To create a shot / reverse shot you record two shots with both in mind. As an example, we will walk through constructing a basic shot / reverse shot of someone typing on their keyboard.
+
+<hr/>
+
+!2.mp4!
+
+The first shot is your subject's face in a medium shot while they are performing an action.
+
+<hr/>
+
+!3.mp4!
+
+The second shot, the reverse shot in this sequence, is a shot of whatever the subject is doing in the first shot. In this case, it is typing on their computer.
+
+<hr/>
+
+!4.mp4!
+
+When you cut these two shots together, it will appear as if the subject is typing on their keyboard. While we used a medium shot in the first shot, it could also be a close up. This is a matter of style on your part, but the other shots in your video will help you make that decision.
+
+That is it. You have enough shots to construct a shot / reverse shot.
+
+<hr/>
+
+This technique also works to show what a subject may be looking at. Either an object, or potentially another person. For instance, if you want to show someone on their phone.
+
+Film their face while they use their phone and then film the phone they are using.
+
+<hr/>
+
+!5.mp4!
+
+You are not limited to using only two shots. Adding more shots allows you to show how the process of the action changes over time. If a task is becoming more difficult, you might show a second shot of the subject appearing interested while writing an email, and end with a look of satisfaction when they send the email.
+
+<hr/>
+
+h1. Things to Remember
+
+!6.mp4!
+
+* They help create the appearance of continuous action in your video.
+* They are popular to use in interviews with a specific interviewee.
+* Good technique to use for getting good b roll.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:What is the smallest number of shots you need to create a shot / reverse shot?
+Answer 1:10 shots
+Answer 2:3 shots
+Answer 3:6 shots
+Answer 4:2 shots
+Correct Answer:4
+
+<hr/>
+
+Question 2
+Question:This technique only works to show what a subject is looking at?
+Answer 1:True, it can only show what they are looking at.
+Answer 2:False, it can also show what they are doing.
+Correct Answer:2
+
+<hr/>
+
+Question 3
+
+Question:What types of shots work best in a shot / reverse shot?
+Answer 1:Long Shot
+Answer 2:Medium Shot
+Answer 3:Establishing Shot
+Answer 4:Detail Shot
+Correct Answer:2,4
+
+<hr/>
+
+Question 4
+Question:True or false: Adding more shots allows you to show how the process of the action being performed changes over time.
+Answer 1:True, each shot can show a different step in the process.
+Answer 2:False, adding shots only confuses the audience.
+Correct Answer:1

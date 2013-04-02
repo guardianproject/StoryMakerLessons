@@ -1,0 +1,73 @@
+h1. Problem Statement
+
+h2. How do I effectively use pseudonyms?
+
+!1.png!
+
+<hr/>
+
+h1. Background
+
+If you or a source are threatened, you must take additional steps to protect the identity of the threatened individual. At-risk journalists and threatened sources often use pseudonyms to protect their true identity. When you communicate digitally you may leave clues to your true identity.
+
+<hr/>
+
+h1. Solution
+
+!2.png!
+
+Those who maintain (or contribute to) a blog or an Internet forum need to be aware that their anonymity will not be guaranteed merely by signing with a pseudonym. Every blog entry records the IP address (http://en.wikipedia.org/wiki/IP_address) of the computer it was sent from, and many ISPs (http://en.wikipedia.org/wiki/ISP) record all traffic that has passed through them. Therefore, if you are publishing sensitive information on a website, you must take precautions not to be found out. There are a variety of methods to disguise your browsing. These will be explained in Lesson 2.9. If you must maintain anonymity online, be sure to use the Tor anonymity network to access your site and publish your content.
+
+<hr/>
+
+h2. Timestamps
+
+!3.png!
+
+If you publish media to a website about government activity in your country by using the Tor network, the authorities will not see that you were sending this information to a particular blog, but they may notice whenever you enter an Internet café a new post appears on the site. This may be linked to you, especially if your Internet café owner writes down your name and the time of your visit. To overcome this difficulty, ask a colleague from another country to post the blog for you. Use a secure webmail service (or encryption) to send the article to them and ask them to wait for a while before publishing it on your blog.
+
+Your identity can be determined not only by the name you choose for yourself or your source. Your identity may also be determined by the trail you leave through your online activity.
+
+<hr/>
+
+h1. Things to Remember
+
+* Be sure to delete your browsing history.
+* Use an incognito window in Chrome or “private browsing” in Firefox.
+* Be sure to disable cookies.
+* Have a colleague who is not threatened publish your media.
+* Set your media to publish automatically at a randomly assigned delay.
+* Install HTTPS Everywhere on Firefox or Chrome.
+* Use an anonymity service whenever you access the internet.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:Why should I use a pseudonym?
+Answer 1:Because its cooler than my real name.
+Answer 2:To protect the identity of myself or my source.
+Answer 3:Flash Gordon. 
+Answer 4:Because my name is already taken on Facebook.
+Correct Answer:2
+
+<hr/>
+
+Question 2
+Question:How may I prevent digital communications trails from revealing my true identity?
+Answer 1:By always using incognito windows.
+Answer 2:By asking colleagues to publish media when I am not online.
+Answer 3:Use Tor to connect to the internet.
+Answer 4:Use two email addresses.
+Correct Answer:1,2,3
+
+<hr/>
+
+Question 3
+Question:If I use a pseudonym my identity will be:
+Answer 1:Completely protected.
+Answer 2:Whatever I tell people it is.
+Answer 3:Only protected if I prevent my communications trails from revealing my identity or location.
+Answer 4:Protected against cursory review.
+Correct Answer:3,4

@@ -1,0 +1,137 @@
+h1. Problem Statement 
+
+h2. How can I manage my mobile data safely?
+
+!1.png!
+
+<hr/>
+
+h1. Background
+
+h2. Information Destruction 
+
+Two important issues to consider when working with information are how to duplicate it and how to destroy it. Computers allow these two processes to be performed quickly and efficiently, human error and carelessness are the most common causes of system malfunctions. This lesson will explain how to delete unnecessary or sensitive information without the possibility of recovery. It will also describe good practice in this area. [1] 
+
+fn1. Frontline Defenders, www.frontlinedefenders.org/manuals/protection
+
+<hr/>
+
+It is virtually impossible to completely erase all information stored on your computer without complete physical destruction of the device. You may think Windows has emptied your ‘Recycle Bin’ or your Mac has emptied the ‘Trash,’ but this is not true. You must take necessary precautions to ensure the data on our machines is properly deleted.
+
+Data recovery is a growing industry, many firms and government agencies have become incredibly advanced at salvaging lost and damaged data. This section will examine the process of permanently deleting unwanted information from your computer."
+
+<hr/>
+
+h2. Data deletion
+
+!2.png(How data deletion works)!
+
+There is no computer function that can delete information. 
+
+Computers only write new information to the hard drive. When you choose to delete a file, you are simply telling the computer that this space is now available to be overwritten with new data (we will call it unallocated space). Your operating system will remove the file and name reference from your screen, making you believe the file is no longer there. It does not remove the actual data from the hard drive. Until you overwrite the exact physical space on the hard drive with new data, the information is still there and visible with the help of software.
+
+<hr/>
+
+h2. Removable Devices
+
+!3.png(How data stores on non-mechanical storage devices)!
+
+It is not only hard drives that store our digital information. CDs, USB memory sticks, and SD cards are used frequently for file storage and transfer. These media also hold on to information after you delete it. CDs can contain recoverable information after they are cut into pieces.
+
+<hr/>
+
+Apart from burning the device to ashes, data can still be recovered. [1] Some system administrators have the task of destroying their company’s old hard drives with a hammer. Others tried to erase the contents of CDs by putting them in a microwave for several seconds. There are certain tools that will prevent the majority of intruders from retrieving your deleted information, without resorting to heavy machinery and kitchen appliances. These do not make the recovery process totally impossible, yet in most cases they will make the task prohibitively expensive.
+
+<hr/>
+
+h2. Wiping
+
+!4.png(How wiping works on a drive)!
+
+The non-violent solution to destroying old data on your hard drive is overwriting it with other random data. This method is known as wiping. You can wipe a single file (and all previous instances) or wipe the ‘empty’ space on your hard drive. The latter action will find all unallocated space (space not used by current files) and overwrite it with random data. Experts agree that at least one random pass is necessary to prevent recovery of your information. You must not only wipe your documents, but all files used by your operating system and collected while you use the computer.
+
+<hr/>
+
+h2. Wiping flash memory
+
+It is impossible to completely and securely wipe SD cards and some other flash memory. This is fairly technical. Essentially, every time you overwrite a given part of the storage, your device uses a predictable measure for this that may be used to decipher what was overwritten.
+
+On a magnetic disk this is generally not of concern, because the device usually overwrites the same physical location. For a flash disk the opposite is true: the device does its best not to overwrite the same physical location. Until this situation changes, data written on flash can only be protected via “full disk encryption."
+
+<hr/>
+
+h2. Full Disk Encryption
+
+!5.png!
+
+If you need to ensure your smartphone data is secure, the only option Small World News recommends currently is to use a smartphone running Android 4.0+ and initiate Full Disk Encryption.
+
+If you are not using a smartphone with Full Disk Encryption be aware that any information or data you put into your phone, contacts lists, email messages, text messages, and any digital media is at risk of being confiscated by the authorities, even if it has been deleted from your phone.
+
+If you are dealing with sensitive media or sources under threat you should ALWAYS use a phone capable of Full Disk Encryption.
+
+<hr/>
+
+Full disk encryption is only possible on Android OS 4.0+ devices. To initiate full disk encryption follow these steps:
+
+* Open the “settings” menu.
+* Under the “Personal” section select the option “Security.” 
+* Within the security menu, there is a section entitled “Encryption.”
+* There are two options in this section, Encrypt Device and Encrypt SD card. If you will be using an SD card be sure to repeat the following steps for the SD card 
+* Select “Encrypt Device.”
+* If you have not created a password for your screenlock you must do so before you will be able to proceed.
+* Now you will be asked to enter your device password.
+* You will be offered an opportunity to select “fast encryption” which will only encrypt your currently used drive space will be encrypted. DO NOT select “fast encryption” if you want your device to be completely secure.
+* Click Encrypt device.
+* This process may take an hour or more to complete.
+
+<hr/>
+
+h1. Things to Remember:
+
+* In the case of smartphones, full disk encryption is the only safe method for protecting data on your device.
+* If your phone enables Full Disk Encryption (is running Android OS 4.0+) you should definitely enable it if you are threatened.
+* You cannot ensure complete deletion of data on your phone.
+* If your phone contains sensitive data and is not running Full Disk Encryption you must be prepared to completely destroy the device and dispose of its parts."
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:What should I do with files if I want to be sure they are deleted?
+Answer 1:Place the file in the trash or recycle bin and select “Empty.“
+Answer 2:Right click the file and select “delete,” “move to trash.” or “move to recycle bin.”
+Answer 3:Only delete files with a program such as Eraser that enables secure wiping.
+Answer 4:Drag the file to the trash or recycle bin.
+Correct Answer:3
+
+<hr/>
+
+Question 2
+Question:My files have been safely deleted if:
+Answer 1:I use a program such as Eraser or BC Wipe.
+Answer 2:I put them in the “trash can.”
+Answer 3:My computer has written new data over them.
+Answer 4:I do a complete formatting of the free space on my device.
+Correct Answer:1,4
+
+<hr/>
+
+Question 3
+Question:Which of the following recording media cannot be securely deleted via a device?
+Answer 1:Internal hard drives.
+Answer 2:SD cards.
+Answer 3:CD-Rs.
+Answer 4:External hard drives.
+Correct Answer:2,3
+
+<hr/>
+
+Question 4
+Question:How can i destroy files that cannot be securely deleted via device?
+Answer 1:Break the media in half.
+Answer 2:Format the media.
+Answer 3:Break the media into as many small pieces as possible.
+Answer 4:Format the media twice.
+Correct Answer:3

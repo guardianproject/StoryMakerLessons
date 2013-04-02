@@ -1,0 +1,132 @@
+h1. Problem Statement
+
+h2. There is a color shift to many of my pictures. Many are too yellow. Some are too blue. What is the problem and what can I do about it?
+
+!1.png!
+
+<hr/>
+
+h1. Background
+
+Your eye in combination with your brain does an excellent job of calibrating how you perceive color. You will recognize a color as red even if the light source illuminating it is very yellow, making the apparent color orange. You will recognize fleshtones even if the light illuminating the subject is a very greenish-blue fluorescent.
+
+A digital camera can’t do that. It has to be calibrated to adjust for different light source’s color temperature. This calibration is measured against absolute white. That’s why it is called white balance.
+
+<hr/>
+
+(
+!2.png(Example of a subject lit by a tungesten bulb)!
+!3.png(Example of a subject lit outdoors when it's cloudy)!
+!4.png(Example of a subject lit outdoors in the sun)!
+!5.png(Example of a subject lit by a fluorescent bulb)!
+)
+
+Small tungsten bulbs have a very warm temperature, coloring the image more yellow. Daylight on an overcast, cloudy day has a very high light temperature coloring the image blue. Other light sources -- sunlight, fluorescent light, shade -- all fall in the middle. Color temperature has nothing to do with the amount of light.
+
+<hr/>
+
+(
+!6.jpg(Example of a professional colored photo)!
+!7.jpg(Example of an unacceptable colored photo)!
+)
+
+Good color management is very important. It makes image much more professional in appearance. dSLRs and many point-and-shoots will allow you calibrate the white balance manually. Many smartphones provide a variety of presets for white balance.
+
+<hr/>
+
+h1. Solution
+
+!8.png(Icons for the common white balance options)!
+
+If your camera allows you to set the white balance manually, do it. Your smartphone may have a button or menu option for white balance. It will offer several icons representing- five or six- common light sources. Pick the one that most represents the shooting conditions you are working under.
+
+<hr/>
+
+If your smartphone cannot control white balance manually, you can correct color with post-production apps (for more on this, see the section on post-production). If the color temperature is way off, it is VERY IMPORTANT to make adjustments before publishing your images.
+
+<hr/>
+
+h1. Things to Remember
+
+h2. AWB (Auto White Balance)
+
+!9.png(A common Auto White Balance icon)!
+
+Used for shooting anywhere. Camera does its best to guess what the right setting should be. Can provide poor results if camera guesses wrong. This is the setting you should use if you’re unsure of which of these is the best to go with.
+
+<hr/>
+
+h2. Daylight
+
+!10.png(A common Daylight White Balance icon)!
+
+Used for shooting outdoors. This setting will give your images a very “cool” or a slight blue tint to them. When shooting indoors, images will have an orange tint.
+
+<hr/>
+
+h2. Cloudy
+
+!11.png(A common Cloudy White Balance icon)!
+
+Used for shooting outdoors. This setting will give your images a slightly “warmer” color to them. While the daylight option is technically the more correct white balance, using the cloudy setting gives a very appealing image.
+
+When shooting indoors, this setting will give your images a strong orange tint.
+
+<hr/>
+
+h2. Incandescent
+
+!12.png(A common Incandescent White Balance icon)!
+
+Used for shooting indoors, with traditional small light bulbs. When shooting outdoors, images will have a strong blue tint.
+
+<hr/>
+
+h2. Fluorescent
+
+!13.png(A common Fluorescent White Balance icon)!
+
+For shooting indoors, with the long tube fluorescent lights. When shooting outdoors, images will have a blue tint.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:Which best describes what white balance means?
+Answer 1:The amount of light that strikes the sensor.
+Answer 2:The color temperature of the light striking the sensor, ranging from very warm (yellow) to cool (blue).
+Answer 3:The text color of the caption.
+Answer 4:None of the above.
+Correct Answer: 2
+
+<hr/>
+
+Question 2
+Question:TRUE or FALSE: Whenever possible you should always adjust the white balance in the camera or in post production.
+Answer 1:TRUE
+Answer 2:FALSE
+Correct Answer:2
+
+<hr/>
+
+Question 3
+Question:How can you control the white balance with your android smartphone or point and shoot camera? (It can be more than one):
+Answer 1:Manually set the white balance to the icon that best represents the light color conditions under which you are shooting.
+Answer 2:It is a good idea to calibrate with a white piece of paper as video journalists do. 
+Answer 3:Adjust the white balance in post production.
+Answer 4:All of the above.
+Correct Answer:1,3
+
+<hr/>
+
+Question 4
+Question:How might you correct the white balance in the image shown here?
+
+!14.jpg!
+
+Answer 1:Change the white balance option to 'fluorescent' when shooting.
+Answer 2:Adjust the exposure
+Answer 3:Adjust the light temperature in post-production by adding yellow.
+Answer 4:All of the above
+Correct Answer:3

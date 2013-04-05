@@ -1,6 +1,6 @@
 h1. Problem Statement
 
-h2. What makes good reporting? It must to be fact-based rather than based on opinion, rumor or personal interest.
+h2. What makes good reporting? It must be fact-based rather than based on opinion, rumor or personal interest.
 
 !1.png!
 

@@ -104,7 +104,7 @@ TIPS
 <hr/>
 
 !12.jpg(education, Afghanistan, girls, school, English language)!
-!13.jpg(flag, children, Libya, revolution, Arab spring)!
+!13.png(Oil, pipeline, welding, Georgia, resources, Caucasus)!
 !14.jpg(election, Arab, Arab-American, United States, politics, women, girls, vote, voting)!
 
 <hr/>

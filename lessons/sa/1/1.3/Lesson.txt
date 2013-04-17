@@ -96,7 +96,7 @@ Attribute to the source whenever you use someone else’s words or ideas, whethe
 The viewer should be able to immediately identify the source of any information provided. Information taken directly from or paraphrased from other news sources is no exception.
 
 "... according to the BBC"
-"... as reported in Al Masry Al Youm"
+"... as reported in Cape Times"
 "... as first present by Al Jazeera"
 
 

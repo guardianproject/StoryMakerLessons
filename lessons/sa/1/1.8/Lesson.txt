@@ -1,6 +1,6 @@
 h1. Problem Statement
 
-h2. The Arab region is today experiencing a profound change in its media. You are at the core of a transition that has resulted in more democratic governments and greater media freedom in several countries and various stages of transition in others. Yet media law in the region remains weak at best and at worst has been used as a tool to silence journalists. How should you navigate the ongoing change in media law?
+h2. The world is today experiencing a profound change in media. You are at the core of a transition that has resulted in more democratic governments and greater media freedom in several countries and various stages of transition in others. Yet media law in the region remains weak at best and at worst has been used as a tool to silence journalists. How should you navigate the ongoing change in media law?
 
 !1.png!
 
@@ -12,7 +12,7 @@ Journalists everywhere work under at least some small degree of legal restrictio
 
 In countries with well-developed media laws, criticism of government and presentation of unpopular ideas is permitted. Some degree of public access to government records is also guaranteed.
 
-Several countries in the Middle East are now drafting new media laws as they overhaul their constitutions. Advocacy organizations such as the Committee to Protect Journalists are concerned vague language in emerging laws may be used against journalists.
+Several countries around the world are now drafting new media laws as they overhaul their constitutions. Advocacy organizations such as the Committee to Protect Journalists are concerned vague language in emerging laws may be used against journalists.
 
 <hr/>
 
@@ -40,7 +40,7 @@ h3. Advocate for change
 
 !4.png!
 
-One of the key characteristics of the shift in media throughout the Arab region is the blending of media with media advocacy. Citizen journalists are breaking through barriers in how journalism is defined at the same time they are covering stories. Pool resources with others to create a knowledge base. Seek support from legal organizations within your country. Seek support and information from international organizations like the Committee to Project Journalists.
+Citizen journalists are breaking through barriers in how journalism is defined at the same time they are covering stories. Pooling resources with others to create a knowledge base. Seek support from legal organizations within your country. Seek support and information from international organizations like the Committee to Project Journalists.
 
 <hr/>
 
@@ -54,7 +54,7 @@ This issue will be addressed more fully in the digital security module. In short
 
 h1. Things to Remember
 
-Inevitably the development of media law in the Arab region and in individual countries will reflect their unique cultures and national interests. Nonetheless, you have to be willing to push boundaries. Even in many countries with fairly liberal laws self-censorship is an issue among journalists. Some journalists are uncomfortable covering highly controversial cultural issues such as the rights of women or tribal disputes. Some journalists are reluctant to cover issues that tarnish national image such as widespread alcohol abuse or corruption within popular institutions. Sunshine is the best disinfectant. If these issues have relevance to the public interest, people need to know and it is your job to tell them.
+Inevitably the development of media law in individual countries will reflect their unique cultures and national interests. Nonetheless, you have to be willing to push boundaries. Even in many countries with fairly liberal laws self-censorship is an issue among journalists. Some journalists are uncomfortable covering highly controversial cultural issues such as the rights of women or tribal disputes. Some journalists are reluctant to cover issues that tarnish national image such as widespread alcohol abuse or corruption within popular institutions. Sunshine is the best disinfectant. If these issues have relevance to the public interest, people need to know and it is your job to tell them.
 
 <hr/>
 

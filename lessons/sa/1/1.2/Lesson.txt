@@ -30,15 +30,15 @@ Another challenge is separating fact from opinion. You need to keep your own fee
 Examples of Fact and Opinion:
 
 * WHAT
-Good:  Voters in Tripoli took to the polls today in the nation’s first-ever democratic election.
-Bad: Today is a day of celebration as our great nation ushers in a new, more prosperous era.
+Good: The initiative to bring about a more thorough response to deal with TB/HIV and MDR-TB is being funded by the World Health Organization.
+Bad: There will be a new program to help sick people, which will be funded by an NGO.
 
 * WHERE
-Good: The match was played on a makeshift former university football practice field outside of Port Said. 
+Good: The match was played on a makeshift former university football practice field outside of Cape Town. 
 Bad: The game was not played at the normal stadium. 
  
 * WHEN
-Good: Originally scheduled for the evening of April 6, 2012, the performance by Aman Halawa has been moved to April 14.
+Good: Originally scheduled for the evening of April 6, 2012, the performance by Miriam Makeba has been moved to April 14.
 Bad: The world-recognized musician’s performance was planned for yesterday but has been moved to next week.
 
 * WHY

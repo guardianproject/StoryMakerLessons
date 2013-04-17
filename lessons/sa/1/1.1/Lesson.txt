@@ -10,7 +10,7 @@ h1. Background
 
 !2.png!
 
-Social platforms can reach an unprecedented international audience. In the Middle East and elsewhere during the last few years several significant stories appeared on Twitter, Facebook and YouTube before they reached television outlets such as Al Jazeera, CNN or the BBC. The combination of a viral story online and television coverage can quickly make an issue a leading news story and force a response from the institutions involved.
+Social platforms can reach an unprecedented international audience. In the last few years several significant stories appeared on Twitter, Facebook and YouTube before they reached television outlets such as CNN, BBC, or Al Jazeera. The combination of a viral story online and television coverage can quickly make an issue a leading news story and force a response from the institutions involved.
 
 <hr/>
 
@@ -38,7 +38,7 @@ h2. Tips
 
 * Smart text in the form of captions, keywords, tags, titles and stories is essential even for video, photo and audio stories. Search engines and the editors who use them will not be able to find your story without good search terms associated with your story. Furthermore, once editors find your story, the text will help them to understand and verify your reporting. (More on this in the next section).
 * No matter the tool, the presentation should be technically professional. For example, shaky and out-of-focus video with lots of zooms and pans is not technically professional. (More on this in the video section.)
-* Try to understand what sort of story you are doing and how it fits into broader coverage of the issue. Different kinds of stories are structured in unique ways. For example, a breaking story about a bombing will take a different form -- require a different style of presentation and even different information -- than a character profile about an injured rebel fighter and his feelings about an upcoming election. In addition, large news organizations often combine several stories of different types to create a “package.” Understand how your story will fit into this broader coverage. (More on this in the section on story types.)
+* Try to understand what sort of story you are doing and how it fits into broader coverage of the issue. Different kinds of stories are structured in unique ways. For example, a breaking story about a bombing will take a different form -- require a different style of presentation and even different information -- than a character profile about a popular football player and his long career. In addition, large news organizations often combine several stories of different types to create a “package.” Understand how your story will fit into this broader coverage. (More on this in the section on story types.)
 * Do not present what you do not know or cannot verify. A more limited but completely accurate story is more valuable than one that is far-reaching but based on conjecture.
 * It is important to link in as well as link out with social. Become part of groups, boards and other discussion related to your issues or regions of coverage.
 

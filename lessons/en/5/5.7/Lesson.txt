@@ -149,14 +149,6 @@ Answer 1:True
 Answer 2:False
 Correct Answer:1
 
-<hr/>
-
-Question 5
-Question:Which of these videos demonstrates good framing for an interview?
-Answer 1:!12.mp4!
-Answer 2:!13.mp4!
-Answer 3:!14.mp4!
-Correct Answer:1
 
 <hr/>
 

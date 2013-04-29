@@ -34,15 +34,11 @@ If it is windy, your sound will not be audible. Point your camera away from the 
 
 h2. People / Crowds
 
-!4.mp4(Example of how to properly record a subject in a crowd)!
-
 Crowds and busy streets make a lot of noise. That may make your desired sound inaudible. Do not film interviews with large crowds in the background. If you cannot go to a better location, point your camera away from the crowd and have your subject face the crowd.
 
 <hr/>
 
 h2. Machines
-
-!5.mp4(Example of machinery noise in a video recording)!
 
 Generators, air conditioners, refrigerators, and fluorescent lights are all machines that create harsh audio distractions. Turn off the machines if possible, or change your location if you can- noise from fluorescent lighting is usually unavoidable.
 

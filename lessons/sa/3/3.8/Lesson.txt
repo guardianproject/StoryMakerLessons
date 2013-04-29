@@ -18,8 +18,6 @@ h1. Solution
 
 h2. Voice Over Translation
 
-!2.mp3(Example of a voice over translation)!
-
 One successful style of voice over translation allows the first 3 to 6 seconds of the original voice to play on its own. After this, the producer lowers the volume (during the editing process) and adds in the translation audio in a different but clear voice.
 
 Voice Over Translation uses your program time more efficiently and assists  the audio segment to remain within your allotted time. However, the audience will lose the impact that an original, unmodified voice can have.

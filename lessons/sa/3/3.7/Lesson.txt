@@ -40,8 +40,6 @@ To submit a podcast to iTunes you can simply go to iTunes (free to install and u
 
 h1. Things to Remember
 
-!5.png(Promoting your project on Twitter)!
-
 * If you have a limited budget and you want a host that can handle large demand, upload your audio project to archive.org.
 * If you have a site where you want your audio projects to be featured and available for listening, use embed codes from 3rd party sites like Soundcloud or archive.
 * Note that at present, Soundcloud is not a good choice for hosting your recordings for a podcast, they do not allow unrestricted direct downloads.

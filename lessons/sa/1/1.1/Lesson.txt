@@ -8,13 +8,9 @@ h2. You are dependent almost exclusively on mobile devices, Internet contacts an
 
 h1. Background
 
-!2.png!
-
 Social platforms can reach an unprecedented international audience. In the last few years several significant stories appeared on Twitter, Facebook and YouTube before they reached television outlets such as CNN, BBC, or Al Jazeera. The combination of a viral story online and television coverage can quickly make an issue a leading news story and force a response from the institutions involved.
 
 <hr/>
-
-!3.png!
 
 Top news organizations cull social media for coverage. They are looking for compelling stories that are well-presented and that they can verify. Citizen journalists who understand what large news organizations are looking for - and what their concerns are -- can build long-standing relationships and an unparalleled chance to get their story viewed by those who influence policy both nationally and internationally.
 
@@ -45,8 +41,6 @@ h2. Tips
 <hr/>
 
 h1. Things to Remember
-
-!4.jpg(Example of a seamless content on Twitter)!
 
 It is important to have a seamless web of content through what ever social platforms you use. This will help you build a single, consistent presence that will advance your profile and build credibility. However, safety as it relates to your identity can be a huge issue when using social media. (See the security section.)
 

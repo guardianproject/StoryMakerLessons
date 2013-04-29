@@ -18,8 +18,6 @@ h1. Solution
 
 h2. Breaking News
 
-!2.mp3(Example of a breaking news report)!
-
 A breaking news report (hard news) requires a piece of audio that explains what is happening, summarizing the key points, the main actors, and any information that is known so far. Because such reports are about something that may still be going on, sometimes there will be unanswered questions that will be addressed in follow-up reports. Breaking news stories may feature a reporter at the location of the action, with his/her voice explaining what is known so far and what can be seen on the ground for that vantage point. In some cases a breaking news story can/must be introduced from a remote location based on second hand reports when it is not possible to be there. It is crucial that you will at least cover the following questions: Who, What, Where, Why, When and How.
 
 <hr/>
@@ -45,8 +43,6 @@ Features can be carried out in a few different styles, which include the use of 
 <hr/>
 
 h1. Things to Remember
-
-!5.mp3(Example of a story using multiple contributors)!
 
 * Be sure to have first hand observations and interviews whenever possible.
 * It is good to have more than one voice in a story.

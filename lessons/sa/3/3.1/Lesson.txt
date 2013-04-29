@@ -18,8 +18,6 @@ h1. Solution
 
 h2. General Guidelines
 
-!3.mp3(Example of an over modulated audio recording)!
-
 !4.mp3(Example of how to record pre-roll and post-roll)!
 
 Whether you are recording an interview, a report, or capturing ambient sounds to use in your story, one simple but important point is to ensure you are recording at a good level. The last thing you want is to think that you've recorded something usable for your final story and learn you didn't record anything or missed a piece, or your levels were so bad the recording is not understandable. Before you hit record, consider wearing headphones to monitor the recording as it is happening. Test the level before you record, make sure it is neither too loud or too quiet, and that sharp or sudden sounds won't cause the recording to over modulate. Once you are recording, be sure to wait a few seconds before speaking, and do the same before you hit the button to pause or stop recording, give it a few extra seconds of silence.
@@ -27,10 +25,6 @@ Whether you are recording an interview, a report, or capturing ambient sounds to
 <hr/>
 
 h2. Using audio sources
-
-!5.mp3(Example of using audio sources)!
-
-!6.mp3(Example of using audio sources)!
 
 You are painting a picture and creating the story in the mind of a listener. You can paint that picture using many sources of audio, including people's voices, the sounds of an event, your own (dynamic and emotional) voice explaining or narrating a story, and of course sounds that set the scene for whatever your topic. Any given topic can have multiple sources of audio that when used together will tell a great story that listeners will be able to see and feel.
 

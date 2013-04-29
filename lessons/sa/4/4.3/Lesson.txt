@@ -8,12 +8,6 @@ h2. How do I write a basic caption to accompany a photograph?
 
 h1. Background
 
-!2.jpg!
-
-h3. Caption: 10 June, 2012 – Tripoli, Libya -- Football fans celebrate a 2-1 victory over Cameroon in  World Cup qualifying match.
-h3. Keywords: Tripoli, Libya, Cameroon, World Cup, sports, Middle East.  
-h3. Tags: Sports, celebration, flags, World Cup, fans
-
 Every photograph needs a caption and keywords/tags. A good caption provides the reader basic information and context to understand a photograph and its relevance to the news: where the photo was taken, when it was taken, and a very brief description of what's in the photo. Search engines and search fields on sites like YouTube can't recognize images. They can only recognize text associated with the image. Keywords and tags, along with the caption, help viewers find the images through search engines.
 
 <hr/>

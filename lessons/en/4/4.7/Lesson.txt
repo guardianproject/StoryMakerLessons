@@ -93,7 +93,7 @@ Question 2
 Question:TRUE or FALSE: When photographing a breaking news event, you may not have time initially to edit your images. Post one or two and then replace them later with better images.
 Answer 1:TRUE
 Answer 2:FALSE
-Correct Answer:2
+Correct Answer:1
 
 
 <hr/>

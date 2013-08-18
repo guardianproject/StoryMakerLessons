@@ -116,7 +116,7 @@ Answer 1:Manually set the white balance to the icon that best represents the lig
 Answer 2:It is a good idea to calibrate with a white piece of paper as video journalists do. 
 Answer 3:Adjust the white balance in post production.
 Answer 4:All of the above.
-Correct Answer:1,3
+Correct Answer:4
 
 <hr/>
 

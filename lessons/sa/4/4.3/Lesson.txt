@@ -8,6 +8,12 @@ h2. How do I write a basic caption to accompany a photograph?
 
 h1. Background
 
+!2.jpg!
+
+h3. Caption: 3 February, 2012 - Easter Island, Chile - Replicas of the moai, the giant stone heads for which the island is best known, are made in all shapes and sizes here.
+h3. Keywords: 6 Easter Island, Chile, Moai, Statues, Crafts,
+h3. Tags: Easter Island, Chile, Travel, South America, Tourism,
+
 Every photograph needs a caption and keywords/tags. A good caption provides the reader basic information and context to understand a photograph and its relevance to the news: where the photo was taken, when it was taken, and a very brief description of what's in the photo. Search engines and search fields on sites like YouTube can't recognize images. They can only recognize text associated with the image. Keywords and tags, along with the caption, help viewers find the images through search engines.
 
 <hr/>

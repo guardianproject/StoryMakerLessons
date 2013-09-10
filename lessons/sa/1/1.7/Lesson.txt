@@ -1,4 +1,4 @@
-h1. Problem Statement
+ h1. Problem Statement
 
 h2. Text is a powerful tool when used with other media elements. How is text best used for mobile devices?
 
@@ -44,6 +44,15 @@ Examples of text in the lead role:
 * Experts say many of the fires could have been easily avoided if the factories had taken the right precautions. Many factories are in cramped neighborhoods, have too few fire escapes and widely flout safety measures.
 
 <hr/>
+
+(
+!2.jpg(3 February, 2012 -- Easter Island, Chile -- Seven moai, the giant stone heads for which the island is best known, stand along the coast at sunrise. Easter Island is a Polynesian island in the southeastern Pacific Ocean. It is most famous for its 887 remaining statues created hundreds of years ago by the early Rapa Nui people.)!
+!3.jpg(3 February, 2012 -- Easter Island, Chile -- Replicas of the moai, the giant stone heads for which the island is best known, are made in all shapes and sizes here. They have become an icon known the World over. Easter Island is a Polynesian island in the southeastern Pacific Ocean. It is most famous for its 887 remaining statues created hundreds of years ago by the early Rapa Nui people.)!
+!4.jpg(3 February, 2012 -- Easter Island, Chile -- Thousands of tourists visit the remote island each year to see the moai, the giant stone heads for which the island is best known. Easter Island is a Polynesian island in the southeastern Pacific Ocean. It is most famous for its 887 remaining statues created hundreds of years ago by the early Rapa Nui people.)!
+!5.jpg(3 February, 2012 -- Easter Island, Chile -- Lilian Lape, a  Rapa Nui, the native inhabitiants of the island, makes a replica moai, the stone statues for which the island is best known. Many Rapa Nui still work in traditional crafts, but growing number of young people are leaving the island for jobs elsewhere. Easter Island is a Polynesian island in the southeastern Pacific Ocean. It is most famous for its 887 remaining statues created by the early Rapa Nui people.)!
+!6.jpg(3 February, 2012 -- Easter Island, Chile -- Many of the 887 known moai, the stone statues for which the island is best known, have been restored, but many more dot the island, ignored and left to deteriorate. Easter Island is a Polynesian island in the southeastern Pacific Ocean. The statues were created by the early Rapa Nui people.)!
+!7.jpg(3 February, 2012 -- Easter Island, Chile -- Representatives from hotels and tour business wait for the daily flight at the airport.  Tourism is the core industry on the island, but environmentalists and anthropologists are concerned that the rapid growth in tourism here maybe be too much for the fragile island. Easter Island is a Polynesian island in the southeastern Pacific Ocean. It is most famous for its 887 moai, the giant stone head statues created by the early Rapa Nui people.)!
+)
 
 When writing photo captions, the same principles of good writing apply. A photo caption should be no more than two sentences and include the following information:
 

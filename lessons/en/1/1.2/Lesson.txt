@@ -53,7 +53,7 @@ Bad: Many people came and shouted for the health minister to be fired, blaming h
 
 h1. Solution
 
-When reporting a story ask yourself if you have collected the information common citizens unfamiliar with the issue will need to understand it. This begins with answering five essential questions. In English they are called the Five Ws:
+When reporting a story ask yourself if you have collected the information common  citizens unfamiliar with the issue will need to understand it. This begins with answering five essential questions. In English they are called the Five Ws:
 
 * Who is the story about?
 * What happened?

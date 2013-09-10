@@ -1,4 +1,4 @@
-h1. Problem Statement
+ h1. Problem Statement
 
 h2. Text is a powerful tool when used with other media elements. How is text best used for mobile devices?
 

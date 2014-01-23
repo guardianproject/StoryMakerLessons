@@ -1,22 +1,22 @@
 h1. Problem Statement
 
-h2. How do I create a story that will be satisfying to my audience?
+h2. How do I create news that will be satisfying to my audience? News that works like a real story.
 
 <hr/>
 
 h1. Background
 
-Good stories first introduce us to a central idea, often a conflict or question, and a character. They then develop the idea toward some sort of revelation or confrontation, called the climax. The climax is the emotional peak of the story. In a good story everything that precedes the climax works to build tension toward it.
+Good stories first introduce us to a central idea, often a conflict or question, and a character. They develop the idea along an arc of tension toward some sort of revelation or confrontation, called the climax. The climax is the emotional peak of the story. In a good story everything that precedes the climax builds toward the climax.
 
-One common problem with a lot of news coverage is that there is no story structure and no climax. Viewers are not drawn through a clear story arc and no climax is delivered. Facts are simply strung together one after another and present as little more than a list of facts; The story moves from beginning to end without dramatic tension nor excitement. 
+One common problem with a lot of news coverage is that there is no story structure and no climax. Viewers are not drawn through a defined story arc and no climax is delivered. Information is simply strung together and presented as little more than a list of facts; the story moves from beginning to end without dramatic tension or excitement. 
 
 <hr/>
 
 h1. Solution
 
-Journalists need to think about structure and climax when scripting and reporting stories. During the climax of a story the central question is answered. In a good story, there will be steps or events in the story that increase the tension and entice the audience as the story progresses to the climax. But the climax is the moment the story’s central question is answered. 
+Journalists need to think about structure and climax when scripting and reporting stories. During the climax of a story the central question is answered. In a good story, there will be steps or events that increase tension and entice the audience as the story progresses to the climax. But the climax is the moment the story's central question is answered. 
 
-The climax is where the story answers questions like those asked in the last lesson:
+The climax is where the story answers questions like those asked in lesson 6.1 Central Question:
 
 * Will the car crash victim live or die?
 * Does the president resign or keep her job?
@@ -24,11 +24,11 @@ The climax is where the story answers questions like those asked in the last les
 
 <hr/> 
 
-It is vital that climax answers the story’s central question, otherwise the story will not seem complete, and the audience will be left unsatisfied and may feel cheated. Here are some examples of climaxes that answer a central question:
+It is vital that climax answers the story's central question, otherwise the story will not seem complete, and the audience will be left unsatisfied and may feel cheated. Here are some examples of climaxes that answer a central question:
 
-* Central question – Will the politician prove his innocence? / Climax  - He is found guilty of corruption.
-* Central question – Will the hurricane destroy the village? / Climax  - Only ten houses were left standing.
-* Central question – Is the celebrity the father of this woman’s child? - Climax  - DNA test results show he is not the father.
+* Central question: Will the politician prove his innocence? / Climax  - He is found guilty of corruption.
+* Central question: Will the hurricane destroy the village? / Climax  - Only ten houses were left standing.
+* Central question: Is the celebrity the father of this woman’s child? - Climax  - DNA test results show he is not the father.
 
 <hr/>
 
@@ -36,7 +36,7 @@ h2. Things to Remember
 
 * The climax should answer your central question.
 * The material you were able to record limits the climax you can present, and may alter your central question
-* Consider the potential of your own voice to answer the climax using narration, if it is not clear from your images, but never create facts that aren’t there.
+* Consider the potential of your own voice to answer the climax using narration, if it is not clear from your images, but never create facts that aren't there.
 
 Now you can practice identifying climaxes. 
 
@@ -54,7 +54,7 @@ Correct Answer:1,3
 <hr/>
 
 Question 2
-Question: In these stories about a demonstration in the city’s main square, which climax answers the central questions? (Remember it can be more than one.)
+Question: In these stories about a demonstration in the city's main square, which climax answers the central questions? (Remember it can be more than one.)
 Answer 1:Will the arrested people be charged or released? - All except one demonstrator was released.
 Answer 2:Is the president going to resign? - The president refuses to resign. 
 Answer 3:Are the police going to break up the demonstration? - The police join the demonstrators. 
@@ -71,3 +71,4 @@ Answer 2:Will he ever play another game? - He has surgery to repair his knee.
 Answer 3:Will the football club remove him from the team? - He retires from playing football. 
 Answer 4:Will his transfer deal still go ahead? - The other club buys him for half the original fee. 
 Correct Answer:1,3,4
+

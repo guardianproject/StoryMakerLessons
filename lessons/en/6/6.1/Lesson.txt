@@ -84,4 +84,3 @@ Answer 5:Is the football club going to sack him?
 Answer 6:Will his transfer deal still go ahead?
 Answer 7:Why are so many footballers getting injured these days? 
 Correct Answer:1,4,5,6
-

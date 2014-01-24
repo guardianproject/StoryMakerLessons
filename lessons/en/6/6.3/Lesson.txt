@@ -1,1 +1,66 @@
-h1. Problem Statementh2. How do I ensure my story has a clear resolution? 	<hr/>h1. Background.Stories need a clear structure. They need a beginning, middle, and end. They need a central question, an arc, and a climax. They also need a resolution. The resolution of a good story comes after the climax.  The resolution is where the audience discovers the consequence, or impact, of the climax.  The climax usually brings a significant decision or event. The resolution is where the audience learns the result of that decision or event. <hr/>h1. SolutionYou need to structure your reporting and your story structure to provide a resolution. You need to show the impact our outcome of the climax. This could be the outcome of a new policy that places a higher tax on oil. This could be the result of cuts in school funding. This could be the impact of a new bus line reaching a previously underserved community. <hr/>Realistically in a news environment, sometimes you will need to make it clear there is no resolution – nothing is changing as a result of the story and the climax. For example, you might do a story about a poorly run hospital in which hospital administrators and local officials promise things will change. Your climax is the promise itself or some dramatic illustration of the problem. Your resolution might show that, in fact, nothing has changed. <hr/>The following examples build on the discussion in Lesson 6.2 Climax.* Climax  - The politician is found guilty of corruption - Resolution – he commits suicide.* Climax  - Only ten houses were left standing after the hurricane. - Resolution – everyone leaves the village and it becomes a ghost town. * Climax  - DNA results show the celebrity is not the father of the woman’s child - Resolution – he sues her for defamation. <hr/>h2. Things to Remember* The resolution explains the impact of your story’s climax.* The resolution should tie the story together, completing the arc that begins with your central question, and proceeds to the eventual climax.* In a news environment, your resolution may function not to end the story, but introduce the next step of your coverage, introducing your next central question.Now you can practice identifying strong resolutions.<hr/>h1. QuizQuestion 1Question:In our two correct climax stories about the outbreak of measles in a community, which of these are resolutions (consequences) to their climaxes? Answer 1:Climax : 50% of parents brought their children for vaccination against measles.  Resolution – the threat of measles spreading still remains.Answer 2:Climax - All infected children in the community are kept at home until they are all no longer infectious.  Resolution – The epidemic does not spread and the town’s parents become national heroes. Correct Answer:1,2<hr/>Question 2Question:In these stories about a demonstration in the city’s main square, which of these resolutions properly follow the climax?Answer 1:Climax - All except one demonstrator was released. - Resolution – The demonstrations continue. Answer 2:Climax - The president refuses to resign. - Resolution – She is the second female president of the country.  Answer 3:Climax - The police join the demonstrators. - Resolution – the army are ordered to replace the police in defending the parliament building. Correct Answer:1,3<hr/>Question 3Question:In these stories about an injured football player, which of these resolutions properly follow the climax?Answer 1:Climax - He just makes it into the world cup squad, but does not play in a single match. - Resolution – His team are disqualified from the world cup. Answer 2:Climax - He retires from playing football.  Resolution – His wife leaves him.Answer 3:Climax - The other club buys him for half the original fee.  Resolution – He loses his advertising contracts. Correct Answer:2,3
+h1. Problem Statement
+
+h2. How do I ensure my story has a clear resolution? 
+	
+<hr/>
+
+h1. Background.
+
+Stories need a clear structure. They need a beginning, middle, and end. They need a central question, an arc, and a climax. They also need a resolution. The resolution of a good story comes after the climax.  The resolution is where the audience discovers the consequence, or impact, of the climax.  The climax usually brings a significant decision or event. The resolution is where the audience learns the result of that decision or event. 
+
+<hr/>
+
+h1. Solution
+
+You need to structure your reporting and your story structure to provide a resolution. You need to show the impact our outcome of the climax. This could be the outcome of a new policy that places a higher tax on oil. This could be the result of cuts in school funding. This could be the impact of a new bus line reaching a previously underserved community. 
+
+<hr/>
+
+Realistically in a news environment, sometimes you will need to make it clear there is no resolution – nothing is changing as a result of the story and the climax. For example, you might do a story about a poorly run hospital in which hospital administrators and local officials promise things will change. Your climax is the promise itself or some dramatic illustration of the problem. Your resolution might show that, in fact, nothing has changed. 
+
+<hr/>
+
+The following examples build on the discussion in Lesson 6.2 Climax.
+
+* Climax  - The politician is found guilty of corruption - Resolution – he commits suicide.
+* Climax  - Only ten houses were left standing after the hurricane. - Resolution – everyone leaves the village and it becomes a ghost town. 
+* Climax  - DNA results show the celebrity is not the father of the woman’s child - Resolution – he sues her for defamation. 
+
+<hr/>
+
+h2. Things to Remember
+
+* The resolution explains the impact of your story’s climax.
+* The resolution should tie the story together, completing the arc that begins with your central question, and proceeds to the eventual climax.
+* In a news environment, your resolution may function not to end the story, but introduce the next step of your coverage, introducing your next central question.
+
+Now you can practice identifying strong resolutions.
+
+<hr/>
+
+h1. Quiz
+
+Question 1
+Question:In our two correct climax stories about the outbreak of measles in a community, which of these are resolutions (consequences) to their climaxes? 
+Answer 1:Climax : 50% of parents brought their children for vaccination against measles.  Resolution – the threat of measles spreading still remains.
+Answer 2:Climax - All infected children in the community are kept at home until they are all no longer infectious.  Resolution – The epidemic does not spread and the town’s parents become national heroes. 
+Correct Answer:1,2
+
+<hr/>
+
+Question 2
+Question:In these stories about a demonstration in the city’s main square, which of these resolutions properly follow the climax?
+
+Answer 1:Climax - All except one demonstrator was released. - Resolution – The demonstrations continue. 
+Answer 2:Climax - The president refuses to resign. - Resolution – She is the second female president of the country.  
+Answer 3:Climax - The police join the demonstrators. - Resolution – the army are ordered to replace the police in defending the parliament building. 
+Correct Answer:1,3
+
+<hr/>
+
+Question 3
+Question:In these stories about an injured football player, which of these resolutions properly follow the climax?
+Answer 1:Climax - He just makes it into the world cup squad, but does not play in a single match. - Resolution – His team are disqualified from the world cup. 
+Answer 2:Climax - He retires from playing football.  Resolution – His wife leaves him.
+Answer 3:Climax - The other club buys him for half the original fee.  Resolution – He loses his advertising contracts. 
+Correct Answer:2,3

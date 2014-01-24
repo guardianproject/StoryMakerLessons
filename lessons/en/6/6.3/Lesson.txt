@@ -23,7 +23,9 @@ Realistically in a news environment, sometimes you will need to make it clear th
 The following examples build on the discussion in Lesson 6.2 Climax.
 
 * Climax  - The politician is found guilty of corruption - Resolution – he commits suicide.
+
 * Climax  - Only ten houses were left standing after the hurricane. - Resolution – everyone leaves the village and it becomes a ghost town. 
+
 * Climax  - DNA results show the celebrity is not the father of the woman’s child - Resolution – he sues her for defamation. 
 
 <hr/>
@@ -31,7 +33,9 @@ The following examples build on the discussion in Lesson 6.2 Climax.
 h2. Things to Remember
 
 * The resolution explains the impact of your story’s climax.
+
 * The resolution should tie the story together, completing the arc that begins with your central question, and proceeds to the eventual climax.
+
 * In a news environment, your resolution may function not to end the story, but introduce the next step of your coverage, introducing your next central question.
 
 Now you can practice identifying strong resolutions.
@@ -42,7 +46,8 @@ h1. Quiz
 
 Question 1
 Question:In our two correct climax stories about the outbreak of measles in a community, which of these are resolutions (consequences) to their climaxes? 
-Answer 1:Climax : 50% of parents brought their children for vaccination against measles.  Resolution – the threat of measles spreading still remains.
+
+Answer 1:Climax - 50% of parents brought their children for vaccination against measles.  Resolution – the threat of measles spreading still remains.
 Answer 2:Climax - All infected children in the community are kept at home until they are all no longer infectious.  Resolution – The epidemic does not spread and the town’s parents become national heroes. 
 Correct Answer:1,2
 
@@ -60,6 +65,7 @@ Correct Answer:1,3
 
 Question 3
 Question:In these stories about an injured football player, which of these resolutions properly follow the climax?
+
 Answer 1:Climax - He just makes it into the world cup squad, but does not play in a single match. - Resolution – His team are disqualified from the world cup. 
 Answer 2:Climax - He retires from playing football.  Resolution – His wife leaves him.
 Answer 3:Climax - The other club buys him for half the original fee.  Resolution – He loses his advertising contracts. 

@@ -6,22 +6,24 @@ h2. How do I create a news package that tells a story?
 
 h1. Background
 
-When people read an article or watch a video segment in the news it needs to provide information relevant to people's lives. From the outset it needs to be clear to the viewer what information a story is going to provide -- what specific question is being asked and what is the answer. This is your central question. If a news segment has no clear central question or if the segment doesn?t answer the question, viewers will feel unsatisfied, or worse, misled by your story. 
+When people read an article or watch a video segment in the news it needs to provide information relevant to people's lives. From the outset it needs to be clear to the viewer what information a story is going to provide -- what specific question is being asked and what is the answer. This is your central question. If a news segment has no clear central question or if the segment doesn't answer the question, viewers will feel unsatisfied, or worse, misled by your story. 
 
-The challenge for journalists is that our coverage does not always turn out as we?d expect. Sometimes it is hard to know the central question of your story when your coverage begins, or the question may change as your story evolves. You need to be aware of these uncertainties or shifts and adjust your reporting or presentation to make sure there is a central question and an answer.
+The challenge for journalists is that our coverage does not always turn out as we'd expect. Sometimes it is hard to know the central question of your story when your coverage begins, or the question may change as your story evolves. You need to be aware of these uncertainties or shifts and adjust your reporting or presentation to make sure there is a central question and an answer.
 
 <hr/>
 
 h1. Solution
 
-Early on the story must establish a question the audience expects the story will answer. You must always be aware of your central question when reporting and editing your story. The central question is often about emotional outcome rather than about information and facts. Frame your story around the central question, not only around answering the informational elements of the 5 Ws and H. Asking "What will happen next?" builds story. Asking for information collects facts.  Facts are a necessary part of news stories, but the facts should be told through story. The story directs the delivery of the facts, not the other way around. Having a clear initial central question is the springboard that launches story. 
+Early on the story must establish a question the audience expects the story will answer. You must always be aware of your central question when reporting and editing your story. The central question is often about emotional outcome rather than about information and facts. Frame your story around the central question, not only around answering the informational elements of the 5 Ws and H. Asking "What will happen next?" builds story. Asking for information collects facts.  Facts are a necessary part of news stories, but the facts should be told through story. The story directs the delivery of the facts, not the other way around. Having a clear initial central question is the springboard that launches story.
 
 <hr/>
 
 Here are some examples:
 
 * In a news story focusing on a court case, the central question might be "Will the defendant be found guilty or not guilty?" As a news piece, the story must provide a concise overview of the case. If this is the central question, you should frame story with that question always in mind.
+
 * In a news story examining trouble in a celebrity marriage, the central question might be "Will they stay together or get divorced?" This central question helps frame the story to look to the future and encourages the audience to keep asking, "What happens next?"
+
 * The central question for a breaking news story about a traffic accident might be "How many were injured?" "Will the injured survive?" Or if the person who caused the accident fled, the question might be "Will the responsible driver be caught?" All of these are strong central questions that help direct and guide the story.
 
 <hr/>
@@ -35,7 +37,9 @@ It is important to know the central question of your story. The central question
 h2. Things to Remember
 
 * The central question may not always be obvious at the beginning of your story. It may take time to be revealed
+
 * Your central question may change if your story shifts in some unpredicted way. That is how good journalism often works. Make sure your central question shifts with your story.
+
 * No matter where your central question is revealed, no matter if it changes, you must always have a central question and provide a clear answer.
 
 <hr/>
@@ -44,7 +48,7 @@ h1. QUIZ
 
 Question 1
 Question:In a story about an outbreak of measles in a community, which of these central questions might help create a powerful story?
-(there may or may not be more than one example of a powerful central question in the list)
+_(there may or may not be more than one example of a powerful central question in the list)_
 
 Answer 1:Will parents bring their children for vaccination against measles?
 Answer 2:How is measles caused?
@@ -59,22 +63,22 @@ Correct Answer:1,6,7
 
 Question 2
 Question:In a story about a demonstration in the city’s main square, which of these central questions might help create a powerful story?
-(there may be more one or more examples of a powerful central question)
+_(there may be more one or more examples of a powerful central question)_
 
-How many people were involved in the demonstration?
-Answer 1:Was anyone arrested? 
-Answer 2:Will the arrested people be charged or released? 
-Answer 3:Why are the people demonstrating? 
-Answer 4:Is the president going to resign?
-Answer 5:Are the police going to break up the demonstration?
-Answer 6:Who will win control of the square? 
+Answer 1:How many people were involved in the demonstration?
+Answer 2:Was anyone arrested? 
+Answer 3:Will the arrested people be charged or released? 
+Answer 4:Why are the people demonstrating? 
+Answer 5:Is the president going to resign?
+Answer 6:Are the police going to break up the demonstration?
+Answer 7:Who will win control of the square? 
 Correct Answer:3,5,6,7
 
 <hr/>
 
 Question 3
 Question:In a story about an injured football player, which of these central questions might help create a powerful story?
-(There may be more one or more examples of a powerful central question)
+_(There may be more one or more examples of a powerful central question)_
 
 Answer 1:Will he be fit to play in time for the World Cup?
 Answer 2:What is the extent of the injury? 

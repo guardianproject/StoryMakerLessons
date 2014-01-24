@@ -60,7 +60,9 @@ Correct Answer:2
 <hr/>
 
 Question 4
-Question:How can I produce a story with an arc if there is no resolution to my story at publication time? (There may be more than one answer.)
+Question:How can I produce a story with an arc if there is no resolution to my story at publication time? 
+_(There may be more than one answer.)_
+
 Answer 1:It's ok to make a guess, as long as there is a resolution.
 Answer 2:I don't need to worry about it.
 Answer 3:I can use a short-term climax to the larger ongoing story.

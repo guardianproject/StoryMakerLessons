@@ -99,7 +99,7 @@ Correct Answer:2
 <hr/>
 
 Question 3
-Question:Which of the following a basic principles of photography for good composition?
+Question:Which of the following are basic principles of photography for good composition?
 Answer 1:The rule of thirds.
 Answer 2:Working the edges.
 Answer 3:Working the Layers.

@@ -14,7 +14,7 @@ h1. Solution
 
 The most common source is a person you interview for a specific story. These sources come in three general categories as. Good news stories have at least two of the three, sometimes all three.
  
-*Reactionary sources* - people on the scene and immediately involved or affected by the issue. Victims of a bombing. People who are buying less (or not) as a result of the poor economy.
+*Reactionary sources* - people on the scene are immediately involved or affected by the issue. Victims of a bombing. People who are buying less (or not) as a result of the poor economy.
 
 *Informational sources* - people, often officials, who can give you hard facts about the specific event. An army officer or a hospital spokesperson in the event of a fire. An NGO spokesperson about the election or new financial regulation.
 

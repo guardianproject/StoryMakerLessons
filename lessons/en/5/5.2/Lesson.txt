@@ -42,7 +42,8 @@ h2. Head Space
 
 !5.png!
 
-Head space is the distance between the top of a subject’s head, and the top of the frame. It is a guideline to make sure your subjects head does not appear to high or too low in the frame. 
+Head space is the distance between the top of a subject’s head, and the top of the frame. It is a guideline to make sure your subjects head does not appear
+too high or too low in the frame. 
 
 <hr/>
 
@@ -105,7 +106,7 @@ Answer 1:The distance between a subject’s arms, and the side of the frame.
 Answer 2:The space between your head and the camera.
 Answer 3:The space where you put the subject's head (".")
 Answer 4:The distance between the top of a subject’s head, and the top of the frame.
-Correct Answer:3
+Correct Answer:4
 
 <hr/>
 

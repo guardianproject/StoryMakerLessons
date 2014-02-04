@@ -208,14 +208,14 @@ Many slideshows are accompanied by audio (more on audio in the audio module). Au
 
 h2. The Series
 
-!57.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!58.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!59.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!60.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!61.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!62.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!63.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
-!64.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's asperations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!57.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!58.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!59.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!60.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!61.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!62.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!63.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
+!64.jpg(Murals portraying the fall of General Muamar Gaddafi and the nation's aspirations in the aftermath of the revolution cover walls throughout Tripoli, Libya on June 8, 2012.)!
 
 
 The series is a set of similar images designed to illustrate a comparative point: for example a series of portraits or of destroyed buildings or a particularly fashionable type of sunglasses. Images in a series should be stylistically similar to further illustrate the comparison. A series can be a great way to illustrate an idea on its own or as a sidebar element to a video, audio or print story.
@@ -256,7 +256,7 @@ Question 2
 Question:TRUE or FALSE: A narrative story needs variety. A series on the other hand works better if the composition is consistent from image to image.
 Answer 1:TRUE
 Answer 2:FALSE
-Correct Answer:2
+Correct Answer:1
 
 <hr/>
 

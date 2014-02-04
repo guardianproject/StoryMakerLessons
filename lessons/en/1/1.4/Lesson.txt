@@ -151,4 +151,4 @@ Answer 1:Let things fall silent for an awkward period of time
 Answer 2:Explain what the story is about
 Answer 3:At the end of the interview ask the subject if he or she has anything to add
 Answer 4:None of the above
-Correct Answer:4
+Correct Answer:1
